@@ -1,0 +1,184 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "N1": 1, "X": 307058, "Y": 2781270, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.565874673332502, 25.138858620935814 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 2, "X": 306977, "Y": 2781259, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.565388809845942, 25.138658881515539 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 3, "X": 306965, "Y": 2781262, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.565158711457372, 25.138936875995089 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 4, "X": 306951, "Y": 2781309, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.564815134355044, 25.139214742471943 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 5, "X": 306937, "Y": 2781251, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.564649384832947, 25.138794051277269 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 6, "X": 306929, "Y": 2781333, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.564829498479909, 25.139556369628089 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 7, "X": 306937, "Y": 2781249, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.564405215093288, 25.138640544148981 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 8, "X": 306916, "Y": 2781333, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.564469021113766, 25.139432726245229 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 9, "X": 304123, "Y": 278501, "TNAME": "信義區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.487230784856578, 2.519434027120567 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 10, "X": 307058, "Y": 304064, "TNAME": "信義區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.513707183215061, 2.750611741607848 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 11, "X": 303728, "Y": 2775578, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.533101293828409, 25.089263931623638 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 12, "X": 303862, "Y": 2775655, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.533958630316221, 25.088285864865444 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 13, "X": 303958, "Y": 2775780, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.534346569310514, 25.089436493230966 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 14, "X": 304011, "Y": 2775827, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.535157275087272, 25.089645997799842 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 15, "X": 303978, "Y": 2775841, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.534599648362246, 25.090151078054653 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 16, "X": 304040, "Y": 2775889, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.535377325422473, 25.091970624045228 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 17, "X": 304034, "Y": 2775881, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.535672597251121, 25.090319982403926 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 18, "X": 304045, "Y": 2775885, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.536506691079509, 25.090588505974768 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 19, "X": 304185, "Y": 2775951, "TNAME": "中山區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.537172290998626, 25.090946513170294 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 20, "X": 304411, "Y": 2776036, "TNAME": "中山區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.538694098351598, 25.09213213446948 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 21, "X": 303902, "Y": 2780729, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.534129563853909, 25.13401103647708 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 22, "X": 303911, "Y": 2780714, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.534440577822679, 25.133661078207066 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 31, "X": 316290, "Y": 2768643, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.656822698316134, 25.024490735630184 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 32, "X": 316250, "Y": 2768630, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.656425755421992, 25.02437512655478 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 33, "X": 316255, "Y": 2768627, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.656529569519151, 25.024145327507512 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 34, "X": 316553, "Y": 2768602, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.659427760862243, 25.024341417466697 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 35, "X": 316973, "Y": 2769082, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.663611138272415, 25.028423798480588 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 36, "X": 316306, "Y": 2768636, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.656980889788059, 25.024426842651518 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 37, "X": 316301, "Y": 2768604, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.656929813306405, 25.024138179295822 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 38, "X": 306965, "Y": 2781262, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.564952026870529, 25.138789917098951 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 39, "X": 316214, "Y": 2768612, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.6560682053086, 25.024214203786766 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 40, "X": 316188, "Y": 2768722, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.655815871673227, 25.025208372114353 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 23, "X": 306982, "Y": 2781304, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.565122365786522, 25.139168433183013 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 24, "X": 306932, "Y": 2981272, "TNAME": "信義區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.573335228474377, 26.944173844217968 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 25, "X": 307034, "Y": 2781265, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.5656364489368, 25.138814391140791 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 26, "X": 316923, "Y": 2769103, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.663116742372651, 25.028615586439095 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 27, "X": 316883, "Y": 2769110, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.662720749683686, 25.028680545646541 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 28, "X": 316870, "Y": 2769146, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.662593685731039, 25.029006111306053 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 29, "X": 316816, "Y": 2769168, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.662059700880121, 25.029207099912878 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 30, "X": 316789, "Y": 2769193, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.661793385197029, 25.029433979227985 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 41, "X": 305960, "Y": 2775591, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.554754155939193, 25.087631859855929 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 42, "X": 305992, "Y": 2775596, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.555071583191463, 25.087675812847522 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 43, "X": 306087, "Y": 2775635, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.556014931116493, 25.08802436867667 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 44, "X": 305885, "Y": 2775659, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.554013423963411, 25.088248516371628 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 45, "X": 305875, "Y": 2775659, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.553914291006151, 25.08824888615786 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 46, "X": 306064, "Y": 2775596, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.555785336973813, 25.087673143399012 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 47, "X": 305931, "Y": 2775651, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.554469110394621, 25.088174593206023 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 48, "X": 305640, "Y": 2775920, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.551595219310812, 25.090613777621474 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 49, "X": 305648, "Y": 2775988, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.551677277385593, 25.091227364096262 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 50, "X": 305624, "Y": 2776001, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.551439877977828, 25.091345607443237 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 51, "X": 305642, "Y": 2776043, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.551620020362932, 25.091724106497953 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 52, "X": 305666, "Y": 2776055, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.551858431771066, 25.091831554403299 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 53, "X": 305509, "Y": 2776049, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.550301756151981, 25.091783164594474 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 54, "X": 305496, "Y": 2776034, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.550172274504376, 25.091648227177963 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 55, "X": 305455, "Y": 2775976, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.549763480235029, 25.091126127958816 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 56, "X": 305494, "Y": 2775806, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.550143251941194, 25.089589992849774 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 57, "X": 305323, "Y": 2775870, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.548450631606528, 25.090174034008864 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 58, "X": 305267, "Y": 2775900, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.547896682755976, 25.090446913381008 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 59, "X": 305238, "Y": 2775830, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.547606381695175, 25.089816036900036 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 60, "X": 305249, "Y": 2775722, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.547711093282459, 25.08884064627269 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 61, "X": 305297, "Y": 2775705, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.548186251132165, 25.088685420142209 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 62, "X": 305217, "Y": 2775769, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.547395751861217, 25.089266116484193 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 63, "X": 305215, "Y": 2775833, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.547378493115517, 25.089843960526263 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 64, "X": 306049, "Y": 2775537, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.555634235361566, 25.087141067808506 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 65, "X": 313816, "Y": 2768982, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.632325960883705, 25.027657300901673 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 66, "X": 314213, "Y": 2769008, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.63626075564629, 25.02787524562271 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 67, "X": 314194, "Y": 2769034, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.636073707175854, 25.02811076832349 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 68, "X": 314195, "Y": 2769043, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.636269508380337, 25.028392833746931 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 69, "X": 314164, "Y": 2769054, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.635777387498479, 25.028292591077896 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 70, "X": 314138, "Y": 2768612, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.635499237183836, 25.024303491569171 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 71, "X": 314063, "Y": 2768623, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.634756647150752, 25.024405967690694 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 72, "X": 314203, "Y": 2768816, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.63615274366515, 25.026142370077093 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 73, "X": 314212, "Y": 2768618, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.636232708491605, 25.024354523398479 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 74, "X": 314064, "Y": 2769294, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.634797693548578, 25.030463446717238 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 75, "X": 314632, "Y": 2768734, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.640399499620472, 25.025383869558635 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 0, "X": 0, "Y": 0, "TNAME": null, "TOWN": "24" }, "geometry": { "type": "Point", "coordinates": [ 121.534138444094992, 25.133232153675134 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 76, "X": 307322, "Y": 2769056, "TNAME": null, "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.567984203721508, 25.028584928402804 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 77, "X": 307080, "Y": 2769135, "TNAME": null, "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.5655896191153, 25.029307253575698 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 78, "X": 307189, "Y": 2769800, "TNAME": null, "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.566697202185154, 25.0353065710488 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 79, "X": 307144, "Y": 2769246, "TNAME": null, "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.566228360113172, 25.030306917541775 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 80, "X": 307246, "Y": 2769212, "TNAME": null, "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.567237628673126, 25.02999612489111 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 81, "X": 307135, "Y": 2769193, "TNAME": null, "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.566136988982009, 25.029828788100193 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 82, "X": 307076, "Y": 2769195, "TNAME": null, "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.565552465669427, 25.029849067203109 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 83, "X": 307237, "Y": 2769023, "TNAME": null, "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.567140615324917, 25.02829022700185 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 84, "X": 307331, "Y": 2769016, "TNAME": null, "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.568071718888987, 25.028223479375846 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 85, "X": 307434, "Y": 2768879, "TNAME": null, "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.56908658925731, 25.026982782190991 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 86, "X": 307460, "Y": 2768760, "TNAME": null, "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.569339253810398, 25.025907498616547 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 87, "X": 306983, "Y": 2768299, "TNAME": null, "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.564593990723637, 25.021763728898872 ] } }
+,
+{ "type": "Feature", "properties": { "N1": 88, "X": 306981, "Y": 2768371, "TNAME": null, "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.564577145531644, 25.022413800386026 ] } }
+
+]
+}

@@ -1,0 +1,896 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2532-5288", "name": "賢霖達仙草冰品店(市招:黑丸嫩仙草)", "display_ad": "臺北市中山區大直街81號", "poi_addr": "臺北市大直街81號", "gglon": "121.546734", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.084019" }, "geometry": { "type": "Point", "coordinates": [ 121.546734, 25.084019 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2234-6679", "name": "新樂園木瓜牛奶大王", "display_ad": "臺北市文山區保儀路87號", "poi_addr": "臺北市保儀路87號", "gglon": "121.568394", "traffic_in": null, "certificat": "飲冰品業", "gglat": "24.986738" }, "geometry": { "type": "Point", "coordinates": [ 121.568394, 24.986738 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2748-6640", "name": "歐禧綠茶專賣店(市招:50嵐)", "display_ad": "臺北市松山區南京東路5段186號", "poi_addr": "臺北市南京東路五段186號", "gglon": "121.563243", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.051234" }, "geometry": { "type": "Point", "coordinates": [ 121.563243, 25.051234 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)石牌捷運分公司", "display_ad": "臺北市北投區石牌路1段174號1樓", "poi_addr": "台北市石牌路一段174號", "gglon": "121.513702", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.114481" }, "geometry": { "type": "Point", "coordinates": [ 121.513702, 25.114481 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "和傑飲品店(COMEBUY-政大店)", "display_ad": "臺北市文山區指南路2段61號", "poi_addr": "台北市指南路二段61號", "gglon": "121.574678", "traffic_in": null, "certificat": "飲冰品業", "gglat": "24.9879469" }, "geometry": { "type": "Point", "coordinates": [ 121.574678, 24.9879469 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2371-8895", "name": "橘?子飲料店", "display_ad": "臺北市中正區公園路24號1樓", "poi_addr": "臺北市公園路24號", "gglon": "121.517006", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.045015" }, "geometry": { "type": "Point", "coordinates": [ 121.517006, 25.045015 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "愷叡企業社(市招：鮮芋仙重慶店)", "display_ad": "臺北市中正區重慶南路1段18號1樓", "poi_addr": "台北市重慶南路一段18號", "gglon": "121.513097", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0462109" }, "geometry": { "type": "Point", "coordinates": [ 121.513097, 25.0462109 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "南港明興餐坊(市招：壹咖啡)", "display_ad": "臺北市南港區南港路3段28號1樓", "poi_addr": "台北市南港路三段28號", "gglon": "121.592325", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.054332" }, "geometry": { "type": "Point", "coordinates": [ 121.592325, 25.054332 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "0935-665308", "name": "大腳桶金桔檸檬", "display_ad": "臺北市中正區羅斯福路3段316巷8弄2號", "poi_addr": "臺北市羅斯福路三段316巷8弄2號", "gglon": "121.532543", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0156629" }, "geometry": { "type": "Point", "coordinates": [ 121.532543, 25.0156629 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "美食達人股份有限公司(市招：85度c)大安分公司", "display_ad": "臺北市大安區大安路1段16巷2號", "poi_addr": "台北市大安路一段16巷2號", "gglon": "121.533615", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.041042" }, "geometry": { "type": "Point", "coordinates": [ 121.533615, 25.041042 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "華泰大飯店企業股份有限公司(市招：華泰王子大飯店楓丹廳)", "display_ad": "臺北市中山區林森北路369號1樓", "poi_addr": "台北市林森北路369號", "gglon": "121.5257097", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0579487" }, "geometry": { "type": "Point", "coordinates": [ 121.5257097, 25.0579487 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "任遠商行(市招：挑TEA咖啡)", "display_ad": "臺北市中山區錦州街258號", "poi_addr": "台北市錦州街258號", "gglon": "121.534537", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.060203" }, "geometry": { "type": "Point", "coordinates": [ 121.534537, 25.060203 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)善導寺分公司", "display_ad": "臺北市中正區忠孝東路1段178號", "poi_addr": "台北市忠孝東路一段178號", "gglon": "121.526336", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.04389" }, "geometry": { "type": "Point", "coordinates": [ 121.526336, 25.04389 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "天仁茶業股份有限公司-林森北路分公司", "display_ad": "臺北市中山區林森北路261號1樓", "poi_addr": "台北市林森北路261號", "gglon": "121.5257203", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.054447" }, "geometry": { "type": "Point", "coordinates": [ 121.5257203, 25.054447 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)康華分公司", "display_ad": "臺北市中山區松江路274號", "poi_addr": "台北市松江路274號", "gglon": "121.532782", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0597889" }, "geometry": { "type": "Point", "coordinates": [ 121.532782, 25.0597889 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2702-5049", "name": "四維咖啡茶飲便利屋(市招:阿布生活咖啡館)", "display_ad": "臺北市大安區仁愛路4段48巷10號1樓", "poi_addr": "臺北市仁愛路四段48巷10號", "gglon": "121.547007", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.036999" }, "geometry": { "type": "Point", "coordinates": [ 121.547007, 25.036999 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2239-0808", "name": "再興食品行(市招:豆府花城)", "display_ad": "臺北市文山區興隆路3段158號", "poi_addr": "臺北市興隆路三段158號", "gglon": "121.5583368", "traffic_in": null, "certificat": "飲冰品業", "gglat": "24.9984117" }, "geometry": { "type": "Point", "coordinates": [ 121.5583368, 24.9984117 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "海倫咖啡有限公司", "display_ad": "臺北市中正區館前路42號", "poi_addr": "台北市館前路42號", "gglon": "121.5148375", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.044424" }, "geometry": { "type": "Point", "coordinates": [ 121.5148375, 25.044424 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2367-8838", "name": "公館冷飲站(市招:清心福全)", "display_ad": "臺北市中正區羅斯福路3段316巷10之1號", "poi_addr": "臺北市羅斯福路三段316巷10之1號", "gglon": "121.532435", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0156409" }, "geometry": { "type": "Point", "coordinates": [ 121.532435, 25.0156409 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2792-0500", "name": "怡佳商行(市招:歇腳亭內湖德安店)", "display_ad": "臺北市內湖區成功路4段168號之2", "poi_addr": "臺北市成功路四段168號", "gglon": "121.592966", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.083192" }, "geometry": { "type": "Point", "coordinates": [ 121.592966, 25.083192 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "文化茶行(COMEBUY-文化店)", "display_ad": "臺北市士林區光華路26巷2弄2號", "poi_addr": "台北市光華路26巷2弄2號", "gglon": "121.542075", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.137495" }, "geometry": { "type": "Point", "coordinates": [ 121.542075, 25.137495 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "建成號冷飲站(市招：清心福全冷飲站北投致遠店)", "display_ad": "臺北市北投區致遠一路2段105號", "poi_addr": "台北市致遠一路二段105號", "gglon": "121.5128021", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.113046" }, "geometry": { "type": "Point", "coordinates": [ 121.5128021, 25.113046 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "小瑪莉冷飲店", "display_ad": "臺北市松山區民生東路5段133號1樓", "poi_addr": "台北市松山區民生東路五段133號", "gglon": "121.561337", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.05888" }, "geometry": { "type": "Point", "coordinates": [ 121.561337, 25.05888 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2755-7277", "name": "七巧閣商行 (市招:黑面蔡)", "display_ad": "臺北市大安區和平東路2段311巷17號", "poi_addr": "臺北市和平東路二段311巷17號", "gglon": "121.545157", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.025164" }, "geometry": { "type": "Point", "coordinates": [ 121.545157, 25.025164 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)民生第二分公司", "display_ad": "臺北市松山區民生東路5段184號 1.2樓", "poi_addr": "台北市民生東路五段184號", "gglon": "121.5639639", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0581293" }, "geometry": { "type": "Point", "coordinates": [ 121.5639639, 25.0581293 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)南港第二分公司", "display_ad": "臺北市南港區園區街3之2號-9", "poi_addr": "台北市園區街3之2號", "gglon": "121.611783", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0578399" }, "geometry": { "type": "Point", "coordinates": [ 121.611783, 25.0578399 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2362-0987", "name": "哞哞茶舖", "display_ad": "臺北市大安區羅斯福路3段191號", "poi_addr": "臺北市羅斯福路三段191號", "gglon": "121.528109", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.021088" }, "geometry": { "type": "Point", "coordinates": [ 121.528109, 25.021088 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2594-1932", "name": "布蕾克蒂生活飲品館", "display_ad": "臺北市大同區重慶北路3段335巷56之1號", "poi_addr": "臺北市重慶北路三段335巷56之1號", "gglon": "121.515564", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.074462" }, "geometry": { "type": "Point", "coordinates": [ 121.515564, 25.074462 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "統一星巴克股份有限公司台北市第50分公司", "display_ad": "臺北市士林區格致路53號1樓", "poi_addr": "台北市格致路53號", "gglon": "121.546402", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.137709" }, "geometry": { "type": "Point", "coordinates": [ 121.546402, 25.137709 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2785-5800", "name": "萬太郎商行(市招:S&D咖啡)", "display_ad": "臺北市南港區興中路20號", "poi_addr": "臺北市興中路20號", "gglon": "121.607167", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.055132" }, "geometry": { "type": "Point", "coordinates": [ 121.607167, 25.055132 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2552-5657", "name": "欣澄冷飲店(市招:橘子工坊)", "display_ad": "臺北市大同區長安西路47號", "poi_addr": "臺北市長安西路47號", "gglon": "121.517909", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.050793" }, "geometry": { "type": "Point", "coordinates": [ 121.517909, 25.050793 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "興旺涼飲店(市招：清心福全冷飲站中南店)", "display_ad": "臺北市南港區南港路1段46號1樓", "poi_addr": "台北市南港區南港路一段46號1樓", "gglon": "121.61512", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0554199" }, "geometry": { "type": "Point", "coordinates": [ 121.61512, 25.0554199 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "尚達萱有限公司(市招：85度c石牌店)", "display_ad": "臺北市北投區石牌路2段59號1樓", "poi_addr": "台北市石牌路二段59號", "gglon": "121.516028", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.116651" }, "geometry": { "type": "Point", "coordinates": [ 121.516028, 25.116651 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "統一星巴克股份有限公司台北市第36分公司", "display_ad": "臺北市中正區羅斯福路4段26號1-3F", "poi_addr": "台北市羅斯福路四段26號", "gglon": "121.533307", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0154889" }, "geometry": { "type": "Point", "coordinates": [ 121.533307, 25.0154889 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "台灣通用磨坊股份有限公司(市招：H?agen-Dazs)台北101門市", "display_ad": "臺北市信義區市府路45號4F(台北101)", "poi_addr": "台北市市府路45號", "gglon": "121.564101", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0334929" }, "geometry": { "type": "Point", "coordinates": [ 121.564101, 25.0334929 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "統一星巴克股份有限公司台北市第46分公司", "display_ad": "臺北市中山區民生西路7號1樓", "poi_addr": "台北市民生西路7號", "gglon": "121.521663", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.057958" }, "geometry": { "type": "Point", "coordinates": [ 121.521663, 25.057958 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "昆陽美食坊(鮮芋仙昆陽店)", "display_ad": "臺北市南港區忠孝東路6段465之1號", "poi_addr": "臺北市南港區忠孝東路六段465之1號", "gglon": "121.59407", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0509199" }, "geometry": { "type": "Point", "coordinates": [ 121.59407, 25.0509199 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "富酆實業有限公司(市招：川島?味)", "display_ad": "臺北市松山區八德路4段138號B3(京華城地下3樓)", "poi_addr": "台北市八德路四段138號", "gglon": "121.56243", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0484949" }, "geometry": { "type": "Point", "coordinates": [ 121.56243, 25.0484949 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2835-9890", "name": "雲雀國際股份有限公司士林中正分公司(市招:義式古拉爵\/Caf?", "display_ad": "臺北市士林區中正路122號 1樓", "poi_addr": "臺北市中正路122號", "gglon": "121.528581", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.096092" }, "geometry": { "type": "Point", "coordinates": [ 121.528581, 25.096092 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2370-9917", "name": "青蛙企業社(市招:青蛙戀奶)", "display_ad": "臺北市中正區開封街1段27號", "poi_addr": "臺北市開封街一段27號", "gglon": "121.513583", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.046162" }, "geometry": { "type": "Point", "coordinates": [ 121.513583, 25.046162 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "天仁茶業股份有限公司-信義路分公司", "display_ad": "臺北市大安區信義路2段162號", "poi_addr": "台北市信義路二段162號", "gglon": "121.529046", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0336109" }, "geometry": { "type": "Point", "coordinates": [ 121.529046, 25.0336109 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "台灣三色旗股份有限公司新光三越南西店(市招：caf? TRICO)", "display_ad": "臺北市中山區南京西路12號2樓", "poi_addr": "台北市南京西路12號", "gglon": "121.521187", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.052307" }, "geometry": { "type": "Point", "coordinates": [ 121.521187, 25.052307 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2523-9853", "name": "吉士芬冷飲店(市招:卡爾迪咖啡)", "display_ad": "臺北市中山區松江路84巷10號", "poi_addr": "臺北市松江路84巷10號", "gglon": "121.532204", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.050105" }, "geometry": { "type": "Point", "coordinates": [ 121.532204, 25.050105 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2627-4322", "name": "嵐宇甜品屋(市招:鮮芋仙台北西湖店)", "display_ad": "臺北市內湖區內湖路1段239號", "poi_addr": "臺北市內湖路一段239號", "gglon": "121.5652003", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0826257" }, "geometry": { "type": "Point", "coordinates": [ 121.5652003, 25.0826257 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "天仁茶業股份有限公司-通化街分公司", "display_ad": "臺北市大安區通化街96號1樓", "poi_addr": "台北市通化街96號", "gglon": "121.553991", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.029809" }, "geometry": { "type": "Point", "coordinates": [ 121.553991, 25.029809 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "錦倫企業社(市招：85度c農安店)", "display_ad": "臺北市中山區龍江路189號1樓", "poi_addr": "台北市中山區龍江路189號1樓", "gglon": "121.540716", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.055778" }, "geometry": { "type": "Point", "coordinates": [ 121.540716, 25.055778 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "加多食品企業社(市招：85度c萬大店)", "display_ad": "臺北市萬華區萬大路425之1號", "poi_addr": "台北市萬大路425之1號", "gglon": "121.498733", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.021329" }, "geometry": { "type": "Point", "coordinates": [ 121.498733, 25.021329 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "COMEBUY-承德店", "display_ad": "臺北市大同區承德路1段30號", "poi_addr": "台北市大同區承德路一段30號", "gglon": "121.516751", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.050645" }, "geometry": { "type": "Point", "coordinates": [ 121.516751, 25.050645 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)北安分公司", "display_ad": "臺北市中山區北安路586號", "poi_addr": "台北市北安路586號", "gglon": "121.548768", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.081045" }, "geometry": { "type": "Point", "coordinates": [ 121.548768, 25.081045 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2883-6788", "name": "禾采商行(市招:COCO都可文林店)", "display_ad": "臺北市士林區文林路113號", "poi_addr": "臺北市文林路113號", "gglon": "121.526124", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.088208" }, "geometry": { "type": "Point", "coordinates": [ 121.526124, 25.088208 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "復興南冷飲站(市招：清心福全冷飲站復興南店)", "display_ad": "臺北市大安區復興南路2段175-2號", "poi_addr": "台北市復興南路二段175之2號", "gglon": "121.543739", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0271259" }, "geometry": { "type": "Point", "coordinates": [ 121.543739, 25.0271259 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "阿秉冷飲站(市招：清心福全冷飲站信陽店)", "display_ad": "臺北市中正區信陽街6-1號1樓", "poi_addr": "台北市信陽街6之1號", "gglon": "121.516337", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.04458" }, "geometry": { "type": "Point", "coordinates": [ 121.516337, 25.04458 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "COMEBUY-社子延平店", "display_ad": "臺北市士林區延平北路6段59號", "poi_addr": "台北市延平北路六段59號", "gglon": "121.508792", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.087823" }, "geometry": { "type": "Point", "coordinates": [ 121.508792, 25.087823 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "頂好企業股份有限公司(市招：IS COFFEE)安和分公司", "display_ad": "臺北市大安區安和路1段9號", "poi_addr": "台北市安和路一段9號", "gglon": "121.549773", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.039727" }, "geometry": { "type": "Point", "coordinates": [ 121.549773, 25.039727 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2503-6333", "name": "詩薇緹國際餐飲有限公司(市招:sweet tea)", "display_ad": "臺北市中山區合江街121號", "poi_addr": "臺北市合江街121號", "gglon": "121.539331", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.060517" }, "geometry": { "type": "Point", "coordinates": [ 121.539331, 25.060517 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "木新冷飲站(市招：清心福全冷飲站木新店)", "display_ad": "臺北市文山區木新路3段143號", "poi_addr": "台北市木新路三段143號", "gglon": "121.561567", "traffic_in": null, "certificat": "飲冰品業", "gglat": "24.9817959" }, "geometry": { "type": "Point", "coordinates": [ 121.561567, 24.9817959 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "聯立食品股份有限公司(市招：歇腳亭)", "display_ad": "臺北市中正區南陽街11號2樓", "poi_addr": "台北市中正區南陽街11號", "gglon": "121.516177", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.045081" }, "geometry": { "type": "Point", "coordinates": [ 121.516177, 25.045081 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)吉林分公司", "display_ad": "臺北市中山區吉林路27號", "poi_addr": "台北市吉林路27號", "gglon": "121.530192", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0507709" }, "geometry": { "type": "Point", "coordinates": [ 121.530192, 25.0507709 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "8509-3916", "name": "歐威爾茶館北安店(市招：COCO)", "display_ad": "臺北市中山區北安路575之2號", "poi_addr": "臺北市北安路575之2號", "gglon": "121.548429", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.081412" }, "geometry": { "type": "Point", "coordinates": [ 121.548429, 25.081412 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "鑫吉飲料店(市招：歇腳亭)", "display_ad": "臺北市中正區館前路22號", "poi_addr": "台北市館前路22號", "gglon": "121.514867", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.045119" }, "geometry": { "type": "Point", "coordinates": [ 121.514867, 25.045119 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2396-9367", "name": "維提咖啡館", "display_ad": "臺北市中正區南昌路1段36號", "poi_addr": "臺北市南昌路一段36號", "gglon": "121.516628", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0318569" }, "geometry": { "type": "Point", "coordinates": [ 121.516628, 25.0318569 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2369-0690 2832-7909", "name": "以利冰店(市招:以利泡泡冰)", "display_ad": "臺北市中正區羅斯福路3段316巷8弄7號", "poi_addr": "臺北市羅斯福路三段316巷8弄7號", "gglon": "121.532768", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.015439" }, "geometry": { "type": "Point", "coordinates": [ 121.532768, 25.015439 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "芋師傅甜品舖(內湖店)", "display_ad": "臺北市內湖區內湖路1段737巷50弄3號", "poi_addr": "臺北市內湖區內湖路一段737巷50弄3號", "gglon": "121.578885", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.080611" }, "geometry": { "type": "Point", "coordinates": [ 121.578885, 25.080611 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "群佑鮮果舖(市招: CUP C)", "display_ad": "臺北市中山區伊通街106巷19號1樓", "poi_addr": "臺北市中山區伊通街106巷19號1樓", "gglon": "121.533838", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.05415" }, "geometry": { "type": "Point", "coordinates": [ 121.533838, 25.05415 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2365-9321", "name": "茶窯話廠餐坊(毒茶金茶源)", "display_ad": "臺北市中正區羅斯福路3段316巷18號", "poi_addr": "臺北市羅斯福路三段316巷18號", "gglon": "121.53236", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.015425" }, "geometry": { "type": "Point", "coordinates": [ 121.53236, 25.015425 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2314-2890", "name": "大坤水果店開封店", "display_ad": "臺北市中正區開封街1段5號", "poi_addr": "臺北市開封街一段5號", "gglon": "121.514052", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.046158" }, "geometry": { "type": "Point", "coordinates": [ 121.514052, 25.046158 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)敦北分公司", "display_ad": "臺北市松山區敦化北路155巷1號", "poi_addr": "台北市敦化北路155巷1號", "gglon": "121.549711", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.054201" }, "geometry": { "type": "Point", "coordinates": [ 121.549711, 25.054201 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2311-7858", "name": "小豆豆早餐店", "display_ad": "臺北市萬華區中華路1段144號之27", "poi_addr": "臺北市中華路一段144號", "gglon": "121.508235", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.043218" }, "geometry": { "type": "Point", "coordinates": [ 121.508235, 25.043218 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2552-7139", "name": "cold stone(市招:酷聖石冰淇淋-京站二門市)", "display_ad": "臺北市大同區承德路1段1號B2樓", "poi_addr": "臺北市承德路一段1號", "gglon": "121.5168249", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0493449" }, "geometry": { "type": "Point", "coordinates": [ 121.5168249, 25.0493449 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "頂好企業股份有限公司八德分公司(市招:IS Coffee-伊是咖啡)", "display_ad": "臺北市松山區八德路3段32號1樓", "poi_addr": "臺北市松山區八德路三段32號1樓", "gglon": "121.551717", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.048044" }, "geometry": { "type": "Point", "coordinates": [ 121.551717, 25.048044 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2888-1200", "name": "喜泉來飲料店(市招:歇腳亭)", "display_ad": "臺北市士林區文林路101巷1號", "poi_addr": "臺北市文林路101巷1號", "gglon": "121.525756", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.087831" }, "geometry": { "type": "Point", "coordinates": [ 121.525756, 25.087831 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2393-7625", "name": "無尾熊紅茶冰品行(快可立木柵寶儀店\/可口杯)", "display_ad": "臺北市文山區保儀路30號", "poi_addr": "臺北市保儀路30號", "gglon": "121.568513", "traffic_in": null, "certificat": "飲冰品業", "gglat": "24.988258" }, "geometry": { "type": "Point", "coordinates": [ 121.568513, 24.988258 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "八平方冷飲店(市招：清心福全冷飲站重慶北店)", "display_ad": "臺北市大同區重慶北路1段79號", "poi_addr": "台北市重慶北路一段79號", "gglon": "121.514249", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0525859" }, "geometry": { "type": "Point", "coordinates": [ 121.514249, 25.0525859 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "十八度西飲料店(市招：傳奇18℃)", "display_ad": "臺北市信義區吳興街168-1號", "poi_addr": "台北市吳興街168之1號", "gglon": "121.562073", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.028809" }, "geometry": { "type": "Point", "coordinates": [ 121.562073, 25.028809 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)八德分公司", "display_ad": "臺北市松山區八德路3段123號", "poi_addr": "台北市八德路三段123號", "gglon": "121.554419", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.048263" }, "geometry": { "type": "Point", "coordinates": [ 121.554419, 25.048263 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "天仁茶業股份有限公司-忠孝分公司", "display_ad": "臺北市大安區忠孝東路3段174號1樓", "poi_addr": "台北市忠孝東路三段174號", "gglon": "121.538626", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.041415" }, "geometry": { "type": "Point", "coordinates": [ 121.538626, 25.041415 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2881-4825", "name": "皇品豆花冰品店", "display_ad": "臺北市士林區華齡街12號", "poi_addr": "臺北市華齡街12號", "gglon": "121.519589", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.082909" }, "geometry": { "type": "Point", "coordinates": [ 121.519589, 25.082909 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)天母東路分公司", "display_ad": "臺北市士林區天母東路21號", "poi_addr": "台北市天母東路21號", "gglon": "121.531786", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.1182369" }, "geometry": { "type": "Point", "coordinates": [ 121.531786, 25.1182369 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "天仁茶業股份有限公司-微風台北車站專櫃", "display_ad": "臺北市中正區北平西路3號2樓", "poi_addr": "台北市北平西路3號", "gglon": "121.517081", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0479239" }, "geometry": { "type": "Point", "coordinates": [ 121.517081, 25.0479239 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "統一星巴克股份有限公司台北市第14分公司", "display_ad": "臺北市松山區民生東路3段156-1號", "poi_addr": "台北市民生東路三段156之1號", "gglon": "121.548333", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.057418" }, "geometry": { "type": "Point", "coordinates": [ 121.548333, 25.057418 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "福氣飲料店(COMEBUY-清江店)", "display_ad": "臺北市北投區清江路53號", "poi_addr": "台北市北投區清江路53號", "gglon": "121.502048", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.130729" }, "geometry": { "type": "Point", "coordinates": [ 121.502048, 25.130729 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "江南冷飲店(市招：清心福全冷飲站江南店)", "display_ad": "臺北市內湖區江南街99號", "poi_addr": "台北市江南街99號", "gglon": "121.576813", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.07672" }, "geometry": { "type": "Point", "coordinates": [ 121.576813, 25.07672 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "喜全冷飲站(市招：清心福全冷飲站饒河店)", "display_ad": "臺北市松山區八德路4段791號", "poi_addr": "台北市八德路四段791號", "gglon": "121.30031", "traffic_in": null, "certificat": "飲冰品業", "gglat": "24.962488" }, "geometry": { "type": "Point", "coordinates": [ 121.30031, 24.962488 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "本味甜品店(市招：鮮芋仙龍江店)", "display_ad": "臺北市中山區龍江路352號", "poi_addr": "台北市龍江路352號", "gglon": "121.540837", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.065876" }, "geometry": { "type": "Point", "coordinates": [ 121.540837, 25.065876 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "頂好企業股份有限公司(市招：IS COFFEE)民生三店分公司", "display_ad": "臺北市中山區民生東路3段25號", "poi_addr": "台北市中山民生東路三段25號", "gglon": "121.538746", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.058094" }, "geometry": { "type": "Point", "coordinates": [ 121.538746, 25.058094 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "COMEBUY-陽明山店", "display_ad": "臺北市士林區菁山路6號", "poi_addr": "台北市菁山路6號", "gglon": "121.546818", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.137934" }, "geometry": { "type": "Point", "coordinates": [ 121.546818, 25.137934 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2874-5737", "name": "統一星巴克股份有限公司台北市第74分公司(天母忠誠門市)(市", "display_ad": "臺北市士林區天母東路67之1號1樓", "poi_addr": "台北市天母東路67之1號", "gglon": "121.534361", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.11825" }, "geometry": { "type": "Point", "coordinates": [ 121.534361, 25.11825 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "金獅王企業有限公司(台北牛乳大王忠孝店)", "display_ad": "臺北市大安區忠孝東路4段49巷4弄10之1號", "poi_addr": "台北市忠孝東路四段49巷4弄10之1號", "gglon": "121.545515", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.042144" }, "geometry": { "type": "Point", "coordinates": [ 121.545515, 25.042144 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "休閒國聯股份有限公司(市招：鮮芋仙)內湖分公司", "display_ad": "臺北市內湖區成功路4段28號", "poi_addr": "台北市內湖區成功路四段28號", "gglon": "121.591469", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.08154" }, "geometry": { "type": "Point", "coordinates": [ 121.591469, 25.08154 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2793-0833", "name": "CUP.C\/臺北市內湖區舊宗路1段188號(大潤發2館)", "display_ad": "臺北市內湖區舊宗路1段188號", "poi_addr": "臺北市舊宗路一段188號", "gglon": "121.576018", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.062596" }, "geometry": { "type": "Point", "coordinates": [ 121.576018, 25.062596 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "統一星巴克股份有限公司台北市第15分公司", "display_ad": "臺北市大安區忠孝東路4段134號1F", "poi_addr": "台北市忠孝東路四段134號", "gglon": "121.54837", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.041327" }, "geometry": { "type": "Point", "coordinates": [ 121.54837, 25.041327 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "統一星巴克股份有限公司台北市第10分公司", "display_ad": "臺北市松山區民生東路5段158號", "poi_addr": "台北市民生東路五段158號", "gglon": "121.562879", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.058584" }, "geometry": { "type": "Point", "coordinates": [ 121.562879, 25.058584 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2834-6211", "name": "綠逗薏人屋(天母店)", "display_ad": "臺北市士林區士東路4號", "poi_addr": "臺北市士東路4號", "gglon": "121.5263", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.1116729" }, "geometry": { "type": "Point", "coordinates": [ 121.5263, 25.1116729 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2874-5199", "name": "道瀚有限公司(市招:洋蔥西餐牛排)", "display_ad": "臺北市士林區中山北路7段31號1樓", "poi_addr": "臺北市中山北路七段31號", "gglon": "121.530526", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.119413" }, "geometry": { "type": "Point", "coordinates": [ 121.530526, 25.119413 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "米拿貝爾商行", "display_ad": "臺北市中山區民生東路1段25號", "poi_addr": "台北市民生東路一段25號", "gglon": "121.524332", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.058214" }, "geometry": { "type": "Point", "coordinates": [ 121.524332, 25.058214 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2893-3109", "name": "COCO都可中和店", "display_ad": "臺北市北投區中和街296號", "poi_addr": "臺北市中和街296號", "gglon": "121.500214", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.140669" }, "geometry": { "type": "Point", "coordinates": [ 121.500214, 25.140669 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "世筑有限公司(市招：85度c台北南京店)", "display_ad": "臺北市中山區農安街182號", "poi_addr": "台北市中山區農安街182號", "gglon": "121.535136", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.064564" }, "geometry": { "type": "Point", "coordinates": [ 121.535136, 25.064564 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "大眾小吃店(市招：甜心屋)", "display_ad": "臺北市內湖區成功路3段174巷20號1樓", "poi_addr": "台北市成功路三段174巷20號", "gglon": "121.590405", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.081426" }, "geometry": { "type": "Point", "coordinates": [ 121.590405, 25.081426 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2892-1313", "name": "成平美食屋(市招:85度C育仁店)", "display_ad": "臺北市北投區中央北路1段98號1樓", "poi_addr": "臺北市中央北路一段98號", "gglon": "121.499704", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.1347989" }, "geometry": { "type": "Point", "coordinates": [ 121.499704, 25.1347989 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)林森分公司", "display_ad": "臺北市中山區林森北路140號", "poi_addr": "台北市林森北路140號", "gglon": "121.525096", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.051558" }, "geometry": { "type": "Point", "coordinates": [ 121.525096, 25.051558 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "天仁茶業股份有限公司-萬華分公司", "display_ad": "臺北市萬華區西園路一段168號", "poi_addr": "台北市西園路一段168號", "gglon": "121.499204", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.036838" }, "geometry": { "type": "Point", "coordinates": [ 121.499204, 25.036838 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "永洁茶行(COMEBUY-永吉二店)", "display_ad": "臺北市信義區永吉路30巷177弄1號", "poi_addr": "台北市永吉路30巷177弄1號", "gglon": "121.568845", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.041686" }, "geometry": { "type": "Point", "coordinates": [ 121.568845, 25.041686 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "台灣通用磨坊股份有限公司(市招：H?agen-Dazs)天母旗艦分公司", "display_ad": "臺北市士林區天玉街38巷18弄1號1F", "poi_addr": "台北市天玉街38巷18弄1號", "gglon": "121.529702", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.1195769" }, "geometry": { "type": "Point", "coordinates": [ 121.529702, 25.1195769 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "水龜伯古早味北投店", "display_ad": "臺北市北投區公館路19號1樓", "poi_addr": "台北市公館路19號", "gglon": "121.502823", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.133262" }, "geometry": { "type": "Point", "coordinates": [ 121.502823, 25.133262 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2502-6131", "name": "新嵐飲料店(50嵐)", "display_ad": "臺北市中山區伊通街66之2號", "poi_addr": "臺北市伊通街66之2號", "gglon": "121.5345528", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0526399" }, "geometry": { "type": "Point", "coordinates": [ 121.5345528, 25.0526399 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "休閒國聯股份有限公司(市招：QK咖啡)公館分公司", "display_ad": "臺北市中正區羅斯福路3段278號", "poi_addr": "台北市中正區羅斯福路三段278號", "gglon": "121.532065", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0166029" }, "geometry": { "type": "Point", "coordinates": [ 121.532065, 25.0166029 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "統一星巴克股份有限公司台北市第66分公司", "display_ad": "臺北市北投區石牌路2段74號1~3樓", "poi_addr": "台北市石牌路二段74號", "gglon": "121.516242", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.116581" }, "geometry": { "type": "Point", "coordinates": [ 121.516242, 25.116581 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "六福開發股份有限公司南京分公司", "display_ad": "臺北市中山區南京東路3段133號1樓", "poi_addr": "台北市南京東路三段133號", "gglon": "121.5411869", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0521017" }, "geometry": { "type": "Point", "coordinates": [ 121.5411869, 25.0521017 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "COMEBUY-景美店", "display_ad": "臺北市文山區景中街9號", "poi_addr": "台北市景中街9號", "gglon": "121.541844", "traffic_in": null, "certificat": "飲冰品業", "gglat": "24.993054" }, "geometry": { "type": "Point", "coordinates": [ 121.541844, 24.993054 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2552-3250", "name": "永康商行(市招：美而美)", "display_ad": "臺北市大同區長安西路55號1樓", "poi_addr": "臺北市長安西路55號", "gglon": "121.517504", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.050893" }, "geometry": { "type": "Point", "coordinates": [ 121.517504, 25.050893 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "台灣通用磨坊股份有限公司(市招：H?agen-Dazs)信義A11門市", "display_ad": "臺北市信義區松壽路11號B2(新光三越百貨A11館)", "poi_addr": "台北市松壽路11號", "gglon": "121.567442", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.036023" }, "geometry": { "type": "Point", "coordinates": [ 121.567442, 25.036023 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2881-5887", "name": "我家冰店", "display_ad": "臺北市士林區安平街16號", "poi_addr": "臺北市安平街16號", "gglon": "121.5256567", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0885049" }, "geometry": { "type": "Point", "coordinates": [ 121.5256567, 25.0885049 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "不單單茶行(市招：奉茶)", "display_ad": "臺北市大安區師大路119-1號", "poi_addr": "台北市師大路119之1號", "gglon": "121.528409", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0220869" }, "geometry": { "type": "Point", "coordinates": [ 121.528409, 25.0220869 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "育伶紅茶冰品店(市招：快可立五分埔店)", "display_ad": "臺北市信義區松山路215號1樓", "poi_addr": "台北市松山路215號", "gglon": "121.577971", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0450009" }, "geometry": { "type": "Point", "coordinates": [ 121.577971, 25.0450009 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "COMEBUY-崇德店", "display_ad": "臺北市大安區崇德街6號", "poi_addr": "台北市崇德街6號", "gglon": "121.553179", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.02423" }, "geometry": { "type": "Point", "coordinates": [ 121.553179, 25.02423 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "統一星巴克股份有限公司台北市第64分公司", "display_ad": "臺北市中正區忠孝東路2段134巷2號1樓", "poi_addr": "台北市忠孝東路二段134巷2號", "gglon": "121.531797", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.042034" }, "geometry": { "type": "Point", "coordinates": [ 121.531797, 25.042034 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "寶獅企業公司(台北牛乳大王成都店)", "display_ad": "臺北市萬華區成都路70號", "poi_addr": "台北市成都路70號", "gglon": "121.505187", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.042848" }, "geometry": { "type": "Point", "coordinates": [ 121.505187, 25.042848 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)南港昆陽分公司", "display_ad": "臺北市南港區忠孝東路六段444號1樓", "poi_addr": "台北市忠孝東路六段444號", "gglon": "121.593891", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.050196" }, "geometry": { "type": "Point", "coordinates": [ 121.593891, 25.050196 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "非凡店(市招：歇腳亭)", "display_ad": "臺北市中山區南京東路2段115巷18號", "poi_addr": "台北市中山區南京東路二段115巷18號", "gglon": "121.533508", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.053137" }, "geometry": { "type": "Point", "coordinates": [ 121.533508, 25.053137 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "台北牛乳大王企業有限公司(南京店)", "display_ad": "臺北市中山區南京西路20號", "poi_addr": "台北市南京西路20號", "gglon": "121.520119", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.052539" }, "geometry": { "type": "Point", "coordinates": [ 121.520119, 25.052539 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)中山北路分公司", "display_ad": "臺北市中山區中山北路2段9號", "poi_addr": "台北市中山北路二段9號", "gglon": "121.522933", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0527189" }, "geometry": { "type": "Point", "coordinates": [ 121.522933, 25.0527189 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "津茗冷飲(市招：清心福全冷飲站康定店)", "display_ad": "臺北市萬華區康定路322號1樓", "poi_addr": "台北市康定路322號", "gglon": "121.501216", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.03577" }, "geometry": { "type": "Point", "coordinates": [ 121.501216, 25.03577 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2630-7272", "name": "互嵐綠茶店(市招:50嵐 )", "display_ad": "臺北市內湖區東湖路149號", "poi_addr": "臺北市東湖路149號", "gglon": "121.61728", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.068158" }, "geometry": { "type": "Point", "coordinates": [ 121.61728, 25.068158 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "COMEBUY-遼寧店", "display_ad": "臺北市中山區遼寧街240號", "poi_addr": "台北市中山區遼寧街240號", "gglon": "121.542056", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.056783" }, "geometry": { "type": "Point", "coordinates": [ 121.542056, 25.056783 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2761-3938", "name": "勇源商行(市招:S & D咖啡台北八德店)", "display_ad": "臺北市松山區八德路4段74號", "poi_addr": "臺北市八德路四段74號", "gglon": "121.560104", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.048333" }, "geometry": { "type": "Point", "coordinates": [ 121.560104, 25.048333 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "天仁茶業股份有限公司-喫茶趣大直分公司", "display_ad": "臺北市中山區敬業三路123號1F", "poi_addr": "台北市敬業三路123號", "gglon": "121.5560515", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0813376" }, "geometry": { "type": "Point", "coordinates": [ 121.5560515, 25.0813376 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2828-6190", "name": "水多泉飲食店(市招:丹堤咖啡)", "display_ad": "臺北市北投區石牌路2段6號1樓", "poi_addr": "臺北市石牌路二段6號", "gglon": "121.515483", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.1153259" }, "geometry": { "type": "Point", "coordinates": [ 121.515483, 25.1153259 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "宜容食品有限公司(市招：rido coffee里豆咖啡)", "display_ad": "臺北市中正區衡陽路116號", "poi_addr": "台北市衡陽路116號", "gglon": "121.509857", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.042122" }, "geometry": { "type": "Point", "coordinates": [ 121.509857, 25.042122 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "長亭小舖", "display_ad": "臺北市中山區農安街166巷3號", "poi_addr": "臺北市中山區農安街166巷3號", "gglon": "121.5339481", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.064446" }, "geometry": { "type": "Point", "coordinates": [ 121.5339481, 25.064446 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2861-5769", "name": "順億茶行(市招:COCO文化店)", "display_ad": "臺北市士林區光華路26巷4之2號1樓", "poi_addr": "臺北市光華路26巷4之2號", "gglon": "121.541882", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.137493" }, "geometry": { "type": "Point", "coordinates": [ 121.541882, 25.137493 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "統一星巴克股份有限公司台北市第55分公司", "display_ad": "臺北市文山區指南路2段105號", "poi_addr": "台北市指南路二段105號", "gglon": "121.575689", "traffic_in": null, "certificat": "飲冰品業", "gglat": "24.987836" }, "geometry": { "type": "Point", "coordinates": [ 121.575689, 24.987836 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2341-8393", "name": "紅印茶飲", "display_ad": "臺北市中正區市民大道3段8號", "poi_addr": "臺北市市民大道三段8號", "gglon": "121.53191", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.045059" }, "geometry": { "type": "Point", "coordinates": [ 121.53191, 25.045059 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)和平二分公司", "display_ad": "臺北市大安區和平東路2段365號", "poi_addr": "台北市和平東路二段365號", "gglon": "121.546552", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0248479" }, "geometry": { "type": "Point", "coordinates": [ 121.546552, 25.0248479 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "統一星巴克股份有限公司台北市第56分公司", "display_ad": "臺北市大安區敦化南路2段59號1樓", "poi_addr": "台北市敦化南路二段59號", "gglon": "121.549146", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.031076" }, "geometry": { "type": "Point", "coordinates": [ 121.549146, 25.031076 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)復興南路分公司", "display_ad": "臺北市大安區復興南路2段151巷47號", "poi_addr": "台北市復興南路二段151巷47號", "gglon": "121.545689", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.028459" }, "geometry": { "type": "Point", "coordinates": [ 121.545689, 25.028459 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "休閒國聯股份有限公司(市招：鮮芋仙)微風分公司", "display_ad": "臺北市大安區復興南路1段62號", "poi_addr": "台北市復興南路一段62號", "gglon": "121.543531", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.044589" }, "geometry": { "type": "Point", "coordinates": [ 121.543531, 25.044589 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "天仁茶業股份有限公司-武昌街分公司", "display_ad": "臺北市中正區武昌街1段3號", "poi_addr": "台北市武昌街一段3號", "gglon": "121.512841", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.044215" }, "geometry": { "type": "Point", "coordinates": [ 121.512841, 25.044215 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "美食坊", "display_ad": "臺北市士林區延平北路5段146號", "poi_addr": "台北市延平北路五段146號", "gglon": "121.510468", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.082362" }, "geometry": { "type": "Point", "coordinates": [ 121.510468, 25.082362 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "COMEBUY-師大店", "display_ad": "臺北市大安區師大路98號", "poi_addr": "台北市師大路98號", "gglon": "121.528248", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.022581" }, "geometry": { "type": "Point", "coordinates": [ 121.528248, 25.022581 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2883-5090", "name": "久礦有限公司(市招:85度C大南店)", "display_ad": "臺北市士林區大南路315號1樓", "poi_addr": "臺北市大南路315號", "gglon": "121.518064", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.088889" }, "geometry": { "type": "Point", "coordinates": [ 121.518064, 25.088889 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "巨洲有限公司(市招：木村咖啡)大葉高島屋店", "display_ad": "臺北市士林區忠誠路2段55號B1", "poi_addr": "台北市忠誠路二段55號", "gglon": "121.5313421", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.1117343" }, "geometry": { "type": "Point", "coordinates": [ 121.5313421, 25.1117343 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2377-2238", "name": "南嘉木飲料店", "display_ad": "臺北市大安區通化街145號1樓", "poi_addr": "臺北市通化街145號", "gglon": "121.553925", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0288279" }, "geometry": { "type": "Point", "coordinates": [ 121.553925, 25.0288279 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "8789-8209", "name": "天仁茶業股份有限公司-新光信義A8館店(市招：喫茶趣ToGo)", "display_ad": "臺北市信義區松高路12號B2", "poi_addr": "台北市松高路12號", "gglon": "121.5667359", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0388997" }, "geometry": { "type": "Point", "coordinates": [ 121.5667359, 25.0388997 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "休閒國聯股份有限公司(市招：QK咖啡)錦洲分公司", "display_ad": "臺北市中山區錦州街443號", "poi_addr": "台北市中山區錦州街443號", "gglon": "121.543113", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.060362" }, "geometry": { "type": "Point", "coordinates": [ 121.543113, 25.060362 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "統一星巴克股份有限公司台北市第60分公司", "display_ad": "臺北市中山區民權東路3段22號1樓", "poi_addr": "台北市民權東路三段22號", "gglon": "121.540414", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.062082" }, "geometry": { "type": "Point", "coordinates": [ 121.540414, 25.062082 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "南科商行(市招：Caf? Bar)", "display_ad": "臺北市南港區三重路28號1樓", "poi_addr": "台北市三重路28號", "gglon": "121.6141795", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0560588" }, "geometry": { "type": "Point", "coordinates": [ 121.6141795, 25.0560588 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2521-4480", "name": "芳隄實業有限公司(丹堤咖啡)", "display_ad": "臺北市中山區松江路222號1樓", "poi_addr": "臺北市松江路222號", "gglon": "121.532861", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.058339" }, "geometry": { "type": "Point", "coordinates": [ 121.532861, 25.058339 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "天仁茶業股份有限公司-喫茶趣內湖一店分公司", "display_ad": "臺北市內湖區瑞光路409號1樓", "poi_addr": "台北市瑞光路409號", "gglon": "121.572633", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.077628" }, "geometry": { "type": "Point", "coordinates": [ 121.572633, 25.077628 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2312-1555", "name": "三角埔仙草漢中店", "display_ad": "臺北市萬華區漢中街133號1樓", "poi_addr": "臺北市漢中街133號", "gglon": "121.507473", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0418479" }, "geometry": { "type": "Point", "coordinates": [ 121.507473, 25.0418479 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2504-7615", "name": "耕智精緻茶飲店(市招：水巷茶弄錦州店)", "display_ad": "臺北市中山區錦州街393號", "poi_addr": "臺北市錦州街393號", "gglon": "121.541365", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.060361" }, "geometry": { "type": "Point", "coordinates": [ 121.541365, 25.060361 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2331-4217", "name": "怡和餐飲股份有限公司台北漢口分公司(市招:肯德基台北漢口", "display_ad": "臺北市中正區漢口街1段50號1-4樓", "poi_addr": "臺北市漢口街一段50號", "gglon": "121.513426", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.045092" }, "geometry": { "type": "Point", "coordinates": [ 121.513426, 25.045092 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "美食達人股份有限公司(市招：85度c)工業分公司", "display_ad": "臺北市大同區重慶北路2段171號", "poi_addr": "台北市重慶北路二段171號", "gglon": "121.5138074", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0591477" }, "geometry": { "type": "Point", "coordinates": [ 121.5138074, 25.0591477 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "統一星巴克股份有限公司台北市第42分公司", "display_ad": "臺北市信義區忠孝東路4段561號1F", "poi_addr": "台北市忠孝東路四段561號", "gglon": "121.563826", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.041552" }, "geometry": { "type": "Point", "coordinates": [ 121.563826, 25.041552 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "8866-2220", "name": "現帶茶", "display_ad": "臺北市士林區中正路342號", "poi_addr": "臺北市中正路342號", "gglon": "121.5219698", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0946395" }, "geometry": { "type": "Point", "coordinates": [ 121.5219698, 25.0946395 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "五五波咖啡店(市招：85度c大直店)", "display_ad": "臺北市中山區大直街55號", "poi_addr": "台北市大直街55號", "gglon": "121.546452", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.083249" }, "geometry": { "type": "Point", "coordinates": [ 121.546452, 25.083249 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2501-1153", "name": "盛開飲料店(市招:橘?子)", "display_ad": "臺北市中山區伊通街127之4號", "poi_addr": "臺北市伊通街127之4號", "gglon": "121.534959", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0542409" }, "geometry": { "type": "Point", "coordinates": [ 121.534959, 25.0542409 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2363-3602", "name": "會上癮冷飲專賣店", "display_ad": "臺北市大安區龍泉街38號", "poi_addr": "臺北市龍泉街38號", "gglon": "121.52937", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.024392" }, "geometry": { "type": "Point", "coordinates": [ 121.52937, 25.024392 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "上久涼飲店(市招：清心福全冷飲站師大店)", "display_ad": "臺北市大安區師大路68巷2之1號", "poi_addr": "台北市師大路68巷2之1號", "gglon": "121.5279997", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0239851" }, "geometry": { "type": "Point", "coordinates": [ 121.5279997, 25.0239851 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "翔耀冷飲小站(市招：清心福全冷飲站錦西店)", "display_ad": "臺北市中山區錦西街4-7號", "poi_addr": "台北市錦西街4之7號", "gglon": "121.522073", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0602229" }, "geometry": { "type": "Point", "coordinates": [ 121.522073, 25.0602229 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "COMEBUY-南港店", "display_ad": "臺北市南港區研究院路3段256號", "poi_addr": "台北市研究院路三段256號", "gglon": "121.609555", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.033502" }, "geometry": { "type": "Point", "coordinates": [ 121.609555, 25.033502 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "天仁茶業股份有限公司-羅斯福路分公司", "display_ad": "臺北市中正區羅斯福路4段36號", "poi_addr": "台北市羅斯福路四段36號", "gglon": "121.533456", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0153469" }, "geometry": { "type": "Point", "coordinates": [ 121.533456, 25.0153469 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2827-5515", "name": "森月飲料店", "display_ad": "臺北市北投區裕民一路20號1樓", "poi_addr": "臺北市裕民一路20號", "gglon": "121.51667", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.1165939" }, "geometry": { "type": "Point", "coordinates": [ 121.51667, 25.1165939 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "統一星巴克股份有限公司台北市第32分公司", "display_ad": "臺北市大安區辛亥路2段175號", "poi_addr": "台北市辛亥路二段175號", "gglon": "121.541244", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0217679" }, "geometry": { "type": "Point", "coordinates": [ 121.541244, 25.0217679 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "1996喫茶食譜", "display_ad": "臺北市北投區知行路299號", "poi_addr": "臺北市北投區知行路299號", "gglon": "121.467212", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.122046" }, "geometry": { "type": "Point", "coordinates": [ 121.467212, 25.122046 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "天母芋圓之家芝山捷運店", "display_ad": "臺北市士林區福華路154號", "poi_addr": "臺北市福華路154號", "gglon": "121.522746", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.103559" }, "geometry": { "type": "Point", "coordinates": [ 121.522746, 25.103559 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2831-7695", "name": "城林食品坊(市招:城中豆花)", "display_ad": "臺北市士林區中正路342-3號", "poi_addr": "臺北市中正路342之3號", "gglon": "121.5219698", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0946395" }, "geometry": { "type": "Point", "coordinates": [ 121.5219698, 25.0946395 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "八彩冷飲站(市招：清心福全冷飲站東興店)", "display_ad": "臺北市松山區南京東路5段255號1樓", "poi_addr": "台北市南京東路五段255號", "gglon": "121.565193", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.051603" }, "geometry": { "type": "Point", "coordinates": [ 121.565193, 25.051603 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "統一星巴克股份有限公司台北市第43分公司", "display_ad": "臺北市松山區八德路3段10號", "poi_addr": "台北市八德路三段10號", "gglon": "121.550452", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.048072" }, "geometry": { "type": "Point", "coordinates": [ 121.550452, 25.048072 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "休閒國聯股份有限公司(市招：鮮芋仙)林森北分公司", "display_ad": "臺北市中山區林森北路131號", "poi_addr": "台北市林森北路131號", "gglon": "121.525227", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.050996" }, "geometry": { "type": "Point", "coordinates": [ 121.525227, 25.050996 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "欣鑫冷飲站(市招：清心福全冷飲站光復南店)", "display_ad": "臺北市大安區光復南路456巷6號", "poi_addr": "台北市光復南路456巷6號", "gglon": "121.556988", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0355309" }, "geometry": { "type": "Point", "coordinates": [ 121.556988, 25.0355309 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2712-7997", "name": "旺月堂有限公司(市招:怡客咖啡復興店)", "display_ad": "臺北市松山區復興北路193號1樓", "poi_addr": "臺北市復興北路193號", "gglon": "121.5443831", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.055381" }, "geometry": { "type": "Point", "coordinates": [ 121.5443831, 25.055381 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "美食達人股份有限公司(市招：85度c)萬華分公司", "display_ad": "臺北市萬華區廣州街150號", "poi_addr": "台北市廣州街150號", "gglon": "121.5004945", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0366252" }, "geometry": { "type": "Point", "coordinates": [ 121.5004945, 25.0366252 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)松江分公司", "display_ad": "臺北市中山區松江路156-2號1樓", "poi_addr": "台北市松江路156之2號", "gglon": "121.532771", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.054542" }, "geometry": { "type": "Point", "coordinates": [ 121.532771, 25.054542 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2871-1333", "name": "士東茶店(市招:50嵐)", "display_ad": "臺北市士林區士東路99號 1樓", "poi_addr": "臺北市士東路99號", "gglon": "121.529547", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.112306" }, "geometry": { "type": "Point", "coordinates": [ 121.529547, 25.112306 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)內湖分公司", "display_ad": "臺北市內湖區成功路4段202號", "poi_addr": "台北市成功路四段202號", "gglon": "121.595475", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.084357" }, "geometry": { "type": "Point", "coordinates": [ 121.595475, 25.084357 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)松山分公司", "display_ad": "臺北市信義區忠孝東路5段629號1樓", "poi_addr": "台北市忠孝東路五段629號", "gglon": "121.579349", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.041874" }, "geometry": { "type": "Point", "coordinates": [ 121.579349, 25.041874 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)世貿分公司", "display_ad": "臺北市信義區基隆路2段22號", "poi_addr": "台北市基隆路二段22號", "gglon": "121.558791", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.031971" }, "geometry": { "type": "Point", "coordinates": [ 121.558791, 25.031971 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)青年分公司", "display_ad": "臺北市萬華區青年路42號1樓", "poi_addr": "台北市青年路42號", "gglon": "121.50437", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.025585" }, "geometry": { "type": "Point", "coordinates": [ 121.50437, 25.025585 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2775-1187", "name": "統一星巴克股份有限公司台北市第72分公司(復安門市)(市招：", "display_ad": "臺北市大安區復興南路1段135巷9號", "poi_addr": "台北市復興南路一段135巷9號", "gglon": "121.544832", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.042745" }, "geometry": { "type": "Point", "coordinates": [ 121.544832, 25.042745 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "文安美食屋(市招：鮮芋仙北投光明店)", "display_ad": "臺北市北投區光明路214號", "poi_addr": "台北市北投區光明路214號", "gglon": "121.504016", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.136114" }, "geometry": { "type": "Point", "coordinates": [ 121.504016, 25.136114 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)安和分公司", "display_ad": "臺北市大安區安和路1段70號1樓", "poi_addr": "台北市安和路一段70號", "gglon": "121.552322", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.035336" }, "geometry": { "type": "Point", "coordinates": [ 121.552322, 25.035336 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "迪仕德國際企業社(市招：TEA-ONE迪仕德)", "display_ad": "臺北市信義區忠孝東路5段372巷27弄77之1號", "poi_addr": "台北市忠孝東路五段372巷27弄77之1號", "gglon": "121.576455", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.039881" }, "geometry": { "type": "Point", "coordinates": [ 121.576455, 25.039881 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2932-0082", "name": "coco都可興隆店", "display_ad": "臺北市文山區興隆路3段54之2號", "poi_addr": "臺北市興隆路三段54之2號", "gglon": "121.555244", "traffic_in": null, "certificat": "飲冰品業", "gglat": "24.999313" }, "geometry": { "type": "Point", "coordinates": [ 121.555244, 24.999313 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2833-8406", "name": "集客茶行(市招:COCO)", "display_ad": "臺北市士林區美崙街5號1樓", "poi_addr": "臺北市美崙街5號", "gglon": "121.5236831", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.097169" }, "geometry": { "type": "Point", "coordinates": [ 121.5236831, 25.097169 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2515-0188", "name": "金五十飲品行(市招:Golden金系列)", "display_ad": "臺北市中山區合江街132號", "poi_addr": "臺北市合江街132號", "gglon": "121.539142", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.059586" }, "geometry": { "type": "Point", "coordinates": [ 121.539142, 25.059586 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "頂好企業股份有限公司(市招：IS COFFEE)安和三分公司", "display_ad": "臺北市大安區敦化南路2段81巷57號", "poi_addr": "台北市敦化南路二段81巷57號", "gglon": "121.550949", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.030031" }, "geometry": { "type": "Point", "coordinates": [ 121.550949, 25.030031 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "伊斯加商行(市招：85度c吉林店)", "display_ad": "臺北市中山區吉林路201號1樓", "poi_addr": "台北市吉林路201號", "gglon": "121.530428", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.060009" }, "geometry": { "type": "Point", "coordinates": [ 121.530428, 25.060009 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2896-0520", "name": "蔡小六冷飲商行", "display_ad": "臺北市北投區中央南路1段68號1樓", "poi_addr": "臺北市中央南路一段68號", "gglon": "121.501202", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.131566" }, "geometry": { "type": "Point", "coordinates": [ 121.501202, 25.131566 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "統一星巴克股份有限公司台北市第3分公司", "display_ad": "臺北市松山區敦化北路147號", "poi_addr": "台北市敦化北路147號", "gglon": "121.54958", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0538579" }, "geometry": { "type": "Point", "coordinates": [ 121.54958, 25.0538579 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "鼎茶飲料店(市招：歇腳亭)", "display_ad": "臺北市中正區南陽街11號1樓", "poi_addr": "台北市南陽街11號", "gglon": "121.516177", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.045081" }, "geometry": { "type": "Point", "coordinates": [ 121.516177, 25.045081 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "8369-2388", "name": "東南亞冰店", "display_ad": "臺北市中正區羅斯福路4段136巷12號", "poi_addr": "臺北市羅斯福路四段136巷12號", "gglon": "121.535386", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.012569" }, "geometry": { "type": "Point", "coordinates": [ 121.535386, 25.012569 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安婕冰品店(市招：鮮芋仙興隆店)", "display_ad": "臺北市文山區興隆路3段80號", "poi_addr": "台北市文山區興隆路三段80號", "gglon": "121.5565179", "traffic_in": null, "certificat": "飲冰品業", "gglat": "24.999738" }, "geometry": { "type": "Point", "coordinates": [ 121.5565179, 24.999738 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)西華分公司", "display_ad": "臺北市松山區民生東路3段113巷7弄1號", "poi_addr": "台北市民生東路三段113巷7弄1號", "gglon": "121.546399", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.058648" }, "geometry": { "type": "Point", "coordinates": [ 121.546399, 25.058648 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "好了啦超大杯", "display_ad": "臺北市中正區八德路1段43巷24號對面", "poi_addr": "臺北市中正區八德路一段43巷24號", "gglon": "121.531381", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.044653" }, "geometry": { "type": "Point", "coordinates": [ 121.531381, 25.044653 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "西湖茶行(COMEBUY-西湖店)", "display_ad": "臺北市內湖區內湖路1段285巷25號", "poi_addr": "台北市內湖路一段285巷25號", "gglon": "121.567104", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.086065" }, "geometry": { "type": "Point", "coordinates": [ 121.567104, 25.086065 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "維佳企業社(市招:丹堤咖啡)", "display_ad": "臺北市松山區復興北路183號", "poi_addr": "臺北市復興北路183號", "gglon": "121.544457", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0550339" }, "geometry": { "type": "Point", "coordinates": [ 121.544457, 25.0550339 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2653-7139", "name": "臻?綠茶店(50嵐)", "display_ad": "臺北市南港區中坡南路5號1樓", "poi_addr": "臺北市中坡南路5號", "gglon": "121.582329", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.044091" }, "geometry": { "type": "Point", "coordinates": [ 121.582329, 25.044091 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "大芋股份有限公司(市招：鮮芋仙士林中正店)", "display_ad": "臺北市士林區中正路210之3號", "poi_addr": "台北市中正路210之3號", "gglon": "121.526388", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0956049" }, "geometry": { "type": "Point", "coordinates": [ 121.526388, 25.0956049 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2834-7722", "name": "賞心商行(市招:85度C德東店)", "display_ad": "臺北市士林區德行東路241號1樓", "poi_addr": "臺北市德行東路241號", "gglon": "121.534012", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.109788" }, "geometry": { "type": "Point", "coordinates": [ 121.534012, 25.109788 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "長堤咖啡店(市招：85度c龍江店)", "display_ad": "臺北市中山區龍江路189號1樓", "poi_addr": "台北市龍江路189號", "gglon": "121.540716", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.055778" }, "geometry": { "type": "Point", "coordinates": [ 121.540716, 25.055778 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "紅樓冷飲站(市招：清心福全冷飲站成都店)", "display_ad": "臺北市萬華區成都路30號1樓", "poi_addr": "台北市成都路30號", "gglon": "121.506627", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.042504" }, "geometry": { "type": "Point", "coordinates": [ 121.506627, 25.042504 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2823-2520", "name": "都可流行飲品尊賢店(市招:COCO)", "display_ad": "臺北市北投區尊賢街241巷2號", "poi_addr": "臺北市尊賢街241巷2號", "gglon": "121.507338", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.116547" }, "geometry": { "type": "Point", "coordinates": [ 121.507338, 25.116547 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2533-6768", "name": "桃樂?伍佰之家", "display_ad": "臺北市中山區大直街52巷15之1前面鐵皮屋", "poi_addr": "臺北市大直街52巷15之1號", "gglon": "121.5453642", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0826393" }, "geometry": { "type": "Point", "coordinates": [ 121.5453642, 25.0826393 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2532-1150", "name": "大直綠茶店(市招：50嵐)", "display_ad": "臺北市中山區北安路571-3號", "poi_addr": "臺北市北安路571之3號", "gglon": "121.548324", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.081083" }, "geometry": { "type": "Point", "coordinates": [ 121.548324, 25.081083 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2377-8688", "name": "小綠人飲品店(市招: Mr.Wish)", "display_ad": "臺北市大安區通化街72號", "poi_addr": "臺北市通化街72號", "gglon": "121.554108", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.030159" }, "geometry": { "type": "Point", "coordinates": [ 121.554108, 25.030159 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "里昂品味義式有限公司(市招：Lolly Caffe)", "display_ad": "臺北市松山區民生東路4段123號", "poi_addr": "台北市民生東路四段123號", "gglon": "121.553612", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.05828" }, "geometry": { "type": "Point", "coordinates": [ 121.553612, 25.05828 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2791-6602", "name": "阿牛茶舖(市招:橘子工坊)", "display_ad": "臺北市內湖區成功路3段191號", "poi_addr": "臺北市成功路三段191號", "gglon": "121.590871", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.08039" }, "geometry": { "type": "Point", "coordinates": [ 121.590871, 25.08039 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "大田多稼咖啡有限公司站前店", "display_ad": "臺北市中正區館前路12號12樓", "poi_addr": "台北市館前路12號", "gglon": "121.51488", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0456232" }, "geometry": { "type": "Point", "coordinates": [ 121.51488, 25.0456232 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "風霆美食屋(市招：鮮芋仙統領店)", "display_ad": "臺北市大安區忠孝東路4段223巷10弄2號", "poi_addr": "台北市大安區忠孝東路四段223巷10弄2號", "gglon": "121.553104", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.041893" }, "geometry": { "type": "Point", "coordinates": [ 121.553104, 25.041893 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2874-0884", "name": "芋圓之家食品行(天母芋圓之家)", "display_ad": "臺北市士林區天母東路8巷97號", "poi_addr": "臺北市天母東路8巷97號", "gglon": "121.530364", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.114357" }, "geometry": { "type": "Point", "coordinates": [ 121.530364, 25.114357 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "六星甜品屋(市招：鮮芋仙)", "display_ad": "臺北市松山區民生東路4段66號", "poi_addr": "台北市松山區民生東路四段66號", "gglon": "121.552146", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0578239" }, "geometry": { "type": "Point", "coordinates": [ 121.552146, 25.0578239 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2552-2979", "name": "鼎巧小吃店(市招:貴族世家)", "display_ad": "臺北市大同區重慶北路2段69號1樓", "poi_addr": "臺北市重慶北路二段69號", "gglon": "121.514158", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.055828" }, "geometry": { "type": "Point", "coordinates": [ 121.514158, 25.055828 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2564-2790", "name": "統一星巴克股份有限公司台北市第30分公司(松江門市)(市招：", "display_ad": "臺北市中山區松江路210號", "poi_addr": "台北市松江路210號", "gglon": "121.533355", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.060602" }, "geometry": { "type": "Point", "coordinates": [ 121.533355, 25.060602 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "活力商行(市招：85度c台北安和店)", "display_ad": "臺北市大安區安和路2段52號", "poi_addr": "台北市安和路二段52號", "gglon": "121.5522088", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0310781" }, "geometry": { "type": "Point", "coordinates": [ 121.5522088, 25.0310781 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)雙連分公司", "display_ad": "臺北市大同區民生西路77號1樓", "poi_addr": "台北市民生西路77號", "gglon": "121.519756", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.057665" }, "geometry": { "type": "Point", "coordinates": [ 121.519756, 25.057665 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "政江號水果店", "display_ad": "臺北市大安區金山南路2段109號", "poi_addr": "台北市金山南路二段109號", "gglon": "121.526842", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.030642" }, "geometry": { "type": "Point", "coordinates": [ 121.526842, 25.030642 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2764-3981", "name": "丹堤咖啡民生二店（金石堂圖書股份有限公司民生分公司）", "display_ad": "臺北市松山區民生東路5段119號2樓", "poi_addr": "臺北市民生東路五段119號", "gglon": "121.560632", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.058822" }, "geometry": { "type": "Point", "coordinates": [ 121.560632, 25.058822 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2858-8495", "name": "優客茶館(市招:COCO關渡店)", "display_ad": "臺北市北投區知行路301號1樓", "poi_addr": "臺北市知行路301號", "gglon": "121.467201", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.1220919" }, "geometry": { "type": "Point", "coordinates": [ 121.467201, 25.1220919 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)忠孝第二分公司", "display_ad": "臺北市中正區忠孝東路2段132號", "poi_addr": "台北市忠孝東路二段132號", "gglon": "121.531803", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0424419" }, "geometry": { "type": "Point", "coordinates": [ 121.531803, 25.0424419 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "億可國際(市招:COCO天母德行店)", "display_ad": "臺北市士林區德行東路107號", "poi_addr": "臺北市士林區德行東路107號", "gglon": "121.52824", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.107766" }, "geometry": { "type": "Point", "coordinates": [ 121.52824, 25.107766 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "北伊茶坊(COMEBUY-北醫店)", "display_ad": "臺北市信義區吳興街277號", "poi_addr": "台北市吳興街277號", "gglon": "121.564218", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.026605" }, "geometry": { "type": "Point", "coordinates": [ 121.564218, 25.026605 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2753-0468", "name": "滿心美食屋 (市招:鮮芋仙)", "display_ad": "臺北市信義區忠孝東路5段451號1樓", "poi_addr": "臺北市忠孝東路五段451號", "gglon": "121.5762524", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0411038" }, "geometry": { "type": "Point", "coordinates": [ 121.5762524, 25.0411038 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2377-0061", "name": "金鐏商行", "display_ad": "臺北市大安區臨江街122號", "poi_addr": "臺北市臨江街122號", "gglon": "121.553951", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0302109" }, "geometry": { "type": "Point", "coordinates": [ 121.553951, 25.0302109 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2652-1955", "name": "江誌華冷飲店(市招:水巷茶弄同德店）", "display_ad": "臺北市南港區同德路55號", "poi_addr": "臺北市同德路55號", "gglon": "121.584745", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.045703" }, "geometry": { "type": "Point", "coordinates": [ 121.584745, 25.045703 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2891-9338", "name": "CoCo都可中央南店", "display_ad": "臺北市北投區中央南路1段124號", "poi_addr": "臺北市中央南路一段124號", "gglon": "121.500975", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.130255" }, "geometry": { "type": "Point", "coordinates": [ 121.500975, 25.130255 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "億可國際飲食品股份有限公司(市招：CoCo都可)社子店", "display_ad": "臺北市士林區延平北路6段91號", "poi_addr": "台北市延平北路六段91號", "gglon": "121.508514", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.088246" }, "geometry": { "type": "Point", "coordinates": [ 121.508514, 25.088246 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "天仁茶業股份有限公司-喫茶趣ToGo誠品敦南店", "display_ad": "臺北市大安區敦化南路1段245號B1", "poi_addr": "台北市敦化南路一段245號", "gglon": "121.549408", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0390639" }, "geometry": { "type": "Point", "coordinates": [ 121.549408, 25.0390639 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2735-9546", "name": "富翔商行 (市招:cafe 8)", "display_ad": "臺北市大安區敦南街38號", "poi_addr": "臺北市敦南街38號", "gglon": "121.5462931", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0231671" }, "geometry": { "type": "Point", "coordinates": [ 121.5462931, 25.0231671 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "獅子城企業有限公司信義分公司(台北牛乳大王信義店)", "display_ad": "臺北市中正區信義路2段1之3號", "poi_addr": "台北市信義路二段1之3號", "gglon": "121.524616", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.035598" }, "geometry": { "type": "Point", "coordinates": [ 121.524616, 25.035598 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2371-1966", "name": "真好飲飲料店(市招:橘?子)", "display_ad": "臺北市中正區開封街1段17號", "poi_addr": "臺北市開封街一段17號", "gglon": "121.513766", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.046169" }, "geometry": { "type": "Point", "coordinates": [ 121.513766, 25.046169 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "瑞獅企業有限公司(台北牛乳大王市政府店)", "display_ad": "臺北市信義區忠孝東路5段133號", "poi_addr": "台北市忠孝東路五段133號", "gglon": "121.567616", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.041268" }, "geometry": { "type": "Point", "coordinates": [ 121.567616, 25.041268 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)福林分公司", "display_ad": "臺北市士林區福林路189號1樓", "poi_addr": "台北市福林路189號", "gglon": "121.53252", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.096938" }, "geometry": { "type": "Point", "coordinates": [ 121.53252, 25.096938 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "統一星巴克股份有限公司台北市第39分公司", "display_ad": "臺北市內湖路一段360巷2-1號", "poi_addr": "台北市內湖路一段360巷2之1號", "gglon": "121.5705463", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0811455" }, "geometry": { "type": "Point", "coordinates": [ 121.5705463, 25.0811455 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "COMEBUY-台北微風店", "display_ad": "臺北市中正區北平西路3號2樓42號櫃", "poi_addr": "台北市北平西路3號", "gglon": "121.517081", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0479239" }, "geometry": { "type": "Point", "coordinates": [ 121.517081, 25.0479239 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)敦南分公司", "display_ad": "臺北市大安區敦化南路2段81巷59號", "poi_addr": "台北市敦化南路二段81巷59號", "gglon": "121.551149", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0300339" }, "geometry": { "type": "Point", "coordinates": [ 121.551149, 25.0300339 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)金山南路分公司", "display_ad": "臺北市大安區金山南路2段121號", "poi_addr": "台北市金山南路二段121號", "gglon": "121.526783", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0302909" }, "geometry": { "type": "Point", "coordinates": [ 121.526783, 25.0302909 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "天仁茶業股份有限公司-喫茶趣ToGo微風復興店", "display_ad": "臺北市松山區復興南路1段39號G樓", "poi_addr": "台北市復興南路一段39號", "gglon": "121.5441769", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0461403" }, "geometry": { "type": "Point", "coordinates": [ 121.5441769, 25.0461403 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2533-8745", "name": "北員茶凍舖", "display_ad": "臺北市中山區北安路563號", "poi_addr": "臺北市北安路563號", "gglon": "121.548002", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.080543" }, "geometry": { "type": "Point", "coordinates": [ 121.548002, 25.080543 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "台灣通用磨坊股份有限公司(市招：H?agen-Dazs)西門門市", "display_ad": "臺北市萬華區武昌街2段94號1F", "poi_addr": "台北市武昌街二段94號", "gglon": "121.5056594", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0449501" }, "geometry": { "type": "Point", "coordinates": [ 121.5056594, 25.0449501 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2356-9891", "name": "綠逗屋(市招:綠逗薏人)", "display_ad": "臺北市中正區南昌路1段46號1樓", "poi_addr": "臺北市南昌路一段46號", "gglon": "121.516756", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.031666" }, "geometry": { "type": "Point", "coordinates": [ 121.516756, 25.031666 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "統一星巴克股份有限公司台北市第33分公司", "display_ad": "臺北市大同區南京西路27號", "poi_addr": "台北市南京西路27號", "gglon": "121.520172", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.05286" }, "geometry": { "type": "Point", "coordinates": [ 121.520172, 25.05286 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2858-6008 2820-8800", "name": "爭榮商行(市招:tea館)", "display_ad": "臺北市北投區明德路126號", "poi_addr": "臺北市明德路126號", "gglon": "121.520501", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.1100779" }, "geometry": { "type": "Point", "coordinates": [ 121.520501, 25.1100779 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "億可國際飲食品股份有限公司(市招：CoCo都可)東湖店", "display_ad": "臺北市內湖區東湖路43巷18-4號", "poi_addr": "台北市東湖路43巷18之4號", "gglon": "121.613868", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.069869" }, "geometry": { "type": "Point", "coordinates": [ 121.613868, 25.069869 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2828-7232", "name": "都可流行飲品石牌店(市招:COCO)", "display_ad": "臺北市北投區東華街1段556號", "poi_addr": "臺北市東華街一段556號", "gglon": "121.515478", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.115214" }, "geometry": { "type": "Point", "coordinates": [ 121.515478, 25.115214 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "德力食品行(市招：清心福全冷飲站台北南港同德店)", "display_ad": "臺北市南港區同德路54號", "poi_addr": "台北市同德路54號", "gglon": "121.584813", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.045408" }, "geometry": { "type": "Point", "coordinates": [ 121.584813, 25.045408 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "巨洲有限公司(市招：木村咖啡)新光天母店", "display_ad": "臺北市士林區天母東路68號B1", "poi_addr": "台北市天母東路68號", "gglon": "121.5338514", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.1179255" }, "geometry": { "type": "Point", "coordinates": [ 121.5338514, 25.1179255 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "南方食品行(市招:黑面蔡吳興店)", "display_ad": "臺北市信義區吳興街220巷19號", "poi_addr": "臺北市信義區吳興街220巷19號", "gglon": "121.562548", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.027442" }, "geometry": { "type": "Point", "coordinates": [ 121.562548, 25.027442 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "宜容食品有限公司(市招：rido coffee里豆咖啡)忠杭分公司", "display_ad": "臺北市中正區杭州南路1段8-2號1樓", "poi_addr": "台北市杭州南路一段8之2號", "gglon": "121.526459", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.043271" }, "geometry": { "type": "Point", "coordinates": [ 121.526459, 25.043271 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2596-3200", "name": "鼎皇麻辣火鍋店(市招:天外天麻辣火鍋)", "display_ad": "臺北市中山區民權東路2段1號", "poi_addr": "臺北市民權東路二段1號", "gglon": "121.528114", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.062896" }, "geometry": { "type": "Point", "coordinates": [ 121.528114, 25.062896 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "天仁茶業股份有限公司-忠孝二店分公司", "display_ad": "臺北市大安區忠孝東路4段107號1樓", "poi_addr": "台北市忠孝東路四段107號", "gglon": "121.548311", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.041751" }, "geometry": { "type": "Point", "coordinates": [ 121.548311, 25.041751 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "8663-3131", "name": "桔果子飲料店(市招:橘?子景美店)", "display_ad": "臺北市文山區景文街94號", "poi_addr": "臺北市景文街94號", "gglon": "121.540962", "traffic_in": null, "certificat": "飲冰品業", "gglat": "24.990332" }, "geometry": { "type": "Point", "coordinates": [ 121.540962, 24.990332 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2363-4341", "name": "臺一牛奶大王", "display_ad": "臺北市大安區新生南路3段82號", "poi_addr": "臺北市新生南路三段82號", "gglon": "121.533523", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.018963" }, "geometry": { "type": "Point", "coordinates": [ 121.533523, 25.018963 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2723-9122", "name": "漂亮餐飲有限公司 ( 市招:奉茶 )", "display_ad": "臺北市信義區松壽路11號B2樓(新光三越A11)", "poi_addr": "臺北市松壽路11號", "gglon": "121.567442", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.036023" }, "geometry": { "type": "Point", "coordinates": [ 121.567442, 25.036023 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "歐佶茶行(市招：CoCo都可)", "display_ad": "臺北市中山區遼寧街224號1樓", "poi_addr": "台北市遼寧街224號", "gglon": "121.542035", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.056429" }, "geometry": { "type": "Point", "coordinates": [ 121.542035, 25.056429 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "統一星巴克股份有限公司台北市第68分公司", "display_ad": "臺北市松山區八德路3段251號1-2樓", "poi_addr": "台北市八德路三段251號", "gglon": "121.557645", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0484029" }, "geometry": { "type": "Point", "coordinates": [ 121.557645, 25.0484029 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "清松錦冷飲店(市招：清心福全冷飲站松江店)", "display_ad": "臺北市中山區錦州街247號", "poi_addr": "台北市錦州街247號", "gglon": "121.534056", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.060463" }, "geometry": { "type": "Point", "coordinates": [ 121.534056, 25.060463 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "麥可飲料店(市招：傳奇18℃)", "display_ad": "臺北市大安區和平東路3段228巷22號", "poi_addr": "台北市和平東路三段228巷22號", "gglon": "121.554102", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0218769" }, "geometry": { "type": "Point", "coordinates": [ 121.554102, 25.0218769 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)石牌公園分公司", "display_ad": "臺北市北投區石牌路1段39巷100號1樓", "poi_addr": "台北市石牌路一段39巷100號", "gglon": "121.509768", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.1164729" }, "geometry": { "type": "Point", "coordinates": [ 121.509768, 25.1164729 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)康寧分公司", "display_ad": "臺北市內湖區內湖成功路5段63號1.2樓", "poi_addr": "台北市內湖成功路五段63號", "gglon": "121.606066", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.074154" }, "geometry": { "type": "Point", "coordinates": [ 121.606066, 25.074154 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "COMEBUY-吳興店", "display_ad": "臺北市信義區吳興街44號", "poi_addr": "台北市吳興街44號", "gglon": "121.5600611", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0311921" }, "geometry": { "type": "Point", "coordinates": [ 121.5600611, 25.0311921 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "統一星巴克股份有限公司台北市第27分公司", "display_ad": "臺北市中山區民權東路3段88號", "poi_addr": "台北市民權東路三段88號", "gglon": "121.543988", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.061973" }, "geometry": { "type": "Point", "coordinates": [ 121.543988, 25.061973 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "休閒國聯股份有限公司(市招：鮮芋仙)通化分公司", "display_ad": "臺北市大安區通化街78號", "poi_addr": "台北市大安區通化街78號", "gglon": "121.554066", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.030041" }, "geometry": { "type": "Point", "coordinates": [ 121.554066, 25.030041 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "永康冰館有限公司(市招：冰館)", "display_ad": "臺北市大安區永康街15號1樓", "poi_addr": "台北市大安區永康街15號1樓", "gglon": "121.5297731", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0323909" }, "geometry": { "type": "Point", "coordinates": [ 121.5297731, 25.0323909 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "統一星巴克股份有限公司台北市第67分公司", "display_ad": "臺北市中正區信義路2段1號之1", "poi_addr": "台北市信義路二段1號", "gglon": "121.524586", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.035614" }, "geometry": { "type": "Point", "coordinates": [ 121.524586, 25.035614 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2756-5395", "name": "于路發實業有限公司(市招：于記杏仁豆腐)", "display_ad": "臺北市中山區北安路569之5號", "poi_addr": "臺北市北安路569之5號", "gglon": "121.548298", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.081027" }, "geometry": { "type": "Point", "coordinates": [ 121.548298, 25.081027 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "開封冷飲店(市招：清心福全冷飲站開封店)", "display_ad": "臺北市中正區開封街1段64號", "poi_addr": "台北市開封街一段64號", "gglon": "121.51164", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.045903" }, "geometry": { "type": "Point", "coordinates": [ 121.51164, 25.045903 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "天仁茶業股份有限公司-南京西路分公司", "display_ad": "臺北市大同區南京西路22號", "poi_addr": "台北市南京西路22號", "gglon": "121.519979", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0525719" }, "geometry": { "type": "Point", "coordinates": [ 121.519979, 25.0525719 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2563-1685", "name": "伯朗咖啡股份有限公司台北中山二分公司", "display_ad": "臺北市中山區中山北路1段106之1號1樓", "poi_addr": "臺北市中山北路一段106之1號", "gglon": "121.521296", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.049664" }, "geometry": { "type": "Point", "coordinates": [ 121.521296, 25.049664 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "麗智商行(市招：85度c民生店)", "display_ad": "臺北市大同區民生西路108號", "poi_addr": "台北市民生西路108號", "gglon": "121.519663", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.057402" }, "geometry": { "type": "Point", "coordinates": [ 121.519663, 25.057402 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "統一星巴克股份有限公司台北市第59分公司", "display_ad": "臺北市信義區東興路65號1樓", "poi_addr": "台北市東興路65號", "gglon": "121.5665939", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.046907" }, "geometry": { "type": "Point", "coordinates": [ 121.5665939, 25.046907 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2741-7579", "name": "地久天長有限公司(集客長安一店)", "display_ad": "臺北市中山區長安東路2段174號之1;1樓", "poi_addr": "臺北市長安東路二段174號", "gglon": "121.5402001", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0481847" }, "geometry": { "type": "Point", "coordinates": [ 121.5402001, 25.0481847 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "峰鉦冷飲店(市招：清心福全冷飲站延吉店)", "display_ad": "臺北市松山區延吉街2-3號1樓", "poi_addr": "台北市延吉街2之3號", "gglon": "121.465732", "traffic_in": null, "certificat": "飲冰品業", "gglat": "24.98423" }, "geometry": { "type": "Point", "coordinates": [ 121.465732, 24.98423 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "德東芋圓之家飲料店", "display_ad": "臺北市士林區德行東路155號1樓", "poi_addr": "台北市德行東路155號", "gglon": "121.529758", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.108348" }, "geometry": { "type": "Point", "coordinates": [ 121.529758, 25.108348 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)北投分公司", "display_ad": "臺北市北投區中央北路1段42-1號1樓", "poi_addr": "台北市中央北路一段42之1號", "gglon": "121.5007836", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.1340601" }, "geometry": { "type": "Point", "coordinates": [ 121.5007836, 25.1340601 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "巨洲有限公司(市招：木村咖啡)新光信義A11館", "display_ad": "臺北市信義區松壽路11號B2", "poi_addr": "台北市松壽路11號", "gglon": "121.567442", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.036023" }, "geometry": { "type": "Point", "coordinates": [ 121.567442, 25.036023 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "克莉絲汀咖啡小屋(市招：85度c大安遠企店)", "display_ad": "臺北市大安區大安路2段55號", "poi_addr": "台北市大安路二段55號", "gglon": "121.546158", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0312391" }, "geometry": { "type": "Point", "coordinates": [ 121.546158, 25.0312391 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)台北瑞光分公司", "display_ad": "臺北市內湖路1段356號1樓", "poi_addr": "台北市內湖路一段356號", "gglon": "121.570444", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.081435" }, "geometry": { "type": "Point", "coordinates": [ 121.570444, 25.081435 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2586-8007", "name": "奶茶站飲料坊", "display_ad": "臺北市大同區重慶北路3段335巷54號", "poi_addr": "臺北市重慶北路三段335巷54號", "gglon": "121.515491", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.074449" }, "geometry": { "type": "Point", "coordinates": [ 121.515491, 25.074449 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2897-8385", "name": "良饌商行(市招:85℃)", "display_ad": "臺北市北投區中和街335號", "poi_addr": "臺北市中和街335號", "gglon": "121.499607", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.141014" }, "geometry": { "type": "Point", "coordinates": [ 121.499607, 25.141014 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "雙印 (市招:養生新概念蔬果吧)", "display_ad": "臺北市信義區松高路12號B2樓(新光三越A8)", "poi_addr": "臺北市信義區松高路12號", "gglon": "121.5667359", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0388997" }, "geometry": { "type": "Point", "coordinates": [ 121.5667359, 25.0388997 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2370-3302", "name": "星半島股份有限公司", "display_ad": "臺北市萬華區中華路1段144號之31", "poi_addr": "臺北市中華路一段144號", "gglon": "121.508235", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.043218" }, "geometry": { "type": "Point", "coordinates": [ 121.508235, 25.043218 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "巾好品有限公司(市招：鮮芋仙大直店)", "display_ad": "臺北市中山區大直街59號", "poi_addr": "台北市中山區大直街59號", "gglon": "121.546438", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.083408" }, "geometry": { "type": "Point", "coordinates": [ 121.546438, 25.083408 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "東璋冷飲店(市招：清心福全冷飲站景文店)", "display_ad": "臺北市文山區景文街129號1樓", "poi_addr": "台北市景文街129號", "gglon": "121.541183", "traffic_in": null, "certificat": "飲冰品業", "gglat": "24.990224" }, "geometry": { "type": "Point", "coordinates": [ 121.541183, 24.990224 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2381-9080", "name": "綠筑坊綠茶專賣店(市招:50嵐)", "display_ad": "臺北市萬華區漢中街136號", "poi_addr": "臺北市漢中街136號", "gglon": "121.507082", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.041821" }, "geometry": { "type": "Point", "coordinates": [ 121.507082, 25.041821 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "8661-7218", "name": "艾諾國際開發有限公司(市招:若石餐坊)", "display_ad": "臺北市文山區新光路2段28號", "poi_addr": "臺北市新光路二段28號", "gglon": "121.577122", "traffic_in": null, "certificat": "飲冰品業", "gglat": "24.9966378" }, "geometry": { "type": "Point", "coordinates": [ 121.577122, 24.9966378 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "統一星巴克股份有限公司台北市第63分公司", "display_ad": "臺北市北投區光明路218之4號", "poi_addr": "台北市光明路218之4號", "gglon": "121.504383", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.136201" }, "geometry": { "type": "Point", "coordinates": [ 121.504383, 25.136201 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)中華分公司", "display_ad": "臺北市萬華區中華路1段80號1樓", "poi_addr": "台北市中華路一段80號", "gglon": "121.508776", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.045477" }, "geometry": { "type": "Point", "coordinates": [ 121.508776, 25.045477 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2528-7088", "name": "The Tea Zone", "display_ad": "臺北市信義區忠孝東路5段375號", "poi_addr": "臺北市忠孝東路五段375號", "gglon": "121.5750868", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0410221" }, "geometry": { "type": "Point", "coordinates": [ 121.5750868, 25.0410221 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2325-8990", "name": "紅豆薏人屋(市招:綠逗薏人大安店)", "display_ad": "臺北市大安區大安路1段192號", "poi_addr": "臺北市大安路一段192號", "gglon": "121.545847", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0356489" }, "geometry": { "type": "Point", "coordinates": [ 121.545847, 25.0356489 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "統一星巴克股份有限公司台北市第31分公司", "display_ad": "臺北市萬華區漢中街51號", "poi_addr": "台北市漢中街51號", "gglon": "121.5074479", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.044047" }, "geometry": { "type": "Point", "coordinates": [ 121.5074479, 25.044047 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2321-4301", "name": "沙茶匠飲料店", "display_ad": "臺北市中正區新生南路1段6之5號1樓", "poi_addr": "臺北市新生南路一段6之5號", "gglon": "121.53273", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.04398" }, "geometry": { "type": "Point", "coordinates": [ 121.53273, 25.04398 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "台灣通用磨坊股份有限公司(市招：H?agen-Dazs)南西門市", "display_ad": "臺北市中山區南京西路12號B2(新光三越南西店)", "poi_addr": "台北市南京西路12號", "gglon": "121.521187", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.052307" }, "geometry": { "type": "Point", "coordinates": [ 121.521187, 25.052307 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "甜蜜蜜甜品店(市招：鮮芋仙南港後山埤店)", "display_ad": "臺北市南港區忠孝東路5段968號1樓", "poi_addr": "台北市忠孝東路五段968號", "gglon": "121.582224", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.044228" }, "geometry": { "type": "Point", "coordinates": [ 121.582224, 25.044228 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "豐達食品行(市招：小南門豆花)", "display_ad": "臺北市松山區復興南路1段39號(微風百貨美食街)", "poi_addr": "台北市復興南路一段39號", "gglon": "121.5441769", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0461403" }, "geometry": { "type": "Point", "coordinates": [ 121.5441769, 25.0461403 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "穩懋甜品屋(市招：鮮芋仙南西店)", "display_ad": "臺北市大同區南京西路37號及39號", "poi_addr": "台北市大同區南京西路37號及39號", "gglon": "121.519843", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.052922" }, "geometry": { "type": "Point", "coordinates": [ 121.519843, 25.052922 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "小也茶行(COMEBUY-天母店)", "display_ad": "臺北市士林區天母西路3號1之29", "poi_addr": "台北市天母西路3號", "gglon": "121.529291", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.118609" }, "geometry": { "type": "Point", "coordinates": [ 121.529291, 25.118609 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2882-8239", "name": "COCO華齡店", "display_ad": "臺北市士林區華齡街16號", "poi_addr": "臺北市華齡街16號", "gglon": "121.519581", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.083008" }, "geometry": { "type": "Point", "coordinates": [ 121.519581, 25.083008 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "宜容食品有限公司(市招：rido coffee里豆咖啡)光北分公司", "display_ad": "臺北市松山區光復北路96號", "poi_addr": "台北市光復北路96號", "gglon": "121.5577861", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0504434" }, "geometry": { "type": "Point", "coordinates": [ 121.5577861, 25.0504434 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "辛亥冷飲店(市招：清心福全冷飲站辛亥店)", "display_ad": "臺北市文山區辛亥路4段247號", "poi_addr": "台北市辛亥路四段247號", "gglon": "121.554922", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.001055" }, "geometry": { "type": "Point", "coordinates": [ 121.554922, 25.001055 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "樂雅樂食品股份有限公司北投分公司", "display_ad": "臺北市北投區北投路2段9號1樓", "poi_addr": "台北市北投路二段9號", "gglon": "121.498815", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.130497" }, "geometry": { "type": "Point", "coordinates": [ 121.498815, 25.130497 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2711-6797", "name": "雨萱企業社(市招:泉發蜂蜜)", "display_ad": "臺北市大安區忠孝東路3段196號", "poi_addr": "臺北市忠孝東路三段196號", "gglon": "121.539392", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.041419" }, "geometry": { "type": "Point", "coordinates": [ 121.539392, 25.041419 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "巨洲有限公司(市招：木村咖啡)新光信義A4館", "display_ad": "臺北市信義區松高路19號B2", "poi_addr": "台北市松高路19號", "gglon": "121.567026", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.039329" }, "geometry": { "type": "Point", "coordinates": [ 121.567026, 25.039329 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2504-6005", "name": "馥餘實業股份有限公司榮星分公司(市招:西雅圖)", "display_ad": "臺北市中山區民權東路3段3號1樓", "poi_addr": "臺北市民權東路三段3號", "gglon": "121.541131", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.06257" }, "geometry": { "type": "Point", "coordinates": [ 121.541131, 25.06257 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "統一星巴克股份有限公司台北市第9分公司", "display_ad": "臺北市大安區和平東路1段2號", "poi_addr": "台北市和平東路一段2號", "gglon": "121.522941", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0268189" }, "geometry": { "type": "Point", "coordinates": [ 121.522941, 25.0268189 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "COMEBUY-永吉店", "display_ad": "臺北市信義區永吉路30巷97號", "poi_addr": "台北市永吉路30巷97號", "gglon": "121.568894", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.043678" }, "geometry": { "type": "Point", "coordinates": [ 121.568894, 25.043678 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "美味達人股份有限公司(市招：85度c)士林分公司", "display_ad": "臺北市士林區中正路249-3號", "poi_addr": "台北市中正路249之3號", "gglon": "121.525437", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.09503" }, "geometry": { "type": "Point", "coordinates": [ 121.525437, 25.09503 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2708-3014", "name": "36號咖啡", "display_ad": "臺北市大安區和平東路2段311巷36號", "poi_addr": "臺北市和平東路二段311巷36號", "gglon": "121.545062", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.025756" }, "geometry": { "type": "Point", "coordinates": [ 121.545062, 25.025756 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2533-1350", "name": "實踐綠茶店(市招:50嵐)", "display_ad": "臺北市中山區大直街51號", "poi_addr": "臺北市大直街51號", "gglon": "121.5464509", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.083095" }, "geometry": { "type": "Point", "coordinates": [ 121.5464509, 25.083095 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2370-0111", "name": "米加飲料店", "display_ad": "臺北市萬華區昆明街134號1樓", "poi_addr": "臺北市昆明街134號", "gglon": "121.5047174", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0429138" }, "geometry": { "type": "Point", "coordinates": [ 121.5047174, 25.0429138 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2331-2018", "name": "阿波伯楊桃汁店", "display_ad": "臺北市萬華區康定路83號", "poi_addr": "臺北市康定路83號", "gglon": "121.502148", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.040208" }, "geometry": { "type": "Point", "coordinates": [ 121.502148, 25.040208 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "台灣通用磨坊股份有限公司(市招：H?agen-Dazs)敦南旗艦分公司", "display_ad": "臺北市大安區敦化南路1段173號1F", "poi_addr": "台北市敦化南路一段173號", "gglon": "121.549288", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.043197" }, "geometry": { "type": "Point", "coordinates": [ 121.549288, 25.043197 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "台灣通用磨坊股份有限公司(市招：H?agen-Dazs)忠孝門市", "display_ad": "臺北市大安區忠孝東路4段45號B1(太平洋SOGO百貨)", "poi_addr": "台北市大安區忠孝東路4段45號", "gglon": "121.544899", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.041922" }, "geometry": { "type": "Point", "coordinates": [ 121.544899, 25.041922 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2325-6578", "name": "提拉米蘇精緻蛋糕有限公司", "display_ad": "臺北市大安區復興南路2段162號", "poi_addr": "臺北市復興南路二段162號", "gglon": "121.543236", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0277179" }, "geometry": { "type": "Point", "coordinates": [ 121.543236, 25.0277179 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2713-8772", "name": "咖比咖啡店", "display_ad": "臺北市松山區民生東路3段113巷21號1樓", "poi_addr": "臺北市民生東路三段113巷21號", "gglon": "121.5462929", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0592295" }, "geometry": { "type": "Point", "coordinates": [ 121.5462929, 25.0592295 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "8791-1851", "name": "民瑞茶行(市招:50嵐)", "display_ad": "臺北市內湖區民權東路6段62號", "poi_addr": "臺北市民權東路六段62號", "gglon": "121.584809", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.06866" }, "geometry": { "type": "Point", "coordinates": [ 121.584809, 25.06866 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)格致分公司", "display_ad": "臺北市士林區格致路59號", "poi_addr": "台北市格致路59號", "gglon": "121.546476", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.1378889" }, "geometry": { "type": "Point", "coordinates": [ 121.546476, 25.1378889 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2719-2600", "name": "她怕事股份有限公司(市招：QUEPASA給巴薩創意地中海料理）", "display_ad": "臺北市松山區復興北路313巷32號", "poi_addr": "臺北市復興北路313巷32號", "gglon": "121.5465281", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0588711" }, "geometry": { "type": "Point", "coordinates": [ 121.5465281, 25.0588711 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)忠誠分公司", "display_ad": "臺北市士林區忠誠路1段188號1樓", "poi_addr": "台北市忠誠路一段188號", "gglon": "121.530115", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.108188" }, "geometry": { "type": "Point", "coordinates": [ 121.530115, 25.108188 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "童話商行(市招:童話甜品)", "display_ad": "臺北市內湖區成功路3段183號", "poi_addr": "臺北市成功路三段183號", "gglon": "121.59061", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0802679" }, "geometry": { "type": "Point", "coordinates": [ 121.59061, 25.0802679 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "金桔橙寧波店", "display_ad": "臺北市中正區寧波西街78號", "poi_addr": "臺北市寧波西街78號", "gglon": "121.516309", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.02991" }, "geometry": { "type": "Point", "coordinates": [ 121.516309, 25.02991 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)長安西路分公司", "display_ad": "臺北市大同區長安西路219號", "poi_addr": "台北市長安西路219號", "gglon": "121.512504", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.052046" }, "geometry": { "type": "Point", "coordinates": [ 121.512504, 25.052046 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "東豐信維冷熱飲站(市招：清心福全冷飲站大安店)", "display_ad": "臺北市大安區大安路1段223號", "poi_addr": "台北市大安路一段223號", "gglon": "121.546164", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.034648" }, "geometry": { "type": "Point", "coordinates": [ 121.546164, 25.034648 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "湘澄咖啡館(市招：85度c台北寶興店)", "display_ad": "臺北市萬華區寶興街92號", "poi_addr": "台北市寶興街92號", "gglon": "121.494298", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.025882" }, "geometry": { "type": "Point", "coordinates": [ 121.494298, 25.025882 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2736-4199", "name": "達客商行(市招:cafe8和平東路店)", "display_ad": "臺北市大安區和平東路2段98號", "poi_addr": "臺北市和平東路二段98號", "gglon": "121.541451", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.024939" }, "geometry": { "type": "Point", "coordinates": [ 121.541451, 25.024939 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "大田多稼咖啡有限公司健康店", "display_ad": "臺北市松山區健康路156號1樓", "poi_addr": "台北市松山區健康路156號", "gglon": "121.5572385", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0534246" }, "geometry": { "type": "Point", "coordinates": [ 121.5572385, 25.0534246 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "乃胖甜品屋(市招：鮮芋仙南京店)", "display_ad": "臺北市松山區南京東路5段252號", "poi_addr": "台北市松山區南京東路五段252號", "gglon": "121.565941", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.051209" }, "geometry": { "type": "Point", "coordinates": [ 121.565941, 25.051209 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "水風鈴飲料舖(市招:歇腳亭)", "display_ad": "臺北市士林區中正路235巷40號", "poi_addr": "臺北市中正路235巷40號", "gglon": "121.526215", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.094249" }, "geometry": { "type": "Point", "coordinates": [ 121.526215, 25.094249 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "COMEBUY-北投裕民店", "display_ad": "臺北市北投區裕民1路30號", "poi_addr": "台北市裕民1路30號", "gglon": "121.447789", "traffic_in": null, "certificat": "飲冰品業", "gglat": "24.988373" }, "geometry": { "type": "Point", "coordinates": [ 121.447789, 24.988373 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2518-0913", "name": "茗柯小吃店", "display_ad": "臺北市中山區合江街142號", "poi_addr": "臺北市合江街142號", "gglon": "121.5391466", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0598442" }, "geometry": { "type": "Point", "coordinates": [ 121.5391466, 25.0598442 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)中山北路第二分", "display_ad": "臺北市中山區中山北路2段76號1樓", "poi_addr": "台北市中山北路二段76號", "gglon": "121.522587", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.057146" }, "geometry": { "type": "Point", "coordinates": [ 121.522587, 25.057146 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "小蜜豆休閒食品店", "display_ad": "臺北市大安區大安路2段144號", "poi_addr": "臺北市大安路二段144號", "gglon": "121.545863", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.029243" }, "geometry": { "type": "Point", "coordinates": [ 121.545863, 25.029243 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)新生南路分公司", "display_ad": "臺北市大安區區新生南路1段161之1號", "poi_addr": "台北市區新生南路一段161之1號", "gglon": "121.533077", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0344899" }, "geometry": { "type": "Point", "coordinates": [ 121.533077, 25.0344899 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)光復分公司", "display_ad": "臺北市大安區光復南路552號", "poi_addr": "台北市光復南路552號", "gglon": "121.557314", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0345969" }, "geometry": { "type": "Point", "coordinates": [ 121.557314, 25.0345969 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "明蓁商行(市招：鮮芋仙台北南機場店)", "display_ad": "臺北市中正區中華路2段309巷1號3號", "poi_addr": "台北市中正區中華路二段309巷1號;3號", "gglon": "121.505529", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0286119" }, "geometry": { "type": "Point", "coordinates": [ 121.505529, 25.0286119 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2331-8699", "name": "好口杯冷飲店", "display_ad": "臺北市萬華區峨眉街23號1樓", "poi_addr": "臺北市峨眉街23號", "gglon": "121.507878", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.043527" }, "geometry": { "type": "Point", "coordinates": [ 121.507878, 25.043527 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "小林甜品屋(市招：鮮芋仙吳興店)", "display_ad": "臺北市信義區吳興街220巷3號", "poi_addr": "台北市信義區吳興街220巷3號", "gglon": "121.562869", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.027658" }, "geometry": { "type": "Point", "coordinates": [ 121.562869, 25.027658 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2885-5755", "name": "元順食品行(市招:85度C台北劍潭店)", "display_ad": "臺北市士林區承德路4段31號", "poi_addr": "臺北市承德路四段31號", "gglon": "121.5225481", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0805737" }, "geometry": { "type": "Point", "coordinates": [ 121.5225481, 25.0805737 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2504-3808", "name": "品楙國際有限公司", "display_ad": "臺北市中山區農安街227之1號", "poi_addr": "臺北市農安街227之1號", "gglon": "121.533966", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0647718" }, "geometry": { "type": "Point", "coordinates": [ 121.533966, 25.0647718 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2881-8220", "name": "都可流行生活飲食大南店(市招:COCO大南店)", "display_ad": "臺北市士林區大南路309號", "poi_addr": "臺北市大南路309號", "gglon": "121.518384", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0888199" }, "geometry": { "type": "Point", "coordinates": [ 121.518384, 25.0888199 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "COMEBUY-和平店", "display_ad": "臺北市大安區和平東路2段118巷38號", "poi_addr": "台北市和平東路二段118巷38號", "gglon": "121.542758", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.023128" }, "geometry": { "type": "Point", "coordinates": [ 121.542758, 25.023128 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2731-5791", "name": "伯朗咖啡股份有限公司台北科大分公司", "display_ad": "臺北市大安區忠孝東路3段54號", "poi_addr": "臺北市忠孝東路三段54號", "gglon": "121.535489", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0417269" }, "geometry": { "type": "Point", "coordinates": [ 121.535489, 25.0417269 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "台灣通用磨坊股份有限公司(市招：H?agen-Dazs)大葉高島屋門市", "display_ad": "臺北市士林區忠誠路2段55號B1(大葉高島屋百貨)", "poi_addr": "台北市忠誠路二段55號", "gglon": "121.5313421", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.1117343" }, "geometry": { "type": "Point", "coordinates": [ 121.5313421, 25.1117343 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2630-5252", "name": "尚暘行(市招:85度C咖啡館東湖康寧店)", "display_ad": "臺北市內湖區康樂街72巷2號", "poi_addr": "臺北市康樂街72巷2號", "gglon": "121.6184908", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0693925" }, "geometry": { "type": "Point", "coordinates": [ 121.6184908, 25.0693925 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "天仁茶業股份有限公司-復興一店分公司", "display_ad": "臺北市中山區復興北路152號1樓", "poi_addr": "台北市復興北路152號", "gglon": "121.543821", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.052869" }, "geometry": { "type": "Point", "coordinates": [ 121.543821, 25.052869 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2332-8618", "name": "寶興冷飲店(市招:清心福全)", "display_ad": "臺北市萬華區寶興街94號1樓", "poi_addr": "臺北市寶興街94號", "gglon": "121.494317", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.02584" }, "geometry": { "type": "Point", "coordinates": [ 121.494317, 25.02584 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "心敏甜品店(市招:鮮芋仙)", "display_ad": "臺北市松山區光復北路48號", "poi_addr": "臺北市松山區光復北路48號", "gglon": "121.557775", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0496899" }, "geometry": { "type": "Point", "coordinates": [ 121.557775, 25.0496899 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "休閒國聯股份有限公司(市招：鮮芋仙)大東分公司", "display_ad": "臺北市士林區大東路38號", "poi_addr": "台北市士林區大東路38號", "gglon": "121.525345", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.08939" }, "geometry": { "type": "Point", "coordinates": [ 121.525345, 25.08939 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "水龜伯古早味石牌店", "display_ad": "臺北市北投區石牌路2段75巷8號1樓", "poi_addr": "台北市石牌路二段75巷8號", "gglon": "121.515821", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.116901" }, "geometry": { "type": "Point", "coordinates": [ 121.515821, 25.116901 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "7737-9630", "name": "天仁茶業股份有限公司-ATT信義專櫃(市招：喫茶趣ToGo)", "display_ad": "臺北市信義區松壽路12號1樓", "poi_addr": "台北市松壽路12號", "gglon": "121.566131", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0356149" }, "geometry": { "type": "Point", "coordinates": [ 121.566131, 25.0356149 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2727-7290", "name": "達維咖啡茶飲專賣店(市招:T Cafe)", "display_ad": "臺北市信義區松山路536號", "poi_addr": "臺北市松山路536號", "gglon": "121.578075", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0378279" }, "geometry": { "type": "Point", "coordinates": [ 121.578075, 25.0378279 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "8712-2269", "name": "天仁茶業股份有限公司-momo百貨專櫃(市招：喫茶趣ToGo)", "display_ad": "臺北市松山區南京東路3段337號B2", "poi_addr": "台北市南京東路三段337號", "gglon": "121.548289", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.052006" }, "geometry": { "type": "Point", "coordinates": [ 121.548289, 25.052006 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "耀翔冷飲小站(市招：清心福全冷飲站中山民生東店)", "display_ad": "臺北市中山區民生東路1段40號", "poi_addr": "台北市民生東路一段40號", "gglon": "121.524441", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.057897" }, "geometry": { "type": "Point", "coordinates": [ 121.524441, 25.057897 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2505-0476", "name": "丹堤咖啡研磨專賣店復興民權店", "display_ad": "臺北市中山區復興北路398號1樓", "poi_addr": "臺北市復興北路398號", "gglon": "121.54401", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.061507" }, "geometry": { "type": "Point", "coordinates": [ 121.54401, 25.061507 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "天仁茶業股份有限公司-喫茶趣衡陽一店分公司", "display_ad": "臺北市中正區衡陽路62號2樓", "poi_addr": "台北市衡陽路62號", "gglon": "121.5118", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0421559" }, "geometry": { "type": "Point", "coordinates": [ 121.5118, 25.0421559 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "8732-7588", "name": "茶米盒子小舖 (市招: 清心福全和平東店)", "display_ad": "臺北市大安區和平東路3段294號", "poi_addr": "臺北市和平東路三段294號", "gglon": "121.556174", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0207179" }, "geometry": { "type": "Point", "coordinates": [ 121.556174, 25.0207179 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2314-0306", "name": "永富冰淇淋", "display_ad": "臺北市萬華區貴陽街2段68號", "poi_addr": "臺北市貴陽街二段68號", "gglon": "121.504023", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.03971" }, "geometry": { "type": "Point", "coordinates": [ 121.504023, 25.03971 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2537-2227", "name": "鼎健股份有限公司(市招:方亭咖啡)", "display_ad": "臺北市中山區松江路40號1樓", "poi_addr": "臺北市松江路40號", "gglon": "121.532661", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.047624" }, "geometry": { "type": "Point", "coordinates": [ 121.532661, 25.047624 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2731-5500", "name": "健康橘子工坊(市招:橘子工坊大安延吉店)", "display_ad": "臺北市大安區延吉街169號", "poi_addr": "臺北市延吉街169號", "gglon": "121.555381", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.038561" }, "geometry": { "type": "Point", "coordinates": [ 121.555381, 25.038561 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2532-5223", "name": "統一星巴克實踐門市", "display_ad": "臺北市中山區大直街70號", "poi_addr": "臺北市大直街70號", "gglon": "121.5453075", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0830795" }, "geometry": { "type": "Point", "coordinates": [ 121.5453075, 25.0830795 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "八水飲品(市招：三角埔仙草復興微風店)", "display_ad": "臺北市松山區復興南路1段23號1樓", "poi_addr": "臺北市復興南路一段23號", "gglon": "121.544154", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0466819" }, "geometry": { "type": "Point", "coordinates": [ 121.544154, 25.0466819 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2517-3150", "name": "統一星巴克股份有限公司(松安門市)(市招：統一星巴克)", "display_ad": "臺北市中山區松江路61-1號1樓", "poi_addr": "台北市松江路61之1號", "gglon": "121.533204", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.048733" }, "geometry": { "type": "Point", "coordinates": [ 121.533204, 25.048733 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "蜂大咖啡有限公司", "display_ad": "臺北市萬華區成都路42號", "poi_addr": "台北市成都路42號", "gglon": "121.506354", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.042566" }, "geometry": { "type": "Point", "coordinates": [ 121.506354, 25.042566 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "統一星巴克股份有限公司台北市第38分公司", "display_ad": "臺北市中正區懷寧街10號1-3F", "poi_addr": "台北市懷寧街10號", "gglon": "121.514113", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.046194" }, "geometry": { "type": "Point", "coordinates": [ 121.514113, 25.046194 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2792-0050", "name": "古早傳說股份有限公司", "display_ad": "臺北市內湖區民權東路6段13之20號", "poi_addr": "臺北市民權東路六段13之20號", "gglon": "121.579852", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0673789" }, "geometry": { "type": "Point", "coordinates": [ 121.579852, 25.0673789 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2794-6430", "name": "啡映像咖啡專賣店", "display_ad": "臺北市內湖區民權東路6段80號1樓", "poi_addr": "臺北市民權東路六段80號", "gglon": "121.585531", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.06873" }, "geometry": { "type": "Point", "coordinates": [ 121.585531, 25.06873 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "美食豆花 (市招:一漾豆花)", "display_ad": "臺北市信義區松高路12號B2樓(新光三越A8)", "poi_addr": "臺北市信義區松高路12號", "gglon": "121.5667359", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0388997" }, "geometry": { "type": "Point", "coordinates": [ 121.5667359, 25.0388997 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "浩亨行(市招：鮮芋仙忠孝店)", "display_ad": "臺北市中正區忠孝東路2段134巷1號1樓", "poi_addr": "台北市中正區忠孝東路二段134巷1號", "gglon": "121.531849", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.041644" }, "geometry": { "type": "Point", "coordinates": [ 121.531849, 25.041644 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "巨洲有限公司(市招：木村咖啡)新光南西店", "display_ad": "臺北市中山區南京西路12號B2", "poi_addr": "台北市南京西路12號", "gglon": "121.521187", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.052307" }, "geometry": { "type": "Point", "coordinates": [ 121.521187, 25.052307 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2368-2805", "name": "公館水源門市-商場專櫃(市招：統一星巴克)", "display_ad": "臺北市中正區思源街16號", "poi_addr": "台北市思源街16號", "gglon": "121.5310949", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0144152" }, "geometry": { "type": "Point", "coordinates": [ 121.5310949, 25.0144152 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2351-8531", "name": "台灣麥當勞餐廳股份有限公司台北南昌分公司", "display_ad": "臺北市中正區南昌路1段149號", "poi_addr": "臺北市南昌路一段149號", "gglon": "121.5186624", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0294765" }, "geometry": { "type": "Point", "coordinates": [ 121.5186624, 25.0294765 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "上大涼飲站(市招：清心福全冷飲站永吉店)", "display_ad": "臺北市信義區永吉路30巷73之2號", "poi_addr": "台北市永吉路30巷73之2號", "gglon": "121.568931", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.044183" }, "geometry": { "type": "Point", "coordinates": [ 121.568931, 25.044183 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "COMEBUY-安居店", "display_ad": "臺北市大安區安居街30號", "poi_addr": "台北市安居街30號", "gglon": "121.554543", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.020819" }, "geometry": { "type": "Point", "coordinates": [ 121.554543, 25.020819 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "春塘一品冷飲站(市招：清心福全冷飲站中坡北店)", "display_ad": "臺北市信義區永吉路524號", "poi_addr": "台北市永吉路524號", "gglon": "121.580449", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.045216" }, "geometry": { "type": "Point", "coordinates": [ 121.580449, 25.045216 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2726-0558", "name": "大方冰品", "display_ad": "臺北市信義區信義路6段119號", "poi_addr": "臺北市信義路六段119號", "gglon": "121.578256", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.036336" }, "geometry": { "type": "Point", "coordinates": [ 121.578256, 25.036336 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2371-9903", "name": "倘夏綠茶店", "display_ad": "臺北市萬華區昆明街106號1樓", "poi_addr": "臺北市昆明街106號", "gglon": "121.5049469", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.043807" }, "geometry": { "type": "Point", "coordinates": [ 121.5049469, 25.043807 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2703-6363", "name": "復興橘子商行(市招:橘子工坊復南店)", "display_ad": "臺北市大安區復興南路2段152號", "poi_addr": "臺北市復興南路二段152號", "gglon": "121.54324", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.02811" }, "geometry": { "type": "Point", "coordinates": [ 121.54324, 25.02811 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "清馨冷飲店(市招：清心福全冷飲站南港店)", "display_ad": "臺北市南港區南港路3段20號", "poi_addr": "台北市南港路三段20號", "gglon": "121.592522", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.054455" }, "geometry": { "type": "Point", "coordinates": [ 121.592522, 25.054455 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2711-7610", "name": "天之飲飲料店(市招:黑面蔡忠孝店)", "display_ad": "臺北市大安區忠孝東路4段216巷30號", "poi_addr": "臺北市忠孝東路四段216巷30號", "gglon": "121.552851", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.039964" }, "geometry": { "type": "Point", "coordinates": [ 121.552851, 25.039964 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "統一星巴克股份有限公司台北市第49分公司", "display_ad": "臺北市北投區湖山路1段14號之1", "poi_addr": "台北市湖山路一段14號", "gglon": "121.547346", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.1525189" }, "geometry": { "type": "Point", "coordinates": [ 121.547346, 25.1525189 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2891-7920", "name": "COCO中央店", "display_ad": "臺北市北投區中央北路2段31號", "poi_addr": "臺北市中央北路二段31號", "gglon": "121.49561", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.136627" }, "geometry": { "type": "Point", "coordinates": [ 121.49561, 25.136627 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2305-4750", "name": "建中黑砂糖刨冰", "display_ad": "臺北市中正區泉州街35號", "poi_addr": "臺北市泉州街35號", "gglon": "121.514387", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0293369" }, "geometry": { "type": "Point", "coordinates": [ 121.514387, 25.0293369 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "台灣通用磨坊股份有限公司(市招：H?agen-Dazs)Sogo忠孝復興門市", "display_ad": "臺北市大安區忠孝東路3段300號5F(太平洋SOGO百貨)", "poi_addr": "台北市大安區忠孝東路3段300號", "gglon": "121.543265", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0414719" }, "geometry": { "type": "Point", "coordinates": [ 121.543265, 25.0414719 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2654-8761", "name": "夢幻幾何泡沫紅茶坊", "display_ad": "臺北市南港區中坡北路18號", "poi_addr": "臺北市中坡北路18號", "gglon": "121.581477", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.044853" }, "geometry": { "type": "Point", "coordinates": [ 121.581477, 25.044853 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "都龍冰?專業店", "display_ad": "臺北市萬華區廣州街168號1樓", "poi_addr": "台北市廣州街168號", "gglon": "121.498922", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.036632" }, "geometry": { "type": "Point", "coordinates": [ 121.498922, 25.036632 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)民生東路分公司", "display_ad": "臺北市松山區民生東路5段1號", "poi_addr": "台北市民生東路五段1號", "gglon": "121.555662", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.058533" }, "geometry": { "type": "Point", "coordinates": [ 121.555662, 25.058533 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "3322-2622", "name": "巧朵咖啡館(市招85℃)", "display_ad": "臺北市中正區臨沂街25巷19號", "poi_addr": "台北市臨沂街25巷19號", "gglon": "121.531456", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.04137" }, "geometry": { "type": "Point", "coordinates": [ 121.531456, 25.04137 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "禾利商行(市招：鮮芋仙安居店)", "display_ad": "臺北市大安區安居街36號", "poi_addr": "台北市大安區安居街36號", "gglon": "121.55441", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.020592" }, "geometry": { "type": "Point", "coordinates": [ 121.55441, 25.020592 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "亞誠商行(市招:古典玫瑰園)", "display_ad": "臺北市士林區中山北路5段604號1樓", "poi_addr": "臺北市士林區中山北路五段604號1樓", "gglon": "121.5280807", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0962308" }, "geometry": { "type": "Point", "coordinates": [ 121.5280807, 25.0962308 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2932-7519", "name": "嗆8飲品玩意店", "display_ad": "臺北市文山區興隆路3段58之4號", "poi_addr": "臺北市興隆路三段58之4號", "gglon": "121.555699", "traffic_in": null, "certificat": "飲冰品業", "gglat": "24.999538" }, "geometry": { "type": "Point", "coordinates": [ 121.555699, 24.999538 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "統一星巴克股份有限公司台北市第41分公司", "display_ad": "臺北市內湖區康寧路3段72號1F", "poi_addr": "台北市康寧路三段72號", "gglon": "121.611319", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.070235" }, "geometry": { "type": "Point", "coordinates": [ 121.611319, 25.070235 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2507-8837", "name": "御川商行(市招:御仙草)", "display_ad": "臺北市中山區伊通街60號1樓", "poi_addr": "臺北市伊通街60號", "gglon": "121.53462", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.051582" }, "geometry": { "type": "Point", "coordinates": [ 121.53462, 25.051582 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "快樂地健康食品股份有限公司(市招：快樂地水果吧新光三越�", "display_ad": "臺北市中山區南京西路12號B2", "poi_addr": "台北市南京西路12號", "gglon": "121.521187", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.052307" }, "geometry": { "type": "Point", "coordinates": [ 121.521187, 25.052307 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "黃媽媽甜品屋", "display_ad": "臺北市信義區福德街244號", "poi_addr": "台北市信義區福德街244號", "gglon": "121.585179", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0387029" }, "geometry": { "type": "Point", "coordinates": [ 121.585179, 25.0387029 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "3322-1987", "name": "宏記冷飲店(市招:清心福全冷飲店中正南昌店)", "display_ad": "臺北市中正區南昌路1段17號1樓", "poi_addr": "臺北市南昌路一段17號", "gglon": "121.516795", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.032011" }, "geometry": { "type": "Point", "coordinates": [ 121.516795, 25.032011 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "吉果食品商行(市招：毒茶新樂園)", "display_ad": "臺北市大安區敦化南路1段190巷24號1樓", "poi_addr": "台北市敦化南路一段190巷24號", "gglon": "121.5474251", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0425784" }, "geometry": { "type": "Point", "coordinates": [ 121.5474251, 25.0425784 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2716-5113", "name": "慶城門市-商場專櫃(統一星巴克)", "display_ad": "臺北市松山區慶城街1號1樓", "poi_addr": "台北市慶城街1號", "gglon": "121.544455", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.052596" }, "geometry": { "type": "Point", "coordinates": [ 121.544455, 25.052596 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "天仁茶業股份有限公司-天母分公司", "display_ad": "臺北市士林區中山北路7段19號1樓", "poi_addr": "台北市中山北路七段19號", "gglon": "121.530458", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.119168" }, "geometry": { "type": "Point", "coordinates": [ 121.530458, 25.119168 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "COMEBUY-安居二店", "display_ad": "臺北市大安區和平東路3段258號", "poi_addr": "台北市和平東路三段258號", "gglon": "121.555338", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.021512" }, "geometry": { "type": "Point", "coordinates": [ 121.555338, 25.021512 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2838-3638", "name": "建鏡國際企業有限公司(市招:85度C咖啡雨聲店)", "display_ad": "臺北市士林區雨聲街36號", "poi_addr": "臺北市雨聲街36號", "gglon": "121.529181", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.102136" }, "geometry": { "type": "Point", "coordinates": [ 121.529181, 25.102136 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "茶堀都市茶館", "display_ad": "臺北市萬華區漢中街30號1樓", "poi_addr": "台北市漢中街30號", "gglon": "121.507587", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.045121" }, "geometry": { "type": "Point", "coordinates": [ 121.507587, 25.045121 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "新品美食屋(市招：鮮芋仙延平店)", "display_ad": "臺北市中正區延平南路173號", "poi_addr": "台北市中正區延平南路173號", "gglon": "121.507632", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.034773" }, "geometry": { "type": "Point", "coordinates": [ 121.507632, 25.034773 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "天仁茶業股份有限公司-陽明分公司", "display_ad": "臺北市士林區中山北路5段570號1樓", "poi_addr": "台北市中山北路五段570號", "gglon": "121.528164", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.095663" }, "geometry": { "type": "Point", "coordinates": [ 121.528164, 25.095663 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2762-6839", "name": "加得美果汁小舖(市招:新鮮屋果汁)", "display_ad": "臺北市松山區南京東路5段123巷8弄1之5號", "poi_addr": "臺北市南京東路五段123巷8弄1之5號", "gglon": "121.561012", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.053465" }, "geometry": { "type": "Point", "coordinates": [ 121.561012, 25.053465 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)吉祥分公司", "display_ad": "臺北市松山區市吉祥路59號", "poi_addr": "台北市市吉祥路59號", "gglon": "121.562578", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0506089" }, "geometry": { "type": "Point", "coordinates": [ 121.562578, 25.0506089 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "君翔小吃店(市招：毒茶招待所)", "display_ad": "臺北市大安區敦化南路1段160巷55號1樓", "poi_addr": "台北市敦化南路一段160巷55號", "gglon": "121.546552", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.043699" }, "geometry": { "type": "Point", "coordinates": [ 121.546552, 25.043699 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "億可國際飲食品股份有限公司(市招：CoCo都可)安居店", "display_ad": "臺北市大安區安居街18號", "poi_addr": "台北市安居街18號", "gglon": "121.554822", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.021023" }, "geometry": { "type": "Point", "coordinates": [ 121.554822, 25.021023 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "郁順茶行(COMEBUY-大直店)", "display_ad": "臺北市中山區大直街53號", "poi_addr": "台北市大直街53號", "gglon": "121.546451", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.083166" }, "geometry": { "type": "Point", "coordinates": [ 121.546451, 25.083166 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "天仁茶業股份有限公司-民生東路分公司", "display_ad": "臺北市中山區民生東路1段26-2號", "poi_addr": "台北市民生東路一段26之2號", "gglon": "121.523916", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.05792" }, "geometry": { "type": "Point", "coordinates": [ 121.523916, 25.05792 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2861-5223", "name": "歇腳亭文化店", "display_ad": "臺北市士林區華岡路55號(文化大學大雅樓)", "poi_addr": "臺北市華岡路55號", "gglon": "121.540962", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.137688" }, "geometry": { "type": "Point", "coordinates": [ 121.540962, 25.137688 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "哈茶屋飲食店", "display_ad": "臺北市內湖區康寧路1段49號", "poi_addr": "台北市內湖區康寧路一段49號", "gglon": "121.591992", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.08042" }, "geometry": { "type": "Point", "coordinates": [ 121.591992, 25.08042 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2528-7718", "name": "二雪映月美食館(市招:集客泡沫紅茶店)", "display_ad": "臺北市松山區東興路16號1樓", "poi_addr": "臺北市東興路16號", "gglon": "121.565213", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.049273" }, "geometry": { "type": "Point", "coordinates": [ 121.565213, 25.049273 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "霖園水果坊(市招：霖園水果大王)", "display_ad": "臺北市大安區師大路49巷4號", "poi_addr": "台北市師大路49巷4號", "gglon": "121.528846", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.024142" }, "geometry": { "type": "Point", "coordinates": [ 121.528846, 25.024142 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)台北重慶分公司", "display_ad": "臺北市大同區重慶北路三段271號1.2樓", "poi_addr": "台北市重慶北路三段271號", "gglon": "121.514067", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.072213" }, "geometry": { "type": "Point", "coordinates": [ 121.514067, 25.072213 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "台灣通用磨坊股份有限公司(市招：H?agen-Dazs)古亭門市", "display_ad": "臺北市中正區羅斯福路2段100號1樓", "poi_addr": "台北市羅斯福路二段100號", "gglon": "121.5223709", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0267474" }, "geometry": { "type": "Point", "coordinates": [ 121.5223709, 25.0267474 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "禎芳冷飲店(市招：清心福全冷飲站錦州店)", "display_ad": "臺北市中山區錦州街395號", "poi_addr": "台北市錦州街395號", "gglon": "121.541384", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.060358" }, "geometry": { "type": "Point", "coordinates": [ 121.541384, 25.060358 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)大安分公司", "display_ad": "臺北市大安區大安路1段237號", "poi_addr": "台北市大安路一段237號", "gglon": "121.5460639", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0341347" }, "geometry": { "type": "Point", "coordinates": [ 121.5460639, 25.0341347 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2931-7486", "name": "福美小吃店(市招:董月花奶舖)", "display_ad": "臺北市文山區興隆路3段36巷9弄10號之4", "poi_addr": "臺北市興隆路三段36巷9弄10號", "gglon": "121.555664", "traffic_in": null, "certificat": "飲冰品業", "gglat": "24.999716" }, "geometry": { "type": "Point", "coordinates": [ 121.555664, 24.999716 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)民權東路分公司", "display_ad": "臺北市中山區民權東路3段5號", "poi_addr": "台北市民權東路三段5號", "gglon": "121.541173", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.06257" }, "geometry": { "type": "Point", "coordinates": [ 121.541173, 25.06257 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "廣安階股份有限公司", "display_ad": "臺北市大安區忠孝東路3段300號B2樓", "poi_addr": "台北市忠孝東路三段300號", "gglon": "121.543265", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0414719" }, "geometry": { "type": "Point", "coordinates": [ 121.543265, 25.0414719 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "西園飲料店(市招：鮮芋仙萬華龍山店)", "display_ad": "臺北市萬華區西園路1段214號", "poi_addr": "台北市西園路一段214號", "gglon": "121.499202", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0355909" }, "geometry": { "type": "Point", "coordinates": [ 121.499202, 25.0355909 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "台灣通用磨坊股份有限公司(市招：H?agen-Dazs)華納門市", "display_ad": "臺北市信義區松壽路16號2樓(華納威秀影城)", "poi_addr": "台北市松壽路16號", "gglon": "121.566542", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.035684" }, "geometry": { "type": "Point", "coordinates": [ 121.566542, 25.035684 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "天仁茶業股份有限公司-士林分公司", "display_ad": "臺北市士林區中正路300號1樓", "poi_addr": "台北市中正路300號", "gglon": "121.523231", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0948898" }, "geometry": { "type": "Point", "coordinates": [ 121.523231, 25.0948898 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "8771-5757", "name": "天空茶飲專賣店(市招:大苑子茶飲專賣店)", "display_ad": "臺北市大安區延吉街178號", "poi_addr": "臺北市延吉街178號", "gglon": "121.555093", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.038682" }, "geometry": { "type": "Point", "coordinates": [ 121.555093, 25.038682 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "賓漢商行(市招：85度c中華店)", "display_ad": "臺北市萬華區中華路2段412號1樓", "poi_addr": "台北市中華路二段412號", "gglon": "121.505792", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0279944" }, "geometry": { "type": "Point", "coordinates": [ 121.505792, 25.0279944 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "台灣通用磨坊股份有限公司(市招：H?agen-Dazs)天母新光三越門�", "display_ad": "臺北市士林區天母東路68號2F(新光三越百貨天母店)", "poi_addr": "台北市天母東路68號", "gglon": "121.5338514", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.1179255" }, "geometry": { "type": "Point", "coordinates": [ 121.5338514, 25.1179255 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "名威商行(市招：鮮芋仙石牌店)", "display_ad": "臺北市北投區石牌路2段70號", "poi_addr": "台北市石牌路二段70號", "gglon": "121.516211", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.116493" }, "geometry": { "type": "Point", "coordinates": [ 121.516211, 25.116493 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "歇腳亭文大店", "display_ad": "臺北市士林區格致路24號", "poi_addr": "臺北市士林區格致路24號", "gglon": "121.546501", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.136763" }, "geometry": { "type": "Point", "coordinates": [ 121.546501, 25.136763 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "嚐鮮有限公司(市招：鮮芋仙東湖店)", "display_ad": "臺北市內湖區東湖路90號", "poi_addr": "台北市內湖區東湖路90號", "gglon": "121.614818", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.068478" }, "geometry": { "type": "Point", "coordinates": [ 121.614818, 25.068478 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "COMEBUY-北醫二店", "display_ad": "臺北市信義區吳興街269巷13號", "poi_addr": "台北市吳興街269巷13號", "gglon": "121.564724", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0274569" }, "geometry": { "type": "Point", "coordinates": [ 121.564724, 25.0274569 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "統一星巴克股份有限公司台北市第13分公司", "display_ad": "臺北市松山區南京東路3段337號", "poi_addr": "台北市松山區南京東路3段337號", "gglon": "121.548289", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.052006" }, "geometry": { "type": "Point", "coordinates": [ 121.548289, 25.052006 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "天仁茶業股份有限公司-誠品信義專櫃", "display_ad": "臺北市信義區松高路11號B2", "poi_addr": "台北市松高路11號", "gglon": "121.5657384", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0393151" }, "geometry": { "type": "Point", "coordinates": [ 121.5657384, 25.0393151 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "淞仁茶行(COMEBUY-松仁店)", "display_ad": "臺北市信義區松仁路223號", "poi_addr": "台北市松仁路223號", "gglon": "121.568652", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0265049" }, "geometry": { "type": "Point", "coordinates": [ 121.568652, 25.0265049 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "頂好企業股份有限公司(市招：IS COFFEE)八德分公司", "display_ad": "臺北市松山區八德路3段32號", "poi_addr": "台北市八德路三段32號", "gglon": "121.551717", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.048044" }, "geometry": { "type": "Point", "coordinates": [ 121.551717, 25.048044 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)士東分公司", "display_ad": "臺北市士林區中山北路6段730號", "poi_addr": "台北市中山北路六段730號", "gglon": "121.528009", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.115175" }, "geometry": { "type": "Point", "coordinates": [ 121.528009, 25.115175 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2345-1003", "name": "橘子工坊世貿店", "display_ad": "臺北市信義區莊敬路387號", "poi_addr": "臺北市莊敬路387號", "gglon": "121.565432", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.027663" }, "geometry": { "type": "Point", "coordinates": [ 121.565432, 25.027663 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "統一星巴克股份有限公司台北市第69分公司", "display_ad": "臺北市中正區南海路20號", "poi_addr": "台北市南海路20號", "gglon": "121.516881", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.032422" }, "geometry": { "type": "Point", "coordinates": [ 121.516881, 25.032422 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)天母分公司", "display_ad": "臺北市士林區天母北路85號", "poi_addr": "台北市天母北路85號", "gglon": "121.526922", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.121774" }, "geometry": { "type": "Point", "coordinates": [ 121.526922, 25.121774 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2722-7029", "name": "小南門豆花 A11館B2樓", "display_ad": "臺北市信義區松壽路11號B2樓(新光三越A11)", "poi_addr": "臺北市松壽路11號", "gglon": "121.567442", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.036023" }, "geometry": { "type": "Point", "coordinates": [ 121.567442, 25.036023 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "億可國際飲食品股份有限公司(市招：CoCo都可)和平店", "display_ad": "臺北市大安區和平東路2段311巷30號", "poi_addr": "台北市和平東路二段311巷30號", "gglon": "121.545052", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.025531" }, "geometry": { "type": "Point", "coordinates": [ 121.545052, 25.025531 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "天仁茶業股份有限公司-民生社區分公司", "display_ad": "臺北市松山區民生東路5段126號1樓", "poi_addr": "台北市民生東路五段126號", "gglon": "121.561328", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.058579" }, "geometry": { "type": "Point", "coordinates": [ 121.561328, 25.058579 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "安心食品服務股份有限公司(市招：摩斯漢堡)南港分公司", "display_ad": "臺北市南港區三重路19之8號", "poi_addr": "台北市三重路19之8號", "gglon": "121.6137391", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.057518" }, "geometry": { "type": "Point", "coordinates": [ 121.6137391, 25.057518 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "心泉茶品冷飲站(市招：清心福全冷飲站統領店)", "display_ad": "臺北市大安區忠孝東路4段216巷26-1號", "poi_addr": "台北市忠孝東路四段216巷26之1號", "gglon": "121.5528432", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.0400692" }, "geometry": { "type": "Point", "coordinates": [ 121.5528432, 25.0400692 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "天仁茶業股份有限公司-西門分公司", "display_ad": "臺北市萬華區成都路45號", "poi_addr": "台北市成都路45號", "gglon": "121.5064689", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.04275" }, "geometry": { "type": "Point", "coordinates": [ 121.5064689, 25.04275 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "台灣通用磨坊股份有限公司(市招：H?agen-Dazs)信義A4門市", "display_ad": "臺北市信義區松高路19號2F(新光三越百貨A4館)", "poi_addr": "台北市松高路19號", "gglon": "121.567026", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.039329" }, "geometry": { "type": "Point", "coordinates": [ 121.567026, 25.039329 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "北伊茶坊(市招:COME BUY現調飲品北醫店)", "display_ad": "臺北市信義區吳興街277號", "poi_addr": "臺北市信義區吳興街277號", "gglon": "121.564218", "traffic_in": null, "certificat": "飲冰品業", "gglat": "25.026605" }, "geometry": { "type": "Point", "coordinates": [ 121.564218, 25.026605 ] } }
+
+]
+}

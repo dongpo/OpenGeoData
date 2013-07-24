@@ -1,0 +1,108 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "category": "護家之家", "fax": null, "tel": "2778-8010", "name": "新嬰悅六福產後護理之家", "display_ad": "臺北市中山區南京東路三段130號6樓", "poi_addr": "台北市南京東路三段130號", "ggstat": "NG(all fuzzy coordina)", "gglon": "0", "traffic_in": null, "Y": "25.051760070405756", "X": "121.5407353763612", "gglat": "0" }, "geometry": { "type": "Point", "coordinates": [ 121.540735376361198, 25.051760070405756 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "2701-9150", "name": "敦南真愛一館產後護理之家", "display_ad": "臺北市大安區敦化南路一段362號3樓、3樓之1;2;3", "poi_addr": "台北市敦化南路一段362號", "ggstat": "OK", "gglon": "121.548194", "traffic_in": null, "Y": "25.034104000687908", "X": "121.54839963336688", "gglat": "25.034089" }, "geometry": { "type": "Point", "coordinates": [ 121.548399633366884, 25.034104000687908 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "2786-1288  分機1680", "name": "臺北市立聯合醫院附設忠孝產後護理之家", "display_ad": "臺北市南港區同德路87號5樓", "poi_addr": "台北市同德路87號", "ggstat": "OK", "gglon": "121.5860755", "traffic_in": null, "Y": "25.046545313324092", "X": "121.58610978633139", "gglat": "25.0465327" }, "geometry": { "type": "Point", "coordinates": [ 121.586109786331392, 25.046545313324092 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "2833-6833", "name": "藍田士林產後護理之家", "display_ad": "臺北市士林區福國路108號2F-1;2、3F-1;2;3、4F-1;2、5F-1;2、6F-1;2、", "poi_addr": "台北市福國路108號", "ggstat": "OK", "gglon": "121.521639", "traffic_in": null, "Y": "25.102530406838728", "X": "121.52139576001927", "gglat": "25.102043" }, "geometry": { "type": "Point", "coordinates": [ 121.521395760019274, 25.102530406838728 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護家之家", "fax": null, "tel": "8772-8755", "name": "新嬰悅產後護理之家", "display_ad": "臺北市中山區南京東路三段130號7樓", "poi_addr": "台北市南京東路三段130號", "ggstat": "NG(all fuzzy coordina)", "gglon": "0", "traffic_in": null, "Y": "25.051760070405756", "X": "121.5407353763612", "gglat": "0" }, "geometry": { "type": "Point", "coordinates": [ 121.540735376361198, 25.051760070405756 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "2753-3770", "name": "彌月房慶生產後護理之家", "display_ad": "臺北市信義區忠孝東路4段563號13樓", "poi_addr": "台北市忠孝東路四段563號", "ggstat": "OK", "gglon": "121.56405", "traffic_in": null, "Y": "25.041492818219414", "X": "121.56397200194594", "gglat": "25.0415889" }, "geometry": { "type": "Point", "coordinates": [ 121.563972001945942, 25.041492818219414 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "2501-2312*611", "name": "李木生婦產科診所附設產後護理之家", "display_ad": "臺北市中山區長安東路二段90號6樓、8樓", "poi_addr": "台北市長安東路二段90號", "ggstat": "OK", "gglon": "121.534342", "traffic_in": null, "Y": "25.048363963252363", "X": "121.53438932898031", "gglat": "25.048305" }, "geometry": { "type": "Point", "coordinates": [ 121.534389328980311, 25.048363963252363 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "2343-5599  分機6011、 2051", "name": "康和產後護理之家", "display_ad": "臺北市大安區金山南路2段31巷9號2-4樓", "poi_addr": "台北市金山南路二段31巷9號", "ggstat": "OK", "gglon": "121.527829", "traffic_in": null, "Y": "25.03304474296988", "X": "121.52777399292759", "gglat": "25.032946" }, "geometry": { "type": "Point", "coordinates": [ 121.527773992927592, 25.033044742969881 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "2737-2181*8391", "name": "臺北醫學大學附設醫院附設產後護理之家", "display_ad": "臺北市信義區吳興街252號第三醫療大樓12樓", "poi_addr": "台北市吳興街252號", "ggstat": "OK", "gglon": "121.5634277", "traffic_in": null, "Y": "25.026676205194654", "X": "121.56359061529541", "gglat": "25.0267606" }, "geometry": { "type": "Point", "coordinates": [ 121.563590615295411, 25.026676205194654 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "2835-5634", "name": "康和基河產後護理之家", "display_ad": "臺北市士林區中正路420號7樓", "poi_addr": "台北市中正路420號", "ggstat": "OK", "gglon": "121.519746", "traffic_in": null, "Y": "25.09344989798707", "X": "121.51957566061634", "gglat": "25.093335" }, "geometry": { "type": "Point", "coordinates": [ 121.51957566061634, 25.093449897987071 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護家之家", "fax": null, "tel": "8773-8628", "name": "愛兒家產後護理之家", "display_ad": "臺北市大安區忠孝東路四段87號6樓", "poi_addr": "台北市忠孝東路四段87號", "ggstat": "OK", "gglon": "121.54764", "traffic_in": null, "Y": "25.041794959256773", "X": "121.547577038607", "gglat": "25.041776" }, "geometry": { "type": "Point", "coordinates": [ 121.547577038607002, 25.041794959256773 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "2321-1160", "name": "璽悅國際產後護理之家", "display_ad": "臺北市中正區金山南路一段58號3樓", "poi_addr": "台北市金山南路一段58號", "ggstat": "OK", "gglon": "121.528878", "traffic_in": null, "Y": "25.04074837137631", "X": "121.52893312596186", "gglat": "25.0406739" }, "geometry": { "type": "Point", "coordinates": [ 121.528933125961856, 25.04074837137631 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "2753-3777", "name": "彌月房信義產後護理之家", "display_ad": "臺北市信義區忠孝東路4段563號13樓之1;13樓之2", "poi_addr": "台北市忠孝東路四段563號", "ggstat": "OK", "gglon": "121.56405", "traffic_in": null, "Y": "25.041492818219414", "X": "121.56397200194594", "gglat": "25.0415889" }, "geometry": { "type": "Point", "coordinates": [ 121.563972001945942, 25.041492818219414 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "2701-9150", "name": "敦南真愛產後護理之家", "display_ad": "臺北市大安區敦化南路一段362號5樓、5樓之1", "poi_addr": "台北市敦化南路一段362號", "ggstat": "OK", "gglon": "121.548194", "traffic_in": null, "Y": "25.034104000687908", "X": "121.54839963336688", "gglat": "25.034089" }, "geometry": { "type": "Point", "coordinates": [ 121.548399633366884, 25.034104000687908 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "2722-1853", "name": "滿園產後護理之家", "display_ad": "臺北市信義區光復南路415巷2號3樓、3樓之1", "poi_addr": "台北市光復南路415巷2號", "ggstat": "OK", "gglon": "121.557802", "traffic_in": null, "Y": "25.037178945071616", "X": "121.55790412778352", "gglat": "25.037136" }, "geometry": { "type": "Point", "coordinates": [ 121.557904127783516, 25.037178945071616 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "2577-0477", "name": "彌月房產後護理之家", "display_ad": "臺北市松山區八德路3段30號10樓", "poi_addr": "台北市八德路三段30號", "ggstat": "OK", "gglon": "121.551569", "traffic_in": null, "Y": "25.048118943010664", "X": "121.55151400309832", "gglat": "25.048045" }, "geometry": { "type": "Point", "coordinates": [ 121.551514003098319, 25.048118943010664 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護家之家", "fax": null, "tel": "2478-5111", "name": "國泰台北會館產後護理之家", "display_ad": "臺北市松山區健康路152;156號8樓", "poi_addr": "台北市健康路152;156號", "ggstat": "NG(all fuzzy coordina)", "gglon": "0", "traffic_in": null, "Y": "25.053452372611314", "X": "121.55731383204626", "gglat": "0" }, "geometry": { "type": "Point", "coordinates": [ 121.557313832046262, 25.053452372611314 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "2577-0700", "name": "彌月房三二產後護理之家", "display_ad": "臺北市松山區八德路3段32號10樓", "poi_addr": "台北市八德路三段32號", "ggstat": "OK", "gglon": "121.551717", "traffic_in": null, "Y": "25.04811775307944", "X": "121.55166184175481", "gglat": "25.048044" }, "geometry": { "type": "Point", "coordinates": [ 121.551661841754807, 25.048117753079438 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "2507-2222  分機222、150", "name": "協和婦女醫院附設產後護理之家", "display_ad": "臺北市中山區松江路85巷5號5、6、7樓、93巷6號3、5、6樓", "poi_addr": "台北市松江路85巷5號;93巷6號", "ggstat": "OK", "gglon": "121.53393", "traffic_in": null, "Y": "25.050126289401494", "X": "121.53362787484788", "gglat": "25.050279" }, "geometry": { "type": "Point", "coordinates": [ 121.53362787484788, 25.050126289401494 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "8770-6298", "name": "時尚產後護理之家", "display_ad": "臺北市松山區民權東路三段140巷15號3樓", "poi_addr": "台北市民權東路三段140巷15號", "ggstat": "OK", "gglon": "121.5471001", "traffic_in": null, "Y": "25.060537219955446", "X": "121.54669437704523", "gglat": "25.060364" }, "geometry": { "type": "Point", "coordinates": [ 121.546694377045227, 25.060537219955446 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護家之家", "fax": null, "tel": "2599-7111", "name": "賀果產後護理之家", "display_ad": "臺北市中山區新生北路3段11巷32號2~6樓", "poi_addr": "台北市新生北路三段11巷32號", "ggstat": "OK", "gglon": "121.528697", "traffic_in": null, "Y": "25.063543983595576", "X": "121.52868101733641", "gglat": "25.063502" }, "geometry": { "type": "Point", "coordinates": [ 121.52868101733641, 25.063543983595576 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "8502-5577", "name": "薇客產後護理之家", "display_ad": "臺北市中山區成功里樂群三路56號6樓", "poi_addr": "台北市成功里樂群三路56號", "ggstat": "OK", "gglon": "121.552725", "traffic_in": null, "Y": "25.08250919917881", "X": "121.55275306041266", "gglat": "25.082503" }, "geometry": { "type": "Point", "coordinates": [ 121.552753060412655, 25.082509199178809 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "2705-5465 2705-2066", "name": "吳坤光婦產科診所附設產後護理之家", "display_ad": "臺北市大安區大安路1段247號2樓、2樓之1、2樓之2及249號2樓", "poi_addr": "台北市大安路一段247號", "ggstat": "OK", "gglon": "121.546169", "traffic_in": null, "Y": "25.033813514580714", "X": "121.54604309023817", "gglat": "25.033814" }, "geometry": { "type": "Point", "coordinates": [ 121.546043090238172, 25.033813514580714 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "2532-0068", "name": "永安產後護理之家", "display_ad": "臺北市中山區明水路602號3樓", "poi_addr": "台北市明水路602號", "ggstat": "OK", "gglon": "121.551889", "traffic_in": null, "Y": "25.081618256181322", "X": "121.55170374876543", "gglat": "25.081627" }, "geometry": { "type": "Point", "coordinates": [ 121.551703748765433, 25.081618256181322 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "2831-2121", "name": "璽悅精緻產後護理之家", "display_ad": "臺北市士林區中正路420號8樓", "poi_addr": "台北市中正路420號", "ggstat": "OK", "gglon": "121.519746", "traffic_in": null, "Y": "25.09344989798707", "X": "121.51957566061634", "gglat": "25.093335" }, "geometry": { "type": "Point", "coordinates": [ 121.51957566061634, 25.093449897987071 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "8502-2595", "name": "康和大直產後護理之家", "display_ad": "臺北市中山區基湖路166巷1號2-3樓", "poi_addr": "台北市基湖路166巷1號", "ggstat": "OK", "gglon": "121.5630195", "traffic_in": null, "Y": "25.077504408061074", "X": "121.56297431669111", "gglat": "25.0774626" }, "geometry": { "type": "Point", "coordinates": [ 121.562974316691111, 25.077504408061074 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "2707-2006", "name": "許世賓婦產科診所附設產後護理之家", "display_ad": "臺北市大安區信義路3段170號2樓、2樓之1及172號2樓、2樓之1", "poi_addr": "台北市信義路三段170號", "ggstat": "OK", "gglon": "121.542025", "traffic_in": null, "Y": "25.033188418671156", "X": "121.54195402576686", "gglat": "25.0331389" }, "geometry": { "type": "Point", "coordinates": [ 121.541954025766856, 25.033188418671156 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "2321-2211", "name": "璽悅金山產後護理之家", "display_ad": "臺北市中正區金山南路一段58號6樓", "poi_addr": "台北市金山南路一段58號", "ggstat": "OK", "gglon": "121.528878", "traffic_in": null, "Y": "25.04074837137631", "X": "121.52893312596186", "gglat": "25.0406739" }, "geometry": { "type": "Point", "coordinates": [ 121.528933125961856, 25.04074837137631 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "2755-5285", "name": "周大中婦產科診所附設產後護理之家", "display_ad": "臺北市大安區敦化南路2段46號2樓", "poi_addr": "台北市敦化南路二段46號", "ggstat": "OK", "gglon": "121.5483823", "traffic_in": null, "Y": "25.03141864585663", "X": "121.54837241614275", "gglat": "25.0312119" }, "geometry": { "type": "Point", "coordinates": [ 121.548372416142755, 25.031418645856629 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "2771-8151  分機6623、6624", "name": "基督復臨安息日會醫療財團法人附設臺安產後護理之家", "display_ad": "臺北市松山區八德路2段424號8樓及426號6樓", "poi_addr": "台北市八德路二段424號", "ggstat": "OK", "gglon": "121.5473929", "traffic_in": null, "Y": "25.048090205381087", "X": "121.54723002626376", "gglat": "25.0480987" }, "geometry": { "type": "Point", "coordinates": [ 121.547230026263762, 25.048090205381087 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "2532-1195", "name": "永佳產後護理之家", "display_ad": "臺北市中山區明水路600號4樓", "poi_addr": "台北市明水路600號", "ggstat": "OK", "gglon": "121.551954", "traffic_in": null, "Y": "25.081481195472474", "X": "121.55175161954313", "gglat": "25.08144" }, "geometry": { "type": "Point", "coordinates": [ 121.551751619543126, 25.081481195472474 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "6617-5880", "name": "文山悠之家產後護理之家", "display_ad": "臺北市文山區萬和街8號12樓、8號12樓之1、8號12樓之2", "poi_addr": "台北市萬和街8號", "ggstat": "OK", "gglon": "121.567427", "traffic_in": null, "Y": "25.002044694673383", "X": "121.56767977210595", "gglat": "25.002185" }, "geometry": { "type": "Point", "coordinates": [ 121.567679772105947, 25.002044694673383 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護家之家", "fax": null, "tel": "8502-7688", "name": "薇恩產後護理之家", "display_ad": "臺北市中山區樂群三路56號3樓;3樓之1;3樓之2;4樓;4樓之1;4樓之2", "poi_addr": "台北市樂群三路56號", "ggstat": "OK", "gglon": "121.552725", "traffic_in": null, "Y": "25.08250919917881", "X": "121.55275306041266", "gglat": "25.082503" }, "geometry": { "type": "Point", "coordinates": [ 121.552753060412655, 25.082509199178809 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "2835-6628", "name": "康和士林產後護理之家", "display_ad": "臺北市士林區中正路420號6樓", "poi_addr": "台北市中正路420號", "ggstat": "OK", "gglon": "121.519746", "traffic_in": null, "Y": "25.09344989798707", "X": "121.51957566061634", "gglat": "25.093335" }, "geometry": { "type": "Point", "coordinates": [ 121.51957566061634, 25.093449897987071 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "2552-3234  分機5095 、5099", "name": "臺北市立聯合醫院附設中興產後護理之家", "display_ad": "臺北市大同區鄭州路145號醫療大樓9樓", "poi_addr": "台北市鄭州路145號", "ggstat": "OK", "gglon": "121.5093209", "traffic_in": null, "Y": "25.050729068173734", "X": "121.50884085062161", "gglat": "25.0509696" }, "geometry": { "type": "Point", "coordinates": [ 121.50884085062161, 25.050729068173734 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "2391-6471  分機1070", "name": "臺北市立聯合醫院附設和平婦幼產後護理之家", "display_ad": "臺北市中正區福州街12號10樓", "poi_addr": "台北市福州街12號", "ggstat": "OK", "gglon": "121.519277", "traffic_in": null, "Y": "25.02914911841753", "X": "121.51920227973316", "gglat": "25.029086" }, "geometry": { "type": "Point", "coordinates": [ 121.519202279733165, 25.029149118417529 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "3322-5000", "name": "藍田產後護理之家", "display_ad": "臺北市中正區新生南路1段170巷13號3-5樓", "poi_addr": "台北市新生南路一段170巷13號", "ggstat": "OK", "gglon": "121.531375", "traffic_in": null, "Y": "25.034342556776792", "X": "121.53127361506459", "gglat": "25.034317" }, "geometry": { "type": "Point", "coordinates": [ 121.531273615064592, 25.034342556776792 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "8978-2800", "name": "育璽產後護理之家", "display_ad": "臺北市大安區安和路1段27號15樓", "poi_addr": "台北市安和路一段27號", "ggstat": "OK", "gglon": "121.550455", "traffic_in": null, "Y": "25.03920733784423", "X": "121.55032536876868", "gglat": "25.039273" }, "geometry": { "type": "Point", "coordinates": [ 121.550325368768682, 25.039207337844228 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "2826-7467", "name": "振興醫療財團法人附設振興產後護理之家", "display_ad": "臺北市北投區振興街45號行政暨宿舍大樓8、9、10樓", "poi_addr": "台北市振興街45號", "ggstat": "OK", "gglon": "121.522602", "traffic_in": null, "Y": "25.117578983125963", "X": "121.52235314796214", "gglat": "25.117544" }, "geometry": { "type": "Point", "coordinates": [ 121.522353147962136, 25.117578983125963 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "2532-1120", "name": "永欣產後護理之家", "display_ad": "臺北市中山區明水路600號3樓", "poi_addr": "台北市明水路600號", "ggstat": "OK", "gglon": "121.551954", "traffic_in": null, "Y": "25.081481195472474", "X": "121.55175161954313", "gglat": "25.08144" }, "geometry": { "type": "Point", "coordinates": [ 121.551751619543126, 25.081481195472474 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": "2767-1153", "tel": "2767-0828  2767-1016", "name": "喜多產後護理之家", "display_ad": "臺北市松山區南京東路5段300號4樓", "poi_addr": "台北市南京東路五段300號", "ggstat": "OK", "gglon": "121.567601", "traffic_in": null, "Y": "25.051143216713328", "X": "121.567551810585", "gglat": "25.051118" }, "geometry": { "type": "Point", "coordinates": [ 121.567551810585002, 25.051143216713328 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "8502-5182", "name": "薇閣產後護理之家", "display_ad": "臺北市中山區成功里樂群三路56號5樓", "poi_addr": "台北市成功里樂群三路56號", "ggstat": "OK", "gglon": "121.552725", "traffic_in": null, "Y": "25.08250919917881", "X": "121.55275306041266", "gglat": "25.082503" }, "geometry": { "type": "Point", "coordinates": [ 121.552753060412655, 25.082509199178809 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "2321-1162", "name": "璽悅中正產後護理之家", "display_ad": "臺北市中正區金山南路一段58號5樓", "poi_addr": "台北市金山南路一段58號", "ggstat": "OK", "gglon": "121.528878", "traffic_in": null, "Y": "25.04074837137631", "X": "121.52893312596186", "gglat": "25.0406739" }, "geometry": { "type": "Point", "coordinates": [ 121.528933125961856, 25.04074837137631 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "2321-0178", "name": "璽悅聯合產後護理之家", "display_ad": "臺北市中正區金山南路一段58號4樓", "poi_addr": "台北市金山南路一段58號", "ggstat": "OK", "gglon": "121.528878", "traffic_in": null, "Y": "25.04074837137631", "X": "121.52893312596186", "gglat": "25.0406739" }, "geometry": { "type": "Point", "coordinates": [ 121.528933125961856, 25.04074837137631 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "8792-7733", "name": "永安福華產後護理之家", "display_ad": "臺北市內湖區民權東路6段180巷6號3樓;3樓之1", "poi_addr": "台北市民權東路六段180巷6號", "ggstat": "OK", "gglon": "121.592322", "traffic_in": null, "Y": "25.068234990327447", "X": "121.59260141611054", "gglat": "25.0673229" }, "geometry": { "type": "Point", "coordinates": [ 121.59260141611054, 25.068234990327447 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "6610-3323", "name": "馨月產後護理之家", "display_ad": "臺北市北投區光明路246號、246之1至246之7號1樓", "poi_addr": "台北市光明路246號", "ggstat": "OK", "gglon": "121.508295", "traffic_in": null, "Y": "25.13652611826332", "X": "121.50816506985569", "gglat": "25.136497" }, "geometry": { "type": "Point", "coordinates": [ 121.508165069855693, 25.136526118263319 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "2515-1315", "name": "悅兒產後護理之家", "display_ad": "臺北市中山區建國北路1段80號7樓", "poi_addr": "台北市建國北路一段80號", "ggstat": "OK", "gglon": "121.5362764", "traffic_in": null, "Y": "25.049578557000466", "X": "121.53623501822376", "gglat": "25.0494653" }, "geometry": { "type": "Point", "coordinates": [ 121.536235018223763, 25.049578557000466 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "2722-3311", "name": "俐緻產後護理之家", "display_ad": "臺北市信義區信義路五段109;111號2樓", "poi_addr": "台北市信義路五段111號", "ggstat": "OK", "gglon": "121.57339", "traffic_in": null, "Y": "25.03335843686382", "X": "121.57319045183355", "gglat": "25.0332599" }, "geometry": { "type": "Point", "coordinates": [ 121.573190451833554, 25.033358436863821 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "2745-8880", "name": "群英產後護理之家", "display_ad": "臺北市松山區健康路152號;156號6樓", "poi_addr": "台北市健康路152號", "ggstat": "NG(all fuzzy coordina)", "gglon": "0", "traffic_in": null, "Y": "25.05344165651227", "X": "121.55712126504685", "gglat": "0" }, "geometry": { "type": "Point", "coordinates": [ 121.557121265046845, 25.05344165651227 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護理之家", "fax": null, "tel": "2561-1688", "name": "李義男婦產科診所附設產後護理之家", "display_ad": "臺北市中山區中山北路2段71號5樓及5樓之1", "poi_addr": "台北市中山北路二段71號", "ggstat": "OK", "gglon": "121.523063", "traffic_in": null, "Y": "25.05732201406376", "X": "121.52300559423013", "gglat": "25.057359" }, "geometry": { "type": "Point", "coordinates": [ 121.523005594230128, 25.057322014063761 ] } }
+,
+{ "type": "Feature", "properties": { "category": "護家之家", "fax": null, "tel": "2321-0105", "name": "璽悅婦兒產後護理之家", "display_ad": "臺北市中正區金山南路一段58號2樓", "poi_addr": "台北市金山南路一段58號", "ggstat": "OK", "gglon": "121.528878", "traffic_in": null, "Y": "25.04074837137631", "X": "121.52893312596186", "gglat": "25.0406739" }, "geometry": { "type": "Point", "coordinates": [ 121.528933125961856, 25.04074837137631 ] } }
+
+]
+}

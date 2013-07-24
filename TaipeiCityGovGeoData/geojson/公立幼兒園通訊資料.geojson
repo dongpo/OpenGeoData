@@ -1,0 +1,302 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Fax": "(02)26546904　", "Tel": "(02)27837577#53　", "Name": "臺北市南港區東新國民小學附設幼兒園", "District": "南港區　", "HeadTeache": "呂玉苑　", "gglon": "121.6021907", "gglat": "25.0554318", "ggstat": "OK", "Address": "[115]臺北市南港區興南街62號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.6021907, 25.0554318 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27996184　", "Tel": "(02)27997447#182　", "Name": "臺北市內湖區西湖國民小學附設幼兒園", "District": "內湖區　", "HeadTeache": "許惠淳　", "gglon": "121.5657018", "gglat": "25.0838154", "ggstat": "OK", "Address": "[114]臺北市內湖區環山路一段25號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5657018, 25.0838154 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)23695874　", "Tel": "(02)23628493#20　", "Name": "臺北市大安區龍安國民小學附設幼兒園", "District": "大安區　", "HeadTeache": "翁美萍", "gglon": "121.5348854", "gglat": "25.0239215", "ggstat": "OK", "Address": "[106]臺北市大安區新生南路三段33號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5348854, 25.0239215 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27220434　", "Tel": "(02)27585076#870　", "Name": "臺北市信義區光復國民小學附設幼兒園　", "District": "信義區　", "HeadTeache": "黃尤姝　", "gglon": "121.5578797", "gglat": "25.0402629", "ggstat": "OK", "Address": "[110]臺北市信義區光復南路271號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5578797, 25.0402629 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)22300430　", "Tel": "(02)22302585#160　", "Name": "臺北市文山區博嘉國民小學附設幼兒園　", "District": "文山區　", "HeadTeache": "林一鳳　", "gglon": "121.575404", "gglat": "25.000695", "ggstat": "OK", "Address": "[116]臺北市文山區木柵路4段159巷14號之1　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.575404, 25.000695 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27946942　", "Tel": "(02)279146283　", "Name": "臺北市內湖區碧湖國民小學附設幼兒園", "District": "內湖區　", "HeadTeache": "賴宜琳", "gglon": "121.5911039", "gglat": "25.0853014", "ggstat": "OK", "Address": "[114]臺北市內湖區金龍路100號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5911039, 25.0853014 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27942271　", "Tel": "(02)27948711　", "Name": "臺北市內湖區潭美國民小學附設幼兒園", "District": "內湖區　", "HeadTeache": "吳美慧　", "gglon": "121.5905983", "gglat": "25.0603482", "ggstat": "OK", "Address": "[114]臺北市內湖區新明路22號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5905983, 25.0603482 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)29309518　", "Tel": "(02)29350955#760　", "Name": "臺北市文山區溪口國民小學附設幼兒園　", "District": "文山區　", "HeadTeache": "余年梅", "gglon": "121.5387574", "gglat": "24.99413", "ggstat": "OK", "Address": "[116]臺北市文山區景福街225號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5387574, 24.99413 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27180882　", "Tel": "(02)27124872#703　", "Name": "臺北市松山區民族國民小學附設幼兒園", "District": "松山區　", "HeadTeache": "蔡美玲", "gglon": "121.5518154", "gglat": "25.0594726", "ggstat": "OK", "Address": "[105]臺北市松山區民生東路四段97巷7號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5518154, 25.0594726 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27662391　", "Tel": "(02)27652327#78", "Name": "臺北市松山區民權國民小學附設幼兒園", "District": "松山區　", "HeadTeache": "李明芳　", "gglon": "121.5622982", "gglat": "25.0625096", "ggstat": "OK", "Address": "[105]臺北市松山區民權東路四段200號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5622982, 25.0625096 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)23960841　", "Tel": "(02)24312822#36　", "Name": "臺北市中正區東門國民小學附設幼兒園　", "District": "中正區　", "HeadTeache": "林秀娥　", "gglon": "121.520889", "gglat": "25.038659", "ggstat": "OK", "Address": "[100]臺北市中正區仁愛路一段2之4號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.520889, 25.038659 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28612505　", "Tel": "(02)28610259#140　", "Name": "臺北市北投區湖山國民小學附設幼兒園　", "District": "北投區　", "HeadTeache": "翟芳琪", "gglon": "121.5354569", "gglat": "25.1497385", "ggstat": "OK", "Address": "[112]臺北市北投區湖底路11號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5354569, 25.1497385 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)29332021　", "Tel": "(02)29323875#72　", "Name": "臺北市文山區志清國民小學附設幼兒園　", "District": "文山區　", "HeadTeache": "楊?琴　", "gglon": "121.5389076", "gglat": "24.9986645", "ggstat": "OK", "Address": "[116]臺北市文山區景福街21巷5號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5389076, 24.9986645 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)29366055　", "Tel": "(02)29386072　", "Name": "臺北市文山區力行國民小學附設幼兒園　", "District": "文山區　", "HeadTeache": "呂碧玲", "gglon": "121.5611427", "gglat": "24.9809646", "ggstat": "OK", "Address": "[116]臺北市文山區木新路三段155巷7號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5611427, 24.9809646 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27881299　", "Tel": "(02)27852080　", "Name": "臺北市南港區玉成國民小學附設幼兒園", "District": "南港區　", "HeadTeache": "劉惠如", "gglon": "121.5947448", "gglat": "25.0535838", "ggstat": "OK", "Address": "[115]臺北市南港區向陽路31號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5947448, 25.0535838 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)26320173　", "Tel": "(02)26323477#50　", "Name": "臺北市內湖區明湖國民小學附設幼兒園", "District": "內湖區　", "HeadTeache": "黃麗卿　", "gglon": "121.6106047", "gglat": "25.0711384", "ggstat": "OK", "Address": "[114]臺北市內湖區康寧路三段105號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.6106047, 25.0711384 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28927164　", "Tel": "(02)28941208#502　", "Name": "臺北市北投區桃源國民小學附設幼兒園　", "District": "北投區　", "HeadTeache": "張麗芳　", "gglon": "121.4844882", "gglat": "25.1396039", "ggstat": "OK", "Address": "[112]臺北市北投區中央北路三段40巷45號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.4844882, 25.1396039 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)29385113　", "Tel": "(02)29392821#27　", "Name": "臺北市文山區明道國民小學附設幼兒園　", "District": "文山區　", "HeadTeache": "陳怡均", "gglon": "121.5625578", "gglat": "24.9873333", "ggstat": "OK", "Address": "[116]臺北市文山區木柵路2段138巷61號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5625578, 24.9873333 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27602009　", "Tel": "(02)27641314#107　", "Name": "臺北市信義區永春國民小學附設幼兒園", "District": "信義區　", "HeadTeache": "謝慈容", "gglon": "121.5790792", "gglat": "25.0446527", "ggstat": "OK", "Address": "[110]臺北市信義區松山路225巷48號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5790792, 25.0446527 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27850983　", "Tel": "(02)27880500#194　", "Name": "臺北市南港區修德國民小學附設幼兒園", "District": "南港區　", "HeadTeache": "張靜芳", "gglon": "121.5896297", "gglat": "25.0455233", "ggstat": "OK", "Address": "[115]臺北市南港區東新街118巷86號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5896297, 25.0455233 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)23910051　", "Tel": "(02)23918170#818　", "Name": "臺北市中正區忠孝國民小學附設幼兒園　", "District": "中正區　", "HeadTeache": "項明娟", "gglon": "121.531603", "gglat": "25.0429229", "ggstat": "OK", "Address": "[100]臺北市中正區忠孝東路二段101號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.531603, 25.0429229 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27326068", "Tel": "(02)27351734", "Name": "臺北市大安區公館國民小學附設幼兒園", "District": "大安區　", "HeadTeache": "盧紹文", "gglon": "121.5428437", "gglat": "25.0124219", "ggstat": "OK", "Address": "[106]臺北市大安區基隆路四段41巷68弄2號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5428437, 25.0124219 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27040546　", "Tel": "(02)27074191#3600　", "Name": "臺北市大安區幸安國民小學附設幼兒園", "District": "大安區　", "HeadTeache": "彭暄偉　", "gglon": "121.5349516", "gglat": "25.0376279", "ggstat": "OK", "Address": "[106]臺北市大安區仁愛路三段22號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5349516, 25.0376279 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27994445　", "Tel": "(02)26583515#1000　", "Name": "臺北市內湖區文湖國民小學附設幼兒園", "District": "內湖區　", "HeadTeache": "吳玟琦　", "gglon": "121.5601148", "gglat": "25.0857682", "ggstat": "OK", "Address": "[114]臺北市內湖區文湖街15號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5601148, 25.0857682 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27372147　", "Tel": "(02)27387577#871　", "Name": "臺北市大安區大安國民小學附設幼兒園", "District": "大安區　", "HeadTeache": "黃秀雲　", "gglon": "121.5490912", "gglat": "25.0200121", "ggstat": "OK", "Address": "[106]臺北市大安區臥龍街129號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5490912, 25.0200121 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)29321013　", "Tel": "(02)29314360#22、23　", "Name": "臺北市文山區武功國民小學附設幼兒園　", "District": "文山區　", "HeadTeache": "李美慧", "gglon": "121.5404919", "gglat": "25.0038915", "ggstat": "OK", "Address": "[116]臺北市文山區興隆路一段68號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5404919, 25.0038915 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28961238　", "Tel": "(02)28922747#171　", "Name": "臺北市北投區文化國民小學附設幼兒園　", "District": "北投區　", "HeadTeache": "劉依敏　", "gglon": "121.4966692", "gglat": "25.1370938", "ggstat": "OK", "Address": "[112]臺北市北投區文化三路1號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.4966692, 25.1370938 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28925970　", "Tel": "(02)28951258#161　", "Name": "臺北市北投區泉源國民小學附設幼兒園　", "District": "北投區　", "HeadTeache": "柯秀芬　", "gglon": "121.5243642", "gglat": "25.1492158", "ggstat": "OK", "Address": "[112]臺北市北投區東昇路34號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5243642, 25.1492158 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28206718　", "Tel": "(02)28227484#171　", "Name": "臺北市北投區石牌國民小學附設幼兒園　", "District": "北投區　", "HeadTeache": "李淑吟　", "gglon": "121.5117574", "gglat": "25.1157287", "ggstat": "OK", "Address": "[112]臺北市北投區致遠二路80號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5117574, 25.1157287 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)29304341　", "Tel": "(02)29323131#115　", "Name": "臺北市文山區興隆國民小學附設幼兒園　", "District": "文山區　", "HeadTeache": "劉淑坤", "gglon": "121.5519204", "gglat": "25.0024314", "ggstat": "OK", "Address": "[116]臺北市文山區福興路2號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5519204, 25.0024314 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)25211589　", "Tel": "(02)25110150　", "Name": "臺北市中山區長安國民小學附設幼兒園　", "District": "中山區　", "HeadTeache": "陳玫秀　", "gglon": "121.5301663", "gglat": "25.0497428", "ggstat": "OK", "Address": "[104]臺北市中山區吉林路15號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5301663, 25.0497428 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)23620782　", "Tel": "(02)23639815#20　", "Name": "臺北市大安區銘傳國民小學附設幼兒園", "District": "大安區　", "HeadTeache": "顏佳雱", "gglon": "121.535395", "gglat": "25.014044", "ggstat": "OK", "Address": "[106]臺北市大安區羅斯褔路四段21號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.535395, 25.014044 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)22301009(02)22304942　", "Tel": "(02)22301232#16　", "Name": "臺北市文山區萬芳國民小學附設幼兒園　", "District": "文山區　", "HeadTeache": "盧明琴", "gglon": "121.5675368", "gglat": "25.0012878", "ggstat": "OK", "Address": "[116]臺北市文山區萬和街1號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5675368, 25.0012878 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)23659375　", "Tel": "(02)23677144#9", "Name": "臺北市中正區河堤國民小學附設幼兒園　", "District": "中正區　", "HeadTeache": "劉貞誼　", "gglon": "121.5226586", "gglat": "25.0232928", "ggstat": "OK", "Address": "[100]臺北市中正區汀州路二段180號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5226586, 25.0232928 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)23042393　", "Tel": "(02)23022011#14", "Name": "臺北市萬華區大理國民小學附設幼兒園", "District": "萬華區　", "HeadTeache": "蘇美妃", "gglon": "121.4939132", "gglat": "25.031305", "ggstat": "OK", "Address": "[108]臺北市萬華區艋舺大道389號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.4939132, 25.031305 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28238153　", "Tel": "(02)28237022　", "Name": "臺北市立北投幼兒園　", "District": "北投區　", "HeadTeache": null, "gglon": "121.5226597", "gglat": "25.1131773", "ggstat": "OK", "Address": "[112]臺北市北投區明德路208巷5號　", "Type": "直轄市立　", "Principal": "林秀鑾" }, "geometry": { "type": "Point", "coordinates": [ 121.5226597, 25.1131773 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)29399210　", "Tel": "(02)29391234#173　", "Name": "臺北市文山區木柵國民小學附設幼兒園　", "District": "文山區　", "HeadTeache": "陳慧娟", "gglon": "121.5701489", "gglat": "24.9902695", "ggstat": "OK", "Address": "[116]臺北市文山區木柵路3段191號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5701489, 24.9902695 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)25850281　", "Tel": "(02)25965407#171　", "Name": "臺北市大同區大同國民小學附設幼兒園　", "District": "大同區　", "HeadTeache": "吳貴美　", "gglon": "121.5161459", "gglat": "25.0647693", "ggstat": "OK", "Address": "[103]臺北市大同區大龍街51號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5161459, 25.0647693 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27881427　", "Tel": "(02)27834678#1902　", "Name": "臺北市南港區南港國民小學附設幼兒園", "District": "南港區　", "HeadTeache": "謝月琴", "gglon": "121.610112", "gglat": "25.0576893", "ggstat": "OK", "Address": "[115]臺北市南港區惠民街67號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.610112, 25.0576893 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)25333102　", "Tel": "(02)25336733　", "Name": "臺北市中山區大直國民小學附設幼兒園　", "District": "中山區　", "HeadTeache": "林佳蓉　", "gglon": "121.5464344", "gglat": "25.0804685", "ggstat": "OK", "Address": "[104]臺北市中山區大直街2號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5464344, 25.0804685 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27296312　", "Tel": "(02)23450616#633　", "Name": "臺北市信義區博愛國民小學附設幼兒園　", "District": "信義區　", "HeadTeache": "左慕慈　", "gglon": "121.5709034", "gglat": "25.0363748", "ggstat": "OK", "Address": "[110]臺北市信義區松仁路95巷20號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5709034, 25.0363748 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27598308　", "Tel": "(02)27277992#61、62", "Name": "臺北市信義區福德國民小學附設幼兒園　", "District": "信義區　", "HeadTeache": "張瓊介", "gglon": "121.5865111", "gglat": "25.0388696", "ggstat": "OK", "Address": "[110]臺北市信義區褔德街253號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5865111, 25.0388696 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28617656　", "Tel": "(02)28616046#162.161", "Name": "臺北市士林區陽明山國民小學附設幼兒園", "District": "士林區　", "HeadTeache": "潘懷蓮", "gglon": "121.5527913", "gglat": "25.1193509", "ggstat": "OK", "Address": "[111]臺北市士林區仰德大道三段61號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5527913, 25.1193509 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)25506756　", "Tel": "(02)25534882#115　", "Name": "臺北市大同區永樂國民小學附設幼兒園　", "District": "大同區　", "HeadTeache": "楊樹華", "gglon": "121.5111152", "gglat": "25.061301", "ggstat": "OK", "Address": "[103]臺北市大同區延平北路二段266號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5111152, 25.061301 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)22340164", "Tel": "(02)86615183", "Name": "市立文山特殊教育學校　", "District": "文山區　", "HeadTeache": "謝榮懋", "gglon": "121.567807", "gglat": "24.99154", "ggstat": "OK", "Address": "[116]臺北市文山區秀明路1段169號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.567807, 24.99154 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)23376930　", "Tel": "(02)23048543#22　", "Name": "臺北市中正區螢橋國民小學附設幼兒園", "District": "中正區　", "HeadTeache": "蕭偉玲　", "gglon": "121.51433", "gglat": "25.0250769", "ggstat": "OK", "Address": "[100]臺北市中正區詔安街29號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.51433, 25.0250769 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)25850266　", "Tel": "(02)25918904#11　", "Name": "臺北市大同區大橋國民小學附設幼兒園　", "District": "大同區　", "HeadTeache": "吳慧玲", "gglon": "121.5133346", "gglat": "25.0642905", "ggstat": "OK", "Address": "[103]臺北市大同區重慶北路三段2號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5133346, 25.0642905 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28817092　", "Tel": "(02)28812231#252　", "Name": "臺北市士林區士林國民小學附設幼兒園", "District": "士林區　", "HeadTeache": "郭淑瑛", "gglon": "121.5248818", "gglat": "25.0933033", "ggstat": "OK", "Address": "[111]臺北市士林區大東路165號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5248818, 25.0933033 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28165657　", "Tel": "(02)28129586#873　", "Name": "臺北市士林區葫蘆國民小學附設幼兒園", "District": "士林區　", "HeadTeache": "林昭　", "gglon": "121.5069619", "gglat": "25.0837421", "ggstat": "OK", "Address": "[111]臺北市士林區環河北路3段95號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5069619, 25.0837421 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27327759　", "Tel": "(02)27368453#12　", "Name": "臺北市信義區三興國民小學附設幼兒園", "District": "信義區　", "HeadTeache": "徐清雲", "gglon": "121.558267", "gglat": "25.029467", "ggstat": "OK", "Address": "[110]臺北市信義區基隆路二段99號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.558267, 25.029467 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27550927　", "Tel": "(02)27551211　", "Name": "臺北市立大安幼兒園　", "District": "大安區　", "HeadTeache": null, "gglon": "121.545943", "gglat": "25.027195", "ggstat": "OK", "Address": "[106]臺北市大安區四維路198巷31弄11號　", "Type": "直轄市立　", "Principal": "郭美玉　" }, "geometry": { "type": "Point", "coordinates": [ 121.545943, 25.027195 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28613642　", "Tel": "(02)28610503#22　", "Name": "臺北市士林區平等國民小學附設幼兒園", "District": "士林區　", "HeadTeache": "陳昭華　", "gglon": "121.5765107", "gglat": "25.1291056", "ggstat": "OK", "Address": "[111]臺北市士林區平菁街101號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5765107, 25.1291056 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)25065860　", "Tel": "(02)25024366#182　", "Name": "臺北市中山區長春國民小學附設幼兒園　", "District": "中山區　", "HeadTeache": "李佩元", "gglon": "121.5339182", "gglat": "25.0549293", "ggstat": "OK", "Address": "[104]臺北市中山區長春路165號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5339182, 25.0549293 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27991543　", "Tel": "(02)27998085#577　", "Name": "臺北市內湖區內湖國民小學附設幼兒園", "District": "內湖區　", "HeadTeache": "蔡文芝　", "gglon": "121.5802084", "gglat": "25.0791165", "ggstat": "OK", "Address": "[114]臺北市內湖區內湖路二段41號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5802084, 25.0791165 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27487740　", "Tel": "(02)87858111#125　", "Name": "臺北市信義區永吉國民小學附設幼兒園　", "District": "信義區　", "HeadTeache": "謝燿朱　", "gglon": "121.5798853", "gglat": "25.0430088", "ggstat": "OK", "Address": "[110]臺北市信義區松山路287巷5號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5798853, 25.0430088 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28316084　", "Tel": "(02)28313619#220　", "Name": "臺北市北投區洲美國民小學附設幼兒園　", "District": "北投區　", "HeadTeache": "朱廉雯", "gglon": "121.5028459", "gglat": "25.1008238", "ggstat": "OK", "Address": "[112]臺北市北投區洲美街185號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5028459, 25.1008238 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)85091863　", "Tel": "(02)25335672#270　", "Name": "臺北市中山區永安國民小學附設幼兒園　", "District": "中山區　", "HeadTeache": "李姵舜", "gglon": "121.5494063", "gglat": "25.0787761", "ggstat": "OK", "Address": "[104]臺北市中山區明水路397巷19弄1號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5494063, 25.0787761 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)26320760　", "Tel": "(02)26321296#71　", "Name": "臺北市內湖區南湖國民小學附設幼兒園", "District": "內湖區　", "HeadTeache": "黃璿糸", "gglon": "121.6117111", "gglat": "25.068181", "ggstat": "OK", "Address": "[114]臺北市內湖區康寧路三段200號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.6117111, 25.068181 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)25575746　", "Tel": "(02)25532229#873　", "Name": "臺北市大同區太平國民小學附設幼兒園　", "District": "大同區　", "HeadTeache": "卓玉芬", "gglon": "121.5114493", "gglat": "25.0613828", "ggstat": "OK", "Address": "[103]臺北市大同區延平北路二段239號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5114493, 25.0613828 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28335480　", "Tel": "(02)28316293#243　", "Name": "臺北市士林區福林國民小學附設幼兒園", "District": "士林區　", "HeadTeache": "蕭彥文　", "gglon": "121.5295952", "gglat": "25.0986823", "ggstat": "OK", "Address": "[111]臺北市士林區福志路75號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5295952, 25.0986823 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)29387728　", "Tel": "(02)29393091#80105　", "Name": "國立政治大學附設實驗國民小學附設幼兒園　", "District": "文山區　", "HeadTeache": "曾素雲", "gglon": "121.5761281", "gglat": "24.9873313", "ggstat": "OK", "Address": "[116]臺北市文山區指南路二段64號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5761281, 24.9873313 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27818293　", "Tel": "(02)27710846#712、713", "Name": "臺北市中山區懷生國民小學附設幼兒園　", "District": "中山區　", "HeadTeache": "余彩雲　", "gglon": "121.5417844", "gglat": "25.0452404", "ggstat": "OK", "Address": "[104]臺北市中山區安東街16巷2號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5417844, 25.0452404 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27237208　", "Tel": "(02)27297527　", "Name": "臺北市立信義幼兒園　", "District": "信義區　", "HeadTeache": null, "gglon": "121.559024", "gglat": "25.0349859", "ggstat": "OK", "Address": "[110]臺北市信義區基隆路一段364巷24號　", "Type": "直轄市立　", "Principal": "陳美君" }, "geometry": { "type": "Point", "coordinates": [ 121.559024, 25.0349859 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)23022503", "Tel": "(02)23064352#26　", "Name": "臺北市萬華區華江國民小學附設幼兒園", "District": "萬華區　", "HeadTeache": "高幼彬　", "gglon": "121.491174", "gglat": "25.0340688", "ggstat": "OK", "Address": "[108]臺北市萬華區環河南路2段250巷42弄2號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.491174, 25.0340688 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)26517965　", "Tel": "(02)2782-5081　", "Name": "臺北市立南港幼兒園", "District": "南港區　", "HeadTeache": null, "gglon": "121.596406", "gglat": "25.055304", "ggstat": "OK", "Address": "[115]臺北市南港區重陽路119巷28號　", "Type": "直轄市立　", "Principal": "劉香蘭　" }, "geometry": { "type": "Point", "coordinates": [ 121.596406, 25.055304 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)25020992　", "Tel": "(02)25023416#106　", "Name": "臺北市中山區五常國民小學附設幼兒園　", "District": "中山區　", "HeadTeache": "馮其鳳　", "gglon": "121.5422256", "gglat": "25.064141", "ggstat": "OK", "Address": "[104]臺北市中山區五常街16號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5422256, 25.064141 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28358475　", "Tel": "(02)28366052#221　", "Name": "臺北市士林區蘭雅國民小學附設幼兒園　", "District": "士林區　", "HeadTeache": "林美秀", "gglon": "121.5231591", "gglat": "25.1084122", "ggstat": "OK", "Address": "[111]臺北市士林區磺溪街57號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5231591, 25.1084122 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27941809　", "Tel": "(02)27901237#161　", "Name": "臺北市內湖區康寧國民小學附設幼兒園", "District": "內湖區　", "HeadTeache": "林秀鑾　", "gglon": "121.5950065", "gglat": "25.0800201", "ggstat": "OK", "Address": "[114]臺北市內湖區星雲街121號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5950065, 25.0800201 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)23025444　", "Tel": "(02)23020936　", "Name": "臺北市立萬華幼兒園　", "District": "萬華區　", "HeadTeache": null, "gglon": "121.497527", "gglat": "25.03737", "ggstat": "OK", "Address": "[108]臺北市萬華區梧州街36號　", "Type": "直轄市立　", "Principal": "林明君　" }, "geometry": { "type": "Point", "coordinates": [ 121.497527, 25.03737 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27915793　", "Tel": "(02)27915870#71", "Name": "臺北市內湖區大湖國民小學附設幼兒園", "District": "內湖區　", "HeadTeache": "林發佩", "gglon": "121.6004795", "gglat": "25.0881206", "ggstat": "OK", "Address": "[114]臺北市內湖區大湖山莊街170號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.6004795, 25.0881206 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)25552055　", "Tel": "(02)25569835#130　", "Name": "臺北市大同區蓬萊國民小學附設幼兒園　", "District": "大同區　", "HeadTeache": "葉貞蘭　", "gglon": "121.5155556", "gglat": "25.05642", "ggstat": "OK", "Address": "[103]臺北市大同區寧夏路35號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5155556, 25.05642 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)23059501　", "Tel": "(02)23035882　", "Name": "臺北市中正區忠義國民小學附設幼兒園　", "District": "中正區　", "HeadTeache": "周靜芳", "gglon": "121.5063262", "gglat": "25.0296538", "ggstat": "OK", "Address": "[100]臺北市中正區中華路二段307巷17號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5063262, 25.0296538 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)23065740　", "Tel": "(02)23022984　", "Name": "臺北市立南海實驗幼兒園", "District": "萬華區　", "HeadTeache": "張衛族　", "gglon": "121.4977959", "gglat": "25.0297705", "ggstat": "OK", "Address": "[108]臺北市萬華區西藏路424號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.4977959, 25.0297705 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)25850485　", "Tel": "(02)25942439#281　", "Name": "臺北市大同區延平國民小學附設幼兒園　", "District": "大同區　", "HeadTeache": "姚秦洲", "gglon": "121.5125019", "gglat": "25.0660082", "ggstat": "OK", "Address": "[103]臺北市大同區昌吉街97號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5125019, 25.0660082 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)29312161　", "Tel": "(02)29329439#70　", "Name": "臺北市文山區景興國民小學附設幼兒園　", "District": "文山區　", "HeadTeache": "施翠玲", "gglon": "121.5482985", "gglat": "24.9964856", "ggstat": "OK", "Address": "[116]臺北市文山區景華街150巷21號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5482985, 24.9964856 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)29332155　", "Tel": "(02)29322151#282　", "Name": "臺北市文山區景美國民小學附設幼兒園　", "District": "文山區　", "HeadTeache": "陳靄珍", "gglon": "121.5407883", "gglat": "24.9895172", "ggstat": "OK", "Address": "[116]臺北市文山區景文街108號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5407883, 24.9895172 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)25529147　", "Tel": "(02)25570309#1902　", "Name": "臺北市大同區雙蓮國民小學附設幼兒園　", "District": "大同區　", "HeadTeache": "王錦緣", "gglon": "121.5166898", "gglat": "25.060161", "ggstat": "OK", "Address": "[103]臺北市大同區錦西街51號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5166898, 25.060161 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28413523　", "Tel": "(02)28411010#21　", "Name": "臺北市士林區溪山國民小學附設幼兒園", "District": "士林區　", "HeadTeache": "鄭可欣", "gglon": "121.5799486", "gglat": "25.1196984", "ggstat": "OK", "Address": "[111]臺北市士林區至善路三段199號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5799486, 25.1196984 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28737155　", "Tel": "(02)28749117#10　", "Name": "臺北市立啟智學校幼兒園　", "District": "士林區　", "HeadTeache": "林麗慧　", "gglon": "121.536225", "gglat": "25.116617", "ggstat": "OK", "Address": "[111]臺北市士林區忠誠路2段207巷3號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.536225, 25.116617 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)25618868　", "Tel": "(02)25221525#10", "Name": "臺北市中山區吉林國民小學附設幼兒園　", "District": "中山區　", "HeadTeache": "陳玫宏", "gglon": "121.5296463", "gglat": "25.054719", "ggstat": "OK", "Address": "[104]臺北市中山區長春路116號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5296463, 25.054719 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)26343868　", "Tel": "(02)26343888#600　", "Name": "臺北市內湖區麗湖國民小學附設幼兒園", "District": "內湖區　", "HeadTeache": "蔡淑雯　", "gglon": "121.601146", "gglat": "25.072992", "ggstat": "OK", "Address": "[114]臺北市內湖區金湖路363巷8號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.601146, 25.072992 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28952752　", "Tel": "(02)28912847#243　", "Name": "臺北市北投區關渡國民小學附設幼兒園　", "District": "北投區　", "HeadTeache": "林淑彩　", "gglon": "121.4668446", "gglat": "25.1268487", "ggstat": "OK", "Address": "[112]臺北市北投區中央北路四段581號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.4668446, 25.1268487 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28265417　", "Tel": "(02)28229651#1171　", "Name": "臺北市北投區明德國民小學附設幼兒園　", "District": "北投區　", "HeadTeache": "游雅婷", "gglon": "121.5217959", "gglat": "25.112128", "ggstat": "OK", "Address": "[112]臺北市北投區明德路190號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5217959, 25.112128 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27096500　", "Tel": "(02)27095010#113　", "Name": "臺北市大安區仁愛國民小學附設幼兒園　", "District": "大安區　", "HeadTeache": "曾淑卿", "gglon": "121.5523501", "gglat": "25.0357812", "ggstat": "OK", "Address": "[106]臺北市大安區安和路一段60號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5523501, 25.0357812 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)23899019　", "Tel": "(02)23753272#2103　", "Name": "臺北市萬華區西門國民小學附設幼兒園", "District": "萬華區　", "HeadTeache": "孫樹芃", "gglon": "121.5035971", "gglat": "25.043172", "ggstat": "OK", "Address": "[108]臺北市萬華區成都路98號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5035971, 25.043172 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28340393　", "Tel": "(02)28316115#260　", "Name": "臺北市士林區芝山國民小學附設幼兒園", "District": "士林區　", "HeadTeache": "陳淑娟", "gglon": "121.5364269", "gglat": "25.1102509", "ggstat": "OK", "Address": "[111]臺北市士林區德行東路285號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5364269, 25.1102509 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28160180　", "Tel": "(02)28151320#11　", "Name": "臺北市士林區社子國民小學附設幼兒園", "District": "士林區　", "HeadTeache": "李春吟　", "gglon": "121.5029363", "gglat": "25.0897973", "ggstat": "OK", "Address": "[111]臺北市士林區延平北路六段308號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5029363, 25.0897973 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27081316　", "Tel": "(02)27077119#172　", "Name": "臺北市大安區建安國民小學附設幼兒園　", "District": "大安區　", "HeadTeache": "吳雲玲　", "gglon": "121.5461418", "gglat": "25.0293959", "ggstat": "OK", "Address": "[106]臺北市大安區大安路二段99號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5461418, 25.0293959 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)26530954　", "Tel": "(02)27821418#181　", "Name": "臺北市南港區舊莊國民小學附設幼兒園", "District": "南港區　", "HeadTeache": "林中秀　", "gglon": "121.619539", "gglat": "25.0402449", "ggstat": "OK", "Address": "[115]臺北市南港區舊莊街一段100號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.619539, 25.0402449 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27613341　", "Tel": "(02)27646080#251　", "Name": "臺北市松山區三民國民小學附設幼兒園　", "District": "松山區　", "HeadTeache": "蘇鈺珊　", "gglon": "121.5642866", "gglat": "25.0632227", "ggstat": "OK", "Address": "[105]臺北市松山區民權東路五段1號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5642866, 25.0632227 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28967423　", "Tel": "(02)28912052#266　", "Name": "臺北市北投區北投國民小學附設幼兒園", "District": "北投區　", "HeadTeache": "吳春花　", "gglon": "121.5002384", "gglat": "25.1341236", "ggstat": "OK", "Address": "[112]臺北市北投區中央北路一段73號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5002384, 25.1341236 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)87974555　", "Tel": "(02)27993223　", "Name": "臺北市立內湖幼兒園", "District": "內湖區　", "HeadTeache": null, "gglon": "121.580658", "gglat": "25.073664", "ggstat": "OK", "Address": "[114]臺北市內湖區陽光街265巷9號　", "Type": "直轄市立　", "Principal": "張紹盈　" }, "geometry": { "type": "Point", "coordinates": [ 121.580658, 25.073664 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)29330948　", "Tel": "(02)29329431#65　", "Name": "臺北市文山區興德國民小學附設幼兒園　", "District": "文山區　", "HeadTeache": "陳佳余", "gglon": "121.5508495", "gglat": "25.0016057", "ggstat": "OK", "Address": "[116]臺北市文山區興隆路2段235號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5508495, 25.0016057 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)25330317　", "Tel": "(02)25336738　", "Name": "臺北市立中山幼兒園　", "District": "中山區　", "HeadTeache": null, "gglon": "121.546687", "gglat": "25.0818499", "ggstat": "OK", "Address": "[104]臺北市中山區大直街25號1樓　", "Type": "直轄市立　", "Principal": "王韻華　" }, "geometry": { "type": "Point", "coordinates": [ 121.546687, 25.0818499 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28935641　", "Tel": "(02)28914353#32　", "Name": "臺北市北投區大屯國民小學附設幼兒園", "District": "北投區　", "HeadTeache": "林春妙　", "gglon": "121.503983", "gglat": "25.154895", "ggstat": "OK", "Address": "[112]臺北市北投區復興三路312號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.503983, 25.154895 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)23057653　", "Tel": "(02)23030257#513　", "Name": "臺北市萬華區西園國民小學附設幼兒園", "District": "萬華區　", "HeadTeache": "林瑞婕　", "gglon": "121.4988704", "gglat": "25.0266721", "ggstat": "OK", "Address": "[108]臺北市萬華區東園街73巷65號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.4988704, 25.0266721 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28865919　", "Tel": "(02)28853564#111　", "Name": "臺北市士林區劍潭國民小學附設幼兒園", "District": "士林區　", "HeadTeache": "陳修儀", "gglon": "121.522988", "gglat": "25.0799443", "ggstat": "OK", "Address": "[111]臺北市士林區通河街16號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.522988, 25.0799443 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27855253　", "Tel": "(02)27853856#11　", "Name": "臺北市南港區成德國民小學附設幼兒園", "District": "南港區　", "HeadTeache": "周淑琴", "gglon": "121.586908", "gglat": "25.0468797", "ggstat": "OK", "Address": "[115]臺北市南港區東新街65號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.586908, 25.0468797 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28319401　", "Tel": "(02)28329700#129　", "Name": "臺北市士林區雨農國民小學附設幼兒園", "District": "士林區　", "HeadTeache": "陳麗莉　", "gglon": "121.5298543", "gglat": "25.1052602", "ggstat": "OK", "Address": "[111]臺北市士林區忠義街1號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5298543, 25.1052602 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)23924070　", "Tel": "(02)23913122#250　", "Name": "臺北市大安區新生國民小學附設幼兒園　", "District": "大安區　", "HeadTeache": "周靜羚　", "gglon": "121.53362", "gglat": "25.0298199", "ggstat": "OK", "Address": "[106]臺北市大安區新生南路二段36號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.53362, 25.0298199 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28282176　", "Tel": "(02)28234212#800　", "Name": "臺北市北投區文林國民小學附設幼兒園　", "District": "北投區　", "HeadTeache": "李豔雅　", "gglon": "121.5147443", "gglat": "25.1059048", "ggstat": "OK", "Address": "[112]臺北市北投區文林北路155號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5147443, 25.1059048 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)29356537　", "Tel": "(02)29353123#171　", "Name": "臺北市文山區萬福國民小學附設幼兒園　", "District": "文山區　", "HeadTeache": "陳秀香", "gglon": "121.536754", "gglat": "25.004867", "ggstat": "OK", "Address": "[116]臺北市文山區羅斯福路5段170巷32號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.536754, 25.004867 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28831163　", "Tel": "(02)28817683#72　", "Name": "臺北市士林區百靈國民小學附設幼兒園", "District": "士林區　", "HeadTeache": "顏玉美", "gglon": "121.5178502", "gglat": "25.0862066", "ggstat": "OK", "Address": "[111]臺北市士林區福港街205號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5178502, 25.0862066 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)25504710　", "Tel": "(02)25595901#21　", "Name": "臺北市立大同幼兒園", "District": "大同區　", "HeadTeache": null, "gglon": "121.519022", "gglat": "25.052344", "ggstat": "OK", "Address": "[103]臺北市大同區南京西路64巷9弄8號　", "Type": "直轄市立　", "Principal": "陳香娟　" }, "geometry": { "type": "Point", "coordinates": [ 121.519022, 25.052344 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)29381575　", "Tel": "(02)29395526#11　", "Name": "臺北市立文山幼兒園", "District": "文山區　", "HeadTeache": null, "gglon": "121.5608", "gglat": "24.987728", "ggstat": "OK", "Address": "[116]臺北市文山區興隆路四段105巷1號　", "Type": "直轄市立　", "Principal": "蘇信如　" }, "geometry": { "type": "Point", "coordinates": [ 121.5608, 24.987728 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28728910　", "Tel": "(02)28710064#264　", "Name": "臺北市士林區士東國民小學附設幼兒園", "District": "士林區　", "HeadTeache": "呂慧玲　", "gglon": "121.526831", "gglat": "25.112933", "ggstat": "OK", "Address": "[111]臺北市士林區中山北路6段392號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.526831, 25.112933 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)23893858　", "Tel": "(02)23144668#114　", "Name": "臺北市萬華區福星國民小學附設幼兒園", "District": "萬華區　", "HeadTeache": "沈怡伶　", "gglon": "121.5089051", "gglat": "25.0467829", "ggstat": "OK", "Address": "[108]臺北市萬華區中華路一段66號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5089051, 25.0467829 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)85011146　", "Tel": "(02)85021571#1500、1089", "Name": "臺北市中山區濱江國民小學附設幼兒園　", "District": "中山區　", "HeadTeache": "潘美慧　", "gglon": "121.5616374", "gglat": "25.0780023", "ggstat": "OK", "Address": "[104]臺北市中山區樂群2路266巷99號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5616374, 25.0780023 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)23637599　", "Tel": "(02)23639795#874　", "Name": "臺北市大安區古亭國民小學附設幼兒園", "District": "大安區　", "HeadTeache": "潘惠珠　", "gglon": "121.5287775", "gglat": "25.0205827", "ggstat": "OK", "Address": "[106]臺北市大安區羅斯福路三段201號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5287775, 25.0205827 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)25525186　", "Tel": "(02)25584819#23　", "Name": "臺北市大同區日新國民小學附設幼兒園　", "District": "大同區　", "HeadTeache": "林育圩　", "gglon": "121.5164822", "gglat": "25.0544042", "ggstat": "OK", "Address": "[103]臺北市大同區太原路151號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5164822, 25.0544042 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27994484　", "Tel": "(02)26574158#712　", "Name": "臺北市內湖區麗山國民小學附設幼兒園", "District": "內湖區　", "HeadTeache": "劉乃慈", "gglon": "121.5724591", "gglat": "25.0836669", "ggstat": "OK", "Address": "[114]臺北市內湖區港華街100號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5724591, 25.0836669 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)23018044　", "Tel": "(02)23034803#801", "Name": "臺北市萬華區東園國民小學附設幼兒園", "District": "萬華區　", "HeadTeache": "梁湘昱　", "gglon": "121.497884", "gglat": "25.0231474", "ggstat": "OK", "Address": "[108]臺北市萬華區東園街195號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.497884, 25.0231474 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28853871　", "Tel": "(02)28853842　", "Name": "臺北市立士林幼兒園　", "District": "士林區　", "HeadTeache": null, "gglon": "121.519574", "gglat": "25.081838", "ggstat": "OK", "Address": "[111]臺北市士林區通河街179巷2號　", "Type": "直轄市立　", "Principal": "謝美琪" }, "geometry": { "type": "Point", "coordinates": [ 121.519574, 25.081838 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28921839", "Tel": "(02)28912764#600　", "Name": "臺北市北投區清江國民小學附設幼兒園", "District": "北投區　", "HeadTeache": "張麗娟", "gglon": "121.5076634", "gglat": "25.1269568", "ggstat": "OK", "Address": "[112]臺北市北投區公館路220號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5076634, 25.1269568 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)23218212　", "Tel": "(02)23933620　", "Name": "臺北市立中正幼兒園　", "District": "中正區　", "HeadTeache": null, "gglon": "121.530902", "gglat": "25.040316", "ggstat": "OK", "Address": "[100]臺北市中正區濟南路二段46號2樓　", "Type": "直轄市立　", "Principal": "陳湘羚" }, "geometry": { "type": "Point", "coordinates": [ 121.530902, 25.040316 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)25850379　", "Tel": "(02)25928889#19　", "Name": "臺北市大同區明倫國民小學附設幼兒園　", "District": "大同區　", "HeadTeache": "林淑芬　", "gglon": "121.5195399", "gglat": "25.0732086", "ggstat": "OK", "Address": "[103]臺北市大同區承德路3段285號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5195399, 25.0732086 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28386782　", "Tel": "(02)28311420#262或266　", "Name": "臺北市士林區雨聲國民小學附設幼兒園", "District": "士林區　", "HeadTeache": "戴麟驊　", "gglon": "121.5352647", "gglat": "25.1026617", "ggstat": "OK", "Address": "[111]臺北市士林區至誠路一段62巷70號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5352647, 25.1026617 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28611704　", "Tel": "(02)28616963#16　", "Name": "臺北市北投區湖田國民小學附設幼兒園", "District": "北投區　", "HeadTeache": "林秀君", "gglon": "121.538774", "gglat": "25.1684568", "ggstat": "OK", "Address": "[112]臺北市北投區竹子湖路17之2號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.538774, 25.1684568 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)25152193　", "Tel": "(02)25178372　", "Name": "臺北市立育航幼兒園　", "District": "中山區　", "HeadTeache": "許明珠　", "gglon": "121.538747", "gglat": "25.054631", "ggstat": "OK", "Address": "[104]臺北市中山區長春路256號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.538747, 25.054631 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)25970734　", "Tel": "(02)25924446#200　", "Name": "市立啟聰學校幼兒園　", "District": "大同區　", "HeadTeache": "余賢桄　", "gglon": "121.5133846", "gglat": "25.0746837", "ggstat": "OK", "Address": "[103]臺北市大同區重慶北路3段320號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5133846, 25.0746837 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28411268　", "Tel": "(02)28411038#21　", "Name": "臺北市士林區雙溪國民小學附設幼兒園　", "District": "士林區　", "HeadTeache": "曹惠真　", "gglon": "121.5638863", "gglat": "25.1060693", "ggstat": "OK", "Address": "[111]臺北市士林區中社路二段66號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5638863, 25.1060693 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27662428　", "Tel": "(02)27698786#13　", "Name": "臺北市信義區興雅國民小學附設幼兒園", "District": "信義區　", "HeadTeache": "趙恕平", "gglon": "121.5700539", "gglat": "25.04676", "ggstat": "OK", "Address": "[110]臺北市信義區基隆路一段83巷9號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5700539, 25.04676 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27930050　", "Tel": "(02)27963721#130　", "Name": "臺北市內湖區新湖國民小學附設幼兒園", "District": "內湖區　", "HeadTeache": "詹慧英", "gglon": "121.5887357", "gglat": "25.0688174", "ggstat": "OK", "Address": "[114]臺北市內湖區民權東路六段138號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5887357, 25.0688174 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28927343　", "Tel": "(02)28917433#171　", "Name": "臺北市北投區義方國民小學附設幼兒園　", "District": "北投區　", "HeadTeache": "何文蒂　", "gglon": "121.5093086", "gglat": "25.1419502", "ggstat": "OK", "Address": "[112]臺北市北投區珠海路155號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5093086, 25.1419502 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)23058574　", "Tel": "(02)23038298#56或58", "Name": "臺北市萬華區新和國民小學附設幼兒園", "District": "萬華區　", "HeadTeache": "劉慧梅　", "gglon": "121.5033238", "gglat": "25.0259732", "ggstat": "OK", "Address": "[108]臺北市萬華區西藏路125巷31號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5033238, 25.0259732 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28924201　", "Tel": "(02)28957073　", "Name": "臺北市北投區逸仙國民小學附設幼兒園　", "District": "北投區　", "HeadTeache": "林彥君　", "gglon": "121.5051619", "gglat": "25.1383709", "ggstat": "OK", "Address": "[112]臺北市北投區新民路2號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5051619, 25.1383709 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27339562　", "Tel": "(02)27356186#180　", "Name": "國立臺北教育大學附設實驗國民小學附設幼兒園", "District": "大安區　", "HeadTeache": "范靜蘭　", "gglon": "121.5408812", "gglat": "25.0249941", "ggstat": "OK", "Address": "[106]臺北市大安區和平東路二段94號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5408812, 25.0249941 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)87705622　", "Tel": "(02)27181189　", "Name": "臺北市立松山幼兒園　", "District": "松山區　", "HeadTeache": null, "gglon": "121.55113", "gglat": "25.057122", "ggstat": "OK", "Address": "[105]臺北市松山區敦化北路199巷5號2樓　", "Type": "直轄市立　", "Principal": "洪玉來　" }, "geometry": { "type": "Point", "coordinates": [ 121.55113, 25.057122 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)26334163　", "Tel": "(02)26339984#226　", "Name": "臺北市內湖區東湖國民小學附設幼兒園", "District": "內湖區　", "HeadTeache": "崔素珍", "gglon": "121.6158766", "gglat": "25.0684876", "ggstat": "OK", "Address": "[114]臺北市內湖區東湖路115號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.6158766, 25.0684876 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28732612　", "Tel": "(02)28740670#2100", "Name": "臺北市立啟明學校", "District": "士林區　", "HeadTeache": "胡冠璋　", "gglon": "121.534969", "gglat": "25.116621", "ggstat": "OK", "Address": "[111]臺北市士林區忠誠路2段207巷1號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.534969, 25.116621 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)25285047　", "Tel": "(02)25282814#202　", "Name": "臺北市松山區健康國民小學附設幼兒園", "District": "松山區　", "HeadTeache": "蔡育恩", "gglon": "121.5627414", "gglat": "25.0567044", "ggstat": "OK", "Address": "[105]臺北市松山區延壽街168號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5627414, 25.0567044 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)29397813　", "Tel": "(02)29370234#27　", "Name": "臺北市文山區萬興國民小學附設幼兒園　", "District": "文山區　", "HeadTeache": "林妙芬", "gglon": "121.5765927", "gglat": "24.9904294", "ggstat": "OK", "Address": "[116]臺北市文山區秀明路2段114號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5765927, 24.9904294 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28103785　", "Tel": "(02)28103192#74　", "Name": "臺北市士林區富安國民小學附設幼兒園", "District": "士林區　", "HeadTeache": "陳佳琳　", "gglon": "121.4824562", "gglat": "25.1058608", "ggstat": "OK", "Address": "[111]臺北市士林區延平北路八段135號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.4824562, 25.1058608 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27295380　", "Tel": "(02)27204005#871　", "Name": "臺北市信義區信義國民小學附設幼兒園　", "District": "信義區　", "HeadTeache": "廖佳燕", "gglon": "121.5632007", "gglat": "25.0318604", "ggstat": "OK", "Address": "[110]臺北市信義區松勤街60號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5632007, 25.0318604 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)22305610　", "Tel": "(02)22393070#170　", "Name": "臺北市文山區興華國民小學附設幼兒園　", "District": "文山區　", "HeadTeache": "高子淇　", "gglon": "121.5589184", "gglat": "24.9988821", "ggstat": "OK", "Address": "[116]臺北市文山區興隆路3段125巷6號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5589184, 24.9988821 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)23712793　", "Tel": "(02)23118126#19　", "Name": "臺北市中正區國語實驗小學附設幼兒園", "District": "中正區　", "HeadTeache": "高淑芬", "gglon": "121.512606", "gglat": "25.032512", "ggstat": "OK", "Address": "[100]臺北市中正區重慶南路二段14之4號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.512606, 25.032512 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)29398540　", "Tel": "(02)29393546#17　", "Name": "臺北市文山區指南國民小學附設幼兒園　", "District": "文山區　", "HeadTeache": "李莉", "gglon": "121.5836385", "gglat": "24.9763927", "ggstat": "OK", "Address": "[116]臺北市文山區指南路3段38巷5之2號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5836385, 24.9763927 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)23069908　", "Tel": "(02)23069908　", "Name": "臺北市萬華區老松國民小學附設幼兒園", "District": "萬華區　", "HeadTeache": "梁亮玉", "gglon": "121.502725", "gglat": "25.038046", "ggstat": "OK", "Address": "[108]臺北市萬華區桂林路64號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.502725, 25.038046 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)89310473　", "Tel": "(02)89321312　", "Name": "臺北市文山區辛亥國民小學附設幼兒園　", "District": "文山區　", "HeadTeache": "周宸誼　", "gglon": "121.5592422", "gglat": "25.0064295", "ggstat": "OK", "Address": "[116]臺北市文山區辛亥路4段103號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5592422, 25.0064295 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27585236　", "Tel": "(02)27200226#71　", "Name": "臺北市信義區吳興國民小學附設幼兒園", "District": "信義區　", "HeadTeache": "周文秀", "gglon": "121.5687156", "gglat": "25.0257427", "ggstat": "OK", "Address": "[110]臺北市信義區松仁路226號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5687156, 25.0257427 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27662370　", "Tel": "(02)27609221#207　", "Name": "臺北市松山區西松國民小學附設幼兒園", "District": "松山區　", "HeadTeache": "吳淑惠", "gglon": "121.5636201", "gglat": "25.0521927", "ggstat": "OK", "Address": "[105]臺北市松山區三民路5號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5636201, 25.0521927 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)23039125", "Tel": "(02)23037654#712", "Name": "臺北市萬華區萬大國民小學附設幼兒園", "District": "萬華區　", "HeadTeache": "陳佩君", "gglon": "121.4993502", "gglat": "25.0229727", "ggstat": "OK", "Address": "[108]臺北市萬華區萬大路346號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.4993502, 25.0229727 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28362943　", "Tel": "(02)28365411#170　", "Name": "臺北市士林區文昌國民小學附設幼兒園　", "District": "士林區　", "HeadTeache": "賴佳莉", "gglon": "121.5212888", "gglat": "25.099413", "ggstat": "OK", "Address": "[111]臺北市士林區文林路615巷20號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5212888, 25.099413 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)25024356　", "Tel": "(02)25059744　", "Name": "臺北市中山區大佳國民小學附設幼兒園　", "District": "中山區　", "HeadTeache": "吳淑真　", "gglon": "121.5363584", "gglat": "25.0733443", "ggstat": "OK", "Address": "[104]臺北市中山區濱江街107號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5363584, 25.0733443 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)27739447　", "Tel": "(02)27514065#171　", "Name": "臺北市松山區敦化國民小學附設幼兒園", "District": "松山區　", "HeadTeache": "張馥安　", "gglon": "121.5485306", "gglat": "25.0491037", "ggstat": "OK", "Address": "[105]臺北市松山區敦化北路2號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5485306, 25.0491037 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)23064375　", "Tel": "(02)23083511　", "Name": "臺北市萬華區雙園國民小學附設幼兒園", "District": "萬華區　", "HeadTeache": "鄭芷葳", "gglon": "121.4981706", "gglat": "25.0309508", "ggstat": "OK", "Address": "[108]臺北市萬華區莒光路315號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.4981706, 25.0309508 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)28281743", "Tel": "(02)28210702#603.600", "Name": "臺北市北投區立農國民小學附設幼兒園　", "District": "北投區　", "HeadTeache": "楊佑美　", "gglon": "121.5052095", "gglat": "25.1194932", "ggstat": "OK", "Address": "[112]臺北市北投區立農街一段250號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5052095, 25.1194932 ] } }
+,
+{ "type": "Feature", "properties": { "Fax": "(02)25850245　", "Tel": "(02)25942635#891　", "Name": "臺北市大同區大龍國民小學附設幼兒園　　", "District": "大同區　", "HeadTeache": "鄭素蕊", "gglon": "121.5167088", "gglat": "25.0734012", "ggstat": "OK", "Address": "[103]臺北市大同區哈密街47號　", "Type": null, "Principal": null }, "geometry": { "type": "Point", "coordinates": [ 121.5167088, 25.0734012 ] } }
+
+]
+}

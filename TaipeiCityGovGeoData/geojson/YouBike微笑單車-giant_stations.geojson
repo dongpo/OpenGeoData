@@ -1,0 +1,28 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "capacity": "180", "name": "捷運市政府站", "address": "臺北市信義區忠孝東路5段2號", "lat": "25.0408388889", "lng": "121.567894444", "id": "1", "availBike": "103" }, "geometry": { "type": "Point", "coordinates": [ 121.567894444, 25.040838888900002 ] } }
+,
+{ "type": "Feature", "properties": { "capacity": "38", "name": "捷運國父紀念館站", "address": "臺北市信義區忠孝東路4段400號", "lat": "25.0410833333", "lng": "121.5578", "id": "2", "availBike": "14" }, "geometry": { "type": "Point", "coordinates": [ 121.5578, 25.041083333300001 ] } }
+,
+{ "type": "Feature", "properties": { "capacity": "40", "name": "臺北市政府", "address": "臺北市信義區市府路1號", "lat": "25.0377972222", "lng": "121.565169444", "id": "3", "availBike": "24" }, "geometry": { "type": "Point", "coordinates": [ 121.565169444, 25.037797222199998 ] } }
+,
+{ "type": "Feature", "properties": { "capacity": "60", "name": "市民廣場", "address": "市民廣場", "lat": "25.0360361111", "lng": "121.562325", "id": "4", "availBike": "21" }, "geometry": { "type": "Point", "coordinates": [ 121.562325, 25.0360361111 ] } }
+,
+{ "type": "Feature", "properties": { "capacity": "60", "name": "興雅國中", "address": "興雅國中", "lat": "25.0365638889", "lng": "121.568663889", "id": "5", "availBike": "34" }, "geometry": { "type": "Point", "coordinates": [ 121.568663889, 25.036563888900002 ] } }
+,
+{ "type": "Feature", "properties": { "capacity": "80", "name": "紐約紐約綠園道", "address": "臺北市信義區松智路", "lat": "25.0347361111", "lng": "121.565658333", "id": "6", "availBike": "15" }, "geometry": { "type": "Point", "coordinates": [ 121.565658333, 25.034736111099999 ] } }
+,
+{ "type": "Feature", "properties": { "capacity": "80", "name": "信義廣場", "address": "臺北市信義區信義路五段", "lat": "25.0330388889", "lng": "121.565619444", "id": "7", "availBike": "30" }, "geometry": { "type": "Point", "coordinates": [ 121.565619444, 25.033038888899998 ] } }
+,
+{ "type": "Feature", "properties": { "capacity": "60", "name": "世貿三館", "address": "臺北市信義區松壽路6號", "lat": "25.0352138889", "lng": "121.563688889", "id": "8", "availBike": "18" }, "geometry": { "type": "Point", "coordinates": [ 121.563688889, 25.0352138889 ] } }
+,
+{ "type": "Feature", "properties": { "capacity": "40", "name": "世貿一館C出口", "address": "臺北市信義區市府路", "lat": "25.033943", "lng": "121.562959", "id": "9", "availBike": "24" }, "geometry": { "type": "Point", "coordinates": [ 121.562959, 25.033943 ] } }
+,
+{ "type": "Feature", "properties": { "capacity": "54", "name": "台北市災害應變中心", "address": "臺北市信義區莊敬路", "lat": "25.0286611111", "lng": "121.566116667", "id": "10", "availBike": "23" }, "geometry": { "type": "Point", "coordinates": [ 121.566116667, 25.0286611111 ] } }
+,
+{ "type": "Feature", "properties": { "capacity": "26", "name": "三張犁", "address": "臺北市信義區光復南路", "lat": "25.0335472222", "lng": "121.557594444", "id": "11", "availBike": "13" }, "geometry": { "type": "Point", "coordinates": [ 121.557594444, 25.033547222199999 ] } }
+
+]
+}

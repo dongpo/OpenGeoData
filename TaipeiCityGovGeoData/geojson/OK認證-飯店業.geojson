@@ -1,0 +1,94 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "西華大飯店-怡園", "display_ad": "105台北市松山區民生東路3段111號", "poi_addr": "台北市民生東路三段111號", "gglon": "121.5457089", "traffic_in": null, "certificat": "飯店業", "gglat": "25.057954" }, "geometry": { "type": "Point", "coordinates": [ 121.5457089, 25.057954 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "國賓大飯店-明園西餐廳", "display_ad": "104台北市中山區中山北路2段63號", "poi_addr": "台北市中山北路二段63號", "gglon": "121.52313", "traffic_in": null, "certificat": "飯店業", "gglat": "25.056582" }, "geometry": { "type": "Point", "coordinates": [ 121.52313, 25.056582 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "福容大飯店 台北-田園西餐廳", "display_ad": "106台北市大安區建國南路1段266號", "poi_addr": "台北市建國南路一段266號", "gglon": "121.53721", "traffic_in": null, "certificat": "飯店業", "gglat": "25.036628" }, "geometry": { "type": "Point", "coordinates": [ 121.53721, 25.036628 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "三德大飯店-中餐廳", "display_ad": "103台北市大同區承德路3段49號", "poi_addr": "台北市承德路三段49號", "gglon": "121.518578", "traffic_in": null, "certificat": "飯店業", "gglat": "25.064865" }, "geometry": { "type": "Point", "coordinates": [ 121.518578, 25.064865 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "福容大飯店 台北-順園日本料理", "display_ad": "106台北市大安區建國南路1段266號", "poi_addr": "台北市建國南路一段266號", "gglon": "121.53721", "traffic_in": null, "certificat": "飯店業", "gglat": "25.036628" }, "geometry": { "type": "Point", "coordinates": [ 121.53721, 25.036628 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "王朝大酒店-玉蘭軒", "display_ad": "105台北市松山區敦化北路100號", "poi_addr": "台北市敦化北路100號", "gglon": "121.548598", "traffic_in": null, "certificat": "飯店業", "gglat": "25.052339" }, "geometry": { "type": "Point", "coordinates": [ 121.548598, 25.052339 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "兄弟大飯店-薔薇廳", "display_ad": "105台北市松山區南京東路3段255號", "poi_addr": "台北市南京東路三段255號", "gglon": "121.5444777", "traffic_in": null, "certificat": "飯店業", "gglat": "25.0519983" }, "geometry": { "type": "Point", "coordinates": [ 121.5444777, 25.0519983 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "亞都麗緻大飯店-巴黎廳", "display_ad": "104台北市中山區民權東路2段41號", "poi_addr": "台北市民權東路二段41號", "gglon": "121.529818", "traffic_in": null, "certificat": "飯店業", "gglat": "25.062774" }, "geometry": { "type": "Point", "coordinates": [ 121.529818, 25.062774 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "華泰王子大飯店-中餐廳", "display_ad": "104台北市中山區林森北路369號", "poi_addr": "台北市林森北路369號", "gglon": "121.5257097", "traffic_in": null, "certificat": "飯店業", "gglat": "25.0579487" }, "geometry": { "type": "Point", "coordinates": [ 121.5257097, 25.0579487 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "台北馥敦飯店-嘉園廳", "display_ad": "105台北市松山區南京東路5段32號", "poi_addr": "台北市南京東路五段32號", "gglon": "121.558877", "traffic_in": null, "certificat": "飯店業", "gglat": "25.051346" }, "geometry": { "type": "Point", "coordinates": [ 121.558877, 25.051346 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "康華大飯店-香榭廳", "display_ad": "104台北市中山區松江路306號", "poi_addr": "台北市松江路306號", "gglon": "121.532778", "traffic_in": null, "certificat": "飯店業", "gglat": "25.0601289" }, "geometry": { "type": "Point", "coordinates": [ 121.532778, 25.0601289 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "圓山大飯店-松鶴餐廳", "display_ad": "104台北市中山區中山北路4段1號", "poi_addr": "台北市中山北路四段1號", "gglon": "121.5261429", "traffic_in": null, "certificat": "飯店業", "gglat": "25.078575" }, "geometry": { "type": "Point", "coordinates": [ 121.5261429, 25.078575 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "六福客棧-金鳳廳", "display_ad": "104台北市中山區長春路168號", "poi_addr": "台北市長春路168號", "gglon": "121.5335299", "traffic_in": null, "certificat": "飯店業", "gglat": "25.0547326" }, "geometry": { "type": "Point", "coordinates": [ 121.5335299, 25.0547326 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "六福客棧-福園廳", "display_ad": "104台北市中山區長春路168號", "poi_addr": "台北市長春路168號", "gglon": "121.5335299", "traffic_in": null, "certificat": "飯店業", "gglat": "25.0547326" }, "geometry": { "type": "Point", "coordinates": [ 121.5335299, 25.0547326 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "神旺大飯店-澄江", "display_ad": "106台北市大安區忠孝東路4段172號", "poi_addr": "台北市忠孝東路四段172號", "gglon": "121.550985", "traffic_in": null, "certificat": "飯店業", "gglat": "25.041298" }, "geometry": { "type": "Point", "coordinates": [ 121.550985, 25.041298 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "天成大飯店-江浙天成樓", "display_ad": "100台北市中正區忠孝西路1段43號", "poi_addr": "台北市忠孝西路一段43號", "gglon": "121.518155", "traffic_in": null, "certificat": "飯店業", "gglat": "25.0462839" }, "geometry": { "type": "Point", "coordinates": [ 121.518155, 25.0462839 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "華泰王子大飯店-西餐廳", "display_ad": "104台北市中山區林森北路369號", "poi_addr": "台北市林森北路369號", "gglon": "121.5257097", "traffic_in": null, "certificat": "飯店業", "gglat": "25.0579487" }, "geometry": { "type": "Point", "coordinates": [ 121.5257097, 25.0579487 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "國賓大飯店-Aqua Lounge", "display_ad": "104台北市中山區中山北路2段63號", "poi_addr": "台北市中山北路二段63號", "gglon": "121.52313", "traffic_in": null, "certificat": "飯店業", "gglat": "25.056582" }, "geometry": { "type": "Point", "coordinates": [ 121.52313, 25.056582 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "西華大飯店-鰭小馬", "display_ad": "105台北市松山區民生東路3段111號", "poi_addr": "台北市民生東路三段111號", "gglon": "121.5457089", "traffic_in": null, "certificat": "飯店業", "gglat": "25.057954" }, "geometry": { "type": "Point", "coordinates": [ 121.5457089, 25.057954 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "康華大飯店-鳳凰廳", "display_ad": "104台北市中山區松江路306號", "poi_addr": "台北市松江路306號", "gglon": "121.532778", "traffic_in": null, "certificat": "飯店業", "gglat": "25.0601289" }, "geometry": { "type": "Point", "coordinates": [ 121.532778, 25.0601289 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "兄弟大飯店-桂花廳", "display_ad": "105台北市松山區南京東路3段255號", "poi_addr": "台北市南京東路三段255號", "gglon": "121.5444777", "traffic_in": null, "certificat": "飯店業", "gglat": "25.0519983" }, "geometry": { "type": "Point", "coordinates": [ 121.5444777, 25.0519983 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "王朝大酒店-中庭西式自助餐廳", "display_ad": "105台北市松山區敦化北路100號", "poi_addr": "台北市敦化北路100號", "gglon": "121.548598", "traffic_in": null, "certificat": "飯店業", "gglat": "25.052339" }, "geometry": { "type": "Point", "coordinates": [ 121.548598, 25.052339 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "神旺大飯店-伯品廊", "display_ad": "106台北市大安區忠孝東路4段172號", "poi_addr": "台北市忠孝東路四段172號", "gglon": "121.550985", "traffic_in": null, "certificat": "飯店業", "gglat": "25.041298" }, "geometry": { "type": "Point", "coordinates": [ 121.550985, 25.041298 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "福容大飯店 台北-福園中廚房", "display_ad": "106台北市大安區建國南路1段266號", "poi_addr": "台北市建國南路一段266號", "gglon": "121.53721", "traffic_in": null, "certificat": "飯店業", "gglat": "25.036628" }, "geometry": { "type": "Point", "coordinates": [ 121.53721, 25.036628 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "圓山大飯店-金龍餐廳", "display_ad": "104台北市中山區中山北路4段1號", "poi_addr": "台北市中山北路四段1號", "gglon": "121.5261429", "traffic_in": null, "certificat": "飯店業", "gglat": "25.078575" }, "geometry": { "type": "Point", "coordinates": [ 121.5261429, 25.078575 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "王朝大酒店-宴會廳", "display_ad": "105台北市松山區敦化北路100號", "poi_addr": "台北市敦化北路100號", "gglon": "121.548598", "traffic_in": null, "certificat": "飯店業", "gglat": "25.052339" }, "geometry": { "type": "Point", "coordinates": [ 121.548598, 25.052339 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "六福客棧-談天閣", "display_ad": "104台北市中山區長春路168號", "poi_addr": "台北市長春路168號", "gglon": "121.5335299", "traffic_in": null, "certificat": "飯店業", "gglat": "25.0547326" }, "geometry": { "type": "Point", "coordinates": [ 121.5335299, 25.0547326 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "西華大飯店-Toscana", "display_ad": "105台北市松山區民生東路3段111號", "poi_addr": "台北市民生東路三段111號", "gglon": "121.5457089", "traffic_in": null, "certificat": "飯店業", "gglat": "25.057954" }, "geometry": { "type": "Point", "coordinates": [ 121.5457089, 25.057954 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "西華大飯店-Bone", "display_ad": "105台北市松山區民生東路3段111號", "poi_addr": "台北市民生東路三段111號", "gglon": "121.5457089", "traffic_in": null, "certificat": "飯店業", "gglat": "25.057954" }, "geometry": { "type": "Point", "coordinates": [ 121.5457089, 25.057954 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "國賓大飯店-阿眉快餐廳", "display_ad": "104台北市中山區中山北路2段63號", "poi_addr": "台北市中山北路二段63號", "gglon": "121.52313", "traffic_in": null, "certificat": "飯店業", "gglat": "25.056582" }, "geometry": { "type": "Point", "coordinates": [ 121.52313, 25.056582 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "兄弟大飯店-蘭花廳", "display_ad": "105台北市松山區南京東路3段255號", "poi_addr": "台北市南京東路三段255號", "gglon": "121.5444777", "traffic_in": null, "certificat": "飯店業", "gglat": "25.0519983" }, "geometry": { "type": "Point", "coordinates": [ 121.5444777, 25.0519983 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "康華大飯店-金鑾廳", "display_ad": "104台北市中山區松江路306號", "poi_addr": "台北市松江路306號", "gglon": "121.532778", "traffic_in": null, "certificat": "飯店業", "gglat": "25.0601289" }, "geometry": { "type": "Point", "coordinates": [ 121.532778, 25.0601289 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "兄弟大飯店-梅花廳", "display_ad": "105台北市松山區南京東路3段255號", "poi_addr": "台北市南京東路三段255號", "gglon": "121.5444777", "traffic_in": null, "certificat": "飯店業", "gglat": "25.0519983" }, "geometry": { "type": "Point", "coordinates": [ 121.5444777, 25.0519983 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "國賓大飯店-A Cut 牛排館", "display_ad": "104台北市中山區中山北路2段63號", "poi_addr": "台北市中山北路二段63號", "gglon": "121.52313", "traffic_in": null, "certificat": "飯店業", "gglat": "25.056582" }, "geometry": { "type": "Point", "coordinates": [ 121.52313, 25.056582 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "台北馥敦飯店-日安西餐廳", "display_ad": "105台北市松山區南京東路5段32號", "poi_addr": "台北市南京東路五段32號", "gglon": "121.558877", "traffic_in": null, "certificat": "飯店業", "gglat": "25.051346" }, "geometry": { "type": "Point", "coordinates": [ 121.558877, 25.051346 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "福華大飯店-海山廳", "display_ad": "106台北市大安區仁愛路3段160號", "poi_addr": "台北市仁愛路三段160號", "gglon": "121.5433474", "traffic_in": null, "certificat": "飯店業", "gglat": "25.0377117" }, "geometry": { "type": "Point", "coordinates": [ 121.5433474, 25.0377117 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "神旺大飯店-潮品集", "display_ad": "106台北市大安區忠孝東路4段172號", "poi_addr": "台北市忠孝東路四段172號", "gglon": "121.550985", "traffic_in": null, "certificat": "飯店業", "gglat": "25.041298" }, "geometry": { "type": "Point", "coordinates": [ 121.550985, 25.041298 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "王朝大酒店-盛華瑄", "display_ad": "105台北市松山區敦化北路100號", "poi_addr": "台北市敦化北路100號", "gglon": "121.548598", "traffic_in": null, "certificat": "飯店業", "gglat": "25.052339" }, "geometry": { "type": "Point", "coordinates": [ 121.548598, 25.052339 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "國王大飯店-西餐廳", "display_ad": "104台北市中山區南京東路1段118號", "poi_addr": "台北市南京東路一段118號", "gglon": "121.526685", "traffic_in": null, "certificat": "飯店業", "gglat": "25.051893" }, "geometry": { "type": "Point", "coordinates": [ 121.526685, 25.051893 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "國賓大飯店-粵菜廳", "display_ad": "104台北市中山區中山北路2段63號", "poi_addr": "台北市中山北路二段63號", "gglon": "121.52313", "traffic_in": null, "certificat": "飯店業", "gglat": "25.056582" }, "geometry": { "type": "Point", "coordinates": [ 121.52313, 25.056582 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "福華大飯店-麗香苑", "display_ad": "106台北市大安區仁愛路3段160號", "poi_addr": "台北市仁愛路三段160號", "gglon": "121.5433474", "traffic_in": null, "certificat": "飯店業", "gglat": "25.0377117" }, "geometry": { "type": "Point", "coordinates": [ 121.5433474, 25.0377117 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "亞都麗緻大飯店-天香樓", "display_ad": "104台北市中山區民權東路2段41號", "poi_addr": "台北市民權東路二段41號", "gglon": "121.529818", "traffic_in": null, "certificat": "飯店業", "gglat": "25.062774" }, "geometry": { "type": "Point", "coordinates": [ 121.529818, 25.062774 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "三德大飯店-西餐廳", "display_ad": "103台北市大同區承德路3段49號", "poi_addr": "台北市承德路三段49號", "gglon": "121.518578", "traffic_in": null, "certificat": "飯店業", "gglat": "25.064865" }, "geometry": { "type": "Point", "coordinates": [ 121.518578, 25.064865 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": null, "name": "福華大飯店-江南春", "display_ad": "106台北市大安區仁愛路3段160號", "poi_addr": "台北市仁愛路三段160號", "gglon": "121.5433474", "traffic_in": null, "certificat": "飯店業", "gglat": "25.0377117" }, "geometry": { "type": "Point", "coordinates": [ 121.5433474, 25.0377117 ] } }
+
+]
+}

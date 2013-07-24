@@ -1,0 +1,52 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2731-6326", "name": "錢澤企業股份有限公司", "display_ad": "敦化南路1段209號", "poi_addr": "台北市敦化南路一段209號", "gglon": "121.549359", "traffic_in": null, "certificat": "娛樂業", "gglat": "25.0418719" }, "geometry": { "type": "Point", "coordinates": [ 121.549359, 25.0418719 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2525-1255 2537-2235", "name": "錢櫃林森店", "display_ad": "林森北路312號", "poi_addr": "台北市林森北路312號", "gglon": "121.5253621", "traffic_in": null, "certificat": "娛樂業", "gglat": "25.0565149" }, "geometry": { "type": "Point", "coordinates": [ 121.5253621, 25.0565149 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2560-2111", "name": "錢京視聽股份有限公司", "display_ad": "南京東路2段3號", "poi_addr": "台北市南京東路二段3號", "gglon": "121.528029", "traffic_in": null, "certificat": "娛樂業", "gglat": "25.05227" }, "geometry": { "type": "Point", "coordinates": [ 121.528029, 25.05227 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2795-1389", "name": "好樂迪股份有限公司內湖分公司", "display_ad": "成功路4段68號b1b1之28", "poi_addr": "台北市成功路四段68號", "gglon": "121.5929356", "traffic_in": null, "certificat": "娛樂業", "gglat": "25.0828594" }, "geometry": { "type": "Point", "coordinates": [ 121.5929356, 25.0828594 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "8861-5536", "name": "好樂迪股份有限公司士林分公司", "display_ad": "基河路15號2-4樓", "poi_addr": "台北市基河路15號", "gglon": "121.52474", "traffic_in": null, "certificat": "娛樂業", "gglat": "25.087202" }, "geometry": { "type": "Point", "coordinates": [ 121.52474, 25.087202 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2361-9898", "name": "錢櫃企業股份有限公司台北西門分公司", "display_ad": "中華路1段55號B1", "poi_addr": "台北市中華路一段55號", "gglon": "121.508778", "traffic_in": null, "certificat": "娛樂業", "gglat": "25.042634" }, "geometry": { "type": "Point", "coordinates": [ 121.508778, 25.042634 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "3393-9928 3393-9595", "name": "國立中正文化中心", "display_ad": "中山南路21之1號", "poi_addr": "台北市中山南路21之1號", "gglon": "121.519047", "traffic_in": null, "certificat": "娛樂業", "gglat": "25.0367564" }, "geometry": { "type": "Point", "coordinates": [ 121.519047, 25.0367564 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2934-8000", "name": "好樂迪股份有限公司景美分公司", "display_ad": "羅斯福路6段403號2樓", "poi_addr": "台北市羅斯福路六段403號", "gglon": "121.540693", "traffic_in": null, "certificat": "娛樂業", "gglat": "24.991753" }, "geometry": { "type": "Point", "coordinates": [ 121.540693, 24.991753 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2571-0299", "name": "華納視聽歌唱有限公司", "display_ad": "林森北路282號3樓", "poi_addr": "台北市林森北路282號", "gglon": "121.525336", "traffic_in": null, "certificat": "娛樂業", "gglat": "25.055491" }, "geometry": { "type": "Point", "coordinates": [ 121.525336, 25.055491 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2503-1688", "name": "錢櫃企業股份有限公司台北松江分公司", "display_ad": "松江路193號", "poi_addr": "台北市松江路193號", "gglon": "121.533389", "traffic_in": null, "certificat": "娛樂業", "gglat": "25.0567309" }, "geometry": { "type": "Point", "coordinates": [ 121.533389, 25.0567309 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2388-0768", "name": "好樂迪股份有限公司西寧分公司", "display_ad": "西寧南路62號3-8樓", "poi_addr": "台北市西寧南路62號", "gglon": "121.506118", "traffic_in": null, "certificat": "娛樂業", "gglat": "25.0438099" }, "geometry": { "type": "Point", "coordinates": [ 121.506118, 25.0438099 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2769-1099", "name": "好樂迪股份有限公司松隆門市", "display_ad": "松隆路327號B1`1樓", "poi_addr": "台北市松隆路327號", "gglon": "121.5791622", "traffic_in": null, "certificat": "娛樂業", "gglat": "25.0483341" }, "geometry": { "type": "Point", "coordinates": [ 121.5791622, 25.0483341 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2771-5000", "name": "錢櫃企業股份有限公司忠孝分公司", "display_ad": "忠孝東路4段22號地下1樓至11樓", "poi_addr": "台北市忠孝東路四段22號", "gglon": "121.544205", "traffic_in": null, "certificat": "娛樂業", "gglat": "25.0413909" }, "geometry": { "type": "Point", "coordinates": [ 121.544205, 25.0413909 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2543-3552", "name": "名亨酒店", "display_ad": "松江路148號地下1樓", "poi_addr": "台北市松江路148號", "gglon": "121.5328807", "traffic_in": null, "certificat": "娛樂業", "gglat": "25.0535234" }, "geometry": { "type": "Point", "coordinates": [ 121.5328807, 25.0535234 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2381-9208", "name": "好樂迪股份有限公司館前分公司", "display_ad": "館前路34號1樓", "poi_addr": "台北市館前路34號", "gglon": "121.51488", "traffic_in": null, "certificat": "娛樂業", "gglat": "25.0446669" }, "geometry": { "type": "Point", "coordinates": [ 121.51488, 25.0446669 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2751-2508", "name": "好樂迪股份有限公司中興分公司", "display_ad": "復興南路1段27號1.2樓", "poi_addr": "台北市復興南路一段27號", "gglon": "121.544163", "traffic_in": null, "certificat": "娛樂業", "gglat": "25.046587" }, "geometry": { "type": "Point", "coordinates": [ 121.544163, 25.046587 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "6608-6263", "name": "盛況視聽歌城", "display_ad": "松江路152號B1", "poi_addr": "台北市松江路152號", "gglon": "121.5329022", "traffic_in": null, "certificat": "娛樂業", "gglat": "25.0542451" }, "geometry": { "type": "Point", "coordinates": [ 121.5329022, 25.0542451 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2571-1912*168", "name": "好樂迪股份有限公司錦州分公司", "display_ad": "錦州街15號", "poi_addr": "台北市錦州街15號", "gglon": "121.524403", "traffic_in": null, "certificat": "娛樂業", "gglat": "25.060416" }, "geometry": { "type": "Point", "coordinates": [ 121.524403, 25.060416 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2822-2168", "name": "好樂迪股份有限公司石牌分公司", "display_ad": "裕民六路120號B1", "poi_addr": "台北市裕民六路120號", "gglon": "121.517667", "traffic_in": null, "certificat": "娛樂業", "gglat": "25.114571" }, "geometry": { "type": "Point", "coordinates": [ 121.517667, 25.114571 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2523-5595", "name": "新樂聲酒吧", "display_ad": "民生東路1段54號B1", "poi_addr": "台北市民生東路一段54號", "gglon": "121.524958", "traffic_in": null, "certificat": "娛樂業", "gglat": "25.057925" }, "geometry": { "type": "Point", "coordinates": [ 121.524958, 25.057925 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2556-2333", "name": "百花紅大酒家", "display_ad": "天水路14號2-4樓", "poi_addr": "台北市天水路14號", "gglon": "121.51333", "traffic_in": null, "certificat": "娛樂業", "gglat": "25.052909" }, "geometry": { "type": "Point", "coordinates": [ 121.51333, 25.052909 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "8661-6308", "name": "好樂迪股份有限公司木柵分公司", "display_ad": "木柵路3段96號地下1樓", "poi_addr": "台北市木柵路三段96號", "gglon": "121.56727", "traffic_in": null, "certificat": "娛樂業", "gglat": "24.9885859" }, "geometry": { "type": "Point", "coordinates": [ 121.56727, 24.9885859 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2563-5535", "name": "欣儂興業有限公司", "display_ad": "林森北路100號3樓", "poi_addr": "台北市林森北路100號", "gglon": "121.524716", "traffic_in": null, "certificat": "娛樂業", "gglat": "25.050472" }, "geometry": { "type": "Point", "coordinates": [ 121.524716, 25.050472 ] } }
+
+]
+}

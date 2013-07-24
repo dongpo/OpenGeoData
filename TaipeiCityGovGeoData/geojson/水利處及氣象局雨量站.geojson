@@ -1,0 +1,208 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 1, "STID": 1.0, "COUNTY": "臺北縣", "TOWN": "石碇鄉", "STATIONID": "01A17", "NAME": "坪林", "DEP": "氣象局", "V": 1.0, "X": 311382.84206021000864, "Y": 2758601.795850759837776 }, "geometry": { "type": "Point", "coordinates": [ 121.615978694664378, 24.932169798655107 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 2, "STID": 2.0, "COUNTY": "臺北縣", "TOWN": "三峽鎮", "STATIONID": "01A21", "NAME": "大豹", "DEP": "氣象局", "V": 2.0, "X": 292069.345978219993412, "Y": 2753236.964741759933531 }, "geometry": { "type": "Point", "coordinates": [ 121.424588716116816, 24.8844023963571 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 3, "STID": 3.0, "COUNTY": "臺北縣", "TOWN": "永和市", "STATIONID": "01A41", "NAME": "中正橋", "DEP": "氣象局", "V": 3.0, "X": 301199.278786720009521, "Y": 2768241.652243739925325 }, "geometry": { "type": "Point", "coordinates": [ 121.515514070926187, 25.019581509105009 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 4, "STID": 4.0, "COUNTY": "臺北市", "TOWN": "北投區", "STATIONID": "01A42", "NAME": "竹子湖", "DEP": "氣象局", "V": 4.0, "X": 303452.551748819998465, "Y": 2784845.190051199868321 }, "geometry": { "type": "Point", "coordinates": [ 121.538495340764399, 25.169397037725268 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 5, "STID": 5.0, "COUNTY": "臺北縣", "TOWN": "烏來鄉", "STATIONID": "01A43", "NAME": "福山", "DEP": "氣象局", "V": 5.0, "X": 298706.63136040000245, "Y": 2741382.540666719898582 }, "geometry": { "type": "Point", "coordinates": [ 121.489858762302035, 24.777176270843917 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 6, "STID": 6.0, "COUNTY": "臺北縣", "TOWN": "烏來鄉", "STATIONID": "01A44", "NAME": "大桶山", "DEP": "氣象局", "V": 6.0, "X": 307232.113992339989636, "Y": 2751507.133188149891794 }, "geometry": { "type": "Point", "coordinates": [ 121.574586027269447, 24.868283015352649 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 7, "STID": 7.0, "COUNTY": "基隆市", "TOWN": "七堵區", "STATIONID": "01B03", "NAME": "五堵", "DEP": "氣象局", "V": 7.0, "X": 319268.034387550025713, "Y": 2774916.402457950171083 }, "geometry": { "type": "Point", "coordinates": [ 121.694876475906113, 25.079110327623102 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 8, "STID": 8.0, "COUNTY": "桃園縣", "TOWN": "龍潭鄉", "STATIONID": "01C40", "NAME": "石門", "DEP": "氣象局", "V": 8.0, "X": 273867.949097269971389, "Y": 2745778.511358819901943 }, "geometry": { "type": "Point", "coordinates": [ 121.244308439557159, 24.817467648377008 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 9, "STID": 9.0, "COUNTY": "桃園縣", "TOWN": "復興鄉", "STATIONID": "21C07", "NAME": "巴陵", "DEP": "氣象局", "V": 9.0, "X": 288792.577975169988349, "Y": 2730767.363952840212733 }, "geometry": { "type": "Point", "coordinates": [ 121.391520223558317, 24.681625781333416 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 10, "STID": 10.0, "COUNTY": "桃園縣", "TOWN": "復興鄉", "STATIONID": "21C08", "NAME": "高義", "DEP": "氣象局", "V": 10.0, "X": 285409.857332020008471, "Y": 2734450.318836269900203 }, "geometry": { "type": "Point", "coordinates": [ 121.358189424920667, 24.714961061007525 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 11, "STID": 11.0, "COUNTY": "桃園縣", "TOWN": "復興鄉", "STATIONID": "21C09", "NAME": "嘎拉賀", "DEP": "氣象局", "V": 11.0, "X": 290495.359800749982242, "Y": 2725234.233451679814607 }, "geometry": { "type": "Point", "coordinates": [ 121.408183437366105, 24.631624749034284 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 12, "STID": 12.0, "COUNTY": "桃園縣", "TOWN": "復興鄉", "STATIONID": "21C14", "NAME": "霞雲", "DEP": "氣象局", "V": 12.0, "X": 285386.24427599000046, "Y": 2743680.315644859801978 }, "geometry": { "type": "Point", "coordinates": [ 121.358194880198923, 24.79829467783112 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 13, "STID": 13.0, "COUNTY": "新竹縣", "TOWN": "尖石鄉", "STATIONID": "21D15", "NAME": "玉峰", "DEP": "氣象局", "V": 13.0, "X": 280363.386415319982916, "Y": 2728900.389871099963784 }, "geometry": { "type": "Point", "coordinates": [ 121.308186669927693, 24.664963608620742 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 14, "STID": 14.0, "COUNTY": "新竹縣", "TOWN": "尖石鄉", "STATIONID": "21D16", "NAME": "白石", "DEP": "氣象局", "V": 14.0, "X": 271949.428647479973733, "Y": 2715962.878563050180674 }, "geometry": { "type": "Point", "coordinates": [ 121.224846589422469, 24.548301084109969 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 15, "STID": 15.0, "COUNTY": "新竹縣", "TOWN": "尖石鄉", "STATIONID": "21D17", "NAME": "鎮西堡", "DEP": "氣象局", "V": 15.0, "X": 280387.543215340003371, "Y": 2717824.63805278018117 }, "geometry": { "type": "Point", "coordinates": [ 121.308180141236946, 24.564963266195065 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 16, "STID": 16.0, "COUNTY": "新竹縣", "TOWN": "尖石鄉", "STATIONID": "21D35", "NAME": "西丘斯山", "DEP": "氣象局", "V": 16.0, "X": 285447.482548050000332, "Y": 2719682.536422510165721 }, "geometry": { "type": "Point", "coordinates": [ 121.358180736599607, 24.58162730923317 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 17, "STID": 17.0, "COUNTY": "宜蘭縣", "TOWN": "大同鄉", "STATIONID": "21U11", "NAME": "池端", "DEP": "氣象局", "V": 17.0, "X": 297244.677439039980527, "Y": 2725255.510251699946821 }, "geometry": { "type": "Point", "coordinates": [ 121.474849386731165, 24.63162109641652 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 18, "STID": 18.0, "COUNTY": "臺北市", "TOWN": "北投區", "STATIONID": "46693", "NAME": "竹子湖", "DEP": "氣象局", "V": 18.0, "X": 303452.551748819998465, "Y": 2784845.190051199868321 }, "geometry": { "type": "Point", "coordinates": [ 121.538495340764399, 25.169397037725268 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 19, "STID": 19.0, "COUNTY": "臺北縣", "TOWN": "三峽鎮", "STATIONID": "C0A51", "NAME": "大豹", "DEP": "氣象局", "V": 19.0, "X": 292069.345978219993412, "Y": 2753236.964741759933531 }, "geometry": { "type": "Point", "coordinates": [ 121.424588716116816, 24.8844023963571 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 20, "STID": 20.0, "COUNTY": "臺北縣", "TOWN": "樹林鎮", "STATIONID": "C0A52", "NAME": "山佳", "DEP": "氣象局", "V": 20.0, "X": 289767.262904070026707, "Y": 2763168.090767010115087 }, "geometry": { "type": "Point", "coordinates": [ 121.40209492894914, 24.974126160064802 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 21, "STID": 21.0, "COUNTY": "臺北縣", "TOWN": "石碇鄉", "STATIONID": "C0A53", "NAME": "坪林", "DEP": "氣象局", "V": 21.0, "X": 311382.84206021000864, "Y": 2758601.795850759837776 }, "geometry": { "type": "Point", "coordinates": [ 121.615978694664378, 24.932169798655107 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 22, "STID": 22.0, "COUNTY": "臺北縣", "TOWN": "坪林鄉", "STATIONID": "C0A54", "NAME": "四堵", "DEP": "氣象局", "V": 22.0, "X": 324508.661464429984335, "Y": 2754235.966854690108448 }, "geometry": { "type": "Point", "coordinates": [ 121.745696825645055, 24.892162563449418 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 23, "STID": 23.0, "COUNTY": "臺北縣", "TOWN": "雙溪鄉", "STATIONID": "C0A55", "NAME": "泰平", "DEP": "氣象局", "V": 23.0, "X": 332314.17097570002079, "Y": 2763049.963662900030613 }, "geometry": { "type": "Point", "coordinates": [ 121.823478943680556, 24.97132516192228 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 24, "STID": 24.0, "COUNTY": "臺北縣", "TOWN": "烏來鄉", "STATIONID": "C0A56", "NAME": "福山", "DEP": "氣象局", "V": 24.0, "X": 298706.63136040000245, "Y": 2741382.540666719898582 }, "geometry": { "type": "Point", "coordinates": [ 121.489858762302035, 24.777176270843917 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 25, "STID": 25.0, "COUNTY": "臺北縣", "TOWN": "烏來鄉", "STATIONID": "C0A57", "NAME": "桶後", "DEP": "氣象局", "V": 25.0, "X": 315467.868752009992022, "Y": 2749143.880961949937046 }, "geometry": { "type": "Point", "coordinates": [ 121.655972620539686, 24.846611804585379 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 26, "STID": 26.0, "COUNTY": "臺北縣", "TOWN": "新店市", "STATIONID": "C0A58", "NAME": "屈尺", "DEP": "氣象局", "V": 26.0, "X": 304345.328453649999574, "Y": 2757495.235593730118126 }, "geometry": { "type": "Point", "coordinates": [ 121.546256594333272, 24.922451411339274 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 27, "STID": 27.0, "COUNTY": "臺北縣", "TOWN": "汐止鎮", "STATIONID": "C0A59", "NAME": "大尖山", "DEP": "氣象局", "V": 27.0, "X": 316368.577872850000858, "Y": 2771855.790743099991232 }, "geometry": { "type": "Point", "coordinates": [ 121.665986061131605, 25.051611842249461 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 28, "STID": 28.0, "COUNTY": "臺北縣", "TOWN": "萬里鄉", "STATIONID": "C0A86", "NAME": "大坪", "DEP": "氣象局", "V": 28.0, "X": 314652.355919249996077, "Y": 2785016.977059360127896 }, "geometry": { "type": "Point", "coordinates": [ 121.649605334431058, 25.170501977692723 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 29, "STID": 29.0, "COUNTY": "臺北縣", "TOWN": "萬里鄉", "STATIONID": "C0A87", "NAME": "五指山", "DEP": "氣象局", "V": 29.0, "X": 311112.990667950012721, "Y": 2781277.457567879930139 }, "geometry": { "type": "Point", "coordinates": [ 121.614325683114785, 25.136892704952498 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 30, "STID": 30.0, "COUNTY": "臺北縣", "TOWN": "貢寮鄉", "STATIONID": "C0A88", "NAME": "福隆", "DEP": "氣象局", "V": 30.0, "X": 344283.188842849980574, "Y": 2768235.147795729804784 }, "geometry": { "type": "Point", "coordinates": [ 121.942369468854238, 25.017429802219866 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 31, "STID": 31.0, "COUNTY": "臺北縣", "TOWN": "雙溪鄉", "STATIONID": "C0A89", "NAME": "雙溪", "DEP": "氣象局", "V": 31.0, "X": 336335.540963449981064, "Y": 2770275.067797630093992 }, "geometry": { "type": "Point", "coordinates": [ 121.863760569712412, 25.03632307875213 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 32, "STID": 32.0, "COUNTY": "臺北縣", "TOWN": "石門鄉", "STATIONID": "C0A92", "NAME": "富貴角", "DEP": "氣象局", "V": 32.0, "X": 306125.283015310007613, "Y": 2795317.653036950156093 }, "geometry": { "type": "Point", "coordinates": [ 121.565445867404435, 25.263840245904994 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 33, "STID": 33.0, "COUNTY": "臺北縣", "TOWN": "金山鄉", "STATIONID": "C0A93", "NAME": "三和", "DEP": "氣象局", "V": 33.0, "X": 309021.110346010013018, "Y": 2792129.910569979809225 }, "geometry": { "type": "Point", "coordinates": [ 121.594054716511181, 25.234949701537548 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 34, "STID": 34.0, "COUNTY": "臺北縣", "TOWN": "金山鄉", "STATIONID": "C0A94", "NAME": "金山", "DEP": "氣象局", "V": 34.0, "X": 314036.580558679997921, "Y": 2790891.129256830085069 }, "geometry": { "type": "Point", "coordinates": [ 121.643775612110218, 25.223557992247017 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 35, "STID": 35.0, "COUNTY": "臺北縣", "TOWN": "瑞芳鎮", "STATIONID": "C0A95", "NAME": "鼻頭角", "DEP": "氣象局", "V": 35.0, "X": 340622.069095439976081, "Y": 2779103.451549849938601 }, "geometry": { "type": "Point", "coordinates": [ 121.906820895524035, 25.115765323825286 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 36, "STID": 36.0, "COUNTY": "臺北縣", "TOWN": "貢寮鄉", "STATIONID": "C0A97", "NAME": "三貂角", "DEP": "氣象局", "V": 36.0, "X": 350374.941552519972902, "Y": 2767232.266386799979955 }, "geometry": { "type": "Point", "coordinates": [ 122.002645885868887, 25.00798201203197 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 37, "STID": 37.0, "COUNTY": "臺北市", "TOWN": "士林區", "STATIONID": "C0A98", "NAME": "社子", "DEP": "氣象局", "V": 37.0, "X": 296745.128254570008721, "Y": 2778110.880412930157036 }, "geometry": { "type": "Point", "coordinates": [ 121.471723050246212, 25.108827376687668 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 38, "STID": 38.0, "COUNTY": "臺北市", "TOWN": "士林區", "STATIONID": "C0A99", "NAME": "外雙溪", "DEP": "氣象局", "V": 38.0, "X": 307034.208072160021402, "Y": 2777905.530012739822268 }, "geometry": { "type": "Point", "coordinates": [ 121.573732712305187, 25.106613898673526 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 39, "STID": 39.0, "COUNTY": "臺北市", "TOWN": "中山區", "STATIONID": "C0A9A", "NAME": "大直", "DEP": "氣象局", "V": 39.0, "X": 303981.986245309992228, "Y": 2774848.13954589003697 }, "geometry": { "type": "Point", "coordinates": [ 121.54334804779603, 25.079126174572608 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 40, "STID": 40.0, "COUNTY": "臺北市", "TOWN": "北投區", "STATIONID": "C0A9B", "NAME": "石牌", "DEP": "氣象局", "V": 40.0, "X": 300963.205698499979917, "Y": 2778818.417053590063006 }, "geometry": { "type": "Point", "coordinates": [ 121.513573049133967, 25.115076006965204 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 41, "STID": 41.0, "COUNTY": "臺北市", "TOWN": "士林區", "STATIONID": "C0A9C", "NAME": "天母", "DEP": "氣象局", "V": 41.0, "X": 303347.115076720016077, "Y": 2779133.786269879899919 }, "geometry": { "type": "Point", "coordinates": [ 121.537223694201614, 25.11783932598723 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 42, "STID": 42.0, "COUNTY": "臺北縣", "TOWN": "永和市", "STATIONID": "C0A9D", "NAME": "永和", "DEP": "氣象局", "V": 42.0, "X": 300549.370562119991519, "Y": 2767326.602002880070359 }, "geometry": { "type": "Point", "coordinates": [ 121.509040694845467, 25.011342584432594 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 43, "STID": 43.0, "COUNTY": "臺北市", "TOWN": "士林區", "STATIONID": "C0A9E", "NAME": "士林", "DEP": "氣象局", "V": 43.0, "X": 299808.053185430006124, "Y": 2776134.942875090055168 }, "geometry": { "type": "Point", "coordinates": [ 121.502019944872984, 25.090889072120046 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 44, "STID": 44.0, "COUNTY": "臺北市", "TOWN": "內湖區", "STATIONID": "C0A9F", "NAME": "內湖", "DEP": "氣象局", "V": 44.0, "X": 307134.509000250021927, "Y": 2774890.926873929798603 }, "geometry": { "type": "Point", "coordinates": [ 121.574600059107894, 25.079394735324342 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 45, "STID": 45.0, "COUNTY": "臺北市", "TOWN": "南港區", "STATIONID": "C0A9G", "NAME": "南港", "DEP": "氣象局", "V": 45.0, "X": 310049.795274959993549, "Y": 2772291.010455510113388 }, "geometry": { "type": "Point", "coordinates": [ 121.603383471845262, 25.055808506345187 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 46, "STID": 46.0, "COUNTY": "臺北縣", "TOWN": "三重縣", "STATIONID": "C0A9I", "NAME": "三重", "DEP": "氣象局", "V": 46.0, "X": 298314.118208030005917, "Y": 2773072.235672240145504 }, "geometry": { "type": "Point", "coordinates": [ 121.487099913196872, 25.063288408157977 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 47, "STID": 47.0, "COUNTY": "臺北縣", "TOWN": "烏來鄉", "STATIONID": "C1A63", "NAME": "下盆", "DEP": "氣象局", "V": 47.0, "X": 303540.676676900009625, "Y": 2740723.529850109945983 }, "geometry": { "type": "Point", "coordinates": [ 121.537635603508761, 24.771062534187092 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 48, "STID": 48.0, "COUNTY": "臺北縣", "TOWN": "石碇鄉", "STATIONID": "C1A64", "NAME": "石碇", "DEP": "氣象局", "V": 48.0, "X": 316091.205712590017356, "Y": 2765454.410513139795512 }, "geometry": { "type": "Point", "coordinates": [ 121.66292668411073, 24.993834060849466 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 49, "STID": 49.0, "COUNTY": "臺北縣", "TOWN": "平溪鄉", "STATIONID": "C1A65", "NAME": "火燒寮", "DEP": "氣象局", "V": 49.0, "X": 324133.900760080025066, "Y": 2766449.473554070107639 }, "geometry": { "type": "Point", "coordinates": [ 121.742648603208551, 25.002440809266844 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 50, "STID": 50.0, "COUNTY": "臺北縣", "TOWN": "瑞芳鎮", "STATIONID": "C1A66", "NAME": "瑞芳", "DEP": "氣象局", "V": 50.0, "X": 329978.287453519995324, "Y": 2778759.811613529920578 }, "geometry": { "type": "Point", "coordinates": [ 121.801266433395966, 25.113271180126986 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 51, "STID": 51.0, "COUNTY": "臺北縣", "TOWN": "新莊市", "STATIONID": "C1A67", "NAME": "新莊", "DEP": "氣象局", "V": 51.0, "X": 293837.067195869982243, "Y": 2770903.329430220182985 }, "geometry": { "type": "Point", "coordinates": [ 121.442654651571999, 25.043846392438411 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 52, "STID": 52.0, "COUNTY": "臺北縣", "TOWN": "五股鄉", "STATIONID": "C1A68", "NAME": "五股", "DEP": "氣象局", "V": 52.0, "X": 293094.410043169977143, "Y": 2775300.847642309963703 }, "geometry": { "type": "Point", "coordinates": [ 121.435435158726762, 25.0835691215525 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 53, "STID": 53.0, "COUNTY": "臺北市", "TOWN": "文山區", "STATIONID": "C1A69", "NAME": "木柵", "DEP": "氣象局", "V": 53.0, "X": 308410.725577439996414, "Y": 2763874.084111670032144 }, "geometry": { "type": "Point", "coordinates": [ 121.586777653424235, 24.979886567818575 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 54, "STID": 54.0, "COUNTY": "臺北縣", "TOWN": "中和市", "STATIONID": "C1A70", "NAME": "南勢角", "DEP": "氣象局", "V": 54.0, "X": 298626.643904329976067, "Y": 2763996.647567780222744 }, "geometry": { "type": "Point", "coordinates": [ 121.489872240268738, 24.981343587670178 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 55, "STID": 55.0, "COUNTY": "臺北縣", "TOWN": "林口鄉", "STATIONID": "C1A71", "NAME": "林口", "DEP": "氣象局", "V": 55.0, "X": 287324.471093799977098, "Y": 2774483.853337550070137 }, "geometry": { "type": "Point", "coordinates": [ 121.378213072340756, 25.076350039324037 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 56, "STID": 56.0, "COUNTY": "臺北市", "TOWN": "大安區", "STATIONID": "C1A73", "NAME": "公館", "DEP": "氣象局", "V": 56.0, "X": 303660.122949009994045, "Y": 2767676.908691210206598 }, "geometry": { "type": "Point", "coordinates": [ 121.539873861656588, 25.014396462017125 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 57, "STID": 57.0, "COUNTY": "臺北縣", "TOWN": "淡水鎮", "STATIONID": "C1A97", "NAME": "關渡", "DEP": "氣象局", "V": 57.0, "X": 296444.091454290028196, "Y": 2780861.180191489867866 }, "geometry": { "type": "Point", "coordinates": [ 121.468832901778995, 25.133666398383454 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 58, "STID": 58.0, "COUNTY": "臺北縣", "TOWN": "新店市", "STATIONID": "C1A9N", "NAME": "四十份", "DEP": "氣象局", "V": 58.0, "X": 309165.704138140019495, "Y": 2758776.671498919837177 }, "geometry": { "type": "Point", "coordinates": [ 121.594034609187787, 24.933837689127266 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 59, "STID": 59.0, "COUNTY": "臺北縣", "TOWN": "石碇鄉", "STATIONID": "L1A79", "NAME": "翡翠", "DEP": "氣象局", "V": 59.0, "X": 307775.402952849981375, "Y": 2755816.972936159931123 }, "geometry": { "type": "Point", "coordinates": [ 121.580144095216525, 24.907171689536298 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 60, "STID": 60.0, "COUNTY": "臺北縣", "TOWN": "坪林鄉", "STATIONID": "L1A80", "NAME": "碧湖", "DEP": "氣象局", "V": 60.0, "X": 324508.32815243001096, "Y": 2754297.503750749863684 }, "geometry": { "type": "Point", "coordinates": [ 121.745696840948597, 24.892718130287786 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 61, "STID": 61.0, "COUNTY": "臺北縣", "TOWN": "石碇鄉", "STATIONID": "L1A81", "NAME": "九芎根", "DEP": "氣象局", "V": 61.0, "X": 314821.094223410007544, "Y": 2755325.332487709820271 }, "geometry": { "type": "Point", "coordinates": [ 121.649865262645989, 24.902445642403265 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 62, "STID": 62.0, "COUNTY": "臺北縣", "TOWN": "石碇鄉", "STATIONID": "L1A82", "NAME": "十三股", "DEP": "氣象局", "V": 62.0, "X": 314771.258447360014543, "Y": 2759940.433036009781063 }, "geometry": { "type": "Point", "coordinates": [ 121.649590220084889, 24.944112428379594 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 63, "STID": 63.0, "COUNTY": "臺北縣", "TOWN": "石碇鄉", "STATIONID": "L1A83", "NAME": "坪林", "DEP": "氣象局", "V": 63.0, "X": 311382.84206021000864, "Y": 2758601.795850759837776 }, "geometry": { "type": "Point", "coordinates": [ 121.615978694664378, 24.932169798655107 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 64, "STID": 64.0, "COUNTY": "臺北縣", "TOWN": "雙溪鄉", "STATIONID": "L1A84", "NAME": "太平", "DEP": "氣象局", "V": 64.0, "X": 332790.597344139998313, "Y": 2763114.374926960095763 }, "geometry": { "type": "Point", "coordinates": [ 121.828201121198234, 24.971880442050988 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 65, "STID": 65.0, "COUNTY": "臺北市", "TOWN": "北投區", "STATIONID": "001", "NAME": "湖田國小", "DEP": "水利處", "V": 65.0, "X": 303487.459140849998221, "Y": 2784790.491683150175959 }, "geometry": { "type": "Point", "coordinates": [ 121.538951433721422, 25.168728132127395 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 66, "STID": 66.0, "COUNTY": "臺北市", "TOWN": "北投區", "STATIONID": "002", "NAME": "大屯國小", "DEP": "水利處", "V": 66.0, "X": 299992.216769599996042, "Y": 2783240.903969710227102 }, "geometry": { "type": "Point", "coordinates": [ 121.504129193256702, 25.155221671571812 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 67, "STID": 67.0, "COUNTY": "臺北市", "TOWN": "北投區", "STATIONID": "003", "NAME": "桃源國中", "DEP": "水利處", "V": 67.0, "X": 297973.40575972001534, "Y": 2781489.570848070085049 }, "geometry": { "type": "Point", "coordinates": [ 121.47702391444497, 25.134679892161614 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 68, "STID": 68.0, "COUNTY": "臺北市", "TOWN": "北投區", "STATIONID": "004", "NAME": "北投國小", "DEP": "水利處", "V": 68.0, "X": 299630.496065260027535, "Y": 2780902.938655530102551 }, "geometry": { "type": "Point", "coordinates": [ 121.498950680463381, 25.134066294050061 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 69, "STID": 69.0, "COUNTY": "臺北市", "TOWN": "士林區", "STATIONID": "005", "NAME": "陽明高中", "DEP": "水利處", "V": 69.0, "X": 301337.350466849980876, "Y": 2776330.559131269808859 }, "geometry": { "type": "Point", "coordinates": [ 121.516654359275506, 25.093192230285567 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 70, "STID": 70.0, "COUNTY": "臺北市", "TOWN": "大同區", "STATIONID": "006", "NAME": "太平國小", "DEP": "水利處", "V": 70.0, "X": 300810.542402360006236, "Y": 2772879.506456059869379 }, "geometry": { "type": "Point", "coordinates": [ 121.511836220233462, 25.061465220093162 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 71, "STID": 71.0, "COUNTY": "臺北市", "TOWN": "松山區", "STATIONID": "007", "NAME": "民生國中", "DEP": "水利處", "V": 71.0, "X": 306265.703111440001521, "Y": 2772762.349591949954629 }, "geometry": { "type": "Point", "coordinates": [ 121.565899486997125, 25.06021132830621 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 72, "STID": 72.0, "COUNTY": "臺北市", "TOWN": "中正區", "STATIONID": "008", "NAME": "中正國中", "DEP": "水利處", "V": 72.0, "X": 301839.09856332000345, "Y": 2769656.661397050134838 }, "geometry": { "type": "Point", "coordinates": [ 121.521907461451775, 25.032334049248604 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 73, "STID": 73.0, "COUNTY": "臺北市", "TOWN": "信義區", "STATIONID": "009", "NAME": "三興國小", "DEP": "水利處", "V": 73.0, "X": 305514.283846740028821, "Y": 2769363.84757278021425 }, "geometry": { "type": "Point", "coordinates": [ 121.558313025523404, 25.029558213036186 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 74, "STID": 74.0, "COUNTY": "臺北市", "TOWN": "士林區", "STATIONID": "010", "NAME": "格致國中", "DEP": "水利處", "V": 74.0, "X": 304252.231493570026942, "Y": 2780639.487135279923677 }, "geometry": { "type": "Point", "coordinates": [ 121.545685956587704, 25.131654594146013 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 75, "STID": 75.0, "COUNTY": "臺北市", "TOWN": "士林區", "STATIONID": "011", "NAME": "平等國小", "DEP": "水利處", "V": 75.0, "X": 307309.309896409977227, "Y": 2780423.810079080052674 }, "geometry": { "type": "Point", "coordinates": [ 121.57656701551717, 25.129337796947457 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 76, "STID": 76.0, "COUNTY": "臺北市", "TOWN": "士林區", "STATIONID": "012", "NAME": "至善國中", "DEP": "水利處", "V": 76.0, "X": 305170.842054419976193, "Y": 2777541.846940400078893 }, "geometry": { "type": "Point", "coordinates": [ 121.555966521269326, 25.103783982618676 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 77, "STID": 77.0, "COUNTY": "臺北市", "TOWN": "內湖區", "STATIONID": "013", "NAME": "碧湖國小", "DEP": "水利處", "V": 77.0, "X": 308839.389513840025757, "Y": 2775405.497114410158247 }, "geometry": { "type": "Point", "coordinates": [ 121.59158105987072, 25.084920565764236 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 78, "STID": 78.0, "COUNTY": "臺北市", "TOWN": "內湖區", "STATIONID": "014", "NAME": "東湖國小", "DEP": "水利處", "V": 78.0, "X": 311328.565068160009105, "Y": 2773788.458264899905771 }, "geometry": { "type": "Point", "coordinates": [ 121.616539703889032, 25.069389777251814 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 79, "STID": 79.0, "COUNTY": "臺北市", "TOWN": "南港區", "STATIONID": "015", "NAME": "留公國中", "DEP": "水利處", "V": 79.0, "X": 308258.960329300025478, "Y": 2770216.575125580187887 }, "geometry": { "type": "Point", "coordinates": [ 121.58554588604936, 25.0371518783294 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 80, "STID": 80.0, "COUNTY": "臺北市", "TOWN": "南港區", "STATIONID": "016", "NAME": "舊莊國小", "DEP": "水利處", "V": 80.0, "X": 311682.967884489975404, "Y": 2770562.865685900207609 }, "geometry": { "type": "Point", "coordinates": [ 121.619696891071456, 25.040002875090224 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 81, "STID": 81.0, "COUNTY": "臺北市", "TOWN": "信義區", "STATIONID": "017", "NAME": "市政中心", "DEP": "水利處", "V": 81.0, "X": 306135.952455319988076, "Y": 2770222.230293579865247 }, "geometry": { "type": "Point", "coordinates": [ 121.564508464249386, 25.037284337075384 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 82, "STID": 82.0, "COUNTY": "臺北市", "TOWN": "文山區", "STATIONID": "018", "NAME": "博嘉國小", "DEP": "水利處", "V": 82.0, "X": 307289.187528389971703, "Y": 2766336.588177959900349 }, "geometry": { "type": "Point", "coordinates": [ 121.575700284404377, 25.002448462865928 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 83, "STID": 83.0, "COUNTY": "臺北市", "TOWN": "文山區", "STATIONID": "019", "NAME": "北政國中", "DEP": "水利處", "V": 83.0, "X": 307521.425096609978937, "Y": 2764413.751696169842035 }, "geometry": { "type": "Point", "coordinates": [ 121.577662215922501, 24.984641183380734 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 84, "STID": 0.0, "COUNTY": "臺北市", "TOWN": "中正區", "STATIONID": null, "NAME": "臺北", "DEP": "氣象局", "V": 0.0, "X": 301058.025154590024613, "Y": 2770235.313685589935631 }, "geometry": { "type": "Point", "coordinates": [ 121.514189514006077, 25.037585110492589 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 85, "STID": 0.0, "COUNTY": "臺北市", "TOWN": "信義區", "STATIONID": "C0A9H", "NAME": "信義", "DEP": "氣象局", "V": 0.0, "X": 306406.365639569994528, "Y": 2769390.096532810013741 }, "geometry": { "type": "Point", "coordinates": [ 121.567153514505662, 25.029761705136316 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 86, "STID": 0.0, "COUNTY": "臺北市", "TOWN": "北投區", "STATIONID": null, "NAME": "大屯山", "DEP": "氣象局", "V": 0.0, "X": 301848.230851329979487, "Y": 2785508.258467820007354 }, "geometry": { "type": "Point", "coordinates": [ 121.522605843511101, 25.175440103421234 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 87, "STID": 0.0, "COUNTY": "臺北市", "TOWN": "北投區", "STATIONID": null, "NAME": "鞍部", "DEP": "氣象局", "V": 0.0, "X": 302505.37734793999698, "Y": 2786321.451172570232302 }, "geometry": { "type": "Point", "coordinates": [ 121.529156821206428, 25.182758292780946 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 88, "STID": 0.0, "COUNTY": "臺北市", "TOWN": "文山區", "STATIONID": "06", "NAME": "脾腹", "DEP": "水利處", "V": 0.0, "X": 304229.441989540006034, "Y": 2764602.196752349846065 }, "geometry": { "type": "Point", "coordinates": [ 121.545457831064198, 24.986603061950241 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 89, "STID": 0.0, "COUNTY": "臺北市", "TOWN": "萬華區", "STATIONID": "09", "NAME": "雙園", "DEP": "水利處", "V": 0.0, "X": 298493.798464199993759, "Y": 2769442.782100849784911 }, "geometry": { "type": "Point", "coordinates": [ 121.48887863143996, 25.03039682544755 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 90, "STID": 0.0, "COUNTY": "臺北市", "TOWN": "南港區", "STATIONID": "15", "NAME": "玉成", "DEP": "水利處", "V": 0.0, "X": 307943.829961, "Y": 2771908.961431149858981 }, "geometry": { "type": "Point", "coordinates": [ 121.582495339230817, 25.05244277787083 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 91, "STID": 0.0, "COUNTY": "臺北市", "TOWN": "中山區", "STATIONID": "22", "NAME": "建國", "DEP": "水利處", "V": 0.0, "X": 302530.126531959977001, "Y": 2774105.067417200189084 }, "geometry": { "type": "Point", "coordinates": [ 121.52892722676998, 25.07246978638624 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 92, "STID": 0.0, "COUNTY": "臺北市", "TOWN": "士林區", "STATIONID": "31", "NAME": "福德", "DEP": "水利處", "V": 0.0, "X": 302510.90809993998846, "Y": 2777098.174107979983091 }, "geometry": { "type": "Point", "coordinates": [ 121.528990504307671, 25.099811056226773 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 93, "STID": 0.0, "COUNTY": "臺北市", "TOWN": "北投區", "STATIONID": "35", "NAME": "奇岩", "DEP": "水利處", "V": 0.0, "X": 299927.701569540018681, "Y": 2779828.856478529982269 }, "geometry": { "type": "Point", "coordinates": [ 121.503305264000758, 25.124099308201302 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 94, "STID": 0.0, "COUNTY": "臺北市", "TOWN": "士林區", "STATIONID": "14", "NAME": "中洲", "DEP": "水利處", "V": 0.0, "X": 297080.963390889985021, "Y": 2777800.660636640153825 }, "geometry": { "type": "Point", "coordinates": [ 121.474783834851252, 25.10561237489398 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 95, "STID": 0.0, "COUNTY": "臺北市", "TOWN": "北投區", "STATIONID": "404", "NAME": "磺溪橋", "DEP": "水利處", "V": 0.0, "X": 302057.0, "Y": 2779227.0 }, "geometry": { "type": "Point", "coordinates": [ 121.524434560425888, 25.11872667615928 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 96, "STID": 0.0, "COUNTY": "臺北市", "TOWN": "北投區", "STATIONID": "403", "NAME": "中和橋", "DEP": "水利處", "V": 0.0, "X": 299778.0, "Y": 2781473.0 }, "geometry": { "type": "Point", "coordinates": [ 121.501875295332624, 25.13888725416092 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 97, "STID": 0.0, "COUNTY": "臺北市", "TOWN": "內湖區", "STATIONID": "402", "NAME": "白馬山莊", "DEP": "水利處", "V": 0.0, "X": 312093.0, "Y": 2774666.0 }, "geometry": { "type": "Point", "coordinates": [ 121.623221418475325, 25.077238858767167 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 98, "STID": 0.0, "COUNTY": "臺北市", "TOWN": "士林區", "STATIONID": "41", "NAME": "雙溪", "DEP": "水利處", "V": 0.0, "X": 306437.28, "Y": 2778672.88 }, "geometry": { "type": "Point", "coordinates": [ 121.569611238608886, 25.113931143935066 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 99, "STID": 0.0, "COUNTY": "臺北市", "TOWN": "士林區", "STATIONID": "401", "NAME": "望星橋", "DEP": "水利處", "V": 0.0, "X": 303897.0, "Y": 2776841.0 }, "geometry": { "type": "Point", "coordinates": [ 121.542584946599078, 25.097120547003488 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 100, "STID": 0.0, "COUNTY": "臺北市", "TOWN": "南港區", "STATIONID": "405", "NAME": "宜興橋", "DEP": "水利處", "V": 0.0, "X": 311808.0, "Y": 2770697.0 }, "geometry": { "type": "Point", "coordinates": [ 121.620736226459584, 25.041346293935604 ] } }
+,
+{ "type": "Feature", "properties": { "OBJECTID": 101, "STID": 0.0, "COUNTY": "臺北市", "TOWN": "中山區", "STATIONID": "020", "NAME": "長安國小", "DEP": "水利處", "V": 0.0, "X": 0.0, "Y": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 121.53082956684564, 25.049247197411379 ] } }
+
+]
+}

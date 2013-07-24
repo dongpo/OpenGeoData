@@ -1,0 +1,282 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27117322", "name": "歐立食品股份有限公司忠孝分公司(聖瑪莉)", "display_ad": "臺北市大安區忠孝東路4段216巷14號", "poi_addr": "台北市忠孝東路四段216巷14號", "gglon": "121.552888", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0405929" }, "geometry": { "type": "Point", "coordinates": [ 121.552888, 25.0405929 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25795858", "name": "耶里蛋糕店", "display_ad": "臺北市松山區八德路3段132號1樓", "poi_addr": "台北市八德路三段132號", "gglon": "121.554364", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0480099" }, "geometry": { "type": "Point", "coordinates": [ 121.554364, 25.0480099 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28711041", "name": "全統西點麵包有限公司", "display_ad": "臺北市士林區天母東路36-4號", "poi_addr": "台北市天母東路36之4號", "gglon": "121.532661", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.117761" }, "geometry": { "type": "Point", "coordinates": [ 121.532661, 25.117761 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25222354", "name": "普美興業有限公司", "display_ad": "臺北市中山區錦州街199號1樓", "poi_addr": "台北市錦州街199號", "gglon": "121.53164", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.060416" }, "geometry": { "type": "Point", "coordinates": [ 121.53164, 25.060416 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27210158", "name": "微思克股份有限公司(beard papa 日式泡芙工房SOGO天母店)", "display_ad": "臺北市士林區中山北路6段77號B1樓", "poi_addr": "台北市中山北路六段77號", "gglon": "121.5245228", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.1046869" }, "geometry": { "type": "Point", "coordinates": [ 121.5245228, 25.1046869 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25946995", "name": "福利麵包食品有限公司", "display_ad": "臺北市中山區中山北路3段23之4號", "poi_addr": "台北市中山北路三段23之4號", "gglon": "121.522517", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.064753" }, "geometry": { "type": "Point", "coordinates": [ 121.522517, 25.064753 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28224312", "name": "馥華精緻西點麵包店", "display_ad": "臺北市北投區自強街120號1樓", "poi_addr": "台北市自強街120號", "gglon": "121.515626", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.1107909" }, "geometry": { "type": "Point", "coordinates": [ 121.515626, 25.1107909 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27052578", "name": "耶里食品有限公司", "display_ad": "臺北市大安區仁愛路4段300巷22號", "poi_addr": "台北市仁愛路四段300巷22號", "gglon": "121.55434", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0361289" }, "geometry": { "type": "Point", "coordinates": [ 121.55434, 25.0361289 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "26947099", "name": "太子創藝蛋糕有限公司", "display_ad": "臺北市信義區福德街68號1樓", "poi_addr": "台北市福德街68號", "gglon": "121.580802", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.037045" }, "geometry": { "type": "Point", "coordinates": [ 121.580802, 25.037045 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28381616", "name": "亞緻股份有限公司(大葉高島屋百貨公司B1麗緻坊)", "display_ad": "臺北市士林區忠誠路2段55號地下1樓", "poi_addr": "台北市忠誠路二段55號", "gglon": "121.5313421", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.1117343" }, "geometry": { "type": "Point", "coordinates": [ 121.5313421, 25.1117343 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "29390709", "name": "金鋒西點麵包店", "display_ad": "臺北市文山區興隆路4段81號", "poi_addr": "台北市興隆路四段81號", "gglon": "121.560152", "traffic_in": null, "certificat": "烘焙業", "gglat": "24.9890389" }, "geometry": { "type": "Point", "coordinates": [ 121.560152, 24.9890389 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28125409", "name": "君城食品有限公司", "display_ad": "臺北市士林區延平北路5段261號1樓", "poi_addr": "台北市延平北路五段261號", "gglon": "121.50962", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.085069" }, "geometry": { "type": "Point", "coordinates": [ 121.50962, 25.085069 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "23063752", "name": "阿默企業有限公司（阿默蛋糕）", "display_ad": "臺北市萬華區艋舺大道184號1樓", "poi_addr": "台北市艋舺大道184號", "gglon": "121.5001815", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0327601" }, "geometry": { "type": "Point", "coordinates": [ 121.5001815, 25.0327601 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "33937327", "name": "多柏思食品股份有限公司徐州分公司（多柏思麵包蛋糕）", "display_ad": "臺北市中正區徐州路4號", "poi_addr": "台北市徐州路4號", "gglon": "121.522338", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.04084" }, "geometry": { "type": "Point", "coordinates": [ 121.522338, 25.04084 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28920023", "name": "金莎蛋糕麵包坊", "display_ad": "臺北市北投區清江路45號", "poi_addr": "台北市清江路45號", "gglon": "121.502122", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.130946" }, "geometry": { "type": "Point", "coordinates": [ 121.502122, 25.130946 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "23621438", "name": "香帥食品行（香帥蛋糕）", "display_ad": "臺北市中正區羅斯福路3段100號1樓之1之2號", "poi_addr": "台北市羅斯福路三段100號", "gglon": "121.527042", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0214159" }, "geometry": { "type": "Point", "coordinates": [ 121.527042, 25.0214159 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "23962585", "name": "凱樂烘培食品有限公司士林門市部", "display_ad": "臺北市士林區中正路282號", "poi_addr": "台北市中正路282號", "gglon": "121.52376", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.094998" }, "geometry": { "type": "Point", "coordinates": [ 121.52376, 25.094998 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27117222", "name": "順成西點麵包有限公司", "display_ad": "臺北市大安區敦化南路1段212號1樓", "poi_addr": "台北市敦化南路一段212號", "gglon": "121.548423", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.040953" }, "geometry": { "type": "Point", "coordinates": [ 121.548423, 25.040953 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "85026030", "name": "歐立食品股份有限公司大直門市部", "display_ad": "臺北市中山區樂群三路218號1樓", "poi_addr": "台北市樂群三路218號", "gglon": "121.5580389", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0824465" }, "geometry": { "type": "Point", "coordinates": [ 121.5580389, 25.0824465 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28835228", "name": "米哥食品有限公司農安門市部", "display_ad": "臺北市中山區農安街12之6號1樓", "poi_addr": "台北市農安街12之6號", "gglon": "121.523884", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.064914" }, "geometry": { "type": "Point", "coordinates": [ 121.523884, 25.064914 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "87877712", "name": "香華?家（原金波羅蛋糕有限公司）", "display_ad": "臺北市松山區南京東路5段254號1樓", "poi_addr": "台北市南京東路五段254號", "gglon": "121.566", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.051206" }, "geometry": { "type": "Point", "coordinates": [ 121.566, 25.051206 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2832-5120", "name": "宏亞食品股份有限公司士林分公司(禮坊士林店)", "display_ad": "臺北市士林區文林路472號", "poi_addr": "台北市文林路472號", "gglon": "121.524502", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.095928" }, "geometry": { "type": "Point", "coordinates": [ 121.524502, 25.095928 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27055858", "name": "松盧食品股份有限公司", "display_ad": "臺北市大安區敦化南路2段81巷19號", "poi_addr": "台北市敦化南路二段81巷19號", "gglon": "121.549816", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0300549" }, "geometry": { "type": "Point", "coordinates": [ 121.549816, 25.0300549 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28968222", "name": "維也娜食品行", "display_ad": "臺北市北投區中央北路3段4號1樓", "poi_addr": "台北市中央北路三段4號", "gglon": "121.486665", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.138365" }, "geometry": { "type": "Point", "coordinates": [ 121.486665, 25.138365 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25629890", "name": "金格食品股份有限公司中山門市部", "display_ad": "臺北市中山區中山北路2段40號", "poi_addr": "台北市中山北路二段40號", "gglon": "121.52244", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.054474" }, "geometry": { "type": "Point", "coordinates": [ 121.52244, 25.054474 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2717-7025", "name": "宏亞食品股份有限公司(禮坊南京店)", "display_ad": "臺北市松山區南京東路4段195號", "poi_addr": "台北市南京東路四段195號", "gglon": "121.556871", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.051782" }, "geometry": { "type": "Point", "coordinates": [ 121.556871, 25.051782 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25028446", "name": "法蘭司蛋糕有限公司", "display_ad": "臺北市中山區伊通街32號1樓", "poi_addr": "台北市伊通街32號", "gglon": "121.534664", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.050915" }, "geometry": { "type": "Point", "coordinates": [ 121.534664, 25.050915 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "87706162", "name": "查理布朗有限公司（查理布朗烘焙屋）", "display_ad": "臺北市松山區民生東路4段126號1樓", "poi_addr": "台北市民生東路四段126號", "gglon": "121.5549161", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0580779" }, "geometry": { "type": "Point", "coordinates": [ 121.5549161, 25.0580779 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "29301177", "name": "葡萄樹烘焙坊", "display_ad": "臺北市文山區興隆路3段104號1樓", "poi_addr": "台北市興隆路三段104號", "gglon": "121.557167", "traffic_in": null, "certificat": "烘焙業", "gglat": "24.9993239" }, "geometry": { "type": "Point", "coordinates": [ 121.557167, 24.9993239 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25433003", "name": "華芳利股份有限公司", "display_ad": "臺北市中山區長安東路2段42-10號", "poi_addr": "台北市長安東路二段42之10號", "gglon": "121.531735", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.048259" }, "geometry": { "type": "Point", "coordinates": [ 121.531735, 25.048259 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25976515", "name": "馬可先生第一有限公司", "display_ad": "臺北市大同區重慶北路3段300號", "poi_addr": "台北市重慶北路三段300號", "gglon": "121.513604", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.073784" }, "geometry": { "type": "Point", "coordinates": [ 121.513604, 25.073784 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25171593", "name": "法蘭司麵包坊", "display_ad": "臺北市中山區建國北路2段151巷30號", "poi_addr": "台北市建國北路二段151巷30號", "gglon": "121.539126", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.061722" }, "geometry": { "type": "Point", "coordinates": [ 121.539126, 25.061722 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25785666", "name": "金葉蛋糕股份有限公司", "display_ad": "臺北市松山區八德路3段201號", "poi_addr": "台北市八德路三段201號", "gglon": "121.556421", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0481389" }, "geometry": { "type": "Point", "coordinates": [ 121.556421, 25.0481389 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "23391122", "name": "吉士美麵包店", "display_ad": "臺北市萬華區中華路2段484巷10號", "poi_addr": "台北市中華路二段484巷10號", "gglon": "121.50545", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0339049" }, "geometry": { "type": "Point", "coordinates": [ 121.50545, 25.0339049 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27382355", "name": "喜悅食品有限公司", "display_ad": "臺北市大安區復興南路2段336號1樓", "poi_addr": "台北市復興南路二段336號", "gglon": "121.543195", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0228139" }, "geometry": { "type": "Point", "coordinates": [ 121.543195, 25.0228139 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "23455061", "name": "頂好企業股份有限公司忠孝七分公司IS BAKERY永春店", "display_ad": "臺北市信義區忠孝東路5段370號", "poi_addr": "台北市忠孝東路五段370號", "gglon": "121.573902", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.040726" }, "geometry": { "type": "Point", "coordinates": [ 121.573902, 25.040726 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28585029", "name": "琪珍西點麵包店", "display_ad": "臺北市北投區知行路201巷3號", "poi_addr": "台北市知行路201巷3號", "gglon": "121.466262", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.119329" }, "geometry": { "type": "Point", "coordinates": [ 121.466262, 25.119329 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25215959", "name": "留乃堂食品有限公司", "display_ad": "臺北市大同區民生西路21號", "poi_addr": "台北市民生西路21號", "gglon": "121.521333", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0578679" }, "geometry": { "type": "Point", "coordinates": [ 121.521333, 25.0578679 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "87974887", "name": "艾媽咪屋食品有限公司", "display_ad": "臺北市內湖區內湖路2段75號", "poi_addr": "台北市內湖路二段75號", "gglon": "121.582538", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0798169" }, "geometry": { "type": "Point", "coordinates": [ 121.582538, 25.0798169 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25929636", "name": "世家商行", "display_ad": "臺北市中山區民權東路2段15號", "poi_addr": "台北市民權東路二段15號", "gglon": "121.528777", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.062817" }, "geometry": { "type": "Point", "coordinates": [ 121.528777, 25.062817 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25010061", "name": "上城糕餅小舖股份有限公司", "display_ad": "臺北市中山區復興北路370號1樓", "poi_addr": "台北市復興北路370號", "gglon": "121.543906", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0607449" }, "geometry": { "type": "Point", "coordinates": [ 121.543906, 25.0607449 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27781488", "name": "微思克股份有限公司（beard papa SOGO忠孝館門市）", "display_ad": "臺北市大安區忠孝東路4段45號B2樓", "poi_addr": "台北市忠孝東路四段45號", "gglon": "121.544899", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.041922" }, "geometry": { "type": "Point", "coordinates": [ 121.544899, 25.041922 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27235235", "name": "廣聯西點麵包店信義店", "display_ad": "臺北市信義區市府路1號地下2樓", "poi_addr": "台北市市府路1號", "gglon": "121.563782", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.037525" }, "geometry": { "type": "Point", "coordinates": [ 121.563782, 25.037525 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28350809", "name": "金元寶西點麵包店士林分店", "display_ad": "臺北市士林區福國路47巷2號", "poi_addr": "台北市福國路47巷2號", "gglon": "121.5235905", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.1016301" }, "geometry": { "type": "Point", "coordinates": [ 121.5235905, 25.1016301 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27229609", "name": "統一聖娜多堡市府轉運站", "display_ad": "臺北市信義區忠孝東路五段6號", "poi_addr": "台北市忠孝東路五段6號", "gglon": "121.5651357", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0409141" }, "geometry": { "type": "Point", "coordinates": [ 121.5651357, 25.0409141 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25637080", "name": "兆順食品有限公司雙連分公司 (順成蛋糕)", "display_ad": "臺北市中山區民生西路60號", "poi_addr": "台北市民生西路60號", "gglon": "121.520969", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.057553" }, "geometry": { "type": "Point", "coordinates": [ 121.520969, 25.057553 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28737898", "name": "全統西點麵包有限公司天母北分公司", "display_ad": "臺北市士林區天母北路2-3號1樓", "poi_addr": "台北市天母北路2之3號", "gglon": "121.525957", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.1186859" }, "geometry": { "type": "Point", "coordinates": [ 121.525957, 25.1186859 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "26578818", "name": "米家食品有限公司", "display_ad": "臺北市內湖區內湖路1段595號", "poi_addr": "台北市內湖路一段595號", "gglon": "121.5734377", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0809092" }, "geometry": { "type": "Point", "coordinates": [ 121.5734377, 25.0809092 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "87723582", "name": "微思克股份有限公司（beard papa SOGO復興館門市）", "display_ad": "臺北市大安區忠孝東路3段300號B3樓", "poi_addr": "台北市忠孝東路三段300號", "gglon": "121.543265", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0414719" }, "geometry": { "type": "Point", "coordinates": [ 121.543265, 25.0414719 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27811171 ?", "name": "頂好企業股份有限公司(IS COFFEE 忠孝總店)", "display_ad": "臺北市大安區忠孝東路4段71號?", "poi_addr": "台北市忠孝東路四段71號", "gglon": "121.546878", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.041899" }, "geometry": { "type": "Point", "coordinates": [ 121.546878, 25.041899 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27929168", "name": "可亭西點麵包店", "display_ad": "臺北市內湖區金龍路142號", "poi_addr": "台北市金龍路142號", "gglon": "121.5897562", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0859252" }, "geometry": { "type": "Point", "coordinates": [ 121.5897562, 25.0859252 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27684862", "name": "歐立食品股份有限公司民生分公司(聖瑪莉)", "display_ad": "臺北市松山區民生東路5段133號1樓", "poi_addr": "台北市民生東路五段133號", "gglon": "121.561337", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.05888" }, "geometry": { "type": "Point", "coordinates": [ 121.561337, 25.05888 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27844838", "name": "木村屋食品股份有限公司仁愛營業所", "display_ad": "臺北市大安區仁愛路4段266巷10號1樓", "poi_addr": "台北市仁愛路四段266巷10號", "gglon": "121.552804", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.037091" }, "geometry": { "type": "Point", "coordinates": [ 121.552804, 25.037091 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28769192", "name": "兆順食品有限公司天母分公司 (順成蛋糕)", "display_ad": "臺北市士林區忠誠路2段142號1樓", "poi_addr": "台北市忠誠路二段142號", "gglon": "121.532468", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.114617" }, "geometry": { "type": "Point", "coordinates": [ 121.532468, 25.114617 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "23250368", "name": "甲寅食品有限公司(世運食品延吉店)", "display_ad": "臺北市大安區延吉街232之3號", "poi_addr": "台北市延吉街232之3號", "gglon": "121.555484", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.036511" }, "geometry": { "type": "Point", "coordinates": [ 121.555484, 25.036511 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2362-0425", "name": "一之軒食品有限公司", "display_ad": "臺北市大安區師大路53號", "poi_addr": "台北市師大路53號", "gglon": "121.528636", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0241109" }, "geometry": { "type": "Point", "coordinates": [ 121.528636, 25.0241109 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27713790", "name": "喜之坊食品有限公司", "display_ad": "臺北市大安區延吉街137巷4號", "poi_addr": "台北市延吉街137巷4號", "gglon": "121.554677", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.041936" }, "geometry": { "type": "Point", "coordinates": [ 121.554677, 25.041936 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "23866806", "name": "証壹食品股份有限公司武昌分公司 (順成蛋糕)", "display_ad": "臺北市中正區武昌街1段35號1樓", "poi_addr": "台北市武昌街一段35號", "gglon": "121.51196", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.044238" }, "geometry": { "type": "Point", "coordinates": [ 121.51196, 25.044238 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "86639350", "name": "徐記老大房食品有限公司", "display_ad": "臺北市文山區羅斯福路6段99號1樓", "poi_addr": "台北市羅斯福路六段99號", "gglon": "121.540702", "traffic_in": null, "certificat": "烘焙業", "gglat": "24.998233" }, "geometry": { "type": "Point", "coordinates": [ 121.540702, 24.998233 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28162959", "name": "湘宏園烘焙屋士林分店", "display_ad": "臺北市士林區延平北路5段170號", "poi_addr": "台北市延平北路五段170號", "gglon": "121.510371", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0828499" }, "geometry": { "type": "Point", "coordinates": [ 121.510371, 25.0828499 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25080779", "name": "成順興業有限公司松江分公司 (順成蛋糕)", "display_ad": "臺北市中山區松江路145號", "poi_addr": "台北市松江路145號", "gglon": "121.533336", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.055329" }, "geometry": { "type": "Point", "coordinates": [ 121.533336, 25.055329 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28219756", "name": "雙喜餅店", "display_ad": "臺北市北投區懷德街16號1樓", "poi_addr": "台北市懷德街16號", "gglon": "121.519482", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.111662" }, "geometry": { "type": "Point", "coordinates": [ 121.519482, 25.111662 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27846119", "name": "歐立食品股份有限公司興南分公司(聖瑪莉)", "display_ad": "臺北市大安區復興南路2段6號1樓", "poi_addr": "台北市復興南路二段6號", "gglon": "121.543369", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.032906" }, "geometry": { "type": "Point", "coordinates": [ 121.543369, 25.032906 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25565514", "name": "萊爾富國際股份有限公司 麵包優先北市重慶店", "display_ad": "臺北市大同區重慶北路2段62-1號", "poi_addr": "台北市重慶北路二段62之1號", "gglon": "121.5137859", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.055861" }, "geometry": { "type": "Point", "coordinates": [ 121.5137859, 25.055861 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28166020", "name": "達飛爾藝術蛋糕坊", "display_ad": "臺北市士林區延平北路5段281號", "poi_addr": "台北市延平北路五段281號", "gglon": "121.509507", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.085505" }, "geometry": { "type": "Point", "coordinates": [ 121.509507, 25.085505 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28746265", "name": "萊爾富國際股份有限公司 麵包優先北市天玉店", "display_ad": "臺北市士林區天玉街1號1樓", "poi_addr": "台北市天玉街1號", "gglon": "121.526602", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.12007" }, "geometry": { "type": "Point", "coordinates": [ 121.526602, 25.12007 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27011234", "name": "興旺烘焙食品有限公司(紅葉蛋糕)", "display_ad": "臺北市大安區仁愛路3段26-5號1樓", "poi_addr": "台北市仁愛路三段26之5號", "gglon": "121.53622", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.037586" }, "geometry": { "type": "Point", "coordinates": [ 121.53622, 25.037586 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "29376800", "name": "高師傅?子工房", "display_ad": "臺北市文山區保儀路115號", "poi_addr": "台北市保儀路115號", "gglon": "121.567668", "traffic_in": null, "certificat": "烘焙業", "gglat": "24.985716" }, "geometry": { "type": "Point", "coordinates": [ 121.567668, 24.985716 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25522852", "name": "兆順食品有限公司京華分公司 (順成蛋糕)", "display_ad": "臺北市大同區南京西路68號1樓", "poi_addr": "台北市南京西路68號", "gglon": "121.518626", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.052883" }, "geometry": { "type": "Point", "coordinates": [ 121.518626, 25.052883 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "23757797", "name": "優仕紳企業有限公司", "display_ad": "臺北市中正區公園路22-1號", "poi_addr": "台北市公園路22之1號", "gglon": "121.517045", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.045127" }, "geometry": { "type": "Point", "coordinates": [ 121.517045, 25.045127 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2581-2525", "name": "宏亞食品股份有限公司中山分公司(禮坊中山一店)", "display_ad": "臺北市中山區中山北路2段125-2號", "poi_addr": "台北市中山北路二段125之2號", "gglon": "121.523196", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.061294" }, "geometry": { "type": "Point", "coordinates": [ 121.523196, 25.061294 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27185678", "name": "洋果子工坊有限公司〈法蘭司蛋糕）", "display_ad": "臺北市松山區敦化北路155巷5號", "poi_addr": "台北市敦化北路155巷5號", "gglon": "121.550135", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.054153" }, "geometry": { "type": "Point", "coordinates": [ 121.550135, 25.054153 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27661155", "name": "向洋食品有限公司", "display_ad": "臺北市信義區松山路113號1樓", "poi_addr": "台北市松山路113號", "gglon": "121.578004", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0476339" }, "geometry": { "type": "Point", "coordinates": [ 121.578004, 25.0476339 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25421195", "name": "多柏思商號", "display_ad": "臺北市大同區錦西街1之4號", "poi_addr": "台北市錦西街1之4號", "gglon": "121.5224", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.060407" }, "geometry": { "type": "Point", "coordinates": [ 121.5224, 25.060407 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28355588", "name": "凱樂烘培食品有限公司", "display_ad": "臺北市中山區長安東路2段131之4號", "poi_addr": "台北市長安東路二段131之4號", "gglon": "121.536259", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.04852" }, "geometry": { "type": "Point", "coordinates": [ 121.536259, 25.04852 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28563816", "name": "維格餅家股份有限公司", "display_ad": "臺北市大同區承德路3段27號", "poi_addr": "台北市承德路三段27號", "gglon": "121.518527", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.064147" }, "geometry": { "type": "Point", "coordinates": [ 121.518527, 25.064147 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27826230", "name": "丹蜜爾蛋糕", "display_ad": "臺北市南港區研究院路2段24號1樓", "poi_addr": "台北市研究院路二段24號", "gglon": "121.615193", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.047345" }, "geometry": { "type": "Point", "coordinates": [ 121.615193, 25.047345 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27668078", "name": "香榭股份有限公司民生分店", "display_ad": "臺北市松山區民生東路5段163號1樓", "poi_addr": "台北市民生東路五段163號", "gglon": "121.5625699", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.059157" }, "geometry": { "type": "Point", "coordinates": [ 121.5625699, 25.059157 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27530100", "name": "洋基食品有限公司〈非凡精緻蛋糕）", "display_ad": "臺北市松山區富錦街488號", "poi_addr": "台北市富錦街488號", "gglon": "121.563632", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.060842" }, "geometry": { "type": "Point", "coordinates": [ 121.563632, 25.060842 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "23314578", "name": "世運食品股份有限公司（世運食品老舖總店）", "display_ad": "臺北市萬華區成都路78號1樓", "poi_addr": "台北市成都路78號", "gglon": "121.50501", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.042888" }, "geometry": { "type": "Point", "coordinates": [ 121.50501, 25.042888 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28223049", "name": "毅盛食品企業有限公司", "display_ad": "臺北市北投區石牌路2段84號1樓", "poi_addr": "台北市石牌路二段84號", "gglon": "121.516387", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.116896" }, "geometry": { "type": "Point", "coordinates": [ 121.516387, 25.116896 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25578377", "name": "証壹食品股份有限公司民權分公司 (順成蛋糕)", "display_ad": "臺北市大同區民權西路90號1樓", "poi_addr": "台北市民權西路90號", "gglon": "121.518921", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.062654" }, "geometry": { "type": "Point", "coordinates": [ 121.518921, 25.062654 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28749233", "name": "喬麗克弗爾麵包坊", "display_ad": "臺北市士林區士東路105號", "poi_addr": "台北市士東路105號", "gglon": "121.5298169", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.1123309" }, "geometry": { "type": "Point", "coordinates": [ 121.5298169, 25.1123309 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28864888", "name": "雪屋麵包坊", "display_ad": "臺北市士林區後港街30號", "poi_addr": "台北市後港街30號", "gglon": "121.522814", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0833609" }, "geometry": { "type": "Point", "coordinates": [ 121.522814, 25.0833609 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25118078", "name": "順成食品實業有限公司錦州分公司 (順成蛋糕)", "display_ad": "臺北市中山區松江路276號", "poi_addr": "台北市松江路276號", "gglon": "121.532774", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0598299" }, "geometry": { "type": "Point", "coordinates": [ 121.532774, 25.0598299 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25992637", "name": "新瑞嘜食品行", "display_ad": "臺北市大同區昌吉街100號", "poi_addr": "台北市昌吉街100號", "gglon": "121.515044", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.065802" }, "geometry": { "type": "Point", "coordinates": [ 121.515044, 25.065802 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27236624", "name": "頂好企業股份有限公司LE PAIN誠品信義店", "display_ad": "臺北市信義區松高路11號地下2樓", "poi_addr": "台北市松高路11號", "gglon": "121.5657384", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0393151" }, "geometry": { "type": "Point", "coordinates": [ 121.5657384, 25.0393151 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "26530530", "name": "美二佳蛋糕有限公司", "display_ad": "臺北市南港區南港路1段120號1樓", "poi_addr": "台北市南港路一段120號", "gglon": "121.613497", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.055471" }, "geometry": { "type": "Point", "coordinates": [ 121.613497, 25.055471 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "23610909", "name": "金格食品股份有限公司", "display_ad": "臺北市中華路2段41號", "poi_addr": "台北市中華路二段41號", "gglon": "121.506371", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0350979" }, "geometry": { "type": "Point", "coordinates": [ 121.506371, 25.0350979 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "21753019", "name": "岩島成專業烘焙美麗華門市", "display_ad": "臺北市中山區敬業三路20號地下1樓", "poi_addr": "台北市敬業三路20號", "gglon": "121.557293", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.082837" }, "geometry": { "type": "Point", "coordinates": [ 121.557293, 25.082837 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "26275129", "name": "林上西點麵包屋", "display_ad": "臺北市內湖區內湖路1段629巷40弄14號", "poi_addr": "台北市內湖路一段629巷40弄14號", "gglon": "121.5744051", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0817095" }, "geometry": { "type": "Point", "coordinates": [ 121.5744051, 25.0817095 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "23912200", "name": "香榭股份有限公司和平分店(香榭麗舍法式西點)", "display_ad": "臺北市大安區和平東路1段73號", "poi_addr": "台北市和平東路一段73號", "gglon": "121.524843", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.027145" }, "geometry": { "type": "Point", "coordinates": [ 121.524843, 25.027145 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27524642", "name": "成順興業有限公司 (順成蛋糕)", "display_ad": "臺北市大安區忠孝東路4段320號之3 1樓", "poi_addr": "台北市忠孝東路四段320號", "gglon": "121.557164", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.041126" }, "geometry": { "type": "Point", "coordinates": [ 121.557164, 25.041126 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25596000", "name": "金格食品股份有限公司延平門市部", "display_ad": "臺北市大同區延平北路2段70號", "poi_addr": "台北市延平北路二段70號", "gglon": "121.511548", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0557239" }, "geometry": { "type": "Point", "coordinates": [ 121.511548, 25.0557239 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27900013", "name": "今皇起士蛋糕坊1樓", "display_ad": "臺北市內湖區康寧路1段58號1樓", "poi_addr": "台北市康寧路一段58號", "gglon": "121.592035", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.080089" }, "geometry": { "type": "Point", "coordinates": [ 121.592035, 25.080089 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "23890146", "name": "多柏思食品股份有限公司（多柏思麵包蛋糕）", "display_ad": "臺北市萬華區成都路73號1樓", "poi_addr": "台北市成都路73號", "gglon": "121.505568", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.042965" }, "geometry": { "type": "Point", "coordinates": [ 121.505568, 25.042965 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "26585618", "name": "彩糖屋烘焙坊", "display_ad": "臺北市內湖區江南街96巷3號", "poi_addr": "台北市江南街96巷3號", "gglon": "121.5769089", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.077352" }, "geometry": { "type": "Point", "coordinates": [ 121.5769089, 25.077352 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27138590", "name": "証壹食品股份有限公司長春分公司 (順成蛋糕)", "display_ad": "臺北市松山區長春路335號1樓", "poi_addr": "台北市長春路335號", "gglon": "121.5445908", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0546678" }, "geometry": { "type": "Point", "coordinates": [ 121.5445908, 25.0546678 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "87323238", "name": "樂寅食品有限公司(世運食品和平店)", "display_ad": "臺北市大安區和平東路3段236號", "poi_addr": "台北市和平東路三段236號", "gglon": "121.554848", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.021923" }, "geometry": { "type": "Point", "coordinates": [ 121.554848, 25.021923 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25158469", "name": "聖比德蛋糕有限公司", "display_ad": "臺北市中山區農安街194號", "poi_addr": "台北市農安街194號", "gglon": "121.535608", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.064524" }, "geometry": { "type": "Point", "coordinates": [ 121.535608, 25.064524 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "23673611", "name": "得記食品有限公司（得記蛋糕）", "display_ad": "臺北市中正區羅斯福路4段26號", "poi_addr": "台北市羅斯福路四段26號", "gglon": "121.533307", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0154889" }, "geometry": { "type": "Point", "coordinates": [ 121.533307, 25.0154889 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28232945", "name": "統一聖娜多堡臺北石牌店", "display_ad": "臺北市北投區石牌路2段10號", "poi_addr": "台北市石牌路二段10號", "gglon": "121.515547", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.115382" }, "geometry": { "type": "Point", "coordinates": [ 121.515547, 25.115382 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28202753", "name": "慈心緣食品行", "display_ad": "臺北市北投區義理街21號", "poi_addr": "台北市義理街21號", "gglon": "121.515185", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.116474" }, "geometry": { "type": "Point", "coordinates": [ 121.515185, 25.116474 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27712302", "name": "香榭股份有限公司", "display_ad": "臺北市大安區光復南路290巷55號1樓", "poi_addr": "台北市光復南路290巷55號", "gglon": "121.555272", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.039271" }, "geometry": { "type": "Point", "coordinates": [ 121.555272, 25.039271 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28810581", "name": "兆順食品有限公司士林分公司 (順成蛋糕)", "display_ad": "臺北市士林區中正路229號1樓", "poi_addr": "台北市中正路229號", "gglon": "121.52614", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.095201" }, "geometry": { "type": "Point", "coordinates": [ 121.52614, 25.095201 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2562-6099", "name": "宏亞食品股份有限公司中山二店分公司(禮坊中山二店)", "display_ad": "臺北市中山區中山北路2段22-1號", "poi_addr": "台北市中山北路二段22之1號", "gglon": "121.522401", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.053608" }, "geometry": { "type": "Point", "coordinates": [ 121.522401, 25.053608 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27021175", "name": "福麗馥記企業有限公司", "display_ad": "臺北市大安區仁愛路4段26號", "poi_addr": "台北市仁愛路四段26號", "gglon": "121.54643", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.037628" }, "geometry": { "type": "Point", "coordinates": [ 121.54643, 25.037628 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "87862286", "name": "岩島成專業烘焙信義A11門市", "display_ad": "臺北市信義區松壽路11號地下2樓", "poi_addr": "台北市松壽路11號", "gglon": "121.567442", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.036023" }, "geometry": { "type": "Point", "coordinates": [ 121.567442, 25.036023 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "23410711", "name": "成順興業有限公司南門店公司(順成蛋糕)", "display_ad": "臺北市大安區羅斯福路2段31號1樓", "poi_addr": "台北市羅斯福路二段31號", "gglon": "121.522134", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.02786" }, "geometry": { "type": "Point", "coordinates": [ 121.522134, 25.02786 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "22346432", "name": "一粒醣食品有限公司", "display_ad": "臺北市文山區木新路3段41號1樓", "poi_addr": "台北市木新路三段41號", "gglon": "121.564315", "traffic_in": null, "certificat": "烘焙業", "gglat": "24.982392" }, "geometry": { "type": "Point", "coordinates": [ 121.564315, 24.982392 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25313575", "name": "拍拍企業府份有限公司長春營業所(元樂幸福烘焙)", "display_ad": "臺北市中山區長春路210號", "poi_addr": "台北市長春路210號", "gglon": "121.5374918", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0546292" }, "geometry": { "type": "Point", "coordinates": [ 121.5374918, 25.0546292 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27495909", "name": "萊爾富國際股份有限公司 麵包優先北市南京東店", "display_ad": "臺北市松山區南京東路5段194號1樓", "poi_addr": "台北市南京東路五段194號", "gglon": "121.563456", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0512249" }, "geometry": { "type": "Point", "coordinates": [ 121.563456, 25.0512249 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25216826", "name": "統一聖娜多堡臺北民權西統一聖娜多堡店", "display_ad": "臺北市中山區民權西路68-1號", "poi_addr": "台北市民權西路68之1號", "gglon": "121.51996", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.062634" }, "geometry": { "type": "Point", "coordinates": [ 121.51996, 25.062634 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28749988", "name": "岩島成專業烘焙榮總門市", "display_ad": "臺北市北投區石牌路2段201號", "poi_addr": "台北市石牌路二段201號", "gglon": "121.5201598", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.1201836" }, "geometry": { "type": "Point", "coordinates": [ 121.5201598, 25.1201836 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27626332", "name": "統一聖娜多堡臺北南京店", "display_ad": "臺北市松山區南京東路5段70號", "poi_addr": "台北市南京東路五段70號", "gglon": "121.560936", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.051264" }, "geometry": { "type": "Point", "coordinates": [ 121.560936, 25.051264 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27566821", "name": "木村屋食品股份有限公司民生營業所", "display_ad": "臺北市松山區民生東路5段201號1樓", "poi_addr": "台北市民生東路五段201號", "gglon": "121.566414", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.059264" }, "geometry": { "type": "Point", "coordinates": [ 121.566414, 25.059264 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28349028", "name": "岩島成專業烘焙高島屋門市", "display_ad": "臺北市士林區忠誠路2段55號地下1樓", "poi_addr": "台北市忠誠路二段55號", "gglon": "121.5313421", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.1117343" }, "geometry": { "type": "Point", "coordinates": [ 121.5313421, 25.1117343 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "23317370", "name": "明星西點麵包廠", "display_ad": "臺北市中正區武昌街1段5號及7號", "poi_addr": "台北市武昌街一段5號", "gglon": "121.512783", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.044216" }, "geometry": { "type": "Point", "coordinates": [ 121.512783, 25.044216 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27013877", "name": "柏萊特ㄧ店有限公司（柏萊特概念烘焙）", "display_ad": "臺北市大安區通化街10號1樓", "poi_addr": "台北市通化街10號", "gglon": "121.5542554", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0321038" }, "geometry": { "type": "Point", "coordinates": [ 121.5542554, 25.0321038 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25578716", "name": "李亭香餅店", "display_ad": "臺北市大同區迪化街1段309號", "poi_addr": "台北市迪化街一段309號", "gglon": "121.509312", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.062163" }, "geometry": { "type": "Point", "coordinates": [ 121.509312, 25.062163 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "87322678", "name": "兆順食品有限公司 (順成蛋糕)", "display_ad": "臺北市信義區基隆路2段91號1樓", "poi_addr": "台北市基隆路二段91號", "gglon": "121.557919", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.02987" }, "geometry": { "type": "Point", "coordinates": [ 121.557919, 25.02987 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "930-7972", "name": "偉多利食品有限公司", "display_ad": "臺北市文山區景興路202巷12號", "poi_addr": "台北市景興路202巷12號", "gglon": "121.543204", "traffic_in": null, "certificat": "烘焙業", "gglat": "24.992054" }, "geometry": { "type": "Point", "coordinates": [ 121.543204, 24.992054 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "8789-5799", "name": "宏亞食品股份有限公司忠孝分公司(禮坊忠孝店)", "display_ad": "臺北市信義區忠孝東路5段392號", "poi_addr": "台北市忠孝東路五段392號", "gglon": "121.574447", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0407259" }, "geometry": { "type": "Point", "coordinates": [ 121.574447, 25.0407259 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28317117", "name": "木村屋食品股份有限公司(莎諾里烘焙坊)", "display_ad": "臺北市士林區文林路513號", "poi_addr": "台北市文林路513號", "gglon": "121.524022", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.096799" }, "geometry": { "type": "Point", "coordinates": [ 121.524022, 25.096799 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28323699", "name": "全統西點麵包有限公司德行西路分公司", "display_ad": "臺北市士林區德行西路70號1樓", "poi_addr": "台北市德行西路70號", "gglon": "121.522561", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.104929" }, "geometry": { "type": "Point", "coordinates": [ 121.522561, 25.104929 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25316685", "name": "岩島成專業烘焙南西二館門市", "display_ad": "臺北市大同區南京西路14號B1樓", "poi_addr": "台北市南京西路14號", "gglon": "121.520765", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.052365" }, "geometry": { "type": "Point", "coordinates": [ 121.520765, 25.052365 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27138733", "name": "香榭股份有限公司南京分店", "display_ad": "臺北市松山區南京東路4段111號1樓", "poi_addr": "台北市南京東路四段111號", "gglon": "121.554797", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.05183" }, "geometry": { "type": "Point", "coordinates": [ 121.554797, 25.05183 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "87929275", "name": "証壹食品股份有限公司內湖分公司 (順成蛋糕)", "display_ad": "臺北市內湖區成功路4段8號1樓", "poi_addr": "台北市成功路四段8號", "gglon": "121.59109", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0812" }, "geometry": { "type": "Point", "coordinates": [ 121.59109, 25.0812 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "23117657", "name": "萊爾富國際股份有限公司 麵包優先北市懷寧店", "display_ad": "臺北市中正區懷寧街21號", "poi_addr": "台北市懷寧街21號", "gglon": "121.5142844", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0453785" }, "geometry": { "type": "Point", "coordinates": [ 121.5142844, 25.0453785 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "29336854", "name": "統一聖娜多堡股份有限公司萬芳醫院店", "display_ad": "臺北市文山區興隆路3段111號1樓", "poi_addr": "台北市興隆路三段111號", "gglon": "121.5575845", "traffic_in": null, "certificat": "烘焙業", "gglat": "24.9996897" }, "geometry": { "type": "Point", "coordinates": [ 121.5575845, 24.9996897 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25073891", "name": "凱樂烘培食品有限公司和平門市部", "display_ad": "臺北市大安區和平東路1段25號", "poi_addr": "台北市和平東路一段25號", "gglon": "121.523104", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.027242" }, "geometry": { "type": "Point", "coordinates": [ 121.523104, 25.027242 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "23318195", "name": "微思克股份有限公司（beard papa微風站前店）", "display_ad": "臺北市中正區北平西路3號2樓", "poi_addr": "台北市北平西路3號", "gglon": "121.517081", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0479239" }, "geometry": { "type": "Point", "coordinates": [ 121.517081, 25.0479239 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27630152", "name": "金格食品股份有限公司民生門市部", "display_ad": "臺北市松山區民生東路5段184-1號1樓", "poi_addr": "台北市民生東路五段184之1號", "gglon": "121.563779", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.058232" }, "geometry": { "type": "Point", "coordinates": [ 121.563779, 25.058232 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28288065", "name": "金元寶西點麵包店", "display_ad": "臺北市北投區尊賢街225號1樓", "poi_addr": "台北市尊賢街225號", "gglon": "121.507715", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.11576" }, "geometry": { "type": "Point", "coordinates": [ 121.507715, 25.11576 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "33223301", "name": "滿福堂", "display_ad": "臺北市中正區忠孝東路2段3號", "poi_addr": "台北市忠孝東路二段3號", "gglon": "121.5272649", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0440629" }, "geometry": { "type": "Point", "coordinates": [ 121.5272649, 25.0440629 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28924689", "name": "甜馨烘焙有限公司", "display_ad": "臺北市北投區光明路55號", "poi_addr": "台北市光明路55號", "gglon": "121.4998", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.132882" }, "geometry": { "type": "Point", "coordinates": [ 121.4998, 25.132882 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25612762", "name": "亞都欣和有限公司", "display_ad": "臺北市中山區中山北路2段36之1號1-2樓", "poi_addr": "台北市中山北路二段36之1號", "gglon": "121.522423", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.0543499" }, "geometry": { "type": "Point", "coordinates": [ 121.522423, 25.0543499 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28966916", "name": "一之鄉股份有限公司", "display_ad": "臺北市北投區北投路1段7號", "poi_addr": "台北市北投路一段7號", "gglon": "121.501851", "traffic_in": null, "certificat": "烘焙業", "gglat": "25.121836" }, "geometry": { "type": "Point", "coordinates": [ 121.501851, 25.121836 ] } }
+
+]
+}

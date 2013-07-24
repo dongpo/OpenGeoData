@@ -1,0 +1,92 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "復興分隊", "TWD67_X": "304901.954", "TWD67_Y": "2769740.869" }, "geometry": { "type": "Point", "coordinates": [ 121.55226080396676, 25.032984587848645 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "金華分隊", "TWD67_X": "302428.848", "TWD67_Y": "2769685.458" }, "geometry": { "type": "Point", "coordinates": [ 121.52775243666531, 25.032573389653251 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "舊莊分隊", "TWD67_X": "306210.203", "TWD67_Y": "2769401.24" }, "geometry": { "type": "Point", "coordinates": [ 121.565210263170144, 25.029869707876525 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "永吉分隊", "TWD67_X": "310441.206", "TWD67_Y": "2772174.577" }, "geometry": { "type": "Point", "coordinates": [ 121.607257508112525, 25.054741561281151 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "內湖分隊", "TWD67_X": "309860.096", "TWD67_Y": "2775408.441" }, "geometry": { "type": "Point", "coordinates": [ 121.601640901304023, 25.083959685139853 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "安和分隊", "TWD67_X": "303997.648", "TWD67_Y": "2769421.794" }, "geometry": { "type": "Point", "coordinates": [ 121.543287282723355, 25.030137028049321 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "城中分隊", "TWD67_X": "300977.123", "TWD67_Y": "2771280.769" }, "geometry": { "type": "Point", "coordinates": [ 121.51342713075978, 25.047026206038701 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "延平分隊", "TWD67_X": "300767.385", "TWD67_Y": "2771643.803" }, "geometry": { "type": "Point", "coordinates": [ 121.51136216925083, 25.050310834449178 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "泉州分隊", "TWD67_X": "300887.043", "TWD67_Y": "2768805.776" }, "geometry": { "type": "Point", "coordinates": [ 121.512441571254769, 25.024685100449407 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "秀山分隊", "TWD67_X": "301425.939", "TWD67_Y": "2775755.448" }, "geometry": { "type": "Point", "coordinates": [ 121.518044901661568, 25.087407876035819 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "萬芳分隊", "TWD67_X": "306347.126", "TWD67_Y": "2766330.459" }, "geometry": { "type": "Point", "coordinates": [ 121.56643978562289, 25.00214176460733 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "關渡分隊", "TWD67_X": "301297.814", "TWD67_Y": "2779145.639" }, "geometry": { "type": "Point", "coordinates": [ 121.51690337938696, 25.118018587971381 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "社子分隊", "TWD67_X": "300767.577", "TWD67_Y": "2774840.25" }, "geometry": { "type": "Point", "coordinates": [ 121.511483887533586, 25.079168181983274 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "木柵分隊", "TWD67_X": "306046.523", "TWD67_Y": "2764860.122" }, "geometry": { "type": "Point", "coordinates": [ 121.563401313760579, 24.98887894139018 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "莊敬分隊", "TWD67_X": "306561.913", "TWD67_Y": "2770622.408" }, "geometry": { "type": "Point", "coordinates": [ 121.568746117865416, 25.040880992365754 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "光明分隊", "TWD67_X": "296229.698", "TWD67_Y": "2779693.488" }, "geometry": { "type": "Point", "coordinates": [ 121.466666657925003, 25.123131252741022 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "信義分隊", "TWD67_X": "311255.183", "TWD67_Y": "2771115.281" }, "geometry": { "type": "Point", "coordinates": [ 121.615276857595305, 25.045145240561297 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "東湖分隊", "TWD67_X": "307453.162", "TWD67_Y": "2773515.869" }, "geometry": { "type": "Point", "coordinates": [ 121.577700534588857, 25.066968682854171 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "陽明山分隊", "TWD67_X": "299834.068", "TWD67_Y": "2781046.672" }, "geometry": { "type": "Point", "coordinates": [ 121.502459101796774, 25.135230794333783 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "華山分隊", "TWD67_X": "301722.104", "TWD67_Y": "2771318.175" }, "geometry": { "type": "Point", "coordinates": [ 121.520811504934557, 25.047338204469465 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "後港分隊", "TWD67_X": "304281.661", "TWD67_Y": "2782882.702" }, "geometry": { "type": "Point", "coordinates": [ 121.546641211153656, 25.151649963730662 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "大湖分隊", "TWD67_X": "308729.293", "TWD67_Y": "2773811.209" }, "geometry": { "type": "Point", "coordinates": [ 121.590361995175584, 25.069585201645843 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "石牌分隊", "TWD67_X": "298865.145", "TWD67_Y": "2782164.841" }, "geometry": { "type": "Point", "coordinates": [ 121.492890446995204, 25.145357765645148 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "大直分隊", "TWD67_X": "305306.927", "TWD67_Y": "2774981.999" }, "geometry": { "type": "Point", "coordinates": [ 121.556487354735935, 25.080285968541752 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "雙園分隊", "TWD67_X": "299203.202", "TWD67_Y": "2769237.221" }, "geometry": { "type": "Point", "coordinates": [ 121.495772919996327, 25.028636773991405 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "建成分隊", "TWD67_X": "301477.699", "TWD67_Y": "2772141.71" }, "geometry": { "type": "Point", "coordinates": [ 121.518420656200803, 25.054781512601387 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "八德分隊", "TWD67_X": "304246.64", "TWD67_Y": "2771451.888" }, "geometry": { "type": "Point", "coordinates": [ 121.545835622878386, 25.048455530189912 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "松江分隊", "TWD67_X": "302556.115", "TWD67_Y": "2773675.83" }, "geometry": { "type": "Point", "coordinates": [ 121.529168176622733, 25.068593739786962 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "大同分隊", "TWD67_X": "301441.504", "TWD67_Y": "2773856.225" }, "geometry": { "type": "Point", "coordinates": [ 121.518127030625706, 25.070261303253886 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "成德分隊", "TWD67_X": "308400.933", "TWD67_Y": "2771420.009" }, "geometry": { "type": "Point", "coordinates": [ 121.587004450171406, 25.048010739810916 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "忠孝分隊", "TWD67_X": "302354.93", "TWD67_Y": "2770923.795" }, "geometry": { "type": "Point", "coordinates": [ 121.527067755492496, 25.043755641882711 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "民權分隊", "TWD67_X": "311005.733", "TWD67_Y": "2773595.051" }, "geometry": { "type": "Point", "coordinates": [ 121.612916169342057, 25.067542325261225 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "山仔后分隊", "TWD67_X": "304191.394", "TWD67_Y": "2780919.226" }, "geometry": { "type": "Point", "coordinates": [ 121.545667074529518, 25.133927392577306 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "天母分隊", "TWD67_X": "302907.82", "TWD67_Y": "2779962.495" }, "geometry": { "type": "Point", "coordinates": [ 121.53290011064, 25.125336511987037 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "雙溪分隊", "TWD67_X": "304107.962", "TWD67_Y": "2776905.788" }, "geometry": { "type": "Point", "coordinates": [ 121.544679044975808, 25.097697775384024 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "福安分隊", "TWD67_X": "299336.817", "TWD67_Y": "2776658.954" }, "geometry": { "type": "Point", "coordinates": [ 121.49736732911262, 25.095635534032851 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "南港分隊", "TWD67_X": "306603.218", "TWD67_Y": "2771145.865" }, "geometry": { "type": "Point", "coordinates": [ 121.569177252008217, 25.045605135463305 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "劍潭分隊", "TWD67_X": "302338.359", "TWD67_Y": "2776058.965" }, "geometry": { "type": "Point", "coordinates": [ 121.527101906877391, 25.090116138550165 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "圓山分隊", "TWD67_X": "303373.87", "TWD67_Y": "2772193.487" }, "geometry": { "type": "Point", "coordinates": [ 121.537215368429727, 25.055182162361305 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "寶橋分隊", "TWD67_X": "305191.029", "TWD67_Y": "2763870.121" }, "geometry": { "type": "Point", "coordinates": [ 121.554887086897111, 24.979973076554909 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "龍山分隊", "TWD67_X": "299556.515", "TWD67_Y": "2770357.611" }, "geometry": { "type": "Point", "coordinates": [ 121.49931477149309, 25.038739937488184 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "中崙分隊", "TWD67_X": "305974.733", "TWD67_Y": "2771476.18" }, "geometry": { "type": "Point", "coordinates": [ 121.562962548164833, 25.048610916685544 ] } }
+,
+{ "type": "Feature", "properties": { "Y": null, "X": null, "name": "景美分隊", "TWD67_X": "303801.382", "TWD67_Y": "2765238.365" }, "geometry": { "type": "Point", "coordinates": [ 121.541176955483394, 24.992376260055568 ] } }
+
+]
+}

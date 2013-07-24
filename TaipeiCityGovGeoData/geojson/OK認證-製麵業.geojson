@@ -1,0 +1,116 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "23375239", "name": "德昌麵店行", "display_ad": "臺北市萬華區富民路95之2號1樓", "poi_addr": "台北市富民路95之2號", "gglon": "121.499054", "traffic_in": null, "Y": "25.018611249689787", "X": "121.49902510300338", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.0186169" }, "geometry": { "type": "Point", "coordinates": [ 121.499025103003376, 25.018611249689787 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28345340", "name": "信德製麵店", "display_ad": "臺北市士林區士東路100號士東市場第54號攤", "poi_addr": "台北市士東路100號", "gglon": "121.529299", "traffic_in": null, "Y": "25.111961832351824", "X": "121.52922993568839", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.112068" }, "geometry": { "type": "Point", "coordinates": [ 121.529229935688392, 25.111961832351824 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25912883", "name": "大橋麵店", "display_ad": "臺北市大同區昌吉街61巷9弄2號1樓", "poi_addr": "台北市昌吉街61巷9弄2號", "gglon": "121.515059", "traffic_in": null, "Y": "25.06659733184409", "X": "121.51501442781891", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.066566" }, "geometry": { "type": "Point", "coordinates": [ 121.515014427818912, 25.06659733184409 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28814612", "name": "義興機器切麵店", "display_ad": "臺北市士林區大南路224號1樓", "poi_addr": "台北市大南路224號", "gglon": "121.521047", "traffic_in": null, "Y": "25.088706268538413", "X": "121.5209977709946", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.088678" }, "geometry": { "type": "Point", "coordinates": [ 121.520997770994597, 25.088706268538413 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "26322551", "name": "五昌製麵店", "display_ad": "臺北市內湖區東湖路106巷38號1樓", "poi_addr": "台北市東湖路106巷38號", "gglon": "121.614945", "traffic_in": null, "Y": "25.067602237485517", "X": "121.61484053219988", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.067699" }, "geometry": { "type": "Point", "coordinates": [ 121.614840532199878, 25.067602237485517 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25015251", "name": "開發麵條店", "display_ad": "臺北市中山區龍江路318巷33號", "poi_addr": "台北市龍江路318巷33號", "gglon": "121.538718", "traffic_in": null, "Y": "25.06490008548312", "X": "121.53867110400174", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.064886" }, "geometry": { "type": "Point", "coordinates": [ 121.538671104001736, 25.064900085483121 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28128611", "name": "宏泰切麵店", "display_ad": "臺北市士林區社中街25號1樓", "poi_addr": "台北市社中街25號", "gglon": "121.509669", "traffic_in": null, "Y": "25.0880342683045", "X": "121.50967155531985", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.0879639" }, "geometry": { "type": "Point", "coordinates": [ 121.509671555319855, 25.088034268304501 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25018276", "name": "光田麵店", "display_ad": "臺北市中山區龍江路370巷29號1樓", "poi_addr": "台北市龍江路370巷29號", "gglon": "121.539329", "traffic_in": null, "Y": "25.066533493393354", "X": "121.53933515085383", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.066521" }, "geometry": { "type": "Point", "coordinates": [ 121.53933515085383, 25.066533493393354 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27333690", "name": "億隆切麵店", "display_ad": "臺北市大安區臥龍街268號之1", "poi_addr": "台北市臥龍街268號", "gglon": "121.558095", "traffic_in": null, "Y": "25.017473243768308", "X": "121.55798604037241", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.0173229" }, "geometry": { "type": "Point", "coordinates": [ 121.557986040372413, 25.017473243768308 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "NG(all fuzzy coordina)", "tel": "27951187", "name": "松佳食品行", "display_ad": "臺北市內湖區安康路93巷2弄2號", "poi_addr": "台北市安康路93巷2弄2號", "gglon": "0", "traffic_in": null, "Y": "25.062673142762524", "X": "121.59717590487604", "certificat": "製麵業及包子饅頭製作業", "gglat": "0" }, "geometry": { "type": "Point", "coordinates": [ 121.597175904876039, 25.062673142762524 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "88111221", "name": "六六製麵社子店", "display_ad": "臺北市士林區中正路586巷26號", "poi_addr": "台北市中正路586巷26號", "gglon": "121.510003", "traffic_in": null, "Y": "25.08779033553491", "X": "121.50994599654972", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.087789" }, "geometry": { "type": "Point", "coordinates": [ 121.509945996549718, 25.087790335534908 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28950801", "name": "佳家製麵店", "display_ad": "臺北市北投區中和街320巷10號", "poi_addr": "台北市中和街320巷10號", "gglon": "121.500149", "traffic_in": null, "Y": "25.141299533601394", "X": "121.50005848382686", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.141284" }, "geometry": { "type": "Point", "coordinates": [ 121.500058483826862, 25.141299533601394 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "23060402", "name": "永恆麵店", "display_ad": "臺北市萬華區三水街71之1號", "poi_addr": "台北市三水街71之1號", "gglon": "121.503065", "traffic_in": null, "Y": "25.036030525866327", "X": "121.50302848521133", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.036021" }, "geometry": { "type": "Point", "coordinates": [ 121.503028485211331, 25.036030525866327 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "29392780、29399359", "name": "建和製麵工廠有限公司", "display_ad": "臺北市文山區指南路1段67號1樓", "poi_addr": "台北市指南路一段67號", "gglon": "121.5655489", "traffic_in": null, "Y": "24.98775404265708", "X": "121.57136614272565", "certificat": "製麵業及包子饅頭製作業", "gglat": "24.990234" }, "geometry": { "type": "Point", "coordinates": [ 121.571366142725651, 24.98775404265708 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28234971", "name": "保成切麵店", "display_ad": "臺北市北投區自強街125之8號", "poi_addr": "台北市自強街125之8號", "gglon": "121.51574", "traffic_in": null, "Y": "25.1115392622631", "X": "121.51554472387355", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.111092" }, "geometry": { "type": "Point", "coordinates": [ 121.515544723873546, 25.111539262263101 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28855892", "name": "昱陸麵店", "display_ad": "臺北市士林區承德路4段58巷24號", "poi_addr": "台北市承德路四段58巷24號", "gglon": "121.521888", "traffic_in": null, "Y": "25.08206012955352", "X": "121.52178529440903", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.082072" }, "geometry": { "type": "Point", "coordinates": [ 121.521785294409028, 25.082060129553518 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "NG(all fuzzy coordina)", "tel": "25163696", "name": "成昌切麵店", "display_ad": "臺北市中山區建國北路3段75巷22號", "poi_addr": "台北市建國北路三段75巷22號", "gglon": "0", "traffic_in": null, "Y": "25.065177406399712", "X": "121.53809667735825", "certificat": "製麵業及包子饅頭製作業", "gglat": "0" }, "geometry": { "type": "Point", "coordinates": [ 121.538096677358254, 25.065177406399712 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "23076589", "name": "龍口麵店", "display_ad": "臺北市中正區三元街120號1樓", "poi_addr": "台北市三元街120號", "gglon": "121.510121", "traffic_in": null, "Y": "25.028390466507556", "X": "121.51012395600519", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.0283689" }, "geometry": { "type": "Point", "coordinates": [ 121.510123956005188, 25.028390466507556 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27384938", "name": "泰山包子專賣店", "display_ad": "臺北市大安區復興南路2段350號1樓", "poi_addr": "台北市復興南路二段350號", "gglon": "121.543178", "traffic_in": null, "Y": "25.022247853989168", "X": "121.54315949352088", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.022194" }, "geometry": { "type": "Point", "coordinates": [ 121.543159493520875, 25.022247853989168 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28342547", "name": "千裕製麵店", "display_ad": "臺北市士林區華榮街70之5號", "poi_addr": "台北市華榮街70之5號", "gglon": "121.523362", "traffic_in": null, "Y": "25.096977282976226", "X": "121.52333071035589", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.09699" }, "geometry": { "type": "Point", "coordinates": [ 121.523330710355893, 25.096977282976226 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "23639914", "name": "山東切麵店", "display_ad": "臺北市大安區羅斯福路2段77巷3之1號", "poi_addr": "台北市羅斯福路二段77巷3之1號", "gglon": "121.524212", "traffic_in": null, "Y": "25.026274113794358", "X": "121.52416030658875", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.0262499" }, "geometry": { "type": "Point", "coordinates": [ 121.524160306588755, 25.026274113794358 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "29368108", "name": "高昇麵店", "display_ad": "臺北市文山區木新路3段232巷4號1樓", "poi_addr": "台北市木新路三段232巷4號", "gglon": "121.559078", "traffic_in": null, "Y": "24.981813400262396", "X": "121.55900096802236", "certificat": "製麵業及包子饅頭製作業", "gglat": "24.9817909" }, "geometry": { "type": "Point", "coordinates": [ 121.55900096802236, 24.981813400262396 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25576533", "name": "直興切麵店", "display_ad": "臺北市大同區雙連街11巷24號", "poi_addr": "台北市雙連街11巷24號", "gglon": "121.519795", "traffic_in": null, "Y": "25.058261886940592", "X": "121.51973807479625", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.058216" }, "geometry": { "type": "Point", "coordinates": [ 121.519738074796251, 25.058261886940592 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "23716953", "name": "益源號麵店", "display_ad": "臺北市萬華區貴陽街2段164巷5弄5-2號", "poi_addr": "台北市貴陽街二段164巷5弄5之2號", "gglon": "121.501382", "traffic_in": null, "Y": "25.039778445141113", "X": "121.50126590971377", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.039674" }, "geometry": { "type": "Point", "coordinates": [ 121.501265909713766, 25.039778445141113 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25622171", "name": "金振興食品商行", "display_ad": "臺北市中山區吉林路161巷5號1樓", "poi_addr": "台北市吉林路161巷5號", "gglon": "121.531149", "traffic_in": null, "Y": "25.059049753855057", "X": "121.5310614967799", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.059007" }, "geometry": { "type": "Point", "coordinates": [ 121.531061496779898, 25.059049753855057 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28384545", "name": "杏豐製麵店", "display_ad": "臺北市士林區士東路100號1樓士東市場第26號攤位", "poi_addr": "台北市士東路100號", "gglon": "121.529299", "traffic_in": null, "Y": "25.111961832351824", "X": "121.52922993568839", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.112068" }, "geometry": { "type": "Point", "coordinates": [ 121.529229935688392, 25.111961832351824 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25969153", "name": "蘭州市場190號攤", "display_ad": "臺北市大同區昌吉街55號", "poi_addr": "台北市昌吉街55號", "gglon": "121.515667", "traffic_in": null, "Y": "25.066051303796517", "X": "121.51556115627868", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.06601" }, "geometry": { "type": "Point", "coordinates": [ 121.515561156278679, 25.066051303796517 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27114829", "name": "八德饅頭專賣店", "display_ad": "臺北市大安區八德路2段26號1樓", "poi_addr": "台北市八德路二段26號", "gglon": "121.534545", "traffic_in": null, "Y": "25.044788186327374", "X": "121.53450259289261", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.0447399" }, "geometry": { "type": "Point", "coordinates": [ 121.534502592892608, 25.044788186327374 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "23089642", "name": "萬華國光饅頭店", "display_ad": "臺北市萬華區西園路2段136號", "poi_addr": "台北市西園路二段136號", "gglon": "121.496245", "traffic_in": null, "Y": "25.03044462846856", "X": "121.49623720514755", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.030409" }, "geometry": { "type": "Point", "coordinates": [ 121.496237205147551, 25.030444628468562 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28212859", "name": "喬正切麵店", "display_ad": "臺北市北投區振華街48號1樓", "poi_addr": "台北市振華街48號", "gglon": "121.518108", "traffic_in": null, "Y": "25.115979709086393", "X": "121.51803558319558", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.116003" }, "geometry": { "type": "Point", "coordinates": [ 121.518035583195584, 25.115979709086393 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27903436", "name": "鼎鼎製麵店", "display_ad": "臺北市內湖區成功路4段20巷17號", "poi_addr": "台北市成功路四段20巷17號", "gglon": "121.591355", "traffic_in": null, "Y": "25.081718184789636", "X": "121.59124871103084", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.081746" }, "geometry": { "type": "Point", "coordinates": [ 121.591248711030843, 25.081718184789636 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28821677", "name": "瑞原麵店", "display_ad": "臺北市士林區福港街259巷31號1樓", "poi_addr": "台北市福港街259巷31號", "gglon": "121.519064", "traffic_in": null, "Y": "25.084165960077495", "X": "121.51900631287435", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.084087" }, "geometry": { "type": "Point", "coordinates": [ 121.519006312874353, 25.084165960077495 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25929362", "name": "文進商行", "display_ad": "臺北市大同區哈密街59巷53弄16號", "poi_addr": "台北市哈密街59巷53弄16號", "gglon": "121.51631", "traffic_in": null, "Y": "25.07536957868603", "X": "121.51627345669498", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.075284" }, "geometry": { "type": "Point", "coordinates": [ 121.516273456694975, 25.075369578686029 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25963591", "name": "左殿國麵店", "display_ad": "臺北市大同區昌吉街45號", "poi_addr": "台北市昌吉街45號", "gglon": "121.51642", "traffic_in": null, "Y": "25.066045417396346", "X": "121.51639510089854", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.065999" }, "geometry": { "type": "Point", "coordinates": [ 121.516395100898535, 25.066045417396346 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27688849", "name": "秀豐商行", "display_ad": "臺北市松山區八德路4段72巷12弄16號1樓", "poi_addr": "台北市八德路四段72巷12弄16號", "gglon": "121.559406", "traffic_in": null, "Y": "25.046973435480083", "X": "121.55937377882788", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.0469759" }, "geometry": { "type": "Point", "coordinates": [ 121.559373778827876, 25.046973435480083 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27688744", "name": "聯合切麵店", "display_ad": "臺北市松山區民生東路5段36巷6弄7之1號1樓", "poi_addr": "台北市民生東路五段36巷6弄7之1號", "gglon": "121.560158", "traffic_in": null, "Y": "25.057674503279213", "X": "121.56005059821688", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.057638" }, "geometry": { "type": "Point", "coordinates": [ 121.560050598216876, 25.057674503279213 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27621253", "name": "全翔食品行", "display_ad": "臺北市松山區撫遠街261巷30號1樓", "poi_addr": "台北市撫遠街261巷30號", "gglon": "121.568016", "traffic_in": null, "Y": "25.06187899747578", "X": "121.56801644224477", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.061775" }, "geometry": { "type": "Point", "coordinates": [ 121.568016442244769, 25.06187899747578 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28929610", "name": "加頂食品工業有限公司", "display_ad": "臺北市北投區北投路1段33、35號1樓", "poi_addr": "台北市北投路一段33;35號", "gglon": "121.539399", "traffic_in": null, "Y": "25.124720024571857", "X": "121.50083213663689", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.152194" }, "geometry": { "type": "Point", "coordinates": [ 121.500832136636888, 25.124720024571857 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28353578", "name": "六六切麵店", "display_ad": "臺北市士林區德行東路109巷87號", "poi_addr": "台北市德行東路109巷87號", "gglon": "121.528522", "traffic_in": null, "Y": "25.110535360815213", "X": "121.52848390011543", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.110516" }, "geometry": { "type": "Point", "coordinates": [ 121.528483900115432, 25.110535360815213 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27271287", "name": "易昇商行", "display_ad": "臺北市信義區福德街60號1樓", "poi_addr": "台北市福德街60號", "gglon": "121.5804763", "traffic_in": null, "Y": "25.036928772863906", "X": "121.58044109820403", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.0369171" }, "geometry": { "type": "Point", "coordinates": [ 121.580441098204034, 25.036928772863906 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "23097353", "name": "延鼎切麵店", "display_ad": "臺北市中正區惠安街9之1號1樓", "poi_addr": "台北市惠安街9之1號", "gglon": "121.506424", "traffic_in": null, "Y": "25.029999717086024", "X": "121.50632518470218", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.029993" }, "geometry": { "type": "Point", "coordinates": [ 121.506325184702177, 25.029999717086024 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27353776", "name": "六張犁饅頭店", "display_ad": "臺北市信義區崇德街97號1樓", "poi_addr": "台北市崇德街97號", "gglon": "121.555758", "traffic_in": null, "Y": "25.024178679581876", "X": "121.55565277748725", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.024186" }, "geometry": { "type": "Point", "coordinates": [ 121.555652777487254, 25.024178679581876 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28210116", "name": "元順切麵店", "display_ad": "臺北市北投區尊賢街264巷3號1樓", "poi_addr": "台北市尊賢街264巷3號", "gglon": "121.507318", "traffic_in": null, "Y": "25.11755613001611", "X": "121.50726183737902", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.117538" }, "geometry": { "type": "Point", "coordinates": [ 121.507261837379019, 25.117556130016109 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28321088", "name": "童俊仁商行（童家饅頭）", "display_ad": "臺北市士林區士東路100號(士東市場51號攤)", "poi_addr": "台北市士東路100號", "gglon": "121.529299", "traffic_in": null, "Y": "25.111961832351824", "X": "121.52922993568839", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.112068" }, "geometry": { "type": "Point", "coordinates": [ 121.529229935688392, 25.111961832351824 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27335411", "name": "和福興商行", "display_ad": "臺北市大安區和平東路3段308巷5號1樓", "poi_addr": "台北市和平東路三段308巷5號", "gglon": "121.556295", "traffic_in": null, "Y": "25.020192507655832", "X": "121.55624997219364", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.02014" }, "geometry": { "type": "Point", "coordinates": [ 121.55624997219364, 25.020192507655832 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27470393", "name": "六六製麵店", "display_ad": "臺北市信義區虎林街119巷1號", "poi_addr": "台北市虎林街119巷1號", "gglon": "121.576967", "traffic_in": null, "Y": "25.042203573729356", "X": "121.57690623620051", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.042204" }, "geometry": { "type": "Point", "coordinates": [ 121.576906236200514, 25.042203573729356 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27617312", "name": "永輝食品行", "display_ad": "臺北市信義區虎林街101巷7號", "poi_addr": "台北市虎林街101巷7號", "gglon": "121.577377", "traffic_in": null, "Y": "25.04267490213221", "X": "121.57731484949677", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.042613" }, "geometry": { "type": "Point", "coordinates": [ 121.577314849496773, 25.042674902132209 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25950995", "name": "世豐製麵廠", "display_ad": "臺北市大同區敦煌路24巷12弄3號1樓", "poi_addr": "台北市敦煌路24巷12弄3號", "gglon": "121.519029", "traffic_in": null, "Y": "25.0746250574581", "X": "121.51899571794802", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.074581" }, "geometry": { "type": "Point", "coordinates": [ 121.518995717948016, 25.0746250574581 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27088024", "name": "徐記麵店", "display_ad": "臺北市大安區通化街57巷23號1樓", "poi_addr": "台北市通化街57巷23號", "gglon": "121.554967", "traffic_in": null, "Y": "25.03060009529185", "X": "121.55485804604392", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.030549" }, "geometry": { "type": "Point", "coordinates": [ 121.554858046043918, 25.030600095291849 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27651650", "name": "福田切麵店", "display_ad": "臺北市松山區南京東路5段291巷27號之2", "poi_addr": "台北市南京東路五段291巷27號", "gglon": "121.566429", "traffic_in": null, "Y": "25.052630407852327", "X": "121.56623579635094", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.0526439" }, "geometry": { "type": "Point", "coordinates": [ 121.566235796350938, 25.052630407852327 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "23037267", "name": "經綸商行", "display_ad": "臺北市中正區南海路98號", "poi_addr": "台北市南海路98號", "gglon": "121.508338", "traffic_in": null, "Y": "25.028299378453276", "X": "121.50826171810868", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.028265" }, "geometry": { "type": "Point", "coordinates": [ 121.508261718108685, 25.028299378453276 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "87801949", "name": "光復三六九素食包子店", "display_ad": "臺北市信義區光復南路419巷145號", "poi_addr": "台北市光復南路419巷145號", "gglon": "121.5604246", "traffic_in": null, "Y": "25.036551217419337", "X": "121.56036764515414", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.0365169" }, "geometry": { "type": "Point", "coordinates": [ 121.560367645154145, 25.036551217419337 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "29301580", "name": "六六製麵店景美店", "display_ad": "臺北市文山區景美街60號", "poi_addr": "台北市景美街60號", "gglon": "121.541551", "traffic_in": null, "Y": "24.990446002437867", "X": "121.54149993711779", "certificat": "製麵業及包子饅頭製作業", "gglat": "24.9904459" }, "geometry": { "type": "Point", "coordinates": [ 121.541499937117791, 24.990446002437867 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28855527", "name": "劍潭切麵店", "display_ad": "臺北市士林區承德路4段40巷51號1樓", "poi_addr": "台北市承德路四段40巷51號", "gglon": "121.521527", "traffic_in": null, "Y": "25.08145911299458", "X": "121.52149555256774", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.081394" }, "geometry": { "type": "Point", "coordinates": [ 121.521495552567742, 25.08145911299458 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "23084737", "name": "德昌隆商行", "display_ad": "臺北市萬華區和平西路3段89巷22號1樓", "poi_addr": "台北市和平西路三段89巷22號", "gglon": "121.50101", "traffic_in": null, "Y": "25.03594814131972", "X": "121.50095811095052", "certificat": "製麵業及包子饅頭製作業", "gglat": "25.03591" }, "geometry": { "type": "Point", "coordinates": [ 121.500958110950521, 25.035948141319722 ] } }
+
+]
+}

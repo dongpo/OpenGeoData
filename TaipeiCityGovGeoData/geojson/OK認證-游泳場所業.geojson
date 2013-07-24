@@ -1,0 +1,86 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "66176789", "name": "?陽百貨事業股份有限公司松山運動中心分公司", "display_ad": "敦化北路1號", "poi_addr": "台北市敦化北路1號", "gglon": "121.550231", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.048607" }, "geometry": { "type": "Point", "coordinates": [ 121.550231, 25.048607 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25920055", "name": "臺北市大同運動中心 游泳館", "display_ad": "大龍街51號", "poi_addr": "台北市大龍街51號", "gglon": "121.5161459", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.0647693" }, "geometry": { "type": "Point", "coordinates": [ 121.5161459, 25.0647693 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "22395494", "name": "博嘉運動公園", "display_ad": "木柵路4段159巷16號", "poi_addr": "台北市木柵路四段159巷16號", "gglon": "121.575257", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.0002839" }, "geometry": { "type": "Point", "coordinates": [ 121.575257, 25.0002839 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28340998", "name": "洲美運動公園游泳館", "display_ad": "洲美街271號", "poi_addr": "台北市洲美街271號", "gglon": "121.499237", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.107613" }, "geometry": { "type": "Point", "coordinates": [ 121.499237, 25.107613 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "55508888", "name": "緹力士健康事業股份有限公司大直分公司", "display_ad": "樂群三路218號5樓", "poi_addr": "台北市樂群三路218號", "gglon": "121.5580389", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.0824465" }, "geometry": { "type": "Point", "coordinates": [ 121.5580389, 25.0824465 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28411996", "name": "青青食尚花園會館", "display_ad": "至善路2段266巷32號", "poi_addr": "台北市至善路二段266巷32號", "gglon": "121.55119", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.0988569" }, "geometry": { "type": "Point", "coordinates": [ 121.55119, 25.0988569 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "33225016", "name": "臺北市中正運動中心", "display_ad": "信義路1段1號", "poi_addr": "台北市信義路一段1號", "gglon": "121.518896", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.038569" }, "geometry": { "type": "Point", "coordinates": [ 121.518896, 25.038569 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "87706565", "name": "六福皇宮三溫暖", "display_ad": "南京東路3段133號", "poi_addr": "台北市南京東路三段133號", "gglon": "121.5411869", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.0521017" }, "geometry": { "type": "Point", "coordinates": [ 121.5411869, 25.0521017 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28806066", "name": "臺北市士林運動中心", "display_ad": "士商路1號", "poi_addr": "台北市士商路1號", "gglon": "121.521411", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.089668" }, "geometry": { "type": "Point", "coordinates": [ 121.521411, 25.089668 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28958670", "name": "貴子坑鄉村俱樂部", "display_ad": "秀山路150巷15號", "poi_addr": "台北市山路150巷15號", "gglon": "121.5667", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.0050249" }, "geometry": { "type": "Point", "coordinates": [ 121.5667, 25.0050249 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25172371", "name": "榮星公園溫水游泳池", "display_ad": "建國北路3段39號", "poi_addr": "台北市建國北路三段39號", "gglon": "121.5382629", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.0641535" }, "geometry": { "type": "Point", "coordinates": [ 121.5382629, 25.0641535 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25811060", "name": "臺北市中山運動中心", "display_ad": "中山北路2段44巷2號", "poi_addr": "台北市中山北路二段44巷2號", "gglon": "121.5213932", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.0548895" }, "geometry": { "type": "Point", "coordinates": [ 121.5213932, 25.0548895 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28202880", "name": "臺北市北投運動中心", "display_ad": "石牌路1段39巷100號", "poi_addr": "台北市石牌路一段39巷100號", "gglon": "121.509768", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.1164729" }, "geometry": { "type": "Point", "coordinates": [ 121.509768, 25.1164729 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "23455088", "name": "那米哥休閒會館", "display_ad": "松仁路101號B1", "poi_addr": "台北市松仁路101號", "gglon": "121.568689", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.036248" }, "geometry": { "type": "Point", "coordinates": [ 121.568689, 25.036248 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28931666", "name": "太平洋溫泉會館", "display_ad": "奇岩路1號", "poi_addr": "台北市奇岩路1號", "gglon": "121.507197", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.134659" }, "geometry": { "type": "Point", "coordinates": [ 121.507197, 25.134659 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "83691155", "name": "公務人力發展中心福華國際文教會館", "display_ad": "新生南路3段30號B1", "poi_addr": "台北市新生南路三段30號", "gglon": "121.5341921", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.0228309" }, "geometry": { "type": "Point", "coordinates": [ 121.5341921, 25.0228309 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "55809888", "name": "臺北市萬華運動中心", "display_ad": "西寧南路6之1號", "poi_addr": "台北市西寧南路6之1號", "gglon": "121.5067531", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.0474081" }, "geometry": { "type": "Point", "coordinates": [ 121.5067531, 25.0474081 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28858260", "name": "AMERICANCLUB IN CHINA (Taipei)", "display_ad": "北安路47號", "poi_addr": "台北市北安路47號", "gglon": "121.5283459", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.0777655" }, "geometry": { "type": "Point", "coordinates": [ 121.5283459, 25.0777655 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28975555", "name": "春天酒店", "display_ad": "幽雅路18號", "poi_addr": "台北市幽雅路18號", "gglon": "121.513582", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.137637" }, "geometry": { "type": "Point", "coordinates": [ 121.513582, 25.137637 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "23770300", "name": "臺北市大安運動中心", "display_ad": "辛亥路3段55號", "poi_addr": "台北市辛亥路三段55號", "gglon": "121.545636", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.0207769" }, "geometry": { "type": "Point", "coordinates": [ 121.545636, 25.0207769 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "66225760", "name": "台北寒舍艾美酒店艾美會館", "display_ad": "松仁路38號", "poi_addr": "台北市松仁路38號", "gglon": "121.5681498", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.0385328" }, "geometry": { "type": "Point", "coordinates": [ 121.5681498, 25.0385328 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27002323", "name": "福華大飯店股份有限公司", "display_ad": "仁愛路3段160號", "poi_addr": "台北市仁愛路三段160號", "gglon": "121.5433474", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.0377117" }, "geometry": { "type": "Point", "coordinates": [ 121.5433474, 25.0377117 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "26532279", "name": "臺北市南港運動中心", "display_ad": "玉成街69號", "poi_addr": "台北市玉成街69號", "gglon": "121.5818399", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.048938" }, "geometry": { "type": "Point", "coordinates": [ 121.5818399, 25.048938 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "87861911", "name": "臺北市信義運動中心", "display_ad": "松勤街100號", "poi_addr": "台北市松勤街100號", "gglon": "121.5666793", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.0318684" }, "geometry": { "type": "Point", "coordinates": [ 121.5666793, 25.0318684 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "33665959", "name": "國立台灣大學綜合體育館溫水游泳池", "display_ad": "羅斯福路4段1號", "poi_addr": "台北市羅斯福路四段1號", "gglon": "121.5352814", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.0177744" }, "geometry": { "type": "Point", "coordinates": [ 121.5352814, 25.0177744 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "22341304", "name": "國立政治大學游泳館", "display_ad": "指南路2段64號", "poi_addr": "台北市指南路二段64號", "gglon": "121.5761281", "traffic_in": null, "certificat": "游泳場所業", "gglat": "24.9873313" }, "geometry": { "type": "Point", "coordinates": [ 121.5761281, 24.9873313 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27201200", "name": "綠洲會員俱樂部", "display_ad": "松壽路2號", "poi_addr": "台北市松壽路2號", "gglon": "121.562664", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.0356649" }, "geometry": { "type": "Point", "coordinates": [ 121.562664, 25.0356649 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27631261", "name": "台北市中華基督教青年會", "display_ad": "永吉路500號", "poi_addr": "台北市永吉路500號", "gglon": "121.579571", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.045194" }, "geometry": { "type": "Point", "coordinates": [ 121.579571, 25.045194 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28323901", "name": "超群三溫暖工程有限公司克強營業所", "display_ad": "磺溪街65巷2號", "poi_addr": "台北市磺溪街65巷2號", "gglon": "121.523197", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.106651" }, "geometry": { "type": "Point", "coordinates": [ 121.523197, 25.106651 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "83695104", "name": "臺北自來水事業處臺北自來水園區", "display_ad": "思源街1號", "poi_addr": "台北市思源街1號", "gglon": "121.5302529", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.013286" }, "geometry": { "type": "Point", "coordinates": [ 121.5302529, 25.013286 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27271075", "name": "京元鼎育樂股份有限公司玉成公園游泳池", "display_ad": "中坡南路55號", "poi_addr": "台北市中坡南路55號", "gglon": "121.585276", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.041824" }, "geometry": { "type": "Point", "coordinates": [ 121.585276, 25.041824 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "23763139", "name": "香格里拉台北遠東國際大飯店", "display_ad": "敦化南路2段201號6樓", "poi_addr": "台北市敦化南路二段201號", "gglon": "121.549282", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.026612" }, "geometry": { "type": "Point", "coordinates": [ 121.549282, 25.026612 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25168166", "name": "聯安國際開發有限公司", "display_ad": "麗水街18號", "poi_addr": "台北市麗水街18號", "gglon": "121.528645", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.031187" }, "geometry": { "type": "Point", "coordinates": [ 121.528645, 25.031187 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "23610271", "name": "台北市中華基督教青年會(YMCA萬華會館)", "display_ad": "昆明街290號", "poi_addr": "台北市昆明街290號", "gglon": "121.503769", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.038291" }, "geometry": { "type": "Point", "coordinates": [ 121.503769, 25.038291 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28339696", "name": "天母國際聯誼會", "display_ad": "中山北路6段88號B1", "poi_addr": "台北市中山北路六段88號", "gglon": "121.525001", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.104939" }, "geometry": { "type": "Point", "coordinates": [ 121.525001, 25.104939 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28616661", "name": "陽明山中國麗緻大飯店", "display_ad": "格致路237號", "poi_addr": "台北市格致路237號", "gglon": "121.548725", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.143271" }, "geometry": { "type": "Point", "coordinates": [ 121.548725, 25.143271 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28227070", "name": "YMCA唭哩岸健康會館", "display_ad": "承德路7段312號", "poi_addr": "台北市承德路七段312號", "gglon": "121.504782", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.117097" }, "geometry": { "type": "Point", "coordinates": [ 121.504782, 25.117097 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "22308268", "name": "臺北市文山運動中心", "display_ad": "興隆路3段222號", "poi_addr": "台北市興隆路三段222號", "gglon": "121.559673", "traffic_in": null, "certificat": "游泳場所業", "gglat": "24.9970166" }, "geometry": { "type": "Point", "coordinates": [ 121.559673, 24.9970166 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28930105", "name": "臺北捷運北投會館", "display_ad": "大業路527巷88號", "poi_addr": "台北市大業路527巷88號", "gglon": "121.483955", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.1357899" }, "geometry": { "type": "Point", "coordinates": [ 121.483955, 25.1357899 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28832666", "name": "台北市至善老人安養護中心", "display_ad": "仰德大道2段2巷50號", "poi_addr": "台北市仰德大道二段2巷50號", "gglon": "121.543183", "traffic_in": null, "certificat": "游泳場所業", "gglat": "25.101946" }, "geometry": { "type": "Point", "coordinates": [ 121.543183, 25.101946 ] } }
+
+]
+}

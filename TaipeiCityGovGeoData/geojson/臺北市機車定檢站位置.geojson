@@ -1,0 +1,386 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市北投區自強街62號", "district": "北投區", "no": "AD8", "gglon": "121.513908", "brand": "三陽", "Y": "25.11044089694351", "X": "121.51385389734509", "gglat": "25.110398", "name": "金展機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.513853897345086, 25.110440896943508 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市士林區至誠路二段127號", "district": "士林區", "no": "AH9", "gglon": "121.526933", "brand": "三陽", "Y": "25.100978601380795", "X": "121.52687769612095", "gglat": "25.10094", "name": "皇加股份有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.526877696120948, 25.100978601380795 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市士林區重慶北路四段156號", "district": "士林區", "no": "A18", "gglon": "121.51234", "brand": "光陽", "Y": "25.083938217416765", "X": "121.51221194318391", "gglat": "25.083744", "name": "慶陽車業股份有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.512211943183914, 25.083938217416765 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市松山區五常街281-2號", "district": "松山區", "no": "AA9", "gglon": "121.5453001", "brand": "三陽", "Y": "25.064518232093732", "X": "121.54513076964889", "gglat": "25.0647402", "name": "尚益車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.545130769648893, 25.064518232093732 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市內湖區內湖路一段91巷7號", "district": "內湖區", "no": "AK4", "gglon": "121.5611076", "brand": "光陽", "Y": "25.084665057073142", "X": "121.56110126160917", "gglat": "25.0846478", "name": "玟樺機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.561101261609167, 25.084665057073142 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市文山區羅斯福路六段317號", "district": "文山區", "no": "AA1", "gglon": "121.541398", "brand": "三陽", "Y": "24.99393741221552", "X": "121.54132219422404", "gglat": "24.993891", "name": "弘偉車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.541322194224037, 24.993937412215519 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "NG(all fuzzy coordina)", "addr": "臺北市內湖區金龍路87號", "district": "內湖區", "no": "AD6", "gglon": "0", "brand": "三陽", "Y": "25.08535174395022", "X": "121.59183089292507", "gglat": "0", "name": "宏淞車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.591830892925074, 25.08535174395022 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市文山區木新路二段285號", "district": "文山區", "no": "A95", "gglon": "121.565728", "brand": "三陽", "Y": "24.982856832957086", "X": "121.56568244893127", "gglat": "24.9827569", "name": "順利機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.56568244893127, 24.982856832957086 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市中山區民權東路二段126號", "district": "中山區", "no": "A83", "gglon": "121.532727", "brand": "光陽", "Y": "25.062344852521772", "X": "121.53264394427515", "gglat": "25.062307", "name": "展欣機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.532643944275151, 25.062344852521772 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市內湖區內湖路一段31號", "district": "內湖區", "no": "AI5", "gglon": "121.5587262", "brand": "三陽", "Y": "25.08521732273079", "X": "121.55875524092838", "gglat": "25.0851795", "name": "鎧詮機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.558755240928377, 25.085217322730792 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市中正區忠孝東路二段31號", "district": "中正區", "no": "A57", "gglon": "121.527898", "brand": "山葉", "Y": "25.04390711350806", "X": "121.52788828369573", "gglat": "25.043892", "name": "忠豪車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.527888283695731, 25.043907113508059 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市松山區八德路三段198號", "district": "松山區", "no": "AA7", "gglon": "121.556426", "brand": "光陽", "Y": "25.047966873020243", "X": "121.55629876112624", "gglat": "25.047999", "name": "日星車業行" }, "geometry": { "type": "Point", "coordinates": [ 121.556298761126243, 25.047966873020243 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市信義區忠孝東路五段147號", "district": "信義區", "no": "AG6", "gglon": "121.568181", "brand": "光陽", "Y": "25.041254972532023", "X": "121.56812899861161", "gglat": "25.041235", "name": "明正車業行" }, "geometry": { "type": "Point", "coordinates": [ 121.568128998611613, 25.041254972532023 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市士林區德行東路100號", "district": "士林區", "no": "AC5", "gglon": "121.528185", "brand": "三陽", "Y": "25.107571720209513", "X": "121.52810126143251", "gglat": "25.107536", "name": "坤鴻機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.528101261432511, 25.107571720209513 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市萬華區東園街105號", "district": "萬華區", "no": "AC1", "gglon": "121.496826", "brand": "台鈴", "Y": "25.025401384323935", "X": "121.49675210067291", "gglat": "25.0253699", "name": "東園車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.496752100672907, 25.025401384323935 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市士林區重慶北路四段232號", "district": "士林區", "no": "AL2", "gglon": "121.511405", "brand": "光陽", "Y": "25.08621538252306", "X": "121.51130799618326", "gglat": "25.086178", "name": "福元機車有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.511307996183263, 25.086215382523061 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市中山區松江路530號", "district": "中山區", "no": "A14", "gglon": "121.532984", "brand": "台鈴", "Y": "25.066938684131244", "X": "121.53301947967584", "gglat": "25.066886", "name": "台鈴工業台北服務站" }, "geometry": { "type": "Point", "coordinates": [ 121.533019479675843, 25.066938684131244 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市大安區辛亥路一段58號", "district": "大安區", "no": "A49", "gglon": "121.530744", "brand": "山葉", "Y": "25.02044828191931", "X": "121.53058462294686", "gglat": "25.020238", "name": "盛昌機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.530584622946861, 25.020448281919311 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市信義區忠孝東路五段717號", "district": "信義區", "no": "AK1", "gglon": "121.580432", "brand": "山葉", "Y": "25.042757730337005", "X": "121.58043937876182", "gglat": "25.042759", "name": "三沅行車業股份有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.580439378761824, 25.042757730337005 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市南港區忠孝東路七段564號", "district": "南港區", "no": "AG9", "gglon": "121.613301", "brand": "三陽", "Y": "25.052695400468092", "X": "121.61324195520758", "gglat": "25.052604", "name": "政賢機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.613241955207585, 25.052695400468092 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市大安區金華街118-4號", "district": "大安區", "no": "AI7", "gglon": "121.526885", "brand": "商會", "Y": "25.030100844298453", "X": "121.52686521745795", "gglat": "25.0300699", "name": "致盛機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.526865217457953, 25.030100844298453 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市內湖區成功路二段314號", "district": "內湖區", "no": "AM4", "gglon": "121.590411", "brand": "商會", "Y": "25.0672776835987", "X": "121.59041845332965", "gglat": "25.0672369", "name": "百鉅機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.590418453329647, 25.0672776835987 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市大同區延平北路三段67-1號", "district": "大同區", "no": "A25", "gglon": "121.511122", "brand": "山葉", "Y": "25.06633620313721", "X": "121.51105637734523", "gglat": "25.066278", "name": "新協大車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.511056377345227, 25.066336203137212 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市松山區八德路四段338號", "district": "松山區", "no": "A15", "gglon": "121.568208", "brand": "自營", "Y": "25.049150878897795", "X": "121.56804644786381", "gglat": "25.0491169", "name": "群億車業商行" }, "geometry": { "type": "Point", "coordinates": [ 121.568046447863807, 25.049150878897795 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市中山區北安路458巷3號", "district": "中山區", "no": "A82", "gglon": "121.544647", "brand": "光陽", "Y": "25.079389096700655", "X": "121.54458993071066", "gglat": "25.0793579", "name": "大昌機車有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.544589930710657, 25.079389096700655 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市中正區金華街57號", "district": "中正區", "no": "A55", "gglon": "121.520787", "brand": "台鈴", "Y": "25.03170725827488", "X": "121.52072768951797", "gglat": "25.0316919", "name": "三豐車業行" }, "geometry": { "type": "Point", "coordinates": [ 121.520727689517969, 25.031707258274881 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市中山區長安東路二段72號", "district": "中山區", "no": "A84", "gglon": "121.533694", "brand": "偉士伯", "Y": "25.04837909988132", "X": "121.53363686196398", "gglat": "25.048313", "name": "裕國機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.533636861963984, 25.04837909988132 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市南港區研究院路一段45號", "district": "南港區", "no": "AJ8", "gglon": "121.61653", "brand": "山葉", "Y": "25.053431347924423", "X": "121.6164229098054", "gglat": "25.053425", "name": "季祥車業行" }, "geometry": { "type": "Point", "coordinates": [ 121.616422909805394, 25.053431347924423 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市大安區延吉街64-1號", "district": "大安區", "no": "A79", "gglon": "121.553831", "brand": "台鈴", "Y": "25.043462468139683", "X": "121.55381527076817", "gglat": "25.043408", "name": "車王二輪社" }, "geometry": { "type": "Point", "coordinates": [ 121.553815270768169, 25.043462468139683 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市內湖區康寧路三段16巷115號", "district": "內湖區", "no": "AD5", "gglon": "121.609543", "brand": "光陽", "Y": "25.071141005278253", "X": "121.6096271905535", "gglat": "25.071124", "name": "巨豐機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.609627190553496, 25.071141005278253 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市北投區行義路21號", "district": "北投區", "no": "AI0", "gglon": "121.526514", "brand": "三陽", "Y": "25.125132839740065", "X": "121.52644642966662", "gglat": "25.125114", "name": "欣民機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.52644642966662, 25.125132839740065 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市萬華區康定路110號", "district": "萬華區", "no": "A33", "gglon": "121.502062", "brand": "山葉", "Y": "25.041165020905797", "X": "121.50202727745774", "gglat": "25.041147", "name": "得山車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.502027277457742, 25.041165020905797 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市萬華區環河南路一段21號", "district": "萬華區", "no": "AD9", "gglon": "121.504229", "brand": "山葉", "Y": "25.04692556057608", "X": "121.50415893153809", "gglat": "25.0469089", "name": "聯耀機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.504158931538086, 25.046925560576081 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市北投區中和街453-11號", "district": "北投區", "no": "AA2", "gglon": "121.496768", "brand": "山葉", "Y": "25.144642454593402", "X": "121.49676290919184", "gglat": "25.1446259", "name": "雄大車業行" }, "geometry": { "type": "Point", "coordinates": [ 121.496762909191844, 25.144642454593402 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市內湖區江南街28號", "district": "內湖區", "no": "A90", "gglon": "121.577625", "brand": "山葉", "Y": "25.07764348177515", "X": "121.57761780047481", "gglat": "25.077632", "name": "春琳國際車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.577617800474812, 25.077643481775151 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市北投區石牌路二段37號", "district": "北投區", "no": "AA3", "gglon": "121.515655", "brand": "三陽", "Y": "25.116121411442716", "X": "121.5156144362786", "gglat": "25.1161009", "name": "聯誠機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.515614436278597, 25.116121411442716 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市內湖區民權東路六段60號", "district": "內湖區", "no": "AM7", "gglon": "121.584752", "brand": "商會", "Y": "25.068733210058113", "X": "121.58469558556232", "gglat": "25.068655", "name": "誠鴻機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.584695585562315, 25.068733210058113 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市北投區公館路146號", "district": "北投區", "no": "AK7", "gglon": "121.505613", "brand": "光陽", "Y": "25.129329636229333", "X": "121.50556447895585", "gglat": "25.129255", "name": "展悅機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.505564478955847, 25.129329636229333 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市中山區中原街23號", "district": "中山區", "no": "AM6", "gglon": "121.528971", "brand": "光陽", "Y": "25.0563206465162", "X": "121.52891511669363", "gglat": "25.056253", "name": "泓原彰車業行" }, "geometry": { "type": "Point", "coordinates": [ 121.528915116693625, 25.056320646516198 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市士林區文林路314號", "district": "士林區", "no": "AC7", "gglon": "121.526205", "brand": "山葉", "Y": "25.092220445218317", "X": "121.52615592721135", "gglat": "25.092206", "name": "銘豐機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.526155927211349, 25.092220445218317 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市士林區中正路605號", "district": "士林區", "no": "AF5", "gglon": "121.509754", "brand": "光陽", "Y": "25.086609874491483", "X": "121.50967764139664", "gglat": "25.086547", "name": "巨揚機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.509677641396635, 25.086609874491483 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市大同區錦西街56號", "district": "大同區", "no": "A58", "gglon": "121.519699", "brand": "山葉", "Y": "25.060249751871034", "X": "121.51966553299287", "gglat": "25.060201", "name": "磬葉企業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.519665532992875, 25.060249751871034 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市文山區景華街64號", "district": "文山區", "no": "A98", "gglon": "121.544517", "brand": "台鈴", "Y": "24.99505748954969", "X": "121.54441684179758", "gglat": "24.9950079", "name": "祥騰機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.544416841797585, 24.995057489549691 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市大同區哈密街83號", "district": "大同區", "no": "AK2", "gglon": "121.514798", "brand": "三陽", "Y": "25.07308174921405", "X": "121.5147742550394", "gglat": "25.073084", "name": "吉財機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.514774255039399, 25.073081749214051 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市松山區民權東路五段30號", "district": "松山區", "no": "A16", "gglon": "121.564326", "brand": "三陽", "Y": "25.062929971110286", "X": "121.56428613437883", "gglat": "25.062803", "name": "松春來車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.564286134378833, 25.062929971110286 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市信義區中坡南路287號", "district": "信義區", "no": "AB3", "gglon": "121.584189", "brand": "山葉", "Y": "25.03862586421747", "X": "121.58417297139317", "gglat": "25.03859", "name": "吉安運動器材有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.584172971393173, 25.038625864217469 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市中正區新生南路一段134-3號", "district": "中正區", "no": "AH3", "gglon": "121.532464", "brand": "三陽", "Y": "25.036719459586553", "X": "121.532450008282", "gglat": "25.0365079", "name": "一成機車有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.532450008281998, 25.036719459586553 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市士林區延平北路五段220號", "district": "士林區", "no": "A73", "gglon": "121.510098", "brand": "台鈴", "Y": "25.084058435207563", "X": "121.51003628877038", "gglat": "25.08404", "name": "力泰車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.51003628877038, 25.084058435207563 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市松山區民生東路五段57號", "district": "松山區", "no": "AB0", "gglon": "121.557864", "brand": "光陽", "Y": "25.058636362003124", "X": "121.55775891286203", "gglat": "25.058616", "name": "新光機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.557758912862028, 25.058636362003124 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市大安區和平東路三段45號", "district": "大安區", "no": "AC9", "gglon": "121.547735", "brand": "山葉", "Y": "25.024814343116727", "X": "121.54770375465141", "gglat": "25.02481", "name": "旭宏機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.547703754651408, 25.024814343116727 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市萬華區南寧路62、64號", "district": "萬華區", "no": "A35", "gglon": "121.503926", "brand": "三陽", "Y": "25.035414713590846", "X": "121.50381070484507", "gglat": "25.035223", "name": "永振億實業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.503810704845066, 25.035414713590846 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市內湖區康樂街69號", "district": "內湖區", "no": "AD7", "gglon": "121.618525", "brand": "山葉", "Y": "25.068810962381608", "X": "121.61844913435891", "gglat": "25.068766", "name": "正倫車業行" }, "geometry": { "type": "Point", "coordinates": [ 121.618449134358912, 25.068810962381608 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "NG(all fuzzy coordina)", "addr": "臺北市內湖區康寧路三段14號", "district": "內湖區", "no": "AG0", "gglon": "0", "brand": "光陽", "Y": "25.072778885864928", "X": "121.60638705748131", "gglat": "0", "name": "葉陽車業行" }, "geometry": { "type": "Point", "coordinates": [ 121.606387057481314, 25.072778885864928 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市士林區大南路295號", "district": "士林區", "no": "AL1", "gglon": "121.518744", "brand": "自營", "Y": "25.088799117081585", "X": "121.51867479750511", "gglat": "25.088759", "name": "駿輝機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.518674797505113, 25.088799117081585 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市中正區汀州路一段182號", "district": "中正區", "no": "A88", "gglon": "121.50897", "brand": "山葉", "Y": "25.028341118486892", "X": "121.50894155124334", "gglat": "25.028301", "name": "慶發車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.508941551243339, 25.028341118486892 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市士林區承德路四段364號", "district": "士林區", "no": "AH8", "gglon": "121.516811", "brand": "商會", "Y": "25.090513771409714", "X": "121.5166032908296", "gglat": "25.0902519", "name": "晴華機械輪業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.516603290829593, 25.090513771409714 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市中正區牯嶺街47號", "district": "中正區", "no": "A53", "gglon": "121.516662", "brand": "光陽", "Y": "25.029936241852692", "X": "121.51658050530814", "gglat": "25.029909", "name": "后里車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.516580505308141, 25.029936241852692 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市文山區興隆路二段177號", "district": "文山區", "no": "AI9", "gglon": "121.549009", "brand": "商會", "Y": "25.000785284290373", "X": "121.54909298290976", "gglat": "25.0007349", "name": "優購愛馬機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.549092982909755, 25.000785284290373 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市內湖區康樂街32號", "district": "內湖區", "no": "AF9", "gglon": "121.618322", "brand": "光陽", "Y": "25.068819131939428", "X": "121.6182759130695", "gglat": "25.068836", "name": "國祥機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.618275913069496, 25.068819131939428 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市內湖區民權東路六段128號", "district": "內湖區", "no": "A46", "gglon": "121.587541", "brand": "光陽", "Y": "25.068933532717164", "X": "121.58749456772848", "gglat": "25.068847", "name": "四維通車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.587494567728484, 25.068933532717164 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市士林區通河街169號", "district": "士林區", "no": "AC4", "gglon": "121.519833", "brand": "三陽", "Y": "25.081422049786003", "X": "121.519759314642", "gglat": "25.081414", "name": "盟業車業行" }, "geometry": { "type": "Point", "coordinates": [ 121.519759314642002, 25.081422049786003 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市信義區信義路6段47號", "district": "信義區", "no": "AF2", "gglon": "121.576308", "brand": "三陽", "Y": "25.0351239963821", "X": "121.57629093509871", "gglat": "25.035077", "name": "昇輪機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.576290935098712, 25.035123996382101 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市中山區八德路二段88巷20號", "district": "中山區", "no": "A36", "gglon": "121.535965", "brand": "山葉", "Y": "25.045052424067986", "X": "121.5359173807884", "gglat": "25.045022", "name": "運輪機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.535917380788405, 25.045052424067986 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市松山區撫遠街362號", "district": "松山區", "no": "AG3", "gglon": "121.565863", "brand": "光陽", "Y": "25.063068467492858", "X": "121.56581701545574", "gglat": "25.063048", "name": "崑宏機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.565817015455735, 25.063068467492858 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市大安區建國南路二段79巷3號", "district": "大安區", "no": "AI2", "gglon": "121.538268", "brand": "商會", "Y": "25.030970324318023", "X": "121.53820125697125", "gglat": "25.030943", "name": "小林機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.538201256971249, 25.030970324318023 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市萬華區桂林路206號", "district": "萬華區", "no": "A34", "gglon": "121.496866", "brand": "山葉", "Y": "25.038400378943486", "X": "121.49675394488864", "gglat": "25.038443", "name": "健立車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.496753944888638, 25.038400378943486 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市文山區興隆路三段117號", "district": "文山區", "no": "AK9", "gglon": "121.558163", "brand": "光陽", "Y": "24.99903000870885", "X": "121.5580823828866", "gglat": "24.9990059", "name": "鴻吉機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.558082382886596, 24.99903000870885 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市萬華區萬大路214號", "district": "萬華區", "no": "A52", "gglon": "121.50031", "brand": "三陽", "Y": "25.027148472991946", "X": "121.50028635360512", "gglat": "25.0271179", "name": "大旺車行" }, "geometry": { "type": "Point", "coordinates": [ 121.500286353605119, 25.027148472991946 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市文山區興隆路二段241號", "district": "文山區", "no": "A48", "gglon": "121.551362", "brand": "三陽", "Y": "25.001952067563003", "X": "121.55131926916775", "gglat": "25.0019609", "name": "鋒權輪有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.551319269167749, 25.001952067563003 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "NG(all fuzzy coordina)", "addr": "臺北市大安區羅斯福路三段93號", "district": "大安區", "no": "A80", "gglon": "0", "brand": "光陽", "Y": "25.022625551345506", "X": "121.5262727132284", "gglat": "0", "name": "鎰揚企業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.526272713228394, 25.022625551345506 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市內湖區成功路三段73號", "district": "內湖區", "no": "A29", "gglon": "121.59011", "brand": "山葉", "Y": "25.07794512140579", "X": "121.58998541257105", "gglat": "25.077904", "name": "日盛車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.589985412571053, 25.07794512140579 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市北投區大業路663號", "district": "北投區", "no": "AJ0", "gglon": "121.499079", "brand": "商會", "Y": "25.137186227244836", "X": "121.49917216781576", "gglat": "25.137165", "name": "阿國機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.499172167815757, 25.137186227244836 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "NG(all fuzzy coordina)", "addr": "臺北市松山區健康路44號", "district": "松山區", "no": "AB2", "gglon": "0", "brand": "山葉", "Y": "25.0532824408656", "X": "121.55273956129092", "gglat": "0", "name": "佳昇機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.55273956129092, 25.053282440865601 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市文山區木柵路三段102巷7號", "district": "文山區", "no": "AL0", "gglon": "121.567662", "brand": "三陽", "Y": "24.9883214378715", "X": "121.56756869104963", "gglat": "24.9882779", "name": "慧昌機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.56756869104963, 24.988321437871502 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市士林區延平北路五段14號", "district": "士林區", "no": "AM2", "gglon": "121.511299", "brand": "商會", "Y": "25.079512020662673", "X": "121.51122370513221", "gglat": "25.079484", "name": "原益車業行" }, "geometry": { "type": "Point", "coordinates": [ 121.51122370513221, 25.079512020662673 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市文山區指南路一段4號", "district": "文山區", "no": "A97", "gglon": "121.568863", "brand": "三陽", "Y": "24.987600447773747", "X": "121.56879254170255", "gglat": "24.987556", "name": "東和機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.56879254170255, 24.987600447773747 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市大同區西寧北路93號", "district": "大同區", "no": "A37", "gglon": "121.509108", "brand": "光陽", "Y": "25.05667396550086", "X": "121.50906185502127", "gglat": "25.0566509", "name": "弘展機車有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.509061855021272, 25.05667396550086 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市信義區福德街268巷1號", "district": "信義區", "no": "AB4", "gglon": "121.5858592", "brand": "山葉", "Y": "25.03913771916695", "X": "121.58580758026098", "gglat": "25.0391368", "name": "春崇車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.585807580260976, 25.039137719166948 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市大安區建國南路二段161號", "district": "大安區", "no": "AK5", "gglon": "121.538115", "brand": "商會", "Y": "25.028513657619648", "X": "121.53803041308977", "gglat": "25.0284539", "name": "典輪機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.538030413089771, 25.028513657619648 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市文山區木新路二段224號", "district": "文山區", "no": "A94", "gglon": "121.567183", "brand": "山葉", "Y": "24.98358577304516", "X": "121.56714590647422", "gglat": "24.983558", "name": "順成發機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.567145906474224, 24.98358577304516 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市信義區信安街145號", "district": "信義區", "no": "AF3", "gglon": "121.555536", "brand": "三陽", "Y": "25.023262380618906", "X": "121.55548449885555", "gglat": "25.023239", "name": "安居機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.555484498855549, 25.023262380618906 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市南港區永吉路548號", "district": "南港區", "no": "AM1", "gglon": "121.581663", "brand": "商會", "Y": "25.045216302084405", "X": "121.581608600127", "gglat": "25.0451369", "name": "力鼎機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.581608600126998, 25.045216302084405 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市大同區承德路三段162號", "district": "大同區", "no": "A76", "gglon": "121.518186", "brand": "三陽", "Y": "25.068843404480894", "X": "121.5181517758445", "gglat": "25.0687729", "name": "弘達車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.518151775844501, 25.068843404480894 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市南港區中坡南路43號", "district": "南港區", "no": "AA8", "gglon": "121.583622", "brand": "光陽", "Y": "25.042978567300974", "X": "121.58351796747003", "gglat": "25.04302", "name": "亞帝車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.58351796747003, 25.042978567300974 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市大同區重慶北路二段39號", "district": "大同區", "no": "A59", "gglon": "121.514366", "brand": "三陽", "Y": "25.05512193048861", "X": "121.51428171730853", "gglat": "25.0550869", "name": "良星車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.514281717308535, 25.05512193048861 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市北投區立農街二段206號", "district": "北投區", "no": "AJ6", "gglon": "121.51436", "brand": "光陽", "Y": "25.118776730537824", "X": "121.51435067513323", "gglat": "25.1188379", "name": "順達機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.51435067513323, 25.118776730537824 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市中山區天津街25號", "district": "中山區", "no": "AD2", "gglon": "121.522679", "brand": "光陽", "Y": "25.04858831838453", "X": "121.52262300450495", "gglat": "25.048545", "name": "德剛車行有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.52262300450495, 25.048588318384532 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "NG(all fuzzy coordina)", "addr": "臺北市信義區松仁路281巷10號", "district": "信義區", "no": "A43", "gglon": "0", "brand": "山葉", "Y": "25.023808911805244", "X": "121.57034077628497", "gglat": "0", "name": "山樂車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.570340776284965, 25.023808911805244 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市中正區牯嶺街61-3號", "district": "中正區", "no": "A54", "gglon": "121.517121", "brand": "山葉", "Y": "25.029334929382724", "X": "121.517056878271", "gglat": "25.029289", "name": "松大車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.517056878271006, 25.029334929382724 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市南港區東新街4號", "district": "南港區", "no": "A71", "gglon": "121.588232", "brand": "三陽", "Y": "25.051195410146615", "X": "121.5824146577214", "gglat": "25.046447", "name": "中盛機車有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.582414657721401, 25.051195410146615 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市大同區西寧北路17-4號", "district": "大同區", "no": "A23", "gglon": "121.508723", "brand": "山葉", "Y": "25.052609698632345", "X": "121.50865427264301", "gglat": "25.052594", "name": "忠億車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.508654272643014, 25.052609698632345 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市信義區嘉興街219巷4號", "district": "信義區", "no": "A44", "gglon": "121.556502", "brand": "山葉", "Y": "25.025633408857512", "X": "121.55658695379029", "gglat": "25.02555", "name": "勝鎰車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.556586953790287, 25.025633408857512 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市松山區撫遠街189號", "district": "松山區", "no": "A17", "gglon": "121.568434", "brand": "三陽", "Y": "25.05955327857481", "X": "121.56833997021634", "gglat": "25.059542", "name": "國盛機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.568339970216343, 25.059553278574811 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市士林區至誠路一段2-6號", "district": "士林區", "no": "AL4", "gglon": "121.537057", "brand": "三陽", "Y": "25.101227454082483", "X": "121.53703352752187", "gglat": "25.101211", "name": "新鎰昌機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.537033527521871, 25.101227454082483 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市中山區八德路二段329號", "district": "中山區", "no": "A85", "gglon": "121.543199", "brand": "台鈴", "Y": "25.047543644546195", "X": "121.54314949895095", "gglat": "25.047509", "name": "易昌機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.543149498950953, 25.047543644546195 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市文山區木柵路一段57-6號", "district": "文山區", "no": "A91", "gglon": "121.545675", "brand": "光陽", "Y": "24.986887837731967", "X": "121.54555030538563", "gglat": "24.986881", "name": "鳳翔車業行" }, "geometry": { "type": "Point", "coordinates": [ 121.545550305385632, 24.986887837731967 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市松山區八德路四段303號", "district": "松山區", "no": "AL3", "gglon": "121.566533", "brand": "摩特", "Y": "25.049230675165013", "X": "121.56645365076703", "gglat": "25.04921", "name": "賢旻車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.566453650767031, 25.049230675165013 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市萬華區西園路二段253號", "district": "萬華區", "no": "AK0", "gglon": "121.492828", "brand": "山葉", "Y": "25.02596595256959", "X": "121.49276656912396", "gglat": "25.025915", "name": "車皇機車有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.492766569123958, 25.025965952569589 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市大同區長安西路199號", "district": "大同區", "no": "AB8", "gglon": "121.512992", "brand": "光陽", "Y": "25.051945511669214", "X": "121.5129490692737", "gglat": "25.0519359", "name": "瑞明機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.512949069273702, 25.051945511669214 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市士林區延平北路五段129號", "district": "士林區", "no": "A20", "gglon": "121.510239", "brand": "山葉", "Y": "25.082018797217383", "X": "121.51019464642086", "gglat": "25.081885", "name": "台益機車有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.510194646420857, 25.082018797217383 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市士林區文林路679號", "district": "士林區", "no": "A72", "gglon": "121.522108", "brand": "三陽", "Y": "25.101045893678304", "X": "121.52198613475544", "gglat": "25.100981", "name": "富偉機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.521986134755437, 25.101045893678304 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市中正區重慶南路三段32號", "district": "中正區", "no": "AF8", "gglon": "121.515401", "brand": "山葉", "Y": "25.028724064019492", "X": "121.51537134762953", "gglat": "25.028686", "name": "立豐機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.515371347629525, 25.028724064019492 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市大同區延平北路二段256號", "district": "大同區", "no": "A22", "gglon": "121.51128", "brand": "光陽", "Y": "25.060332380696927", "X": "121.51122943302337", "gglat": "25.060364", "name": "加祥車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.511229433023374, 25.060332380696927 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市中山區長安東路一段45號", "district": "中山區", "no": "AK6", "gglon": "121.525655", "brand": "山葉", "Y": "25.04905330792482", "X": "121.52558665347503", "gglat": "25.049034", "name": "偉翔機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.525586653475031, 25.049053307924819 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市文山區羅斯福路五段48號", "district": "文山區", "no": "A47", "gglon": "121.537582", "brand": "山葉", "Y": "25.00874746663857", "X": "121.53758099737958", "gglat": "25.0086729", "name": "展嘉輪業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.537580997379578, 25.008747466638571 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市北投區西安街二段185號1樓", "district": "北投區", "no": "AL5", "gglon": "121.511289", "brand": "三陽", "Y": "25.11948107109333", "X": "121.51117861468708", "gglat": "25.119456", "name": "裕民機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.511178614687083, 25.119481071093329 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市內湖區文湖街75號", "district": "內湖區", "no": "AL7", "gglon": "121.5636083", "brand": "光陽", "Y": "25.086683705437466", "X": "121.56364856824648", "gglat": "25.0866592", "name": "坤達機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.563648568246478, 25.086683705437466 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市信義區富陽街63號", "district": "信義區", "no": "AI1", "gglon": "121.556561", "brand": "三陽", "Y": "25.02200791945582", "X": "121.55647192611515", "gglat": "25.022016", "name": "裕進車業行" }, "geometry": { "type": "Point", "coordinates": [ 121.556471926115151, 25.02200791945582 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市信義區松仁路167號", "district": "信義區", "no": "AG5", "gglon": "121.56849", "brand": "山葉", "Y": "25.028285437692773", "X": "121.56841355919727", "gglat": "25.0282269", "name": "東勝機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.568413559197268, 25.028285437692773 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市文山區興隆路二段18號", "district": "文山區", "no": "AA0", "gglon": "121.5454949", "brand": "山葉", "Y": "24.998712810580127", "X": "121.54550461051096", "gglat": "24.9986219", "name": "騰暉車業行" }, "geometry": { "type": "Point", "coordinates": [ 121.54550461051096, 24.998712810580127 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市信義區莊敬路325巷33號", "district": "信義區", "no": "AG4", "gglon": "121.564373", "brand": "山葉", "Y": "25.028836883085237", "X": "121.56431403264656", "gglat": "25.0287849", "name": "大慶機車材料行" }, "geometry": { "type": "Point", "coordinates": [ 121.564314032646564, 25.028836883085237 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市北投區致遠一路1段92號", "district": "北投區", "no": "AA4", "gglon": "121.515333", "brand": "山葉", "Y": "25.109493551188116", "X": "121.51527443675859", "gglat": "25.109496", "name": "和峰車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.515274436758588, 25.109493551188116 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市北投區中央北路一段203號", "district": "北投區", "no": "AM8", "gglon": "121.497288", "brand": "商會", "Y": "25.13596619490476", "X": "121.49725982965583", "gglat": "25.1359069", "name": "大利車業行" }, "geometry": { "type": "Point", "coordinates": [ 121.497259829655832, 25.135966194904761 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "NG(all fuzzy coordina)", "addr": "臺北市內湖區文德路22巷1號", "district": "內湖區", "no": "A28", "gglon": "0", "brand": "三陽", "Y": "25.07826857952478", "X": "121.57942682290997", "gglat": "0", "name": "新三和機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.579426822909966, 25.078268579524782 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市士林區士東路250號", "district": "士林區", "no": "A21", "gglon": "121.535628", "brand": "三陽", "Y": "25.11293864677239", "X": "121.53556010955876", "gglat": "25.112908", "name": "榮裕機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.535560109558759, 25.112938646772388 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市北投區中央南路一段156號", "district": "北投區", "no": "A42", "gglon": "121.500921", "brand": "山葉", "Y": "25.12960148991885", "X": "121.50088425083662", "gglat": "25.129542", "name": "聯螢車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.50088425083662, 25.129601489918851 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市士林區延平北路六段139號", "district": "士林區", "no": "AJ1", "gglon": "121.507731", "brand": "光陽", "Y": "25.089088815821764", "X": "121.50767552973308", "gglat": "25.08907", "name": "嘉盛車業行" }, "geometry": { "type": "Point", "coordinates": [ 121.507675529733078, 25.089088815821764 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市文山區木新路三段73號", "district": "文山區", "no": "A96", "gglon": "121.563471", "brand": "山葉", "Y": "24.982261620443385", "X": "121.56340398957633", "gglat": "24.9821909", "name": "拓源機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.563403989576329, 24.982261620443385 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市北投區致遠二路116號", "district": "北投區", "no": "AK8", "gglon": "121.51293", "brand": "光陽", "Y": "25.117276759705724", "X": "121.51290816572075", "gglat": "25.117289", "name": "僑王機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.512908165720745, 25.117276759705724 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市北投區致遠二路141號", "district": "北投區", "no": "AA6", "gglon": "121.512746", "brand": "山葉", "Y": "25.11733393712391", "X": "121.51274024785285", "gglat": "25.117319", "name": "聯億機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.512740247852847, 25.117333937123909 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市北投區中央南路一段210號", "district": "北投區", "no": "A40", "gglon": "121.501042", "brand": "光陽", "Y": "25.12836409779716", "X": "121.50100589386696", "gglat": "25.1283139", "name": "鳴輝機車有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.50100589386696, 25.12836409779716 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "NG(all fuzzy coordina)", "addr": "臺北市萬華區環河南路二段105號", "district": "萬華區", "no": "AJ7", "gglon": "0", "brand": "山葉", "Y": "25.034920234158886", "X": "121.4940250399113", "gglat": "0", "name": "車強機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.494025039911307, 25.034920234158886 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市內湖區五分街39號", "district": "內湖區", "no": "AH6", "gglon": "121.613603", "brand": "光陽", "Y": "25.067617471360478", "X": "121.61360014879271", "gglat": "25.0676199", "name": "興揚機車有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.613600148792713, 25.067617471360478 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市北投區中和街492號", "district": "北投區", "no": "AG2", "gglon": "121.494787", "brand": "三陽", "Y": "25.14537336319135", "X": "121.49476320605643", "gglat": "25.145342", "name": "悍將機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.494763206056433, 25.14537336319135 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市大同區承德路二段149號", "district": "大同區", "no": "AC8", "gglon": "121.51838", "brand": "商會", "Y": "25.058003439327088", "X": "121.51834604675967", "gglat": "25.057998", "name": "小緯機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.518346046759675, 25.058003439327088 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市大安區市民大道四段22號", "district": "大安區", "no": "AI6", "gglon": "121.544816", "brand": "商會", "Y": "25.04473389903869", "X": "121.54476570983356", "gglat": "25.044691", "name": "沅美車業材料行" }, "geometry": { "type": "Point", "coordinates": [ 121.544765709833555, 25.04473389903869 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市北投區中央北路四段545號1樓", "district": "北投區", "no": "AL6", "gglon": "121.467596", "brand": "商會", "Y": "25.127696957249874", "X": "121.46753125973403", "gglat": "25.127653", "name": "聯盈機車材料行" }, "geometry": { "type": "Point", "coordinates": [ 121.467531259734031, 25.127696957249874 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市北投區大業路560號", "district": "北投區", "no": "A41", "gglon": "121.496972", "brand": "台鈴", "Y": "25.135362331079854", "X": "121.49699582915274", "gglat": "25.13536", "name": "汶吉車業行" }, "geometry": { "type": "Point", "coordinates": [ 121.496995829152738, 25.135362331079854 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市大安區基隆路二段233號", "district": "大安區", "no": "AD1", "gglon": "121.550787", "brand": "哈特佛", "Y": "25.0225954724921", "X": "121.55069051314105", "gglat": "25.0225609", "name": "東貿機車有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.550690513141049, 25.0225954724921 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市中山區吉林路488號", "district": "中山區", "no": "AD3", "gglon": "121.530284", "brand": "商會", "Y": "25.068131794244305", "X": "121.5302817244539", "gglat": "25.068088", "name": "偉恆有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.5302817244539, 25.068131794244305 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市中山區龍江路389-1號", "district": "中山區", "no": "AI3", "gglon": "121.541096", "brand": "商會", "Y": "25.065313202189277", "X": "121.54100208348457", "gglat": "25.065262", "name": "信旺機車材料有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.541002083484571, 25.065313202189277 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市南港區研究院路一段185號", "district": "南港區", "no": "AB6", "gglon": "121.615948", "brand": "光陽", "Y": "25.049601570565414", "X": "121.61585453741928", "gglat": "25.04954", "name": "儀弘機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.615854537419281, 25.049601570565414 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市大同區承德路三段160號", "district": "大同區", "no": "A75", "gglon": "121.518158", "brand": "偉士伯", "Y": "25.0687821471876", "X": "121.51814714687444", "gglat": "25.068822", "name": "長豐車業行" }, "geometry": { "type": "Point", "coordinates": [ 121.518147146874441, 25.068782147187601 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市松山區健康路230號", "district": "松山區", "no": "AJ2", "gglon": "121.561361", "brand": "山葉", "Y": "25.05391297854075", "X": "121.56135697537904", "gglat": "25.053851", "name": "永承車業行" }, "geometry": { "type": "Point", "coordinates": [ 121.561356975379042, 25.053912978540751 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市士林區重慶北路四段244號", "district": "士林區", "no": "A19", "gglon": "121.511384", "brand": "三陽", "Y": "25.086576002381168", "X": "121.51128337223287", "gglat": "25.086543", "name": "益隆車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.511283372232867, 25.086576002381168 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市大安區通化街168號", "district": "大安區", "no": "AF6", "gglon": "121.553585", "brand": "三陽", "Y": "25.02828324597408", "X": "121.5535146891331", "gglat": "25.0282819", "name": "信全車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.553514689133095, 25.02828324597408 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市信義區松隆路217號", "district": "信義區", "no": "AM5", "gglon": "121.57665", "brand": "商會", "Y": "25.048473552394967", "X": "121.57647564161577", "gglat": "25.048426", "name": "豪信機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.576475641615772, 25.048473552394967 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市大安區潮州街86號", "district": "大安區", "no": "AM0", "gglon": "121.524624", "brand": "山葉", "Y": "25.029119601263403", "X": "121.52458500261102", "gglat": "25.0290709", "name": "建維機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.524585002611019, 25.029119601263403 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市士林區中正路381號1樓", "district": "士林區", "no": "AL9", "gglon": "121.521677", "brand": "光陽", "Y": "25.094191874818556", "X": "121.52153387140747", "gglat": "25.094145", "name": "興泰車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.52153387140747, 25.094191874818556 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市中山區錦州街310號", "district": "中山區", "no": "A87", "gglon": "121.537549", "brand": "光陽", "Y": "25.0602253510568", "X": "121.53749302891143", "gglat": "25.060195", "name": "名佳車業行" }, "geometry": { "type": "Point", "coordinates": [ 121.537493028911427, 25.0602253510568 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市萬華區萬大路500號", "district": "萬華區", "no": "AC3", "gglon": "121.497128", "brand": "光陽", "Y": "25.019455635083236", "X": "121.4970895720471", "gglat": "25.019423", "name": "尚億車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.497089572047102, 25.019455635083236 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市士林區故宮路41巷1號", "district": "士林區", "no": "AJ3", "gglon": "121.547422", "brand": "光陽", "Y": "25.096647316564574", "X": "121.54738379034379", "gglat": "25.096635", "name": "德龍車業行" }, "geometry": { "type": "Point", "coordinates": [ 121.547383790343787, 25.096647316564574 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市中正區濟南路二段73號", "district": "中正區", "no": "AK3", "gglon": "121.532517", "brand": "三陽", "Y": "25.040306734961643", "X": "121.53248211446224", "gglat": "25.040405", "name": "國裕機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.53248211446224, 25.040306734961643 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市大安區濟南路三段68號", "district": "大安區", "no": "AH5", "gglon": "121.537237", "brand": "商會", "Y": "25.04012463858419", "X": "121.53717743222768", "gglat": "25.040038", "name": "皇信機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.537177432227679, 25.040124638584189 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "NG(all fuzzy coordina)", "addr": "臺北市南港區研究院路二段184-2號", "district": "南港區", "no": "AH1", "gglon": "0", "brand": "三陽", "Y": "25.037489372120515", "X": "121.61713828887714", "gglat": "0", "name": "揚明車業行" }, "geometry": { "type": "Point", "coordinates": [ 121.617138288877143, 25.037489372120515 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市萬華區東園街133號", "district": "萬華區", "no": "A32", "gglon": "121.497062", "brand": "光陽", "Y": "25.024911620996615", "X": "121.49698323973435", "gglat": "25.024889", "name": "東龍車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.496983239734348, 25.024911620996615 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市萬華區中華路二段98號", "district": "萬華區", "no": "A51", "gglon": "121.504098", "brand": "山葉", "Y": "25.031489644178453", "X": "121.50404397924258", "gglat": "25.0314599", "name": "良江企業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.504043979242581, 25.031489644178453 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市萬華區西園路二段233號", "district": "萬華區", "no": "AI4", "gglon": "121.49379", "brand": "協隆電機", "Y": "25.02674585751763", "X": "121.4936887827133", "gglat": "25.026616", "name": "協合國際行銷有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.493688782713306, 25.026745857517628 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市中山區吉林路12-3號", "district": "中山區", "no": "A86", "gglon": "121.529927", "brand": "光陽", "Y": "25.050306903423593", "X": "121.52988828233566", "gglat": "25.050277", "name": "達誠車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.529888282335662, 25.050306903423593 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "NG(all fuzzy coordina)", "addr": "臺北市萬華區艋舺大道416號", "district": "萬華區", "no": "AH2", "gglon": "0", "brand": "山葉", "Y": "25.029136501597495", "X": "121.49217134475298", "gglat": "0", "name": "億林機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.492171344752975, 25.029136501597495 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "NG(all fuzzy coordina)", "addr": "臺北市大同區延平北路一段10號", "district": "大同區", "no": "A24", "gglon": "0", "brand": "三陽", "Y": "25.050258576382586", "X": "121.51186326439398", "gglat": "0", "name": "順旺車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.51186326439398, 25.050258576382586 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市中正區重慶南路三段135號", "district": "中正區", "no": "A89", "gglon": "121.517061", "brand": "光陽", "Y": "25.0237660136397", "X": "121.51695985456368", "gglat": "25.02371", "name": "隆發車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.51695985456368, 25.023766013639701 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市中山區龍江路375號", "district": "中山區", "no": "A81", "gglon": "121.541069", "brand": "三陽", "Y": "25.06469800031577", "X": "121.54098828038613", "gglat": "25.064707", "name": "農安機車有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.540988280386131, 25.064698000315769 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市南港區成福路137號", "district": "南港區", "no": "AG8", "gglon": "121.587673", "brand": "三陽", "Y": "25.041857559450463", "X": "121.58757663399898", "gglat": "25.041794", "name": "民豐機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.587576633998978, 25.041857559450463 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市北投區崇仁路一段21號", "district": "北投區", "no": "AA5", "gglon": "121.501369", "brand": "台鈴", "Y": "25.12775692966956", "X": "121.5013365660109", "gglat": "25.12777", "name": "重輪車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.501336566010906, 25.127756929669559 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市士林區中山北路六段405巷83號", "district": "士林區", "no": "AC6", "gglon": "121.526014", "brand": "三陽", "Y": "25.117206738842967", "X": "121.52597705697411", "gglat": "25.117184", "name": "新天母機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.525977056974114, 25.117206738842967 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市大安區和平東路二段141號", "district": "大安區", "no": "A12", "gglon": "121.541024", "brand": "山葉", "Y": "25.025445369584123", "X": "121.54096337697379", "gglat": "25.0253979", "name": "宏立機車事業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.540963376973792, 25.025445369584123 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市文山區木柵路一段212號", "district": "文山區", "no": "A92", "gglon": "121.553258", "brand": "三陽", "Y": "24.987902246766637", "X": "121.55321471203675", "gglat": "24.987756", "name": "元土車行" }, "geometry": { "type": "Point", "coordinates": [ 121.553214712036748, 24.987902246766637 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市信義區忠孝東路五段205號", "district": "信義區", "no": "A45", "gglon": "121.56979", "brand": "山葉", "Y": "25.041214092521972", "X": "121.56971841263987", "gglat": "25.041209", "name": "松宏車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.569718412639872, 25.041214092521972 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市萬華區萬大路385-1號", "district": "萬華區", "no": "A50", "gglon": "121.499506", "brand": "三陽", "Y": "25.022650940117327", "X": "121.499458908126", "gglat": "25.022603", "name": "萬華輪業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.499458908126002, 25.022650940117327 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市士林區文林路773號", "district": "士林區", "no": "AH7", "gglon": "121.519201", "brand": "山葉", "Y": "25.103576286423056", "X": "121.5191484521123", "gglat": "25.103565", "name": "勝聯車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.519148452112304, 25.103576286423056 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市文山區景興路234號", "district": "文山區", "no": "A99", "gglon": "121.543129", "brand": "山葉", "Y": "24.990710249462843", "X": "121.54308713925722", "gglat": "24.9907249", "name": "威烝車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.543087139257224, 24.990710249462843 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市南港區東新街69號", "district": "南港區", "no": "AG7", "gglon": "121.588144", "brand": "山葉", "Y": "25.04669281167167", "X": "121.58815231418339", "gglat": "25.046706", "name": "益群企業行" }, "geometry": { "type": "Point", "coordinates": [ 121.58815231418339, 25.046692811671669 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市內湖區東湖路119巷49弄30號", "district": "內湖區", "no": "AL8", "gglon": "121.616342", "brand": "三陽", "Y": "25.070154006876585", "X": "121.61627381027029", "gglat": "25.069943", "name": "峻東機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.616273810270286, 25.070154006876585 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市南港區研究院路二段72號", "district": "南港區", "no": "AB7", "gglon": "121.615052", "brand": "三陽", "Y": "25.04568254857586", "X": "121.61503065988126", "gglat": "25.0456659", "name": "高陞機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.615030659881256, 25.045682548575861 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市中山區遼寧街8號", "district": "中山區", "no": "A38", "gglon": "121.542024", "brand": "山葉", "Y": "25.04751496899422", "X": "121.54198343345124", "gglat": "25.04749", "name": "聯葉車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.541983433451236, 25.047514968994221 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市松山區光復北路109號", "district": "松山區", "no": "AB1", "gglon": "121.558095", "brand": "山葉", "Y": "25.05120760614278", "X": "121.55800817303368", "gglat": "25.051192", "name": "千翔機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.558008173033684, 25.051207606142778 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市南港區忠孝東路7段600號", "district": "南港區", "no": "A26", "gglon": "121.615369", "brand": "光陽", "Y": "25.05295978472204", "X": "121.61525695883628", "gglat": "25.0528189", "name": "大輝車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.615256958836284, 25.052959784722042 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市中正區牯嶺街77號", "district": "中正區", "no": "AH4", "gglon": "121.517929", "brand": "三陽", "Y": "25.028235087398322", "X": "121.5178353185906", "gglat": "25.028216", "name": "紘益機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.517835318590599, 25.028235087398322 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市內湖區港墘路34號", "district": "內湖區", "no": "AG1", "gglon": "121.577999", "brand": "三陽", "Y": "25.082539171903722", "X": "121.57802793280712", "gglat": "25.0824979", "name": "通龍車業行" }, "geometry": { "type": "Point", "coordinates": [ 121.578027932807117, 25.082539171903722 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "NG(all fuzzy coordina)", "addr": "臺北市萬華區和平西路二段147號", "district": "萬華區", "no": "A31", "gglon": "0", "brand": "摩特", "Y": "25.033733389155724", "X": "121.50518846923869", "gglat": "0", "name": "世群車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.505188469238689, 25.033733389155724 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市北投區致遠二路89號", "district": "北投區", "no": "AF1", "gglon": "121.511676", "brand": "三陽", "Y": "25.1162519388359", "X": "121.51160360719133", "gglat": "25.1162149", "name": "唭哩岸機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.511603607191333, 25.116251938835902 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市文山區木柵路一段286號", "district": "文山區", "no": "A93", "gglon": "121.555021", "brand": "山葉", "Y": "24.988088936125823", "X": "121.55498799001924", "gglat": "24.987987", "name": "光輝機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.554987990019242, 24.988088936125823 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市內湖區金龍路9號", "district": "內湖區", "no": "AI8", "gglon": "121.594993", "brand": "三陽", "Y": "25.084506054345542", "X": "121.59492041773949", "gglat": "25.084487", "name": "成功車業行" }, "geometry": { "type": "Point", "coordinates": [ 121.594920417739488, 25.084506054345542 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市大安區和平東路三段127號", "district": "大安區", "no": "A78", "gglon": "121.551832", "brand": "三陽", "Y": "25.02459507036551", "X": "121.5517462148045", "gglat": "25.024562", "name": "宏興車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.551746214804496, 25.02459507036551 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市萬華區西園路二段246號", "district": "萬華區", "no": "AC0", "gglon": "121.4948861", "brand": "山葉", "Y": "25.026121945192557", "X": "121.4929501136747", "gglat": "25.0280999", "name": "欣利機車有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.492950113674695, 25.026121945192557 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市中正區汀州路二段76號", "district": "中正區", "no": "AD4", "gglon": "121.518686", "brand": "光陽", "Y": "25.025102353881422", "X": "121.51866046205713", "gglat": "25.025049", "name": "世輪機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.518660462057127, 25.025102353881422 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市文山區景隆街54號", "district": "文山區", "no": "AB9", "gglon": "121.544269", "brand": "光陽", "Y": "24.99849173617296", "X": "121.54429762142175", "gglat": "24.998439", "name": "三育機車有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.544297621421748, 24.998491736172959 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市萬華區環河南路二段117號", "district": "萬華區", "no": "AJ9", "gglon": "121.493892", "brand": "三陽", "Y": "25.03455334478323", "X": "121.49370038499447", "gglat": "25.0345789", "name": "祥和機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.493700384994469, 25.03455334478323 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市信義區吳興街469號", "district": "信義區", "no": "AJ4", "gglon": "121.5692", "brand": "三陽", "Y": "25.02380937121351", "X": "121.56914440008863", "gglat": "25.0237849", "name": "俊明機車行" }, "geometry": { "type": "Point", "coordinates": [ 121.569144400088632, 25.02380937121351 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市文山區羅斯福路五段182號", "district": "文山區", "no": "A39", "gglon": "121.538462", "brand": "光陽", "Y": "25.004072279172412", "X": "121.53846809325243", "gglat": "25.004035", "name": "高旺企業股份有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.538468093252433, 25.004072279172412 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市中正區師大路146號", "district": "中正區", "no": "A56", "gglon": "121.526579", "brand": "山葉", "Y": "25.021028564603185", "X": "121.52653912502595", "gglat": "25.021035", "name": "鉍勝車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.526539125025948, 25.021028564603185 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市大同區承德路一段47號", "district": "大同區", "no": "A60", "gglon": "121.517423", "brand": "三陽", "Y": "25.05150490940171", "X": "121.5173704541228", "gglat": "25.0514469", "name": "大華車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.517370454122798, 25.051504909401711 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市信義區松山路348號", "district": "信義區", "no": "AJ5", "gglon": "121.577614", "brand": "三陽", "Y": "25.04119800405668", "X": "121.57761727123274", "gglat": "25.0411699", "name": "勵瑩車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.577617271232739, 25.041198004056682 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市萬華區桂林路30號", "district": "萬華區", "no": "AC2", "gglon": "121.504924", "brand": "光陽", "Y": "25.037730926721594", "X": "121.50495806196419", "gglat": "25.0377079", "name": "葉山車行" }, "geometry": { "type": "Point", "coordinates": [ 121.504958061964189, 25.037730926721594 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市士林區文林路764號", "district": "士林區", "no": "AM3", "gglon": "121.51972", "brand": "商會", "Y": "25.103645518988497", "X": "121.51965982027129", "gglat": "25.103607", "name": "卉茂實業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.519659820271286, 25.103645518988497 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市中山區長安東路二段47-1號", "district": "中山區", "no": "A13", "gglon": "121.532041", "brand": "三陽", "Y": "25.048610556175024", "X": "121.53198717070727", "gglat": "25.0486019", "name": "鉅泉車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.531987170707268, 25.048610556175024 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市士林區華齡街71號", "district": "士林區", "no": "A74", "gglon": "121.519294", "brand": "山葉", "Y": "25.084818539350547", "X": "121.5192499413731", "gglat": "25.084772", "name": "永生車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.519249941373104, 25.084818539350547 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市大安區八德路二段35號", "district": "大安區", "no": "A77", "gglon": "121.534001", "brand": "光陽", "Y": "25.044859983363043", "X": "121.53397124179318", "gglat": "25.044856", "name": "金理車業有限公司" }, "geometry": { "type": "Point", "coordinates": [ 121.533971241793182, 25.044859983363043 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "addr": "臺北市信義區松仁路208號", "district": "信義區", "no": "AF4", "gglon": "121.568243", "brand": "山葉", "Y": "25.027130990887127", "X": "121.56821086900145", "gglat": "25.0270829", "name": "上盛車業行" }, "geometry": { "type": "Point", "coordinates": [ 121.568210869001447, 25.027130990887127 ] } }
+
+]
+}

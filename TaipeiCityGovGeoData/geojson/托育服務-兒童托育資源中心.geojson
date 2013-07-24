@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "org_name": "台北市兒童托育資源中心", "ggstat": "OK", "create_dat": null, "create_d_1": null, "address_co": "27665089893740415574", "registered": null, "post_date": "2007-01-17 12:00:00.0", "bedno": null, "twin": null, "period_per": "null", "contact_na": "李昭蓉", "person_in_": "負責人", "city": "臺北市", "l1_name": "托育服務", "dept_name": null, "group_no": null, "org_group_": "兒童托育資源中心", "lon": "121.562561", "prop": null, "gglon": "121.562837", "bedno_titl": null, "email": "children@cwlf.org.tw", "l1_code": "27", "division": "松山區", "fax": "27486007", "register_1": null, "dept_code": "495", "phone": "27486008", "org_introd": "台北市政府社會局於民國84年開始與兒童福利聯盟合作，設立", "address": "臺北市10573民生東路五段163-1號3樓", "lat": "25.059132", "org": null, "contact_ti": "聯絡人", "prop_title": null, "many": null, "person_i_1": "null", "zone_code": "10573", "org_type": "07", "status": "10", "gglat": "25.059274", "web_homepa": "http:\/\/kids.taipei.gov.tw" }, "geometry": { "type": "Point", "coordinates": [ 121.562837, 25.059274 ] } }
+
+]
+}

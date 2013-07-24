@@ -1,0 +1,50 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "87861911", "name": "臺北市信義運動中心", "display_ad": "松勤街100號", "poi_addr": "台北市松勤街100號", "gglon": "121.5666793", "traffic_in": null, "certificat": "浴室業", "gglat": "25.0318684" }, "geometry": { "type": "Point", "coordinates": [ 121.5666793, 25.0318684 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28832666", "name": "台北市至善老人安養護中心", "display_ad": "仰德大道2段2巷50號", "poi_addr": "台北市仰德大道二段2巷50號", "gglon": "121.543183", "traffic_in": null, "certificat": "浴室業", "gglat": "25.101946" }, "geometry": { "type": "Point", "coordinates": [ 121.543183, 25.101946 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25552277", "name": "天龍三溫暖", "display_ad": "重慶北路1段73號9樓", "poi_addr": "台北市重慶北路一段73號", "gglon": "121.514226", "traffic_in": null, "certificat": "浴室業", "gglat": "25.052249" }, "geometry": { "type": "Point", "coordinates": [ 121.514226, 25.052249 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25160191", "name": "伊莉莎生活會館", "display_ad": "復興北路400號B1", "poi_addr": "台北市復興北路400號", "gglon": "121.544014", "traffic_in": null, "certificat": "浴室業", "gglat": "25.061682" }, "geometry": { "type": "Point", "coordinates": [ 121.544014, 25.061682 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25920055", "name": "臺北市大同運動中心 游泳館", "display_ad": "大龍街51號", "poi_addr": "台北市大龍街51號", "gglon": "121.5161459", "traffic_in": null, "certificat": "浴室業", "gglat": "25.0647693" }, "geometry": { "type": "Point", "coordinates": [ 121.5161459, 25.0647693 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "23763139", "name": "香格里拉台北遠東國際大飯店", "display_ad": "敦化南路2段201號6樓", "poi_addr": "台北市敦化南路二段201號", "gglon": "121.549282", "traffic_in": null, "certificat": "浴室業", "gglat": "25.026612" }, "geometry": { "type": "Point", "coordinates": [ 121.549282, 25.026612 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "26345488", "name": "香港商世界健身事業有限公司(內湖分公司)", "display_ad": "康寧路3段72號6樓", "poi_addr": "台北市康寧路三段72號", "gglon": "121.611319", "traffic_in": null, "certificat": "浴室業", "gglat": "25.070235" }, "geometry": { "type": "Point", "coordinates": [ 121.611319, 25.070235 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27673148", "name": "伊士邦俱樂部", "display_ad": "民生東路5段149號B1", "poi_addr": "台北市民生東路五段149號", "gglon": "121.56212", "traffic_in": null, "certificat": "浴室業", "gglat": "25.059103" }, "geometry": { "type": "Point", "coordinates": [ 121.56212, 25.059103 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "66225760", "name": "台北寒舍艾美酒店艾美會館", "display_ad": "松仁路38號", "poi_addr": "台北市松仁路38號", "gglon": "121.5681498", "traffic_in": null, "certificat": "浴室業", "gglat": "25.0385328" }, "geometry": { "type": "Point", "coordinates": [ 121.5681498, 25.0385328 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27201200", "name": "綠洲會員俱樂部", "display_ad": "松壽路2號", "poi_addr": "台北市松壽路2號", "gglon": "121.562664", "traffic_in": null, "certificat": "浴室業", "gglat": "25.0356649" }, "geometry": { "type": "Point", "coordinates": [ 121.562664, 25.0356649 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25869999", "name": "喬莉女子三溫暖", "display_ad": "林森北路623號1樓及地下室B1", "poi_addr": "台北市林森北路623號", "gglon": "121.525915", "traffic_in": null, "certificat": "浴室業", "gglat": "25.066869" }, "geometry": { "type": "Point", "coordinates": [ 121.525915, 25.066869 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "33225016", "name": "臺北市中正運動中心", "display_ad": "信義路1段1號", "poi_addr": "台北市信義路一段1號", "gglon": "121.518896", "traffic_in": null, "certificat": "浴室業", "gglat": "25.038569" }, "geometry": { "type": "Point", "coordinates": [ 121.518896, 25.038569 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28202880", "name": "臺北市北投運動中心", "display_ad": "石牌路1段39巷100號", "poi_addr": "台北市石牌路一段39巷100號", "gglon": "121.509768", "traffic_in": null, "certificat": "浴室業", "gglat": "25.1164729" }, "geometry": { "type": "Point", "coordinates": [ 121.509768, 25.1164729 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27019266", "name": "福容大飯店股份有限公司台北分公司", "display_ad": "建國南路1段266號", "poi_addr": "台北市建國南路一段266號", "gglon": "121.53721", "traffic_in": null, "certificat": "浴室業", "gglat": "25.036628" }, "geometry": { "type": "Point", "coordinates": [ 121.53721, 25.036628 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28806066", "name": "臺北市士林運動中心", "display_ad": "士商路1號", "poi_addr": "台北市士商路1號", "gglon": "121.521411", "traffic_in": null, "certificat": "浴室業", "gglat": "25.089668" }, "geometry": { "type": "Point", "coordinates": [ 121.521411, 25.089668 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "23770300", "name": "臺北市大安運動中心", "display_ad": "辛亥路3段55號", "poi_addr": "台北市辛亥路三段55號", "gglon": "121.545636", "traffic_in": null, "certificat": "浴室業", "gglat": "25.0207769" }, "geometry": { "type": "Point", "coordinates": [ 121.545636, 25.0207769 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25963111", "name": "三德大飯店附設上海浴", "display_ad": "承德路3段49號B1", "poi_addr": "台北市承德路三段49號", "gglon": "121.518578", "traffic_in": null, "certificat": "浴室業", "gglat": "25.064865" }, "geometry": { "type": "Point", "coordinates": [ 121.518578, 25.064865 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "87706565", "name": "六福皇宮三溫暖", "display_ad": "南京東路3段133號", "poi_addr": "台北市南京東路三段133號", "gglon": "121.5411869", "traffic_in": null, "certificat": "浴室業", "gglat": "25.0521017" }, "geometry": { "type": "Point", "coordinates": [ 121.5411869, 25.0521017 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25641069", "name": "ANIKi Club", "display_ad": "林森北路353巷20號B1", "poi_addr": "台北市林森北路353巷20號", "gglon": "121.526241", "traffic_in": null, "certificat": "浴室業", "gglat": "25.057017" }, "geometry": { "type": "Point", "coordinates": [ 121.526241, 25.057017 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28339696", "name": "天母國際聯誼會", "display_ad": "中山北路6段88號B1", "poi_addr": "台北市中山北路六段88號", "gglon": "121.525001", "traffic_in": null, "certificat": "浴室業", "gglat": "25.104939" }, "geometry": { "type": "Point", "coordinates": [ 121.525001, 25.104939 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "27271075", "name": "京元鼎育樂股份有限公司玉成公園游泳池", "display_ad": "中坡南路55號", "poi_addr": "台北市中坡南路55號", "gglon": "121.585276", "traffic_in": null, "certificat": "浴室業", "gglat": "25.041824" }, "geometry": { "type": "Point", "coordinates": [ 121.585276, 25.041824 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "25796565", "name": "高勁健身事業股份有限公司(巨蛋分公司)　", "display_ad": "南京東路4段2號", "poi_addr": "台北市南京東路四段2號", "gglon": "121.549569", "traffic_in": null, "certificat": "浴室業", "gglat": "25.0513459" }, "geometry": { "type": "Point", "coordinates": [ 121.549569, 25.0513459 ] } }
+
+]
+}

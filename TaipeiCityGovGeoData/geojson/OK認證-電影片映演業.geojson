@@ -1,0 +1,50 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2881-4636", "name": "陽明戲院", "display_ad": "文林路113號1樓", "poi_addr": "台北市文林路113號1樓", "gglon": "121.526124", "traffic_in": null, "Y": "25.088336521439167", "X": "121.52609570830192", "certificat": "電影片映演業", "gglat": "25.088208" }, "geometry": { "type": "Point", "coordinates": [ 121.526095708301924, 25.088336521439167 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2876-3300*201", "name": "美麗華天母影城", "display_ad": "忠誠路2段202號4.6.8樓", "poi_addr": "台北市忠誠路2段202號4.6.8樓", "gglon": "121.5341932", "traffic_in": null, "Y": "25.11733047707782", "X": "121.53406779628673", "certificat": "電影片映演業", "gglat": "25.117139" }, "geometry": { "type": "Point", "coordinates": [ 121.534067796286735, 25.117330477077822 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2633-5115 2692-2693", "name": "哈拉影城有限公司", "display_ad": "康寧路3段72號2樓之2、3樓之2", "poi_addr": "台北市康寧路3段72號2樓之2、3樓之2", "gglon": "121.611319", "traffic_in": null, "Y": "25.070248934769563", "X": "121.61122754271439", "certificat": "電影片映演業", "gglat": "25.070235" }, "geometry": { "type": "Point", "coordinates": [ 121.611227542714389, 25.070248934769563 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2741-5991-2", "name": "金像獎戲院", "display_ad": "長安東路2段215號3、4樓", "poi_addr": "台北市長安東路2段215號3、4樓", "gglon": "121.5445", "traffic_in": null, "Y": "25.04846590840478", "X": "121.54444331839464", "certificat": "電影片映演業", "gglat": "25.048381" }, "geometry": { "type": "Point", "coordinates": [ 121.544443318394642, 25.048465908404779 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "8663-6128", "name": "百老匯數位影城", "display_ad": "羅斯福路4段200號", "poi_addr": "台北市羅斯福路4段200號", "gglon": "121.536655", "traffic_in": null, "Y": "25.010823117415683", "X": "121.53685452289189", "certificat": "電影片映演業", "gglat": "25.0109118" }, "geometry": { "type": "Point", "coordinates": [ 121.536854522891886, 25.010823117415683 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2511-7786", "name": "台北之家(光點電影院)", "display_ad": "中山北路2段18號", "poi_addr": "台北市中山北路2段18號", "gglon": "121.522161", "traffic_in": null, "Y": "25.053278533153563", "X": "121.52221696091102", "certificat": "電影片映演業", "gglat": "25.053279" }, "geometry": { "type": "Point", "coordinates": [ 121.522216960911024, 25.053278533153563 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "3762-2001", "name": "喜滿客京華影城股份有限公司", "display_ad": "八德路4段138號B1至B3", "poi_addr": "台北市八德路4段138號B1至B3", "gglon": "121.56243", "traffic_in": null, "Y": "25.048634841961064", "X": "121.56241958130597", "certificat": "電影片映演業", "gglat": "25.0484949" }, "geometry": { "type": "Point", "coordinates": [ 121.562419581305974, 25.048634841961064 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2741-5991-2", "name": "總督大戲院", "display_ad": "長安東路2段219號3樓", "poi_addr": "台北市長安東路2段219號3樓", "gglon": "121.5448331", "traffic_in": null, "Y": "25.048386616882883", "X": "121.54478298026065", "certificat": "電影片映演業", "gglat": "25.0483049" }, "geometry": { "type": "Point", "coordinates": [ 121.544782980260649, 25.048386616882883 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2381-1339", "name": "絕色影城", "display_ad": "漢中街52號10樓", "poi_addr": "台北市漢中街52號10樓", "gglon": "121.507094", "traffic_in": null, "Y": "25.043966891288054", "X": "121.50716368299071", "certificat": "電影片映演業", "gglat": "25.0436289" }, "geometry": { "type": "Point", "coordinates": [ 121.507163682990708, 25.043966891288054 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2331-5256", "name": "日新威秀影城", "display_ad": "武昌街2段87號1.2樓", "poi_addr": "台北市武昌街2段87號1.2樓", "gglon": "121.504409", "traffic_in": null, "Y": "25.04540115272041", "X": "121.50433300536166", "certificat": "電影片映演業", "gglat": "25.045406" }, "geometry": { "type": "Point", "coordinates": [ 121.504333005361659, 25.045401152720409 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "NG(all fuzzy coordina)", "tel": "2537-1889", "name": "欣欣晶華影城", "display_ad": "森林北路247號", "poi_addr": "台北市森林北路247號", "gglon": "0", "traffic_in": null, "Y": "25.091131475715056", "X": "121.5598060336332", "certificat": "電影片映演業", "gglat": "0" }, "geometry": { "type": "Point", "coordinates": [ 121.559806033633194, 25.091131475715056 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2741-5991-2", "name": "首都大戲院", "display_ad": "長安東路2段219號2樓", "poi_addr": "台北市長安東路2段219號2樓", "gglon": "121.5448331", "traffic_in": null, "Y": "25.048386616882883", "X": "121.54478298026065", "certificat": "電影片映演業", "gglat": "25.0483049" }, "geometry": { "type": "Point", "coordinates": [ 121.544782980260649, 25.048386616882883 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "8502-2208", "name": "美麗華娛樂股份有限公司", "display_ad": "敬業三路22號6樓;6樓之1", "poi_addr": "台北市敬業三路22號6樓;6樓之1", "gglon": "121.556778", "traffic_in": null, "Y": "25.082856489319237", "X": "121.55791816593103", "certificat": "電影片映演業", "gglat": "25.083466" }, "geometry": { "type": "Point", "coordinates": [ 121.557918165931028, 25.082856489319237 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2934-6494", "name": "來來佳佳戲院", "display_ad": "羅斯福路6段403號4樓", "poi_addr": "台北市羅斯福路6段403號4樓", "gglon": "121.540693", "traffic_in": null, "Y": "24.991858344700603", "X": "121.54058642791877", "certificat": "電影片映演業", "gglat": "24.991753" }, "geometry": { "type": "Point", "coordinates": [ 121.540586427918768, 24.991858344700603 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2367-8999", "name": "東南亞電影廣場", "display_ad": "羅斯福路4段136巷3號", "poi_addr": "台北市羅斯福路4段136巷3號", "gglon": "121.535264", "traffic_in": null, "Y": "25.012801605610388", "X": "121.53541341178546", "certificat": "電影片映演業", "gglat": "25.012726" }, "geometry": { "type": "Point", "coordinates": [ 121.535413411785456, 25.012801605610388 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "8770-6565", "name": "六福皇宮附屬大千電影院", "display_ad": "南京東路3段133號B2", "poi_addr": "台北市南京東路3段133號B2", "gglon": "121.5411869", "traffic_in": null, "Y": "25.05222203140241", "X": "121.54121015734312", "certificat": "電影片映演業", "gglat": "25.0521017" }, "geometry": { "type": "Point", "coordinates": [ 121.541210157343116, 25.052222031402412 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "NG(all fuzzy coordina)", "tel": "2381-4272", "name": "今日秀泰影城", "display_ad": "峨嵋街52號", "poi_addr": "台北市峨嵋街52號", "gglon": "0", "traffic_in": null, "Y": "25.04369213697648", "X": "121.50676928808366", "certificat": "電影片映演業", "gglat": "0" }, "geometry": { "type": "Point", "coordinates": [ 121.50676928808366, 25.043692136976478 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2331-5077", "name": "IN89豪華數位影院", "display_ad": "武昌街2段89號1樓", "poi_addr": "台北市武昌街2段89號1樓", "gglon": "121.5039696", "traffic_in": null, "Y": "25.04548931477572", "X": "121.50398105554127", "certificat": "電影片映演業", "gglat": "25.0454595" }, "geometry": { "type": "Point", "coordinates": [ 121.503981055541274, 25.045489314775718 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "8780-5566", "name": "威秀影城股份有限公司", "display_ad": "松壽路18-20號", "poi_addr": "台北市松壽路18-20號", "gglon": "121.56681", "traffic_in": null, "Y": "25.03567411857838", "X": "121.56706343572611", "certificat": "電影片映演業", "gglat": "25.0356839" }, "geometry": { "type": "Point", "coordinates": [ 121.567063435726112, 25.035674118578381 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "8772-1234", "name": "國賓影城@微風廣場(國賓影城(股) 微風分公司)", "display_ad": "復興南路1段39號7~11樓", "poi_addr": "台北市復興南路1段39號7~11樓", "gglon": "121.5441769", "traffic_in": null, "Y": "25.046166444181395", "X": "121.54407863619392", "certificat": "電影片映演業", "gglat": "25.0461403" }, "geometry": { "type": "Point", "coordinates": [ 121.544078636193916, 25.046166444181395 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2507-4141", "name": "長春戲院", "display_ad": "長春路172號2樓", "poi_addr": "台北市長春路172號2樓", "gglon": "121.533823", "traffic_in": null, "Y": "25.05472834046186", "X": "121.53380279803118", "certificat": "電影片映演業", "gglat": "25.05458" }, "geometry": { "type": "Point", "coordinates": [ 121.533802798031175, 25.05472834046186 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2361-1223", "name": "國賓大戲院", "display_ad": "成都路88號", "poi_addr": "台北市成都路88號", "gglon": "121.50454", "traffic_in": null, "Y": "25.04302555762087", "X": "121.50455466909702", "certificat": "電影片映演業", "gglat": "25.042998" }, "geometry": { "type": "Point", "coordinates": [ 121.504554669097018, 25.043025557620869 ] } }
+
+]
+}

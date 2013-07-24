@@ -1,0 +1,86 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28988888", "name": "北投麗禧溫泉酒店", "display_ad": "幽雅路30號", "poi_addr": "台北市幽雅路30號", "gglon": "121.514833", "traffic_in": null, "Y": "25.137811703065054", "X": "121.51502090204595", "certificat": "溫泉業", "gglat": "25.137952" }, "geometry": { "type": "Point", "coordinates": [ 121.515020902045947, 25.137811703065054 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28913027", "name": "東皇渡假旅店　", "display_ad": "溫泉路108號", "poi_addr": "台北市溫泉路108號", "gglon": "121.510753", "traffic_in": null, "Y": "25.136097785126523", "X": "121.51070435869299", "certificat": "溫泉業", "gglat": "25.136079" }, "geometry": { "type": "Point", "coordinates": [ 121.51070435869299, 25.136097785126523 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28973611", "name": "倆人旅店(立德北投溫泉飯店)", "display_ad": "幽雅路11號", "poi_addr": "台北市幽雅路11號", "gglon": "121.513508", "traffic_in": null, "Y": "25.13698997751326", "X": "121.51347280194177", "certificat": "溫泉業", "gglat": "25.136942" }, "geometry": { "type": "Point", "coordinates": [ 121.513472801941774, 25.136989977513259 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28965858", "name": "山玥溫泉餐廳", "display_ad": "東昇路68-15號", "poi_addr": "台北市東昇路68之15號", "gglon": "121.529367", "traffic_in": null, "Y": "25.154074794866766", "X": "121.52926639334808", "certificat": "溫泉業", "gglat": "25.15404" }, "geometry": { "type": "Point", "coordinates": [ 121.529266393348081, 25.154074794866766 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28771511", "name": "湯世代溫泉餐廳", "display_ad": "行義路298號", "poi_addr": "台北市行義路298號", "gglon": "121.528831", "traffic_in": null, "Y": "25.13806463417934", "X": "121.52835153062271", "certificat": "溫泉業", "gglat": "25.137956" }, "geometry": { "type": "Point", "coordinates": [ 121.528351530622714, 25.13806463417934 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28931666", "name": "太平洋溫泉會館", "display_ad": "奇岩路1號", "poi_addr": "台北市奇岩路1號", "gglon": "121.507197", "traffic_in": null, "Y": "25.134937271466548", "X": "121.50694268009894", "certificat": "溫泉業", "gglat": "25.134659" }, "geometry": { "type": "Point", "coordinates": [ 121.506942680098945, 25.134937271466548 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28911228", "name": "金都精緻溫泉飯店", "display_ad": "光明路240號", "poi_addr": "台北市光明路240號", "gglon": "121.507685", "traffic_in": null, "Y": "25.13632951647109", "X": "121.50771978916356", "certificat": "溫泉業", "gglat": "25.136193" }, "geometry": { "type": "Point", "coordinates": [ 121.507719789163559, 25.13632951647109 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28751234", "name": "椰林溫泉餐廳", "display_ad": "行義路269號", "poi_addr": "台北市行義路269號", "gglon": "121.527939", "traffic_in": null, "Y": "25.136486340607693", "X": "121.52852688607253", "certificat": "溫泉業", "gglat": "25.137649" }, "geometry": { "type": "Point", "coordinates": [ 121.528526886072527, 25.136486340607693 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28760888", "name": "湯瀨溫泉餐廳", "display_ad": "行義路300巷1號", "poi_addr": "台北市行義路300巷1號", "gglon": "121.52855", "traffic_in": null, "Y": "25.139055498585055", "X": "121.52903619625997", "certificat": "溫泉業", "gglat": "25.138434" }, "geometry": { "type": "Point", "coordinates": [ 121.529036196259966, 25.139055498585055 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28985555", "name": "日勝生加賀屋國際溫泉飯店", "display_ad": "光明路236號", "poi_addr": "台北市光明路236號", "gglon": "121.507055", "traffic_in": null, "Y": "25.13603683589101", "X": "121.5069161976217", "certificat": "溫泉業", "gglat": "25.136081" }, "geometry": { "type": "Point", "coordinates": [ 121.506916197621706, 25.136036835891009 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28912174", "name": "美代溫泉飯店", "display_ad": "光明路281號", "poi_addr": "台北市光明路281號", "gglon": "121.510889", "traffic_in": null, "Y": "25.137172641463856", "X": "121.51077961189335", "certificat": "溫泉業", "gglat": "25.1371252" }, "geometry": { "type": "Point", "coordinates": [ 121.510779611893355, 25.137172641463856 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28913388", "name": "山樂溫泉", "display_ad": "泉源路17號", "poi_addr": "台北市泉源路17號", "gglon": "121.503941", "traffic_in": null, "Y": "25.138295669368123", "X": "121.50450283378294", "certificat": "溫泉業", "gglat": "25.137909" }, "geometry": { "type": "Point", "coordinates": [ 121.504502833782936, 25.138295669368123 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28922665", "name": "山水樂會館", "display_ad": "中和街20巷6號", "poi_addr": "台北市中和街20巷6號", "gglon": "121.504", "traffic_in": null, "Y": "25.13806909824535", "X": "121.50370020216296", "certificat": "溫泉業", "gglat": "25.1382" }, "geometry": { "type": "Point", "coordinates": [ 121.50370020216296, 25.138069098245349 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28979060", "name": "水都溫泉館", "display_ad": "光明路283號", "poi_addr": "台北市光明路283號", "gglon": "121.510974", "traffic_in": null, "Y": "25.13698883773242", "X": "121.51099518087288", "certificat": "溫泉業", "gglat": "25.13692" }, "geometry": { "type": "Point", "coordinates": [ 121.510995180872882, 25.136988837732421 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28626199", "name": "紗帽谷美食餐廳", "display_ad": "紗帽路42號", "poi_addr": "台北市紗帽路42號", "gglon": "121.530193", "traffic_in": null, "Y": "25.139852420766697", "X": "121.53000712757753", "certificat": "溫泉業", "gglat": "25.140153" }, "geometry": { "type": "Point", "coordinates": [ 121.530007127577534, 25.139852420766697 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28975555", "name": "南美大飯店", "display_ad": "幽雅路14號", "poi_addr": "台北市幽雅路14號", "gglon": "121.513598", "traffic_in": null, "Y": "25.13747927905855", "X": "121.51356051722148", "certificat": "溫泉業", "gglat": "25.137436" }, "geometry": { "type": "Point", "coordinates": [ 121.513560517221478, 25.13747927905855 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28747979", "name": "川湯溫泉餐廳", "display_ad": "行義路300巷10號", "poi_addr": "台北市行義路300巷10號", "gglon": "121.529405", "traffic_in": null, "Y": "25.138626823562348", "X": "121.52974622602828", "certificat": "溫泉業", "gglat": "25.139221" }, "geometry": { "type": "Point", "coordinates": [ 121.52974622602828, 25.138626823562348 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28915161", "name": "熱海大飯店", "display_ad": "光明路258號", "poi_addr": "台北市光明路258號", "gglon": "121.509374", "traffic_in": null, "Y": "25.136820187537097", "X": "121.50932182040435", "certificat": "溫泉業", "gglat": "25.13677" }, "geometry": { "type": "Point", "coordinates": [ 121.509321820404352, 25.136820187537097 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "66999480", "name": "喜悅溫泉會館", "display_ad": "紗帽路40之6號", "poi_addr": "台北市紗帽路40之6號", "gglon": "121.530349", "traffic_in": null, "Y": "25.13907107026102", "X": "121.53201926839631", "certificat": "溫泉業", "gglat": "25.138927" }, "geometry": { "type": "Point", "coordinates": [ 121.532019268396311, 25.139071070261021 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28623688", "name": "皇池溫泉御膳館", "display_ad": "行義路402巷42號之1", "poi_addr": "台北市行義路402巷42號", "gglon": "121.530383", "traffic_in": null, "Y": "25.140024581709078", "X": "121.53035441521035", "certificat": "溫泉業", "gglat": "25.139968" }, "geometry": { "type": "Point", "coordinates": [ 121.530354415210354, 25.140024581709078 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28718965", "name": "櫻崗溫泉會館", "display_ad": "行義路300巷3號", "poi_addr": "台北市行義路300巷3號", "gglon": "121.529275", "traffic_in": null, "Y": "25.139074968009", "X": "121.52922688038173", "certificat": "溫泉業", "gglat": "25.139025" }, "geometry": { "type": "Point", "coordinates": [ 121.529226880381728, 25.139074968009002 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28743869", "name": "不老長春溫泉會館", "display_ad": "行義路346號", "poi_addr": "台北市行義路346號", "gglon": "121.528744", "traffic_in": null, "Y": "25.139469336235344", "X": "121.52868837613318", "certificat": "溫泉業", "gglat": "25.13942" }, "geometry": { "type": "Point", "coordinates": [ 121.528688376133175, 25.139469336235344 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28749090", "name": "陽光瓦舍溫泉音樂餐廳", "display_ad": "中山北路7段219巷171號", "poi_addr": "台北市中山北路七段219巷171號", "gglon": "121.5317225", "traffic_in": null, "Y": "25.135228546031758", "X": "121.53168123234813", "certificat": "溫泉業", "gglat": "25.1350807" }, "geometry": { "type": "Point", "coordinates": [ 121.531681232348134, 25.135228546031758 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "66117888", "name": "三二行館", "display_ad": "中山路32號", "poi_addr": "台北市中山路32號", "gglon": "121.510884", "traffic_in": null, "Y": "25.137801331916474", "X": "121.51029761819704", "certificat": "溫泉業", "gglat": "25.137759" }, "geometry": { "type": "Point", "coordinates": [ 121.510297618197043, 25.137801331916474 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28972260", "name": "北投親水公園露天溫泉浴池", "display_ad": "中山路6號", "poi_addr": "台北市中山路6號", "gglon": "121.508293", "traffic_in": null, "Y": "25.13840871980242", "X": "121.50942135603114", "certificat": "溫泉業", "gglat": "25.136894" }, "geometry": { "type": "Point", "coordinates": [ 121.50942135603114, 25.13840871980242 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28711128", "name": "紗帽山天祥溫泉", "display_ad": "行義路260巷15號", "poi_addr": "台北市行義路260巷15號", "gglon": "121.52995", "traffic_in": null, "Y": "25.136281866628668", "X": "121.52932340840599", "certificat": "溫泉業", "gglat": "25.136882" }, "geometry": { "type": "Point", "coordinates": [ 121.529323408405986, 25.136281866628668 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28616661", "name": "陽明山中國麗緻大飯店", "display_ad": "格致路237號", "poi_addr": "台北市格致路237號", "gglon": "121.548725", "traffic_in": null, "Y": "25.143505794249513", "X": "121.54889110025053", "certificat": "溫泉業", "gglat": "25.143271" }, "geometry": { "type": "Point", "coordinates": [ 121.548891100250529, 25.143505794249513 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28975555", "name": "春天酒店", "display_ad": "幽雅路18號", "poi_addr": "台北市幽雅路18號", "gglon": "121.513582", "traffic_in": null, "Y": "25.137693569464748", "X": "121.5135533633816", "certificat": "溫泉業", "gglat": "25.137637" }, "geometry": { "type": "Point", "coordinates": [ 121.513553363381604, 25.137693569464748 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28755808", "name": "湯屋溫泉浴室", "display_ad": "行義路296之2號", "poi_addr": "台北市行義路296之2號", "gglon": "121.528434", "traffic_in": null, "Y": "25.137629852131298", "X": "121.5283643485414", "certificat": "溫泉業", "gglat": "25.137579" }, "geometry": { "type": "Point", "coordinates": [ 121.528364348541402, 25.137629852131298 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28712881", "name": "草山文化溫泉會館", "display_ad": "行義路260巷1號", "poi_addr": "台北市行義路260巷1號", "gglon": "121.529004", "traffic_in": null, "Y": "25.136329069911117", "X": "121.52884413680997", "certificat": "溫泉業", "gglat": "25.136337" }, "geometry": { "type": "Point", "coordinates": [ 121.528844136809965, 25.136329069911117 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28930055", "name": "嘉賓閣溫泉會館", "display_ad": "光明路230號", "poi_addr": "台北市光明路230號", "gglon": "121.506", "traffic_in": null, "Y": "25.135908801430432", "X": "121.5059413477024", "certificat": "溫泉業", "gglat": "25.135844" }, "geometry": { "type": "Point", "coordinates": [ 121.505941347702404, 25.135908801430432 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "58151889", "name": "百樂匯溫泉飯店", "display_ad": "溫泉路99號", "poi_addr": "台北市溫泉路99號", "gglon": "121.509164", "traffic_in": null, "Y": "25.13640862206257", "X": "121.50969656546577", "certificat": "溫泉業", "gglat": "25.136307" }, "geometry": { "type": "Point", "coordinates": [ 121.509696565465774, 25.136408622062572 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28724598", "name": "山之林溫泉餐館", "display_ad": "行義路402巷15號", "poi_addr": "台北市行義路402巷15號", "gglon": "121.52962", "traffic_in": null, "Y": "25.141642585627665", "X": "121.52950041019105", "certificat": "溫泉業", "gglat": "25.141605" }, "geometry": { "type": "Point", "coordinates": [ 121.529500410191048, 25.141642585627665 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28911118", "name": "漾館溫泉商旅", "display_ad": "溫泉路63號", "poi_addr": "台北市溫泉路63號", "gglon": "121.504661", "traffic_in": null, "Y": "25.135173458041514", "X": "121.50458177155353", "certificat": "溫泉業", "gglat": "25.1352149" }, "geometry": { "type": "Point", "coordinates": [ 121.504581771553532, 25.135173458041514 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28984506", "name": "水美溫泉會館", "display_ad": "光明路224號", "poi_addr": "台北市光明路224號", "gglon": "121.5050657", "traffic_in": null, "Y": "25.136213614195118", "X": "121.50499369864367", "certificat": "溫泉業", "gglat": "25.1361892" }, "geometry": { "type": "Point", "coordinates": [ 121.504993698643673, 25.136213614195118 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "80098612", "name": "鳳凰閣旅社", "display_ad": "溫泉路天主巷1號", "poi_addr": "台北市溫泉路天主巷1號", "gglon": "121.510381", "traffic_in": null, "Y": "25.13575135984365", "X": "121.51030826481458", "certificat": "溫泉業", "gglat": "25.136146" }, "geometry": { "type": "Point", "coordinates": [ 121.510308264814583, 25.135751359843649 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28958670", "name": "貴子坑鄉村俱樂部", "display_ad": "秀山路150巷15號", "poi_addr": "台北市秀山路150巷15號", "gglon": "121.490681", "traffic_in": null, "Y": "25.14979546297288", "X": "121.49448946461605", "certificat": "溫泉業", "gglat": "25.1428739" }, "geometry": { "type": "Point", "coordinates": [ 121.494489464616052, 25.149795462972879 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28714777", "name": "澎園溫泉餐廳", "display_ad": "行義路155巷38號", "poi_addr": "台北市行義路155巷38號", "gglon": "121.526704", "traffic_in": null, "Y": "25.130598156224966", "X": "121.52661623859822", "certificat": "溫泉業", "gglat": "25.13047" }, "geometry": { "type": "Point", "coordinates": [ 121.526616238598223, 25.130598156224966 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28617100", "name": "國際大旅館", "display_ad": "湖山路1段7號", "poi_addr": "台北市湖山路一段7號", "gglon": "121.5479391", "traffic_in": null, "Y": "25.15225613477407", "X": "121.54798304020895", "certificat": "溫泉業", "gglat": "25.151977" }, "geometry": { "type": "Point", "coordinates": [ 121.547983040208948, 25.152256134774071 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "28969798", "name": "皇家季節酒店", "display_ad": "中山路26號", "poi_addr": "台北市中山路26號", "gglon": "121.510421", "traffic_in": null, "Y": "25.138541705763117", "X": "121.51105505214626", "certificat": "溫泉業", "gglat": "25.137666" }, "geometry": { "type": "Point", "coordinates": [ 121.511055052146261, 25.138541705763117 ] } }
+
+]
+}

@@ -1,0 +1,938 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 1, "PF_PLOTS_I": 2101, "PF_ID": "SA1", "COOR_E": 302551.22, "COOR_N": 2777584.75, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.52927141880383, 25.103883233640477 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 2, "PF_PLOTS_I": 2201, "PF_ID": "SB1", "COOR_E": 304274.24, "COOR_N": 2777595.01, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.546355215996059, 25.103913907057812 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 3, "PF_PLOTS_I": 2202, "PF_ID": "SB2", "COOR_E": 304272.26, "COOR_N": 2777436.77, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.546329237335357, 25.102485412491522 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 4, "PF_PLOTS_I": 2301, "PF_ID": "S1", "COOR_E": 303346.01, "COOR_N": 2776140.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "中山區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.537094643289734, 25.090811885336393 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 5, "PF_PLOTS_I": 2302, "PF_ID": "S2", "COOR_E": 303222.0, "COOR_N": 2776045.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "中山區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.53586150445318, 25.089958682337436 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 6, "PF_PLOTS_I": 2303, "PF_ID": "S3", "COOR_E": 303150.0, "COOR_N": 2775960.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "中山區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.53514438207047, 25.08919388868118 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 7, "PF_PLOTS_I": 2304, "PF_ID": "S4", "COOR_E": 303032.0, "COOR_N": 2775826.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "中山區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.533969325358953, 25.087988366824604 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 8, "PF_PLOTS_I": 2305, "PF_ID": "S5", "COOR_E": 302980.0, "COOR_N": 2775801.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "中山區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.533452843800632, 25.087764523988216 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 9, "PF_PLOTS_I": 2306, "PF_ID": "S6", "COOR_E": 302676.0, "COOR_N": 2775469.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.530426218226708, 25.084778068153625 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 10, "PF_PLOTS_I": 2307, "PF_ID": "S7", "COOR_E": 302780.0, "COOR_N": 2775550.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "中山區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.531460355971262, 25.085505638522221 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 11, "PF_PLOTS_I": 2308, "PF_ID": "S8", "COOR_E": 302849.0, "COOR_N": 2775646.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "中山區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.532148123155309, 25.086369864558907 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 12, "PF_PLOTS_I": 2309, "PF_ID": "S9", "COOR_E": 302889.0, "COOR_N": 2775657.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "中山區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.532545088618278, 25.086467748668476 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 13, "PF_PLOTS_I": 2310, "PF_ID": "S10", "COOR_E": 302789.0, "COOR_N": 2775489.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "中山區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.531547197182022, 25.084954617450446 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 14, "PF_PLOTS_I": 2311, "PF_ID": "S11", "COOR_E": 302835.0, "COOR_N": 2775433.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "中山區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.53200102248104, 25.084447421188855 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 15, "PF_PLOTS_I": 2312, "PF_ID": "S12", "COOR_E": 302860.0, "COOR_N": 2775360.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "中山區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.532246003177676, 25.083787496219159 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 16, "PF_PLOTS_I": 2313, "PF_ID": "S13", "COOR_E": 302908.0, "COOR_N": 2775263.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "中山區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.532718045464151, 25.082910083028821 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 17, "PF_PLOTS_I": 2314, "PF_ID": "S14", "COOR_E": 302850.0, "COOR_N": 2775158.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "中山區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.532138986341067, 25.081964216933084 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 18, "PF_PLOTS_I": 2315, "PF_ID": "S15", "COOR_E": 302798.0, "COOR_N": 2775085.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "中山區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.53162066177569, 25.081307027991087 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 19, "PF_PLOTS_I": 2316, "PF_ID": "S16", "COOR_E": 302795.0, "COOR_N": 2775250.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "中山區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.531597356646714, 25.082796737523353 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 20, "PF_PLOTS_I": 2317, "PF_ID": "S17", "COOR_E": 303751.0, "COOR_N": 2775945.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "中山區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.541101865860284, 25.089036860523706 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 21, "PF_PLOTS_I": 2318, "PF_ID": "S18", "COOR_E": 302717.0, "COOR_N": 2775320.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "中山區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.530826860035376, 25.083431458247357 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 22, "PF_PLOTS_I": 2319, "PF_ID": "S19", "COOR_E": 303725.0, "COOR_N": 2775988.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "中山區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.540845818866572, 25.089425998952272 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 23, "PF_PLOTS_I": 2320, "PF_ID": "S20", "COOR_E": 303981.0, "COOR_N": 2775961.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "中山區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.543382629641314, 25.089172973145999 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 24, "PF_PLOTS_I": 2321, "PF_ID": "S21", "COOR_E": 303372.0, "COOR_N": 2775932.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "中山區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.537344100228637, 25.088933153494299 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 25, "PF_PLOTS_I": 2322, "PF_ID": "S22", "COOR_E": 303421.0, "COOR_N": 2775981.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "中山區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.537831799839594, 25.089373759461708 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 26, "PF_PLOTS_I": 2323, "PF_ID": "S23", "COOR_E": 303470.0, "COOR_N": 2776145.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "中山區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.538324045582542, 25.0908525695957 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 27, "PF_PLOTS_I": 2324, "PF_ID": "S24", "COOR_E": 303199.0, "COOR_N": 2776002.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "中山區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.535631799882722, 25.089571306804803 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 28, "PF_PLOTS_I": 2325, "PF_ID": "S25", "COOR_E": 303074.0, "COOR_N": 2775873.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "中山區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.534387535991286, 25.08841117839275 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 29, "PF_PLOTS_I": 2326, "PF_ID": "S26", "COOR_E": 303116.0, "COOR_N": 2775910.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "中山區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.534805357098904, 25.088743709869945 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 30, "PF_PLOTS_I": 2327, "PF_ID": "S27", "COOR_E": 302816.0, "COOR_N": 2775457.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "中山區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.531813607277698, 25.084664765804028 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 31, "PF_PLOTS_I": 2328, "PF_ID": "S28", "COOR_E": 302820.0, "COOR_N": 2775360.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "中山區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.531849475785762, 25.083788917968239 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 32, "PF_PLOTS_I": 2329, "PF_ID": "S29", "COOR_E": 302780.0, "COOR_N": 2775390.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "中山區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.531454117940683, 25.084061175504893 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 33, "PF_PLOTS_I": 2330, "PF_ID": "S30", "COOR_E": 302813.0, "COOR_N": 2775477.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "中山區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.531784647742853, 25.084845430257023 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 34, "PF_PLOTS_I": 2331, "PF_ID": "S31", "COOR_E": 302799.0, "COOR_N": 2775477.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "中山區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.531645861955667, 25.084845927577774 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 35, "PF_PLOTS_I": 2332, "PF_ID": "S32", "COOR_E": 302817.0, "COOR_N": 2775096.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "中山區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.531809437581416, 25.081405660017467 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 36, "PF_PLOTS_I": 2333, "PF_ID": "S33", "COOR_E": 302805.0, "COOR_N": 2775170.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "中山區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.531693367624911, 25.082074150658599 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 37, "PF_PLOTS_I": 2401, "PF_ID": "SD1", "COOR_E": 300637.52, "COOR_N": 2783184.84, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.510507523701321, 25.154506621611869 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 38, "PF_PLOTS_I": 2501, "PF_ID": "SE1", "COOR_E": 300219.0, "COOR_N": 2780613.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.506260475602375, 25.131302664470262 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 39, "PF_PLOTS_I": 2502, "PF_ID": "SE2", "COOR_E": 300267.0, "COOR_N": 2780628.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.506737053134998, 25.131436455523396 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 40, "PF_PLOTS_I": 2503, "PF_ID": "SE3", "COOR_E": 300432.0, "COOR_N": 2780765.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.508378489353319, 25.132667669029466 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 41, "PF_PLOTS_I": 2504, "PF_ID": "SE4", "COOR_E": 300501.0, "COOR_N": 2780811.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.509064495278352, 25.13308060169663 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 42, "PF_PLOTS_I": 2505, "PF_ID": "SE5", "COOR_E": 300561.0, "COOR_N": 2780942.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.509664435865133, 25.134261206701556 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 43, "PF_PLOTS_I": 2506, "PF_ID": "SE6", "COOR_E": 300896.0, "COOR_N": 2780926.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.512986123917997, 25.134105296080453 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 44, "PF_PLOTS_I": 2507, "PF_ID": "SE7", "COOR_E": 300949.0, "COOR_N": 2780845.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.513508681236999, 25.133372218732845 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 45, "PF_PLOTS_I": 2508, "PF_ID": "SE8", "COOR_E": 300992.0, "COOR_N": 2780858.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.513935612610098, 25.13348810245936 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 46, "PF_PLOTS_I": 2509, "PF_ID": "SE9", "COOR_E": 301029.0, "COOR_N": 2780866.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.514302852317869, 25.133559052187042 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 47, "PF_PLOTS_I": 2510, "PF_ID": "SE10", "COOR_E": 301120.0, "COOR_N": 2780829.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.515203918404538, 25.133221886292258 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 48, "PF_PLOTS_I": 2511, "PF_ID": "SE11", "COOR_E": 301152.0, "COOR_N": 2780783.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.515519525284418, 25.132805501050608 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 49, "PF_PLOTS_I": 2512, "PF_ID": "SE12", "COOR_E": 301176.0, "COOR_N": 2780810.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.515758561034104, 25.133048424976092 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 50, "PF_PLOTS_I": 2513, "PF_ID": "SE13", "COOR_E": 301410.0, "COOR_N": 2780778.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.518077962670745, 25.132751438099117 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 51, "PF_PLOTS_I": 2514, "PF_ID": "SE14", "COOR_E": 301187.0, "COOR_N": 2780782.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.515866588104259, 25.132795265206155 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 52, "PF_PLOTS_I": 2515, "PF_ID": "SE15", "COOR_E": 301261.0, "COOR_N": 2780770.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.516600002361557, 25.132684374215838 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 53, "PF_PLOTS_I": 2516, "PF_ID": "SE16", "COOR_E": 301342.0, "COOR_N": 2780742.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.517402226603323, 25.132428791533009 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 54, "PF_PLOTS_I": 2517, "PF_ID": "SE17", "COOR_E": 301272.0, "COOR_N": 2781537.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.516738233447057, 25.139608357041276 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 55, "PF_PLOTS_I": 2518, "PF_ID": "SE18", "COOR_E": 301493.0, "COOR_N": 2781568.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.518931230449169, 25.139880559080261 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 56, "PF_PLOTS_I": 2601, "PF_ID": "Q1", "COOR_E": 303315.0, "COOR_N": 2781352.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.53699277471911, 25.137866152239653 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 57, "PF_PLOTS_I": 2602, "PF_ID": "Q2", "COOR_E": 303590.0, "COOR_N": 2781528.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.539727082824953, 25.139445137625508 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 58, "PF_PLOTS_I": 2603, "PF_ID": "Q3", "COOR_E": 303686.0, "COOR_N": 2781561.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.540680490472838, 25.139739583818233 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 59, "PF_PLOTS_I": 2605, "PF_ID": "Q4", "COOR_E": 303391.0, "COOR_N": 2781677.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.537759360492345, 25.140797459403238 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 60, "PF_PLOTS_I": 2604, "PF_ID": "Q1", "COOR_E": 303834.0, "COOR_N": 2781891.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.542161466095749, 25.142713396768883 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 61, "PF_PLOTS_I": 3001, "PF_ID": "s001", "COOR_E": 304259.551, "COOR_N": 2782439.067, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.546404074654589, 25.147645728114565 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 62, "PF_PLOTS_I": 3002, "PF_ID": "s002", "COOR_E": 304265.456, "COOR_N": 2782342.904, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.546458776350988, 25.146777372114059 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 63, "PF_PLOTS_I": 3003, "PF_ID": "s003", "COOR_E": 304330.718, "COOR_N": 2782506.46, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.547112643887218, 25.148251532595232 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 64, "PF_PLOTS_I": 3004, "PF_ID": "s004", "COOR_E": 304317.411, "COOR_N": 2782334.197, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.546973728302575, 25.146696865072425 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 65, "PF_PLOTS_I": 3005, "PF_ID": "s005", "COOR_E": 304326.172, "COOR_N": 2782268.37, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.547057972789275, 25.146102271444342 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 66, "PF_PLOTS_I": 3006, "PF_ID": "s006", "COOR_E": 303837.537, "COOR_N": 2782135.043, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.542206278838222, 25.144916441319371 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 67, "PF_PLOTS_I": 3007, "PF_ID": "s007", "COOR_E": 303844.451, "COOR_N": 2782156.945, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.54227572625534, 25.145113917273722 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 68, "PF_PLOTS_I": 3008, "PF_ID": "s008", "COOR_E": 303554.835, "COOR_N": 2782586.879, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.539420341542041, 25.149005766225805 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 69, "PF_PLOTS_I": 3009, "PF_ID": "s009", "COOR_E": 303513.67, "COOR_N": 2782523.302, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.539009527891508, 25.148433291919922 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 70, "PF_PLOTS_I": 3010, "PF_ID": "s010", "COOR_E": 303591.947, "COOR_N": 2782606.886, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.539789229063516, 25.149185044417504 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 71, "PF_PLOTS_I": 3011, "PF_ID": "s011", "COOR_E": 303633.128, "COOR_N": 2782594.207, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.540197176773916, 25.149069091711375 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 72, "PF_PLOTS_I": 3012, "PF_ID": "s012", "COOR_E": 303564.771, "COOR_N": 2782627.263, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.539520494153237, 25.149369986099394 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 73, "PF_PLOTS_I": 3013, "PF_ID": "s013", "COOR_E": 304325.276, "COOR_N": 2782363.439, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.547052912068111, 25.14696056777937 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 74, "PF_PLOTS_I": 3014, "PF_ID": "s014", "COOR_E": 303871.0, "COOR_N": 2784430.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.54262980906411, 25.165633620203138 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 75, "PF_PLOTS_I": 3015, "PF_ID": "s015", "COOR_E": 303156.634, "COOR_N": 2784368.111, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.535541014172907, 25.16510070465289 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 76, "PF_PLOTS_I": 3016, "PF_ID": "s016", "COOR_E": 303255.711, "COOR_N": 2784398.529, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.536525034066685, 25.16537175327997 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 77, "PF_PLOTS_I": 3017, "PF_ID": "s017", "COOR_E": 303745.992, "COOR_N": 2784477.661, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.541391657637888, 25.166068433465014 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 78, "PF_PLOTS_I": 3018, "PF_ID": "s018", "COOR_E": 303715.985, "COOR_N": 2784461.232, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.541093339289986, 25.165921204357964 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 79, "PF_PLOTS_I": 3019, "PF_ID": "s019", "COOR_E": 303683.384, "COOR_N": 2784449.585, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.54076948012171, 25.165817239486771 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 80, "PF_PLOTS_I": 3020, "PF_ID": "s020", "COOR_E": 303638.975, "COOR_N": 2784463.43, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.540329502858796, 25.165943837701199 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 81, "PF_PLOTS_I": 3021, "PF_ID": "s021", "COOR_E": 303638.951, "COOR_N": 2784497.267, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.540330610989386, 25.166249311632686 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 82, "PF_PLOTS_I": 3022, "PF_ID": "s022", "COOR_E": 303677.436, "COOR_N": 2784362.112, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.54070699474731, 25.165027767804535 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 83, "PF_PLOTS_I": 3023, "PF_ID": "s023", "COOR_E": 303025.231, "COOR_N": 2784093.998, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.534226748586406, 25.162630778673588 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 84, "PF_PLOTS_I": 3024, "PF_ID": "s024", "COOR_E": 302916.718, "COOR_N": 2784109.433, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.53315095468308, 25.162774002896818 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 85, "PF_PLOTS_I": 3025, "PF_ID": "s025", "COOR_E": 302969.445, "COOR_N": 2784076.898, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.533672704966875, 25.162478399115702 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 86, "PF_PLOTS_I": 3026, "PF_ID": "s026", "COOR_E": 302981.454, "COOR_N": 2784068.556, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.533791500831555, 25.162402659792235 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 87, "PF_PLOTS_I": 3027, "PF_ID": "s027", "COOR_E": 302919.012, "COOR_N": 2784070.834, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.53317219506863, 25.162425457014663 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 88, "PF_PLOTS_I": 3028, "PF_ID": "s028", "COOR_E": 303066.429, "COOR_N": 2784735.916, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.534660683522219, 25.168424405159296 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 89, "PF_PLOTS_I": 3029, "PF_ID": "s029", "COOR_E": 302027.424, "COOR_N": 2784046.652, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.524327119861624, 25.162238732449595 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 90, "PF_PLOTS_I": 3030, "PF_ID": "s030", "COOR_E": 302979.889, "COOR_N": 2784826.35, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.533805760403936, 25.169243922465572 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 91, "PF_PLOTS_I": 3031, "PF_ID": "s031", "COOR_E": 302969.2, "COOR_N": 2784771.2, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.533697557155321, 25.168746422288947 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 92, "PF_PLOTS_I": 3032, "PF_ID": "s032", "COOR_E": 302948.604, "COOR_N": 2784705.06, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.533490645629371, 25.168150060804109 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 93, "PF_PLOTS_I": 3033, "PF_ID": "s033", "COOR_E": 303094.359, "COOR_N": 2784513.273, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.534928979570708, 25.166413430238396 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 94, "PF_PLOTS_I": 3034, "PF_ID": "s034", "COOR_E": 302853.0, "COOR_N": 2784462.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.532532723422378, 25.165959180540941 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 95, "PF_PLOTS_I": 3035, "PF_ID": "s035", "COOR_E": 302942.9, "COOR_N": 2784488.7, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.53342556360775, 25.166197011857633 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 96, "PF_PLOTS_I": 3036, "PF_ID": "s036", "COOR_E": 303061.007, "COOR_N": 2784446.011, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.534595485087536, 25.165807398149514 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 97, "PF_PLOTS_I": 3037, "PF_ID": "s037", "COOR_E": 303007.527, "COOR_N": 2784450.273, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.53406514166133, 25.165847789445589 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 98, "PF_PLOTS_I": 3038, "PF_ID": "s038", "COOR_E": 302459.6, "COOR_N": 2785229.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.528660125580785, 25.172897486448669 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 99, "PF_PLOTS_I": 3039, "PF_ID": "s039", "COOR_E": 302601.6, "COOR_N": 2784993.9, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.530059641918442, 25.170770014576682 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 100, "PF_PLOTS_I": 3040, "PF_ID": "s040", "COOR_E": 302591.7, "COOR_N": 2784962.5, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.529960206304381, 25.170486893578449 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 101, "PF_PLOTS_I": 3041, "PF_ID": "s041", "COOR_E": 302599.3, "COOR_N": 2784932.8, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.530034440405302, 25.17021849819394 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 102, "PF_PLOTS_I": 3042, "PF_ID": "s042", "COOR_E": 302526.314, "COOR_N": 2784814.891, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.529305811046754, 25.16915663093241 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 103, "PF_PLOTS_I": 3043, "PF_ID": "s043", "COOR_E": 302423.7, "COOR_N": 2784775.9, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.52828635484984, 25.168808264615961 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 104, "PF_PLOTS_I": 3044, "PF_ID": "s044", "COOR_E": 302413.7, "COOR_N": 2784794.3, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.528187869986994, 25.168974730079231 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 105, "PF_PLOTS_I": 3045, "PF_ID": "s045", "COOR_E": 302423.3, "COOR_N": 2784822.5, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.528284199716694, 25.169228974086 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 106, "PF_PLOTS_I": 3046, "PF_ID": "s046", "COOR_E": 302449.8, "COOR_N": 2784803.5, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.528546342527875, 25.169056507519052 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 107, "PF_PLOTS_I": 3047, "PF_ID": "s047", "COOR_E": 303280.916, "COOR_N": 2784355.321, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.536773354046986, 25.164980774227971 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 108, "PF_PLOTS_I": 3048, "PF_ID": "s048", "COOR_E": 301974.166, "COOR_N": 2784296.565, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.52380846303862, 25.164496769464868 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 109, "PF_PLOTS_I": 3049, "PF_ID": "s049", "COOR_E": 302045.611, "COOR_N": 2784257.222, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.52451565755473, 25.164139079147294 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 110, "PF_PLOTS_I": 3050, "PF_ID": "s050", "COOR_E": 302119.722, "COOR_N": 2784251.113, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.525250578882677, 25.164081321811469 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 111, "PF_PLOTS_I": 3051, "PF_ID": "s051", "COOR_E": 303260.9, "COOR_N": 2784307.9, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.536572927283544, 25.164553387225176 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 112, "PF_PLOTS_I": 3052, "PF_ID": "s052", "COOR_E": 301856.676, "COOR_N": 2784281.945, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.522642433255214, 25.164368901981312 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 113, "PF_PLOTS_I": 3053, "PF_ID": "s053", "COOR_E": 301752.752, "COOR_N": 2783936.211, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.521598261389542, 25.161251315712839 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 114, "PF_PLOTS_I": 3054, "PF_ID": "s054", "COOR_E": 301850.564, "COOR_N": 2784301.718, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.522582564795442, 25.164547622900319 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 115, "PF_PLOTS_I": 3055, "PF_ID": "s055", "COOR_E": 301859.467, "COOR_N": 2784333.419, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.522672099984021, 25.164833501721514 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 116, "PF_PLOTS_I": 3056, "PF_ID": "s056", "COOR_E": 301995.153, "COOR_N": 2784064.172, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.524007682577178, 25.162398033027102 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 117, "PF_PLOTS_I": 3057, "PF_ID": "s057", "COOR_E": 301483.321, "COOR_N": 2784058.643, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.518930329437467, 25.162366000990218 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 118, "PF_PLOTS_I": 3058, "PF_ID": "s058", "COOR_E": 301469.715, "COOR_N": 2784080.112, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.518796184030705, 25.16256029221497 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 119, "PF_PLOTS_I": 3059, "PF_ID": "s059", "COOR_E": 301450.172, "COOR_N": 2784085.311, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.518602524475995, 25.162607907026484 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 120, "PF_PLOTS_I": 3060, "PF_ID": "s060", "COOR_E": 301454.181, "COOR_N": 2784076.567, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.51864195816168, 25.162528828479196 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 121, "PF_PLOTS_I": 3061, "PF_ID": "s061", "COOR_E": 301411.0, "COOR_N": 2783984.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.518210090144208, 25.161694650231201 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 122, "PF_PLOTS_I": 3062, "PF_ID": "s062", "COOR_E": 301393.0, "COOR_N": 2783961.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.518030662113773, 25.161487635210566 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 123, "PF_PLOTS_I": 3063, "PF_ID": "s063", "COOR_E": 301387.0, "COOR_N": 2783940.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.517970344498224, 25.161298259211573 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 124, "PF_PLOTS_I": 3064, "PF_ID": "s064", "COOR_E": 301368.0, "COOR_N": 2783926.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.51778134105858, 25.161172528953642 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 125, "PF_PLOTS_I": 3065, "PF_ID": "s065", "COOR_E": 301345.0, "COOR_N": 2783895.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.517552012544783, 25.160893464182696 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 126, "PF_PLOTS_I": 3066, "PF_ID": "s066", "COOR_E": 304368.439, "COOR_N": 2782495.876, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.547486348071587, 25.148154599953301 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 127, "PF_PLOTS_I": 3067, "PF_ID": "s067", "COOR_E": 301284.0, "COOR_N": 2783755.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.516941599759832, 25.159631682817153 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 128, "PF_PLOTS_I": 3068, "PF_ID": "s068", "COOR_E": 301303.0, "COOR_N": 2783715.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.517128544419705, 25.159269911730203 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 129, "PF_PLOTS_I": 3069, "PF_ID": "s069", "COOR_E": 301217.0, "COOR_N": 2783863.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.516281109007679, 25.160609006699811 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 130, "PF_PLOTS_I": 3070, "PF_ID": "s070", "COOR_E": 301202.0, "COOR_N": 2783937.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.516135129450817, 25.16127758440831 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 131, "PF_PLOTS_I": 3071, "PF_ID": "s071", "COOR_E": 301282.0, "COOR_N": 2783926.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.516928267978898, 25.161175509843506 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 132, "PF_PLOTS_I": 3072, "PF_ID": "s072", "COOR_E": 301317.0, "COOR_N": 2783944.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.517276134325783, 25.161336798073354 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 133, "PF_PLOTS_I": 3073, "PF_ID": "s073", "COOR_E": 301276.0, "COOR_N": 2784012.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.516872023539349, 25.161952110308277 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 134, "PF_PLOTS_I": 3074, "PF_ID": "s074", "COOR_E": 303244.986, "COOR_N": 2786053.131, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.536484020436134, 25.180309521110107 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 135, "PF_PLOTS_I": 3075, "PF_ID": "s075", "COOR_E": 303196.985, "COOR_N": 2786089.559, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.536009242455251, 25.180640110513679 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 136, "PF_PLOTS_I": 3076, "PF_ID": "s076", "COOR_E": 302923.928, "COOR_N": 2786215.476, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.53330519112788, 25.181786648846607 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 137, "PF_PLOTS_I": 3077, "PF_ID": "s077", "COOR_E": 302905.142, "COOR_N": 2786214.502, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.533118775133545, 25.181778527415755 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 138, "PF_PLOTS_I": 3078, "PF_ID": "s078", "COOR_E": 302889.852, "COOR_N": 2786182.197, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.532965812929049, 25.181487431633741 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 139, "PF_PLOTS_I": 3079, "PF_ID": "s079", "COOR_E": 302864.359, "COOR_N": 2786137.532, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.532711141846633, 25.181085116823205 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 140, "PF_PLOTS_I": 3080, "PF_ID": "s080", "COOR_E": 302866.021, "COOR_N": 2786177.305, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.532729191798438, 25.18144411915355 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 141, "PF_PLOTS_I": 3081, "PF_ID": "s081", "COOR_E": 302901.054, "COOR_N": 2786197.779, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.533077560830208, 25.181627702072586 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 142, "PF_PLOTS_I": 3082, "PF_ID": "s082", "COOR_E": 302970.352, "COOR_N": 2786184.962, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.533764568023727, 25.181509514665866 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 143, "PF_PLOTS_I": 3083, "PF_ID": "s083", "COOR_E": 302998.318, "COOR_N": 2786182.125, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.534041909135311, 25.181482901772632 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 144, "PF_PLOTS_I": 3084, "PF_ID": "s084", "COOR_E": 303001.307, "COOR_N": 2786162.103, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.534070775322704, 25.181302040677494 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 145, "PF_PLOTS_I": 3085, "PF_ID": "s085", "COOR_E": 303007.693, "COOR_N": 2786146.262, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.534133507755101, 25.181158803043093 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 146, "PF_PLOTS_I": 3086, "PF_ID": "s086", "COOR_E": 303032.36, "COOR_N": 2786150.294, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.534378388919379, 25.181194319443229 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 147, "PF_PLOTS_I": 3087, "PF_ID": "s087", "COOR_E": 303047.587, "COOR_N": 2786132.623, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.534528760739178, 25.18103424403769 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 148, "PF_PLOTS_I": 3088, "PF_ID": "s088", "COOR_E": 302467.083, "COOR_N": 2785379.401, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.528740217137226, 25.174255009937426 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 149, "PF_PLOTS_I": 3089, "PF_ID": "s089", "COOR_E": 302463.545, "COOR_N": 2785398.127, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.528705847685799, 25.174424189706389 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 150, "PF_PLOTS_I": 3090, "PF_ID": "s090", "COOR_E": 302458.576, "COOR_N": 2785412.903, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.528657128061496, 25.174557760408497 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 151, "PF_PLOTS_I": 3091, "PF_ID": "s091", "COOR_E": 302431.378, "COOR_N": 2785427.135, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.528387863688636, 25.174687207456287 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 152, "PF_PLOTS_I": 3092, "PF_ID": "s092", "COOR_E": 302400.059, "COOR_N": 2785444.955, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.528077855756734, 25.17484919160994 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 153, "PF_PLOTS_I": 3093, "PF_ID": "s093", "COOR_E": 302407.669, "COOR_N": 2785473.434, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.528154459046831, 25.17510602462394 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 154, "PF_PLOTS_I": 3094, "PF_ID": "s094", "COOR_E": 302397.112, "COOR_N": 2785424.823, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.52804783685967, 25.174667548462352 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 155, "PF_PLOTS_I": 3095, "PF_ID": "s095", "COOR_E": 302373.302, "COOR_N": 2785434.251, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.527811995599578, 25.174753505047377 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 156, "PF_PLOTS_I": 3096, "PF_ID": "s096", "COOR_E": 302380.541, "COOR_N": 2785459.943, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.527884809373987, 25.174985190890492 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 157, "PF_PLOTS_I": 3097, "PF_ID": "s097", "COOR_E": 302496.038, "COOR_N": 2785043.442, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.529014374723786, 25.171221015907243 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 158, "PF_PLOTS_I": 3098, "PF_ID": "s098", "COOR_E": 302473.727, "COOR_N": 2784999.895, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.528791348145901, 25.17082867348898 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 159, "PF_PLOTS_I": 3099, "PF_ID": "s099", "COOR_E": 302480.999, "COOR_N": 2784982.006, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.528862791208439, 25.170666917553351 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 160, "PF_PLOTS_I": 3100, "PF_ID": "s100", "COOR_E": 302450.98, "COOR_N": 2784967.84, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.528564445155737, 25.170540093546109 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 161, "PF_PLOTS_I": 3101, "PF_ID": "s101", "COOR_E": 302417.768, "COOR_N": 2784953.4, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.528234413902553, 25.170410908353123 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 162, "PF_PLOTS_I": 3102, "PF_ID": "s102", "COOR_E": 302395.744, "COOR_N": 2784967.198, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.528016468306049, 25.17053625341115 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 163, "PF_PLOTS_I": 3103, "PF_ID": "s103", "COOR_E": 303339.64, "COOR_N": 2786735.689, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.537450111405022, 25.186468087054173 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 164, "PF_PLOTS_I": 3104, "PF_ID": "s104", "COOR_E": 303356.131, "COOR_N": 2786748.77, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.537614244647088, 25.186585584748727 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 165, "PF_PLOTS_I": 3105, "PF_ID": "s105", "COOR_E": 303382.459, "COOR_N": 2786726.929, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.53787459153672, 25.186387459995629 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 166, "PF_PLOTS_I": 3106, "PF_ID": "s106", "COOR_E": 303417.164, "COOR_N": 2786704.383, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.538218021567815, 25.186182667896897 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 167, "PF_PLOTS_I": 3107, "PF_ID": "s107", "COOR_E": 303437.054, "COOR_N": 2786722.648, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.538416083868285, 25.186346841927225 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 168, "PF_PLOTS_I": 3108, "PF_ID": "s108", "COOR_E": 303435.074, "COOR_N": 2786692.548, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.538395245050936, 25.18607517782398 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 169, "PF_PLOTS_I": 3109, "PF_ID": "s109", "COOR_E": 303171.919, "COOR_N": 2786492.32, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.535776463032335, 25.184277044372362 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 170, "PF_PLOTS_I": 3110, "PF_ID": "s110", "COOR_E": 303200.131, "COOR_N": 2786528.578, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.536057794900515, 25.184603359298002 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 171, "PF_PLOTS_I": 3111, "PF_ID": "s111", "COOR_E": 303173.602, "COOR_N": 2786529.479, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.535794627751244, 25.184612446684238 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 172, "PF_PLOTS_I": 3112, "PF_ID": "s112", "COOR_E": 303714.173, "COOR_N": 2786752.087, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.541166681803347, 25.186602578797903 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 173, "PF_PLOTS_I": 3113, "PF_ID": "s113", "COOR_E": 303772.047, "COOR_N": 2786790.209, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.541742399246189, 25.186944633453333 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 174, "PF_PLOTS_I": 3114, "PF_ID": "s114", "COOR_E": 304208.681, "COOR_N": 2782459.56, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.54590035304507, 25.147832595179416 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 175, "PF_PLOTS_I": 3115, "PF_ID": "s115", "COOR_E": 303624.552, "COOR_N": 2786726.508, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.540276490776549, 25.186374907549201 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 176, "PF_PLOTS_I": 3116, "PF_ID": "s116", "COOR_E": 303665.7, "COOR_N": 2786723.169, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.540684605834542, 25.186343272475302 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 177, "PF_PLOTS_I": 3117, "PF_ID": "s117", "COOR_E": 302718.51, "COOR_N": 2786309.833, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.531270912544244, 25.18264581387475 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 178, "PF_PLOTS_I": 3118, "PF_ID": "s118", "COOR_E": 302694.608, "COOR_N": 2786296.015, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.531033236039406, 25.182521919318408 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 179, "PF_PLOTS_I": 3119, "PF_ID": "s119", "COOR_E": 304025.868, "COOR_N": 2786017.339, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.54422968814751, 25.179958109587353 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 180, "PF_PLOTS_I": 3120, "PF_ID": "s120", "COOR_E": 304041.511, "COOR_N": 2786026.06, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.544385231060943, 25.180036269821503 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 181, "PF_PLOTS_I": 3121, "PF_ID": "s121", "COOR_E": 303017.655, "COOR_N": 2786240.55, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.534236052737995, 25.182009656846873 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 182, "PF_PLOTS_I": 3122, "PF_ID": "s122", "COOR_E": 303035.064, "COOR_N": 2786245.419, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.534408961131732, 25.182052989373737 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 183, "PF_PLOTS_I": 3123, "PF_ID": "s123", "COOR_E": 303042.348, "COOR_N": 2786266.992, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.534482076157062, 25.182247484467329 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 184, "PF_PLOTS_I": 3124, "PF_ID": "s124", "COOR_E": 303074.867, "COOR_N": 2786301.772, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.534806072043011, 25.182560304593032 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 185, "PF_PLOTS_I": 3125, "PF_ID": "s125", "COOR_E": 303087.808, "COOR_N": 2786272.823, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.534933320659533, 25.182298495564243 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 186, "PF_PLOTS_I": 3126, "PF_ID": "s126", "COOR_E": 303102.039, "COOR_N": 2786254.051, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.535073768222702, 25.182128515766099 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 187, "PF_PLOTS_I": 3127, "PF_ID": "s127", "COOR_E": 304165.485, "COOR_N": 2786160.869, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.545620588623223, 25.181248762744936 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 188, "PF_PLOTS_I": 3128, "PF_ID": "s128", "COOR_E": 304147.81, "COOR_N": 2786140.026, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.54544439669516, 25.181061243713316 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 189, "PF_PLOTS_I": 3129, "PF_ID": "s129", "COOR_E": 304128.778, "COOR_N": 2786163.812, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.545256535473541, 25.181276673812196 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 190, "PF_PLOTS_I": 3130, "PF_ID": "s130", "COOR_E": 304126.558, "COOR_N": 2786194.843, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.545235757414062, 25.181556895269544 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 191, "PF_PLOTS_I": 3131, "PF_ID": "s131", "COOR_E": 304105.475, "COOR_N": 2786207.909, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.545027116441759, 25.181675622514835 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 192, "PF_PLOTS_I": 3132, "PF_ID": "s132", "COOR_E": 304092.319, "COOR_N": 2786191.357, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.544895930303966, 25.181526675794817 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 193, "PF_PLOTS_I": 3133, "PF_ID": "s133", "COOR_E": 304151.137, "COOR_N": 2786191.357, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.545479467006501, 25.181524525778734 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 194, "PF_PLOTS_I": 3134, "PF_ID": "s134", "COOR_E": 302672.099, "COOR_N": 2786283.623, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.530809435948157, 25.182410848402046 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 195, "PF_PLOTS_I": 3135, "PF_ID": "s135", "COOR_E": 302681.85, "COOR_N": 2786296.448, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.530906678813636, 25.182526282552917 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 196, "PF_PLOTS_I": 3136, "PF_ID": "s136", "COOR_E": 302718.703, "COOR_N": 2786292.682, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.531272155914237, 25.182490971622315 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 197, "PF_PLOTS_I": 3137, "PF_ID": "s137", "COOR_E": 302755.359, "COOR_N": 2786311.002, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.531636543518317, 25.182655054252482 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 198, "PF_PLOTS_I": 3138, "PF_ID": "s138", "COOR_E": 302783.812, "COOR_N": 2786276.839, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.531917491552989, 25.18234562386483 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 199, "PF_PLOTS_I": 3139, "PF_ID": "s139", "COOR_E": 302789.816, "COOR_N": 2786254.776, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.531976193265407, 25.182146229923358 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 200, "PF_PLOTS_I": 3140, "PF_ID": "s140", "COOR_E": 302798.919, "COOR_N": 2786240.708, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.53206595376102, 25.182018902465753 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 201, "PF_PLOTS_I": 3141, "PF_ID": "s141", "COOR_E": 304544.262, "COOR_N": 2786113.029, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.549376510000158, 25.180802970900285 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 202, "PF_PLOTS_I": 3142, "PF_ID": "s142", "COOR_E": 304509.326, "COOR_N": 2786130.94, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.549030634793198, 25.180965953360666 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 203, "PF_PLOTS_I": 3143, "PF_ID": "s143", "COOR_E": 304500.276, "COOR_N": 2786155.447, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.548941840921202, 25.181187529561527 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 204, "PF_PLOTS_I": 3144, "PF_ID": "s144", "COOR_E": 304526.48, "COOR_N": 2786154.242, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.549201762637566, 25.181175686457038 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 205, "PF_PLOTS_I": 3145, "PF_ID": "s145", "COOR_E": 304544.391, "COOR_N": 2786167.56, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.549379997151448, 25.181295258400603 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 206, "PF_PLOTS_I": 3146, "PF_ID": "s146", "COOR_E": 305057.204, "COOR_N": 2786314.287, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.554473622801069, 25.182600895171376 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 207, "PF_PLOTS_I": 3147, "PF_ID": "s147", "COOR_E": 305203.361, "COOR_N": 2786472.714, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.555930154923885, 25.184025691653812 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 208, "PF_PLOTS_I": 3148, "PF_ID": "s148", "COOR_E": 305208.285, "COOR_N": 2786497.355, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.555980016674482, 25.184247960546337 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 209, "PF_PLOTS_I": 3149, "PF_ID": "s149", "COOR_E": 305190.445, "COOR_N": 2786507.219, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.555803425422098, 25.184337675127694 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 210, "PF_PLOTS_I": 3150, "PF_ID": "s150", "COOR_E": 305180.912, "COOR_N": 2786529.237, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.555709747655357, 25.184536803088754 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 211, "PF_PLOTS_I": 3151, "PF_ID": "s151", "COOR_E": 305155.449, "COOR_N": 2786481.209, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.555455156118654, 25.184104167553738 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 212, "PF_PLOTS_I": 3152, "PF_ID": "s152", "COOR_E": 305130.312, "COOR_N": 2786491.591, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.555206190463849, 25.184198829559769 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 213, "PF_PLOTS_I": 3153, "PF_ID": "s153", "COOR_E": 307109.571, "COOR_N": 2786678.92, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.574850822841313, 25.185814991755393 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 214, "PF_PLOTS_I": 3154, "PF_ID": "s154", "COOR_E": 307125.568, "COOR_N": 2786650.335, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.575008323412789, 25.185556318064553 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 215, "PF_PLOTS_I": 3155, "PF_ID": "s155", "COOR_E": 307139.354, "COOR_N": 2786673.312, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.575146072799697, 25.185763216000073 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 216, "PF_PLOTS_I": 3156, "PF_ID": "s156", "COOR_E": 307171.274, "COOR_N": 2786650.183, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.575461781355827, 25.185553182789896 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 217, "PF_PLOTS_I": 3157, "PF_ID": "s157", "COOR_E": 307183.351, "COOR_N": 2786678.922, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.575582820327853, 25.185812163883558 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 218, "PF_PLOTS_I": 3158, "PF_ID": "s158", "COOR_E": 307193.054, "COOR_N": 2786761.722, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.57568260011422, 25.186559283162932 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 219, "PF_PLOTS_I": 3159, "PF_ID": "s159", "COOR_E": 307368.973, "COOR_N": 2786219.144, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.577404877847471, 25.181654248422458 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 220, "PF_PLOTS_I": 3160, "PF_ID": "s160", "COOR_E": 307332.694, "COOR_N": 2786220.831, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.577045025166385, 25.181670882227994 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 221, "PF_PLOTS_I": 3161, "PF_ID": "s161", "COOR_E": 307290.241, "COOR_N": 2786225.738, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.576624056824912, 25.181716823086454 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 222, "PF_PLOTS_I": 3162, "PF_ID": "s162", "COOR_E": 307248.58, "COOR_N": 2786202.218, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.576209738675587, 25.181506101502745 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 223, "PF_PLOTS_I": 3163, "PF_ID": "s163", "COOR_E": 307230.721, "COOR_N": 2786179.983, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.576031615771825, 25.181306060256688 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 224, "PF_PLOTS_I": 3164, "PF_ID": "s164", "COOR_E": 307225.627, "COOR_N": 2786152.291, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.575979903049316, 25.181056261673316 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 225, "PF_PLOTS_I": 3165, "PF_ID": "s165", "COOR_E": 307495.809, "COOR_N": 2786065.553, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.578656670676438, 25.180262758546682 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 226, "PF_PLOTS_I": 3166, "PF_ID": "s166", "COOR_E": 307437.69, "COOR_N": 2786055.227, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.578079638216266, 25.180171792101046 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 227, "PF_PLOTS_I": 3167, "PF_ID": "s167", "COOR_E": 307191.62, "COOR_N": 2786039.569, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.575637739907719, 25.180039953016742 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 228, "PF_PLOTS_I": 3168, "PF_ID": "s168", "COOR_E": 301810.498, "COOR_N": 2785185.997, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.522219125867281, 25.172532124341561 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 229, "PF_PLOTS_I": 3169, "PF_ID": "s169", "COOR_E": 301818.843, "COOR_N": 2785168.173, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.522301225652527, 25.172370920703784 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 230, "PF_PLOTS_I": 3170, "PF_ID": "s170", "COOR_E": 301830.994, "COOR_N": 2785146.717, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.522420942287894, 25.172176794784185 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 231, "PF_PLOTS_I": 3171, "PF_ID": "s171", "COOR_E": 301637.162, "COOR_N": 2784884.695, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.520488019170571, 25.169818085782502 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 232, "PF_PLOTS_I": 3172, "PF_ID": "s172", "COOR_E": 301657.99, "COOR_N": 2784884.695, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.520694636025766, 25.16981735910392 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 233, "PF_PLOTS_I": 3173, "PF_ID": "s173", "COOR_E": 301686.281, "COOR_N": 2784859.515, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.520974320876476, 25.169589051425934 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 234, "PF_PLOTS_I": 3174, "PF_ID": "s174", "COOR_E": 305627.171, "COOR_N": 2786956.539, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.56015484733382, 25.188377673666391 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 235, "PF_PLOTS_I": 3175, "PF_ID": "s175", "COOR_E": 305579.421, "COOR_N": 2786996.892, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.559682756198995, 25.188743762521227 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 236, "PF_PLOTS_I": 3176, "PF_ID": "s176", "COOR_E": 305560.111, "COOR_N": 2787042.657, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.559493057058205, 25.189157641053225 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 237, "PF_PLOTS_I": 3177, "PF_ID": "s177", "COOR_E": 305550.754, "COOR_N": 2787004.641, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.559398652704118, 25.188814794125175 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 238, "PF_PLOTS_I": 3178, "PF_ID": "s178", "COOR_E": 305581.908, "COOR_N": 2786963.064, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.559706035729207, 25.188438279276141 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 239, "PF_PLOTS_I": 3179, "PF_ID": "s179", "COOR_E": 305602.237, "COOR_N": 2786936.391, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.559906631028184, 25.188196719537093 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 240, "PF_PLOTS_I": 3180, "PF_ID": "s180", "COOR_E": 305011.159, "COOR_N": 2786169.423, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.554010890820663, 25.181294811478327 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 241, "PF_PLOTS_I": 3181, "PF_ID": "s181", "COOR_E": 305005.052, "COOR_N": 2786138.999, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.553949061356477, 25.181020378250821 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 242, "PF_PLOTS_I": 3182, "PF_ID": "s182", "COOR_E": 305022.252, "COOR_N": 2786118.713, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.554118874339338, 25.180836602537969 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 243, "PF_PLOTS_I": 3183, "PF_ID": "s183", "COOR_E": 305064.165, "COOR_N": 2786109.253, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.554534306083866, 25.180749642373911 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 244, "PF_PLOTS_I": 3184, "PF_ID": "s184", "COOR_E": 305092.489, "COOR_N": 2786091.619, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.554814587007826, 25.180589393829965 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 245, "PF_PLOTS_I": 3185, "PF_ID": "s185", "COOR_E": 305127.487, "COOR_N": 2786070.387, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.555160932448956, 25.180396414550245 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 246, "PF_PLOTS_I": 3186, "PF_ID": "s186", "COOR_E": 305038.182, "COOR_N": 2786251.339, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.554282332150919, 25.182033323988112 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 247, "PF_PLOTS_I": 3187, "PF_ID": "s187", "COOR_E": 305060.739, "COOR_N": 2786300.395, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.554508126370237, 25.182475350370353 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 248, "PF_PLOTS_I": 3188, "PF_ID": "s188", "COOR_E": 304962.003, "COOR_N": 2786255.063, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.55352670584098, 25.182069772501194 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 249, "PF_PLOTS_I": 3189, "PF_ID": "s189", "COOR_E": 304918.589, "COOR_N": 2786260.423, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.553096210209517, 25.182119771826656 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 250, "PF_PLOTS_I": 3190, "PF_ID": "s190", "COOR_E": 304923.628, "COOR_N": 2786295.905, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.553147648785213, 25.182439907327758 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 251, "PF_PLOTS_I": 3191, "PF_ID": "s191", "COOR_E": 307204.667, "COOR_N": 2786091.877, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.575769396670736, 25.180511670902252 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 252, "PF_PLOTS_I": 3192, "PF_ID": "s192", "COOR_E": 307228.61, "COOR_N": 2786072.711, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.576006119916713, 25.180337721365113 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 253, "PF_PLOTS_I": 3193, "PF_ID": "s193", "COOR_E": 301040.459, "COOR_N": 2783871.114, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.514530233417105, 25.160688354477962 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 254, "PF_PLOTS_I": 3194, "PF_ID": "s194", "COOR_E": 301076.343, "COOR_N": 2783867.352, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.514886039268276, 25.160653154388715 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 255, "PF_PLOTS_I": 3195, "PF_ID": "s195", "COOR_E": 301126.113, "COOR_N": 2783859.847, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.515379443858862, 25.160583682899698 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 256, "PF_PLOTS_I": 3196, "PF_ID": "s196", "COOR_E": 301178.823, "COOR_N": 2783866.976, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.515902566660245, 25.160646221343896 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 257, "PF_PLOTS_I": 3197, "PF_ID": "s197", "COOR_E": 301048.5, "COOR_N": 2783885.172, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.514610528016249, 25.160814990448596 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 258, "PF_PLOTS_I": 3198, "PF_ID": "s198", "COOR_E": 300944.686, "COOR_N": 2783727.224, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.513574781017311, 25.159392638657966 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 259, "PF_PLOTS_I": 3199, "PF_ID": "s199", "COOR_E": 300882.335, "COOR_N": 2783725.649, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.5129562422253, 25.159380563782218 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 260, "PF_PLOTS_I": 3200, "PF_ID": "s200", "COOR_E": 301116.571, "COOR_N": 2783672.425, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.515277683973721, 25.158891999072583 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 261, "PF_PLOTS_I": 4001, "PF_ID": "s8001", "COOR_E": 303771.543, "COOR_N": 2785498.579, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.541685844826247, 25.175284123815246 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 262, "PF_PLOTS_I": 4002, "PF_ID": "s8002", "COOR_E": 303769.286, "COOR_N": 2785467.831, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.541662227298801, 25.175006619922016 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 263, "PF_PLOTS_I": 4003, "PF_ID": "s8003", "COOR_E": 303745.656, "COOR_N": 2785442.113, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.541426779383585, 25.174775301525383 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 264, "PF_PLOTS_I": 4004, "PF_ID": "s8004", "COOR_E": 303752.009, "COOR_N": 2785420.516, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.54148894300728, 25.174580098198518 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 265, "PF_PLOTS_I": 4005, "PF_ID": "s8005", "COOR_E": 303723.133, "COOR_N": 2785376.096, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.541200707865428, 25.174180132440497 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 266, "PF_PLOTS_I": 4006, "PF_ID": "s8006", "COOR_E": 303689.844, "COOR_N": 2785340.815, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.540869059818547, 25.173862830870029 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 267, "PF_PLOTS_I": 4007, "PF_ID": "s8007", "COOR_E": 303725.24, "COOR_N": 2785328.462, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.541219711371951, 25.173750027150987 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 268, "PF_PLOTS_I": 4008, "PF_ID": "s8008", "COOR_E": 303721.706, "COOR_N": 2785282.821, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.541182833248385, 25.173338118819391 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 269, "PF_PLOTS_I": 4009, "PF_ID": "s8009", "COOR_E": 303697.208, "COOR_N": 2785244.827, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.540938289494576, 25.172996006073724 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 270, "PF_PLOTS_I": 4010, "PF_ID": "s8010", "COOR_E": 303707.381, "COOR_N": 2785216.303, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.541038072783536, 25.172738129001644 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 271, "PF_PLOTS_I": 4011, "PF_ID": "s8011", "COOR_E": 303739.971, "COOR_N": 2785201.67, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.54136079358608, 25.172604843418551 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 272, "PF_PLOTS_I": 4012, "PF_ID": "s8012", "COOR_E": 303727.138, "COOR_N": 2785148.759, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.541231376672272, 25.172127640507419 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 273, "PF_PLOTS_I": 4013, "PF_ID": "s8013", "COOR_E": 303678.455, "COOR_N": 2785151.938, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.540748553183036, 25.172158105030224 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 274, "PF_PLOTS_I": 4014, "PF_ID": "s8014", "COOR_E": 303707.781, "COOR_N": 2785107.814, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.541037717811449, 25.171758700370816 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 275, "PF_PLOTS_I": 4015, "PF_ID": "s8015", "COOR_E": 303729.357, "COOR_N": 2785041.041, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.541249095874434, 25.171155106252414 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 276, "PF_PLOTS_I": 4016, "PF_ID": "s8016", "COOR_E": 303716.648, "COOR_N": 2784998.816, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.541121336995161, 25.170774369427857 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 277, "PF_PLOTS_I": 4017, "PF_ID": "s8017", "COOR_E": 303920.092, "COOR_N": 2784748.315, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.543129520806389, 25.168505511125371 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 278, "PF_PLOTS_I": 4018, "PF_ID": "s8018", "COOR_E": 303889.256, "COOR_N": 2784770.846, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.542824528127383, 25.168710037989044 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 279, "PF_PLOTS_I": 4019, "PF_ID": "s8019", "COOR_E": 303826.104, "COOR_N": 2784737.779, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.542196738525021, 25.168413812529149 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 280, "PF_PLOTS_I": 4020, "PF_ID": "s8020", "COOR_E": 303804.713, "COOR_N": 2784844.913, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.541988815737227, 25.16938177140711 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 281, "PF_PLOTS_I": 4021, "PF_ID": "s8021", "COOR_E": 305293.14, "COOR_N": 2785736.218, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.556790659016727, 25.177373448301044 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 282, "PF_PLOTS_I": 4022, "PF_ID": "s8022", "COOR_E": 305261.952, "COOR_N": 2785764.325, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.556482404444708, 25.177628354892043 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 283, "PF_PLOTS_I": 4023, "PF_ID": "s8023", "COOR_E": 305953.078, "COOR_N": 2783737.274, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.563254785653299, 25.159302715267039 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 284, "PF_PLOTS_I": 4024, "PF_ID": "s8024", "COOR_E": 305976.887, "COOR_N": 2783672.688, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.563488273713645, 25.15871875006102 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 285, "PF_PLOTS_I": 4025, "PF_ID": "s8025", "COOR_E": 305928.468, "COOR_N": 2783668.216, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.56300781158204, 25.158680204915072 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 286, "PF_PLOTS_I": 4026, "PF_ID": "s8026", "COOR_E": 305981.448, "COOR_N": 2783641.158, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.563532207252152, 25.158433932740074 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 287, "PF_PLOTS_I": 4027, "PF_ID": "s8027", "COOR_E": 305924.835, "COOR_N": 2783622.682, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.562969888382966, 25.158269272055101 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 288, "PF_PLOTS_I": 4028, "PF_ID": "s8028", "COOR_E": 305913.624, "COOR_N": 2783640.953, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.562859441804747, 25.158434640970096 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 289, "PF_PLOTS_I": 4029, "PF_ID": "s8029", "COOR_E": 305727.489, "COOR_N": 2783461.913, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.561005746052118, 25.156825317609169 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 290, "PF_PLOTS_I": 4030, "PF_ID": "s8030", "COOR_E": 305741.366, "COOR_N": 2783521.164, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.561145839556886, 25.157359699937135 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 291, "PF_PLOTS_I": 4031, "PF_ID": "s8031", "COOR_E": 305783.092, "COOR_N": 2783519.629, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.561559659387882, 25.157344273265888 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 292, "PF_PLOTS_I": 4032, "PF_ID": "s8032", "COOR_E": 305738.714, "COOR_N": 2783551.479, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.56112078617187, 25.157633476195194 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 293, "PF_PLOTS_I": 4033, "PF_ID": "s8033", "COOR_E": 305768.992, "COOR_N": 2783567.12, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.561421762886098, 25.157773540976677 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 294, "PF_PLOTS_I": 4034, "PF_ID": "s8034", "COOR_E": 304170.365, "COOR_N": 2784581.186, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.54560551518118, 25.166987578290176 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 295, "PF_PLOTS_I": 4035, "PF_ID": "s8035", "COOR_E": 304104.925, "COOR_N": 2784609.972, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.544957513361368, 25.167249842987413 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 296, "PF_PLOTS_I": 4036, "PF_ID": "s8036", "COOR_E": 304058.654, "COOR_N": 2784643.334, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.544499847210275, 25.167552716650466 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 297, "PF_PLOTS_I": 4037, "PF_ID": "s8037", "COOR_E": 304008.308, "COOR_N": 2784633.121, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.544000009446279, 25.167462352204577 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 298, "PF_PLOTS_I": 4038, "PF_ID": "s8038", "COOR_E": 304002.437, "COOR_N": 2784694.011, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.543944208484078, 25.168012267421574 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 299, "PF_PLOTS_I": 4039, "PF_ID": "s8039", "COOR_E": 303950.154, "COOR_N": 2784651.726, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.543423870861389, 25.16763243285774 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 300, "PF_PLOTS_I": 4040, "PF_ID": "s8040", "COOR_E": 303896.194, "COOR_N": 2784675.697, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.542889549420437, 25.167850801761499 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 301, "PF_PLOTS_I": 4041, "PF_ID": "s8041", "COOR_E": 306751.188, "COOR_N": 2786282.006, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.571278467623785, 25.182245538618972 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 302, "PF_PLOTS_I": 4042, "PF_ID": "s8042", "COOR_E": 306830.385, "COOR_N": 2786345.139, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.5720668478357, 25.182812449598543 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 303, "PF_PLOTS_I": 4043, "PF_ID": "s8043", "COOR_E": 306763.265, "COOR_N": 2786309.265, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.571399432094083, 25.182491162445597 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 304, "PF_PLOTS_I": 4044, "PF_ID": "s8044", "COOR_E": 306724.829, "COOR_N": 2786233.888, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.571014933564257, 25.181812152422623 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 305, "PF_PLOTS_I": 4045, "PF_ID": "s8045", "COOR_E": 306595.297, "COOR_N": 2785751.854, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.569709608532591, 25.177465437810884 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 306, "PF_PLOTS_I": 4046, "PF_ID": "s8046", "COOR_E": 306595.289, "COOR_N": 2785789.927, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.569711127098287, 25.177809150615026 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 307, "PF_PLOTS_I": 4047, "PF_ID": "s8047", "COOR_E": 306587.483, "COOR_N": 2785905.78, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.569638547895849, 25.178855337437543 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 308, "PF_PLOTS_I": 4048, "PF_ID": "s8048", "COOR_E": 306587.567, "COOR_N": 2785957.518, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.569641552573358, 25.179322410477798 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 309, "PF_PLOTS_I": 4049, "PF_ID": "s8049", "COOR_E": 306537.316, "COOR_N": 2785692.573, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.569131911720419, 25.176932478573534 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 310, "PF_PLOTS_I": 4050, "PF_ID": "s8050", "COOR_E": 304522.148, "COOR_N": 2783439.562, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.549049013386011, 25.156668351647181 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 311, "PF_PLOTS_I": 4051, "PF_ID": "s8051", "COOR_E": 304541.487, "COOR_N": 2783432.182, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.549240539344964, 25.15660101524109 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 312, "PF_PLOTS_I": 4052, "PF_ID": "s8052", "COOR_E": 304608.824, "COOR_N": 2783403.649, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.549907302419797, 25.156340946678235 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 313, "PF_PLOTS_I": 4053, "PF_ID": "s8053", "COOR_E": 304635.123, "COOR_N": 2783427.972, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.550169147359327, 25.156559560372102 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 314, "PF_PLOTS_I": 4054, "PF_ID": "s8054", "COOR_E": 304653.933, "COOR_N": 2783520.036, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.550359453473774, 25.157390000396855 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 315, "PF_PLOTS_I": 4055, "PF_ID": "s8055", "COOR_E": 304625.831, "COOR_N": 2783608.265, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.550084279263714, 25.158187547965227 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 316, "PF_PLOTS_I": 4056, "PF_ID": "s8056", "COOR_E": 304605.034, "COOR_N": 2783585.432, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.5498770663648, 25.157982182952242 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 317, "PF_PLOTS_I": 4057, "PF_ID": "s8057", "COOR_E": 304651.737, "COOR_N": 2783633.458, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.550342265527306, 25.158414029874482 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 318, "PF_PLOTS_I": 4058, "PF_ID": "s8058", "COOR_E": 304673.079, "COOR_N": 2783570.711, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.550551417912317, 25.157846777008292 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 319, "PF_PLOTS_I": 4059, "PF_ID": "s8059", "COOR_E": 304574.144, "COOR_N": 2783397.27, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.549563053101537, 25.15628463553502 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 320, "PF_PLOTS_I": 4060, "PF_ID": "s8060", "COOR_E": 304489.543, "COOR_N": 2783411.015, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.548724450228363, 25.156411834399169 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 321, "PF_PLOTS_I": 4061, "PF_ID": "s8061", "COOR_E": 304118.853, "COOR_N": 2784129.078, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.545076377855253, 25.162907930881712 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 322, "PF_PLOTS_I": 4062, "PF_ID": "s8062", "COOR_E": 304123.793, "COOR_N": 2784069.805, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.545123001703544, 25.162372646909038 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 323, "PF_PLOTS_I": 4063, "PF_ID": "s8063", "COOR_E": 304141.606, "COOR_N": 2784028.709, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.545298048123058, 25.162000990589242 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 324, "PF_PLOTS_I": 4064, "PF_ID": "s8064", "COOR_E": 304166.526, "COOR_N": 2783998.011, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.54554400859432, 25.161722945165739 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 325, "PF_PLOTS_I": 4065, "PF_ID": "s8065", "COOR_E": 304207.073, "COOR_N": 2783989.009, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.545945850858317, 25.161640194527106 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 326, "PF_PLOTS_I": 4066, "PF_ID": "s8066", "COOR_E": 304255.851, "COOR_N": 2783936.053, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.546427571389742, 25.161160334507997 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 327, "PF_PLOTS_I": 4067, "PF_ID": "s8067", "COOR_E": 304287.63, "COOR_N": 2783871.938, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.546740219722182, 25.16058035472911 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 328, "PF_PLOTS_I": 4068, "PF_ID": "s8068", "COOR_E": 304312.427, "COOR_N": 2783848.537, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.546985247822846, 25.160368187171052 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 329, "PF_PLOTS_I": 4069, "PF_ID": "s8069", "COOR_E": 304348.446, "COOR_N": 2783844.845, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.547342383813501, 25.160333536246387 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 330, "PF_PLOTS_I": 4070, "PF_ID": "s8070", "COOR_E": 304364.324, "COOR_N": 2783802.91, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.547498192994937, 25.159954374032509 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 331, "PF_PLOTS_I": 4071, "PF_ID": "s8071", "COOR_E": 304439.397, "COOR_N": 2783770.653, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.548241563312345, 25.159660409503207 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 332, "PF_PLOTS_I": 4072, "PF_ID": "s8072", "COOR_E": 304467.499, "COOR_N": 2783820.877, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.548522342852351, 25.160112788177635 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 333, "PF_PLOTS_I": 4073, "PF_ID": "s8073", "COOR_E": 304491.415, "COOR_N": 2783764.235, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.548757285252762, 25.159600557774613 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 334, "PF_PLOTS_I": 4074, "PF_ID": "s8074", "COOR_E": 304523.249, "COOR_N": 2783802.066, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.549074584510763, 25.159940916935312 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 335, "PF_PLOTS_I": 4075, "PF_ID": "s8075", "COOR_E": 304505.239, "COOR_N": 2783859.326, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.54889825144565, 25.160458509798239 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 336, "PF_PLOTS_I": 4076, "PF_ID": "s8076", "COOR_E": 304556.161, "COOR_N": 2783815.658, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.549401598296427, 25.160062411439345 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 337, "PF_PLOTS_I": 4077, "PF_ID": "s8077", "COOR_E": 304600.463, "COOR_N": 2783866.439, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.549843099013117, 25.160519219596832 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 338, "PF_PLOTS_I": 4078, "PF_ID": "s8078", "COOR_E": 304661.487, "COOR_N": 2783965.011, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.550452411532021, 25.161406856054334 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 339, "PF_PLOTS_I": 4079, "PF_ID": "s8079", "COOR_E": 304626.289, "COOR_N": 2784003.356, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.550104820622664, 25.161754323667541 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 340, "PF_PLOTS_I": 4080, "PF_ID": "s8080", "COOR_E": 305157.281, "COOR_N": 2783305.64, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.555343444603125, 25.155435841024094 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 341, "PF_PLOTS_I": 4081, "PF_ID": "s8081", "COOR_E": 305133.492, "COOR_N": 2783284.876, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.555106634932329, 25.155249273081367 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 342, "PF_PLOTS_I": 4082, "PF_ID": "s8082", "COOR_E": 305126.689, "COOR_N": 2783255.704, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.555037964952589, 25.154986167820198 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 343, "PF_PLOTS_I": 4083, "PF_ID": "s8083", "COOR_E": 305226.017, "COOR_N": 2783365.929, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.556027699142078, 25.155977557848185 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 344, "PF_PLOTS_I": 4084, "PF_ID": "s8084", "COOR_E": 305195.751, "COOR_N": 2783344.856, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.55572662967073, 25.155788442586861 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 345, "PF_PLOTS_I": 4085, "PF_ID": "s8085", "COOR_E": 305175.347, "COOR_N": 2783410.684, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.55552693467888, 25.156383482109341 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 346, "PF_PLOTS_I": 4086, "PF_ID": "s8086", "COOR_E": 305185.749, "COOR_N": 2783444.477, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.55563149409339, 25.156688170440994 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 347, "PF_PLOTS_I": 4087, "PF_ID": "s8087", "COOR_E": 305219.467, "COOR_N": 2784335.792, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.556002423329744, 25.164733497382109 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 348, "PF_PLOTS_I": 4088, "PF_ID": "s8088", "COOR_E": 305143.782, "COOR_N": 2784295.272, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.555249995849849, 25.164370510280481 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 349, "PF_PLOTS_I": 4089, "PF_ID": "s8089", "COOR_E": 305090.336, "COOR_N": 2784331.256, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.554721299786394, 25.164697352770609 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 350, "PF_PLOTS_I": 4090, "PF_ID": "s8090", "COOR_E": 305045.922, "COOR_N": 2784256.517, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.554277677145492, 25.164024276985721 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 351, "PF_PLOTS_I": 4091, "PF_ID": "s8091", "COOR_E": 305095.514, "COOR_N": 2784208.243, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.554767639462597, 25.163586628133714 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 352, "PF_PLOTS_I": 4092, "PF_ID": "s8092", "COOR_E": 304926.807, "COOR_N": 2784195.65, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.553093622344662, 25.163479203082808 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 353, "PF_PLOTS_I": 4093, "PF_ID": "s8093", "COOR_E": 304837.205, "COOR_N": 2784139.164, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.552202511425094, 25.162972578493445 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 354, "PF_PLOTS_I": 4094, "PF_ID": "s8094", "COOR_E": 304820.286, "COOR_N": 2784212.48, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.552037662362736, 25.163635084203126 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 355, "PF_PLOTS_I": 4095, "PF_ID": "s8095", "COOR_E": 304769.513, "COOR_N": 2784195.888, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.551533340906118, 25.163487172631505 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 356, "PF_PLOTS_I": 4096, "PF_ID": "s8096", "COOR_E": 304779.94, "COOR_N": 2784121.666, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.551633758125021, 25.162816728229014 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 357, "PF_PLOTS_I": 4097, "PF_ID": "s8097", "COOR_E": 304723.703, "COOR_N": 2784138.285, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.551076587630192, 25.162968838220372 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 358, "PF_PLOTS_I": 4098, "PF_ID": "s8098", "COOR_E": 304711.145, "COOR_N": 2784075.015, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.550949451705051, 25.162398114827202 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 359, "PF_PLOTS_I": 4099, "PF_ID": "s8099", "COOR_E": 304663.659, "COOR_N": 2784096.745, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.550479294978132, 25.162596040437826 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 360, "PF_PLOTS_I": 4100, "PF_ID": "s8100", "COOR_E": 307460.173, "COOR_N": 2785970.519, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.578299080430156, 25.179406201572089 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 361, "PF_PLOTS_I": 4101, "PF_ID": "s8101", "COOR_E": 307478.541, "COOR_N": 2785912.654, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.578478840047111, 25.178883101038707 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 362, "PF_PLOTS_I": 4102, "PF_ID": "s8102", "COOR_E": 307510.413, "COOR_N": 2785891.422, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.578794129954517, 25.17869018836301 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 363, "PF_PLOTS_I": 4103, "PF_ID": "s8103", "COOR_E": 306732.06, "COOR_N": 2785654.125, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.571062279826336, 25.176577938122247 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 364, "PF_PLOTS_I": 4104, "PF_ID": "s8104", "COOR_E": 306684.999, "COOR_N": 2785671.763, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.570596147264851, 25.176738969925946 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 365, "PF_PLOTS_I": 4105, "PF_ID": "s8105", "COOR_E": 306644.964, "COOR_N": 2785644.855, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.570197844738743, 25.176497582766867 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 366, "PF_PLOTS_I": 4106, "PF_ID": "s8106", "COOR_E": 305385.663, "COOR_N": 2785853.532, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.557713371993913, 25.178429072403116 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 367, "PF_PLOTS_I": 4107, "PF_ID": "s8107", "COOR_E": 305357.025, "COOR_N": 2785844.424, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.557428886512341, 25.178347918215849 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 368, "PF_PLOTS_I": 4108, "PF_ID": "s8108", "COOR_E": 305455.596, "COOR_N": 2786150.385, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.558419375300517, 25.181106367156456 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 369, "PF_PLOTS_I": 4109, "PF_ID": "s8109", "COOR_E": 305485.902, "COOR_N": 2786132.375, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.558719299714795, 25.180942642660487 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 370, "PF_PLOTS_I": 4110, "PF_ID": "s8110", "COOR_E": 305508.814, "COOR_N": 2786131.715, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.55894658217457, 25.180935825893549 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 371, "PF_PLOTS_I": 4111, "PF_ID": "s8111", "COOR_E": 305532.68, "COOR_N": 2786122.383, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.559182971928365, 25.180850684489457 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 372, "PF_PLOTS_I": 4112, "PF_ID": "s8112", "COOR_E": 305565.737, "COOR_N": 2786133.911, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.559511404942128, 25.180953516511448 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 373, "PF_PLOTS_I": 4113, "PF_ID": "s8113", "COOR_E": 305592.486, "COOR_N": 2786128.232, "N1": 0, "X": 0, "Y": 0, "TNAME": "北投區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.559776547166621, 25.180901244326918 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 374, "PF_PLOTS_I": 4114, "PF_ID": "s8114", "COOR_E": 306021.904, "COOR_N": 2785568.433, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.564013532177796, 25.175831351719815 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 375, "PF_PLOTS_I": 4115, "PF_ID": "s8115", "COOR_E": 306051.956, "COOR_N": 2785585.664, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.564312381232952, 25.17598577209262 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 376, "PF_PLOTS_I": 4116, "PF_ID": "s8116", "COOR_E": 306067.114, "COOR_N": 2785626.47, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.564464454069935, 25.176353584290354 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 377, "PF_PLOTS_I": 4117, "PF_ID": "s8117", "COOR_E": 306113.229, "COOR_N": 2785646.139, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.564922761293261, 25.176529405102851 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 378, "PF_PLOTS_I": 4118, "PF_ID": "s8118", "COOR_E": 306158.89, "COOR_N": 2785665.667, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.565376559967689, 25.176703968765832 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 379, "PF_PLOTS_I": 4119, "PF_ID": "s8119", "COOR_E": 306199.266, "COOR_N": 2785699.7, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.565778533856417, 25.177009678691814 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 380, "PF_PLOTS_I": 4120, "PF_ID": "s8120", "COOR_E": 306216.078, "COOR_N": 2785740.767, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.565947032093447, 25.177379782719829 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_1", "COOR_E": 307058.0, "COOR_N": 2781270.0, "N1": 1, "X": 307058, "Y": 2781270, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.565874673332502, 25.138858620935814 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_2", "COOR_E": 306977.0, "COOR_N": 2781260.0, "N1": 2, "X": 306977, "Y": 2781259, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.565388809845942, 25.138658881515539 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_3", "COOR_E": 306965.0, "COOR_N": 2781260.0, "N1": 3, "X": 306965, "Y": 2781262, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.565158711457372, 25.138936875995089 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_4", "COOR_E": 306951.0, "COOR_N": 2781310.0, "N1": 4, "X": 306951, "Y": 2781309, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.564815134355044, 25.139214742471943 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_5", "COOR_E": 306937.0, "COOR_N": 2781250.0, "N1": 5, "X": 306937, "Y": 2781251, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.564649384832947, 25.138794051277269 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_6", "COOR_E": 306929.0, "COOR_N": 2781330.0, "N1": 6, "X": 306929, "Y": 2781333, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.564829498479909, 25.139556369628089 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_7", "COOR_E": 306937.0, "COOR_N": 2781250.0, "N1": 7, "X": 306937, "Y": 2781249, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.564405215093288, 25.138640544148981 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_8", "COOR_E": 306916.0, "COOR_N": 2781330.0, "N1": 8, "X": 306916, "Y": 2781333, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.564469021113766, 25.139432726245229 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_11", "COOR_E": 303728.0, "COOR_N": 2775580.0, "N1": 11, "X": 303728, "Y": 2775578, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.533101293828409, 25.089263931623638 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_12", "COOR_E": 303862.0, "COOR_N": 2775660.0, "N1": 12, "X": 303862, "Y": 2775655, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.533958630316221, 25.088285864865444 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_13", "COOR_E": 303958.0, "COOR_N": 2775780.0, "N1": 13, "X": 303958, "Y": 2775780, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.534346569310514, 25.089436493230966 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_14", "COOR_E": 304011.0, "COOR_N": 2775830.0, "N1": 14, "X": 304011, "Y": 2775827, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.535157275087272, 25.089645997799842 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_15", "COOR_E": 303978.0, "COOR_N": 2775840.0, "N1": 15, "X": 303978, "Y": 2775841, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.534599648362246, 25.090151078054653 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_16", "COOR_E": 304040.0, "COOR_N": 2775890.0, "N1": 16, "X": 304040, "Y": 2775889, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.535377325422473, 25.091970624045228 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_17", "COOR_E": 304034.0, "COOR_N": 2775880.0, "N1": 17, "X": 304034, "Y": 2775881, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.535672597251121, 25.090319982403926 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_18", "COOR_E": 304045.0, "COOR_N": 2775890.0, "N1": 18, "X": 304045, "Y": 2775885, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.536506691079509, 25.090588505974768 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_19", "COOR_E": 304185.0, "COOR_N": 2775950.0, "N1": 19, "X": 304185, "Y": 2775951, "TNAME": "中山區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.537172290998626, 25.090946513170294 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_20", "COOR_E": 304411.0, "COOR_N": 2776040.0, "N1": 20, "X": 304411, "Y": 2776036, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.538694098351598, 25.09213213446948 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_21", "COOR_E": 303902.0, "COOR_N": 2780730.0, "N1": 21, "X": 303902, "Y": 2780729, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.534129563853909, 25.13401103647708 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_22", "COOR_E": 303911.0, "COOR_N": 2780710.0, "N1": 22, "X": 303911, "Y": 2780714, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.534440577822679, 25.133661078207066 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_31", "COOR_E": 316290.0, "COOR_N": 2768640.0, "N1": 31, "X": 316290, "Y": 2768643, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.656822698316134, 25.024490735630184 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_32", "COOR_E": 316250.0, "COOR_N": 2768630.0, "N1": 32, "X": 316250, "Y": 2768630, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.656425755421992, 25.02437512655478 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_33", "COOR_E": 316255.0, "COOR_N": 2768630.0, "N1": 33, "X": 316255, "Y": 2768627, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.656529569519151, 25.024145327507512 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_34", "COOR_E": 316553.0, "COOR_N": 2768600.0, "N1": 34, "X": 316553, "Y": 2768602, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.659427760862243, 25.024341417466697 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_35", "COOR_E": 316973.0, "COOR_N": 2769080.0, "N1": 35, "X": 316973, "Y": 2769082, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.663611138272415, 25.028423798480588 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_36", "COOR_E": 316306.0, "COOR_N": 2768640.0, "N1": 36, "X": 316306, "Y": 2768636, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.656980889788059, 25.024426842651518 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_37", "COOR_E": 316301.0, "COOR_N": 2768600.0, "N1": 37, "X": 316301, "Y": 2768604, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.656929813306405, 25.024138179295822 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_38", "COOR_E": 306965.0, "COOR_N": 2781260.0, "N1": 38, "X": 306965, "Y": 2781262, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.564952026870529, 25.138789917098951 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_39", "COOR_E": 316214.0, "COOR_N": 2768610.0, "N1": 39, "X": 316214, "Y": 2768612, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.6560682053086, 25.024214203786766 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_40", "COOR_E": 316188.0, "COOR_N": 2768720.0, "N1": 40, "X": 316188, "Y": 2768722, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.655815871673227, 25.025208372114353 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_23", "COOR_E": 306982.0, "COOR_N": 2781300.0, "N1": 23, "X": 306982, "Y": 2781304, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.565122365786522, 25.139168433183013 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_25", "COOR_E": 307034.0, "COOR_N": 2781270.0, "N1": 25, "X": 307034, "Y": 2781265, "TNAME": "士林區", "TOWN": "士林區" }, "geometry": { "type": "Point", "coordinates": [ 121.5656364489368, 25.138814391140791 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_26", "COOR_E": 316923.0, "COOR_N": 2769100.0, "N1": 26, "X": 316923, "Y": 2769103, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.663116742372651, 25.028615586439095 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_27", "COOR_E": 316883.0, "COOR_N": 2769110.0, "N1": 27, "X": 316883, "Y": 2769110, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.662720749683686, 25.028680545646541 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_28", "COOR_E": 316870.0, "COOR_N": 2769150.0, "N1": 28, "X": 316870, "Y": 2769146, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.662593685731039, 25.029006111306053 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_29", "COOR_E": 316816.0, "COOR_N": 2769170.0, "N1": 29, "X": 316816, "Y": 2769168, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.662059700880121, 25.029207099912878 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_30", "COOR_E": 316789.0, "COOR_N": 2769190.0, "N1": 30, "X": 316789, "Y": 2769193, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.661793385197029, 25.029433979227985 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_41", "COOR_E": 305960.0, "COOR_N": 2775590.0, "N1": 41, "X": 305960, "Y": 2775591, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.554754155939193, 25.087631859855929 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_42", "COOR_E": 305992.0, "COOR_N": 2775600.0, "N1": 42, "X": 305992, "Y": 2775596, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.555071583191463, 25.087675812847522 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_43", "COOR_E": 306087.0, "COOR_N": 2775640.0, "N1": 43, "X": 306087, "Y": 2775635, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.556014931116493, 25.08802436867667 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_44", "COOR_E": 305885.0, "COOR_N": 2775660.0, "N1": 44, "X": 305885, "Y": 2775659, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.554013423963411, 25.088248516371628 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_45", "COOR_E": 305875.0, "COOR_N": 2775660.0, "N1": 45, "X": 305875, "Y": 2775659, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.553914291006151, 25.08824888615786 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_46", "COOR_E": 306064.0, "COOR_N": 2775600.0, "N1": 46, "X": 306064, "Y": 2775596, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.555785336973813, 25.087673143399012 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_47", "COOR_E": 305931.0, "COOR_N": 2775650.0, "N1": 47, "X": 305931, "Y": 2775651, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.554469110394621, 25.088174593206023 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_48", "COOR_E": 305640.0, "COOR_N": 2775920.0, "N1": 48, "X": 305640, "Y": 2775920, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.551595219310812, 25.090613777621474 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_49", "COOR_E": 305648.0, "COOR_N": 2775990.0, "N1": 49, "X": 305648, "Y": 2775988, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.551677277385593, 25.091227364096262 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_50", "COOR_E": 305624.0, "COOR_N": 2776000.0, "N1": 50, "X": 305624, "Y": 2776001, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.551439877977828, 25.091345607443237 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_51", "COOR_E": 305642.0, "COOR_N": 2776040.0, "N1": 51, "X": 305642, "Y": 2776043, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.551620020362932, 25.091724106497953 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_52", "COOR_E": 305666.0, "COOR_N": 2776060.0, "N1": 52, "X": 305666, "Y": 2776055, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.551858431771066, 25.091831554403299 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_53", "COOR_E": 305509.0, "COOR_N": 2776050.0, "N1": 53, "X": 305509, "Y": 2776049, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.550301756151981, 25.091783164594474 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_54", "COOR_E": 305496.0, "COOR_N": 2776030.0, "N1": 54, "X": 305496, "Y": 2776034, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.550172274504376, 25.091648227177963 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_55", "COOR_E": 305455.0, "COOR_N": 2775980.0, "N1": 55, "X": 305455, "Y": 2775976, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.549763480235029, 25.091126127958816 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_56", "COOR_E": 305494.0, "COOR_N": 2775810.0, "N1": 56, "X": 305494, "Y": 2775806, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.550143251941194, 25.089589992849774 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_57", "COOR_E": 305323.0, "COOR_N": 2775870.0, "N1": 57, "X": 305323, "Y": 2775870, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.548450631606528, 25.090174034008864 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_58", "COOR_E": 305267.0, "COOR_N": 2775900.0, "N1": 58, "X": 305267, "Y": 2775900, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.547896682755976, 25.090446913381008 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_59", "COOR_E": 305238.0, "COOR_N": 2775830.0, "N1": 59, "X": 305238, "Y": 2775830, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.547606381695175, 25.089816036900036 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_60", "COOR_E": 305249.0, "COOR_N": 2775720.0, "N1": 60, "X": 305249, "Y": 2775722, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.547711093282459, 25.08884064627269 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_61", "COOR_E": 305297.0, "COOR_N": 2775710.0, "N1": 61, "X": 305297, "Y": 2775705, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.548186251132165, 25.088685420142209 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_62", "COOR_E": 305217.0, "COOR_N": 2775770.0, "N1": 62, "X": 305217, "Y": 2775769, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.547395751861217, 25.089266116484193 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_63", "COOR_E": 305215.0, "COOR_N": 2775830.0, "N1": 63, "X": 305215, "Y": 2775833, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.547378493115517, 25.089843960526263 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_64", "COOR_E": 306049.0, "COOR_N": 2775540.0, "N1": 64, "X": 306049, "Y": 2775537, "TNAME": "中山區", "TOWN": "中山區" }, "geometry": { "type": "Point", "coordinates": [ 121.555634235361566, 25.087141067808506 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_65", "COOR_E": 313816.0, "COOR_N": 2768980.0, "N1": 65, "X": 313816, "Y": 2768982, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.632325960883705, 25.027657300901673 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_66", "COOR_E": 314213.0, "COOR_N": 2769010.0, "N1": 66, "X": 314213, "Y": 2769008, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.63626075564629, 25.02787524562271 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_67", "COOR_E": 314194.0, "COOR_N": 2769030.0, "N1": 67, "X": 314194, "Y": 2769034, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.636073707175854, 25.02811076832349 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_68", "COOR_E": 314195.0, "COOR_N": 2769040.0, "N1": 68, "X": 314195, "Y": 2769043, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.636269508380337, 25.028392833746931 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_69", "COOR_E": 314164.0, "COOR_N": 2769050.0, "N1": 69, "X": 314164, "Y": 2769054, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.635777387498479, 25.028292591077896 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_70", "COOR_E": 314138.0, "COOR_N": 2768610.0, "N1": 70, "X": 314138, "Y": 2768612, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.635499237183836, 25.024303491569171 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_71", "COOR_E": 314063.0, "COOR_N": 2768620.0, "N1": 71, "X": 314063, "Y": 2768623, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.634756647150752, 25.024405967690694 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_72", "COOR_E": 314203.0, "COOR_N": 2768820.0, "N1": 72, "X": 314203, "Y": 2768816, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.63615274366515, 25.026142370077093 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_73", "COOR_E": 314212.0, "COOR_N": 2768620.0, "N1": 73, "X": 314212, "Y": 2768618, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.636232708491605, 25.024354523398479 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_74", "COOR_E": 314064.0, "COOR_N": 2769290.0, "N1": 74, "X": 314064, "Y": 2769294, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.634797693548578, 25.030463446717238 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_75", "COOR_E": 314632.0, "COOR_N": 2768730.0, "N1": 75, "X": 314632, "Y": 2768734, "TNAME": "南港區", "TOWN": "南港區" }, "geometry": { "type": "Point", "coordinates": [ 121.640399499620472, 25.025383869558635 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_0", "COOR_E": 0.0, "COOR_N": 0.0, "N1": 0, "X": 0, "Y": 0, "TNAME": "士林區", "TOWN": "24" }, "geometry": { "type": "Point", "coordinates": [ 121.534138444094992, 25.133232153675134 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_76", "COOR_E": 307322.0, "COOR_N": 2769060.0, "N1": 76, "X": 307322, "Y": 2769056, "TNAME": "信義區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.567984203721508, 25.028584928402804 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_77", "COOR_E": 307080.0, "COOR_N": 2769140.0, "N1": 77, "X": 307080, "Y": 2769135, "TNAME": "信義區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.5655896191153, 25.029307253575698 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_78", "COOR_E": 307189.0, "COOR_N": 2769800.0, "N1": 78, "X": 307189, "Y": 2769800, "TNAME": "信義區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.566697202185154, 25.0353065710488 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_79", "COOR_E": 307144.0, "COOR_N": 2769250.0, "N1": 79, "X": 307144, "Y": 2769246, "TNAME": "信義區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.566228360113172, 25.030306917541775 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_80", "COOR_E": 307246.0, "COOR_N": 2769210.0, "N1": 80, "X": 307246, "Y": 2769212, "TNAME": "信義區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.567237628673126, 25.02999612489111 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_81", "COOR_E": 307135.0, "COOR_N": 2769190.0, "N1": 81, "X": 307135, "Y": 2769193, "TNAME": "信義區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.566136988982009, 25.029828788100193 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_82", "COOR_E": 307076.0, "COOR_N": 2769200.0, "N1": 82, "X": 307076, "Y": 2769195, "TNAME": "信義區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.565552465669427, 25.029849067203109 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_83", "COOR_E": 307237.0, "COOR_N": 2769020.0, "N1": 83, "X": 307237, "Y": 2769023, "TNAME": "信義區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.567140615324917, 25.02829022700185 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_84", "COOR_E": 307331.0, "COOR_N": 2769020.0, "N1": 84, "X": 307331, "Y": 2769016, "TNAME": "信義區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.568071718888987, 25.028223479375846 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_85", "COOR_E": 307434.0, "COOR_N": 2768880.0, "N1": 85, "X": 307434, "Y": 2768879, "TNAME": "信義區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.56908658925731, 25.026982782190991 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_86", "COOR_E": 307460.0, "COOR_N": 2768760.0, "N1": 86, "X": 307460, "Y": 2768760, "TNAME": "信義區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.569339253810398, 25.025907498616547 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_87", "COOR_E": 306983.0, "COOR_N": 2768300.0, "N1": 87, "X": 306983, "Y": 2768299, "TNAME": "信義區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.564593990723637, 25.021763728898872 ] } }
+,
+{ "type": "Feature", "properties": { "AREA": 0.0, "PERIMETER": 0.0, "PF_PLOTS_": 0, "PF_PLOTS_I": 0, "PF_ID": "3_88", "COOR_E": 306981.0, "COOR_N": 2768370.0, "N1": 88, "X": 306981, "Y": 2768371, "TNAME": "信義區", "TOWN": null }, "geometry": { "type": "Point", "coordinates": [ 121.564577145531644, 25.022413800386026 ] } }
+
+]
+}

@@ -1,0 +1,136 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2892-8566", "name": "太登休閒事業(股)公司", "display_ad": "奇岩路1號3樓", "poi_addr": "台北市奇岩路1號", "gglon": "121.507197", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.134659" }, "geometry": { "type": "Point", "coordinates": [ 121.507197, 25.134659 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2633-0370", "name": "勝悅國際髮型沙龍", "display_ad": "東湖路84號2樓", "poi_addr": "台北市東湖路84號", "gglon": "121.614651", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.068503" }, "geometry": { "type": "Point", "coordinates": [ 121.614651, 25.068503 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2522-1752", "name": "岱爾夢都國際美容塑身中心", "display_ad": "南京東路2段58號7樓", "poi_addr": "台北市南京東路二段58號", "gglon": "121.529603", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.051936" }, "geometry": { "type": "Point", "coordinates": [ 121.529603, 25.051936 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2502-5576", "name": "鍾生美麗精緻美容會館", "display_ad": "松江路131號3樓", "poi_addr": "台北市松江路131號", "gglon": "121.53328", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.054251" }, "geometry": { "type": "Point", "coordinates": [ 121.53328, 25.054251 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2883-5537", "name": "文霖美容院", "display_ad": "文林路315號1樓", "poi_addr": "台北市文林路315號", "gglon": "121.525945", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.092185" }, "geometry": { "type": "Point", "coordinates": [ 121.525945, 25.092185 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2895-9959", "name": "統一佳佳(股)公司-北投春天館", "display_ad": "幽雅路18號", "poi_addr": "台北市幽雅路18號", "gglon": "121.513582", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.137637" }, "geometry": { "type": "Point", "coordinates": [ 121.513582, 25.137637 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2581-1616", "name": "皇家綠地理容有限公司", "display_ad": "長安東路1段16號地下1樓", "poi_addr": "台北市長安東路一段16號", "gglon": "121.5234271", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.049269" }, "geometry": { "type": "Point", "coordinates": [ 121.5234271, 25.049269 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2752-6868", "name": "小林美容院", "display_ad": "忠孝東路4段216巷36-1號2樓", "poi_addr": "台北市忠孝東路四段216巷36之1號", "gglon": "121.552731", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.0395929" }, "geometry": { "type": "Point", "coordinates": [ 121.552731, 25.0395929 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2882-2272", "name": "第六感髮型設計名店", "display_ad": "大北路41號1樓", "poi_addr": "台北市大北路41號", "gglon": "121.525923", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.089858" }, "geometry": { "type": "Point", "coordinates": [ 121.525923, 25.089858 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2898-4506", "name": "水美溫泉浴室企業(股)公司", "display_ad": "光明路224號", "poi_addr": "台北市光明路224號", "gglon": "121.5050657", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.1361892" }, "geometry": { "type": "Point", "coordinates": [ 121.5050657, 25.1361892 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2894-6981", "name": "熙格髮型工作室", "display_ad": "中和街251號2樓", "poi_addr": "台北市中和街251號", "gglon": "121.500892", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.139762" }, "geometry": { "type": "Point", "coordinates": [ 121.500892, 25.139762 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2368-5008", "name": "公館女子美容院", "display_ad": "羅斯福路3段281號2樓", "poi_addr": "台北市羅斯福路三段281號", "gglon": "121.531381", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.018002" }, "geometry": { "type": "Point", "coordinates": [ 121.531381, 25.018002 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2234-8927", "name": "如憶髮藝", "display_ad": "木柵路3段115號", "poi_addr": "台北市木柵路三段115號", "gglon": "121.568236", "traffic_in": null, "certificat": "美容美髮業", "gglat": "24.988949" }, "geometry": { "type": "Point", "coordinates": [ 121.568236, 24.988949 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2502-9035", "name": "風采美容院", "display_ad": "錦州街374號", "poi_addr": "台北市錦州街374號", "gglon": "121.54021", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.060109" }, "geometry": { "type": "Point", "coordinates": [ 121.54021, 25.060109 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2835-3998", "name": "依妮國際事業有限公司天母分公司", "display_ad": "忠誠路2段40巷22號1樓", "poi_addr": "台北市忠誠路二段40巷22號", "gglon": "121.529192", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.11036" }, "geometry": { "type": "Point", "coordinates": [ 121.529192, 25.11036 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2882-9538", "name": "汎芙國際美容機構士林店", "display_ad": "美德街32號1樓", "poi_addr": "台北市美德街32號", "gglon": "121.525411", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.094646" }, "geometry": { "type": "Point", "coordinates": [ 121.525411, 25.094646 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2311-0716 2311-4716", "name": "HIT造型沙龍西門總店", "display_ad": "漢口街2段55號2樓", "poi_addr": "台北市漢口街二段55號", "gglon": "121.506155", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.046086" }, "geometry": { "type": "Point", "coordinates": [ 121.506155, 25.046086 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2759-8450", "name": "曼都詠順店", "display_ad": "福德街250號", "poi_addr": "台北市福德街250號", "gglon": "121.585326", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.038759" }, "geometry": { "type": "Point", "coordinates": [ 121.585326, 25.038759 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2507-2662 2792-2593", "name": "瑪儷髮藝", "display_ad": "南京東路3段129號2樓", "poi_addr": "台北市南京東路三段129號", "gglon": "121.540327", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.0521759" }, "geometry": { "type": "Point", "coordinates": [ 121.540327, 25.0521759 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2351-3650", "name": "亞禮亞詩", "display_ad": "永康街7-2號2樓", "poi_addr": "台北市永康街7之2號", "gglon": "121.529904", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.033071" }, "geometry": { "type": "Point", "coordinates": [ 121.529904, 25.033071 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2307-5955", "name": "喜田美髮美容", "display_ad": "東園街146號", "poi_addr": "台北市東園街146號", "gglon": "121.497544", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.023409" }, "geometry": { "type": "Point", "coordinates": [ 121.497544, 25.023409 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2766-4199", "name": "小林髮廊金緻店", "display_ad": "新東街1巷1號1樓", "poi_addr": "台北市新東街1巷1號", "gglon": "121.565858", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.057401" }, "geometry": { "type": "Point", "coordinates": [ 121.565858, 25.057401 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2657-6810", "name": "小林髮廊-凱旋店", "display_ad": "內湖路1段737巷58號", "poi_addr": "台北市內湖路一段737巷58號", "gglon": "121.578979", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.080783" }, "geometry": { "type": "Point", "coordinates": [ 121.578979, 25.080783 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2523-9977", "name": "彭村梅美容SPA", "display_ad": "南京東路1段21-1號1樓", "poi_addr": "台北市南京東路一段21之1號", "gglon": "121.524031", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.052379" }, "geometry": { "type": "Point", "coordinates": [ 121.524031, 25.052379 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2504-0353", "name": "榮星髮廊", "display_ad": "民權東路3段27號1樓", "poi_addr": "台北市民權東路三段27號", "gglon": "121.541858", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.0625719" }, "geometry": { "type": "Point", "coordinates": [ 121.541858, 25.0625719 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2812-1191", "name": "尚越髮型美容院", "display_ad": "延平北路5段275號", "poi_addr": "台北市延平北路五段275號", "gglon": "121.509539", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.085395" }, "geometry": { "type": "Point", "coordinates": [ 121.509539, 25.085395 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2546-3966", "name": "優質女人企業股份有限公司民生分公司", "display_ad": "民生東路3段113巷25弄41號", "poi_addr": "台北市民生東路三段113巷25弄41號", "gglon": "121.547348", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.059235" }, "geometry": { "type": "Point", "coordinates": [ 121.547348, 25.059235 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2336-2986", "name": "吉星美髮院", "display_ad": "中華路2段140號", "poi_addr": "台北市中華路二段140號", "gglon": "121.503989", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.030645" }, "geometry": { "type": "Point", "coordinates": [ 121.503989, 25.030645 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2772-9883", "name": "真女人美容美體機構", "display_ad": "忠孝東路4段177號9樓", "poi_addr": "台北市忠孝東路四段177號", "gglon": "121.550626", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.041724" }, "geometry": { "type": "Point", "coordinates": [ 121.550626, 25.041724 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2712-5288", "name": "台灣施舒雅美容世界股份有限公司", "display_ad": "慶城街24-1號", "poi_addr": "台北市慶城街24之1號", "gglon": "121.545854", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.053741" }, "geometry": { "type": "Point", "coordinates": [ 121.545854, 25.053741 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2547-3188", "name": "紅之造型美容美髮名店", "display_ad": "敦化北路155巷15號2樓", "poi_addr": "台北市敦化北路155巷15號", "gglon": "121.550748", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.054166" }, "geometry": { "type": "Point", "coordinates": [ 121.550748, 25.054166 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2716-9185", "name": "妙發髮廊", "display_ad": "敦化北路222巷28號1F", "poi_addr": "台北市敦化北路222巷28號", "gglon": "121.547389", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.0597" }, "geometry": { "type": "Point", "coordinates": [ 121.547389, 25.0597 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2760-3444", "name": "盛悅髮型名店", "display_ad": "南京東路5段58號1F", "poi_addr": "台北市南京東路五段58號", "gglon": "121.560476", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.051284" }, "geometry": { "type": "Point", "coordinates": [ 121.560476, 25.051284 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2338-0345", "name": "汎芙國際美容機構-康定店", "display_ad": "康定路215號1樓", "poi_addr": "台北市康定路215號", "gglon": "121.501473", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.035742" }, "geometry": { "type": "Point", "coordinates": [ 121.501473, 25.035742 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2596-7677", "name": "名留女子美容院", "display_ad": "農安街18號2樓", "poi_addr": "台北市農安街18號", "gglon": "121.524665", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.064835" }, "geometry": { "type": "Point", "coordinates": [ 121.524665, 25.064835 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2717-1528", "name": "卡羅美容有限公司", "display_ad": "敦化北路222巷11-2號", "poi_addr": "台北市敦化北路222巷11之2號", "gglon": "121.548424", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.059417" }, "geometry": { "type": "Point", "coordinates": [ 121.548424, 25.059417 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2627-0107", "name": "藝苑造型沙龍", "display_ad": "港墘路78號1樓", "poi_addr": "台北市港墘路78號", "gglon": "121.577759", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.0808999" }, "geometry": { "type": "Point", "coordinates": [ 121.577759, 25.0808999 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "8369-1088", "name": "曼都髮型師大店", "display_ad": "師大路87號2樓", "poi_addr": "台北市師大路87號", "gglon": "121.528471", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.023193" }, "geometry": { "type": "Point", "coordinates": [ 121.528471, 25.023193 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2835-0217", "name": "詩威特士林文林店", "display_ad": "文林路452號1樓", "poi_addr": "台北市文林路452號", "gglon": "121.52463", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.095451" }, "geometry": { "type": "Point", "coordinates": [ 121.52463, 25.095451 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2739-9236", "name": "富暘髮廊", "display_ad": "和平東路3段288號", "poi_addr": "台北市和平東路三段288號", "gglon": "121.556054", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.0208339" }, "geometry": { "type": "Point", "coordinates": [ 121.556054, 25.0208339 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "5550-8888", "name": "緹力士健康事業股份有限公司 大直分公司", "display_ad": "樂群三路218號5樓", "poi_addr": "台北市樂群三路218號", "gglon": "121.5580389", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.0824465" }, "geometry": { "type": "Point", "coordinates": [ 121.5580389, 25.0824465 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2579-3166", "name": "優質女人企業股份有限公司八德分公司", "display_ad": "八德路3段12巷16弄19號1樓", "poi_addr": "台北市八德路三段12巷16弄19號", "gglon": "121.549877", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.047043" }, "geometry": { "type": "Point", "coordinates": [ 121.549877, 25.047043 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2508-1769", "name": "名留集團-名揚店", "display_ad": "農安街261號", "poi_addr": "台北市農安街261號", "gglon": "121.53558", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.0647949" }, "geometry": { "type": "Point", "coordinates": [ 121.53558, 25.0647949 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2351-0496", "name": "二個女子髮型工作室", "display_ad": "南昌路1段155號2樓", "poi_addr": "台北市南昌路一段155號", "gglon": "121.518784", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.029323" }, "geometry": { "type": "Point", "coordinates": [ 121.518784, 25.029323 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2511-0082", "name": "昭蓮鳳美容院", "display_ad": "南京東路1段10號2樓", "poi_addr": "台北市南京東路一段10號", "gglon": "121.523138", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.052008" }, "geometry": { "type": "Point", "coordinates": [ 121.523138, 25.052008 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2721-3450", "name": "菲力克髮藝彩妝店", "display_ad": "復興南路1段142號", "poi_addr": "台北市復興南路一段142號", "gglon": "121.543554", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.042581" }, "geometry": { "type": "Point", "coordinates": [ 121.543554, 25.042581 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2768-0203", "name": "絲脈創藝髮型名店", "display_ad": "忠孝東路5段43號", "poi_addr": "台北市忠孝東路五段43號", "gglon": "121.566227", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.0415159" }, "geometry": { "type": "Point", "coordinates": [ 121.566227, 25.0415159 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2794-6444", "name": "三剪髮型工作室", "display_ad": "成功路4段30巷30號2F", "poi_addr": "台北市成功路四段30巷30號", "gglon": "121.5919898", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.0826256" }, "geometry": { "type": "Point", "coordinates": [ 121.5919898, 25.0826256 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "6610-7888", "name": "髮首造型美髮名店", "display_ad": "文林路332號1樓", "poi_addr": "台北市文林路332號", "gglon": "121.525906", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.092614" }, "geometry": { "type": "Point", "coordinates": [ 121.525906, 25.092614 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2707-1040", "name": "曼嘟美容院", "display_ad": "信義路4段56號1樓", "poi_addr": "台北市信義路四段56號", "gglon": "121.545429", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.033121" }, "geometry": { "type": "Point", "coordinates": [ 121.545429, 25.033121 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2523-2003", "name": "DAVID JOHN HAIR MODE", "display_ad": "南京西路11號3樓", "poi_addr": "台北市南京西路11號", "gglon": "121.521116", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.052652" }, "geometry": { "type": "Point", "coordinates": [ 121.521116, 25.052652 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2365-6611", "name": "優活國際有限公司", "display_ad": "羅斯福路3段234之1號1樓", "poi_addr": "台北市羅斯福路三段234之1號", "gglon": "121.530264", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.018417" }, "geometry": { "type": "Point", "coordinates": [ 121.530264, 25.018417 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2772-3373", "name": "mod's hair", "display_ad": "大安路1段80號2樓", "poi_addr": "台北市大安路一段80號", "gglon": "121.545965", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.0411609" }, "geometry": { "type": "Point", "coordinates": [ 121.545965, 25.0411609 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2759-3737", "name": "金色髮國專業造型", "display_ad": "信義路6段50號1樓", "poi_addr": "台北市信義路六段50號", "gglon": "121.576258", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.034569" }, "geometry": { "type": "Point", "coordinates": [ 121.576258, 25.034569 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2871-1515", "name": "白喬治美容院", "display_ad": "天母東路14號1樓", "poi_addr": "台北市天母東路14號", "gglon": "121.531919", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.117949" }, "geometry": { "type": "Point", "coordinates": [ 121.531919, 25.117949 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2306-6968", "name": "曼都吉祥店", "display_ad": "康定路239號2樓", "poi_addr": "台北市康定路239號", "gglon": "121.501307", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.035046" }, "geometry": { "type": "Point", "coordinates": [ 121.501307, 25.035046 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2713-7788", "name": "Bodhi SPA 身菩提", "display_ad": "敦化北路155巷8號", "poi_addr": "台北市敦化北路155巷8號", "gglon": "121.5505", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.05443" }, "geometry": { "type": "Point", "coordinates": [ 121.5505, 25.05443 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2389-9357", "name": "歐洲庭園美容事業集團", "display_ad": "漢口街1段33號2樓", "poi_addr": "台北市漢口街一段33號", "gglon": "121.513606", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.045294" }, "geometry": { "type": "Point", "coordinates": [ 121.513606, 25.045294 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2823-8979", "name": "依琳芳香生活館", "display_ad": "東華街1段50號", "poi_addr": "台北市東華街一段50號", "gglon": "121.519762", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.10891" }, "geometry": { "type": "Point", "coordinates": [ 121.519762, 25.10891 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2345-8698", "name": "王俐人髮型公司永春店", "display_ad": "忠孝東路5段366號2樓", "poi_addr": "台北市忠孝東路五段366號", "gglon": "121.573814", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.04072" }, "geometry": { "type": "Point", "coordinates": [ 121.573814, 25.04072 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2831-5269", "name": "好彩頭國際理剪燙美容彩妝專業造型設計名店", "display_ad": "德行東路273號1樓", "poi_addr": "台北市德行東路273號", "gglon": "121.535467", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.110077" }, "geometry": { "type": "Point", "coordinates": [ 121.535467, 25.110077 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2361-3698", "name": "汎芙國際美容機構(成都店)", "display_ad": "成都路52號", "poi_addr": "台北市成都路52號", "gglon": "121.506079", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.042612" }, "geometry": { "type": "Point", "coordinates": [ 121.506079, 25.042612 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2345-8038", "name": "小林髮廊松仁店", "display_ad": "松仁路251號", "poi_addr": "台北市松仁路251號", "gglon": "121.569109", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.0256099" }, "geometry": { "type": "Point", "coordinates": [ 121.569109, 25.0256099 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2834-8743", "name": "髮典兒整體造型養髮坊", "display_ad": "德行東路51號", "poi_addr": "台北市德行東路51號", "gglon": "121.526633", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.107213" }, "geometry": { "type": "Point", "coordinates": [ 121.526633, 25.107213 ] } }
+,
+{ "type": "Feature", "properties": { "ggstat": "OK", "tel": "2826-1233", "name": "登琪爾養生莊所(股)有限公司", "display_ad": "振興街1號B1.2", "poi_addr": "台北市振興街1號", "gglon": "121.521766", "traffic_in": null, "certificat": "美容美髮業", "gglat": "25.1188029" }, "geometry": { "type": "Point", "coordinates": [ 121.521766, 25.1188029 ] } }
+
+]
+}

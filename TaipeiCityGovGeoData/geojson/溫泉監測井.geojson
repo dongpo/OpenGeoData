@@ -1,0 +1,66 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "WELLNO": "TB-MW-1", "HAS_NO": null, "X": 302057.505, "Y": 2782301.325, "Z": 182.0, "DEPTH": 89, "LOCATION": "行義橋西方公路南側", "YEAR": "96", "W_Q_FILE": "No1", "WELL_PIC": "TB-MW-1" }, "geometry": { "type": "Point", "coordinates": [ 121.524553092941062, 25.146478254721409 ] } }
+,
+{ "type": "Feature", "properties": { "WELLNO": "TB-MW-2", "HAS_NO": null, "X": 302560.685, "Y": 2781582.856, "Z": 145.0, "DEPTH": 70, "LOCATION": "北投區行義段一小段", "YEAR": "96", "W_Q_FILE": "No2", "WELL_PIC": null }, "geometry": { "type": "Point", "coordinates": [ 121.529484355271379, 25.140005699816736 ] } }
+,
+{ "type": "Feature", "properties": { "WELLNO": "TB-MW-3", "HAS_NO": null, "X": 301516.168, "Y": 2781935.47, "Z": 123.0, "DEPTH": 110, "LOCATION": "大磺嘴西南方公路北側", "YEAR": null, "W_Q_FILE": null, "WELL_PIC": "TB-MW-3" }, "geometry": { "type": "Point", "coordinates": [ 121.519173326837233, 25.143193001381775 ] } }
+,
+{ "type": "Feature", "properties": { "WELLNO": "TB-MW-4", "HAS_NO": null, "X": 300539.762, "Y": 2781283.101, "Z": 23.0, "DEPTH": 50, "LOCATION": "地熱谷西側公路", "YEAR": null, "W_Q_FILE": null, "WELL_PIC": "TB-MW-4" }, "geometry": { "type": "Point", "coordinates": [ 121.509458999406064, 25.137340434182921 ] } }
+,
+{ "type": "Feature", "properties": { "WELLNO": "TB-MW-5", "HAS_NO": null, "X": 299929.178, "Y": 2781615.462, "Z": 24.0, "DEPTH": 40, "LOCATION": "珠海路復興公園口左邊", "YEAR": null, "W_Q_FILE": null, "WELL_PIC": "TB-MW-5" }, "geometry": { "type": "Point", "coordinates": [ 121.503421603368025, 25.14035839456767 ] } }
+,
+{ "type": "Feature", "properties": { "WELLNO": "TB-MW-6", "HAS_NO": null, "X": 302636.181, "Y": 2781103.595, "Z": 125.0, "DEPTH": 110, "LOCATION": "青溪公園內", "YEAR": "96", "W_Q_FILE": "No6", "WELL_PIC": "TB-MW-6" }, "geometry": { "type": "Point", "coordinates": [ 121.530249048293115, 25.135642469811408 ] } }
+,
+{ "type": "Feature", "properties": { "WELLNO": "TB-MW-7", "HAS_NO": null, "X": 300862.953, "Y": 2781880.646, "Z": 64.0, "DEPTH": 70, "LOCATION": "郵政訓練所東北無名溪岸公園內", "YEAR": null, "W_Q_FILE": null, "WELL_PIC": null }, "geometry": { "type": "Point", "coordinates": [ 121.512605498362831, 25.142701228007706 ] } }
+,
+{ "type": "Feature", "properties": { "WELLNO": "TB-MW-8", "HAS_NO": null, "X": 304452.227, "Y": 2782928.496, "Z": 418.0, "DEPTH": 120, "LOCATION": "前山公園內", "YEAR": null, "W_Q_FILE": null, "WELL_PIC": null }, "geometry": { "type": "Point", "coordinates": [ 121.548411740283996, 25.152016267646886 ] } }
+,
+{ "type": "Feature", "properties": { "WELLNO": "TB-MW-9", "HAS_NO": null, "X": 303501.709, "Y": 2783664.413, "Z": 418.0, "DEPTH": 130, "LOCATION": "小隱潭西南陽明公園停車場內", "YEAR": "96", "W_Q_FILE": "No9", "WELL_PIC": null }, "geometry": { "type": "Point", "coordinates": [ 121.539604513431939, 25.158927876936321 ] } }
+,
+{ "type": "Feature", "properties": { "WELLNO": "TB-MW-10", "HAS_NO": null, "X": 304026.84448, "Y": 2784190.3183, "Z": 607.0, "DEPTH": 100, "LOCATION": "竹子湖氣象測站西北陽明書屋入口處", "YEAR": null, "W_Q_FILE": null, "WELL_PIC": null }, "geometry": { "type": "Point", "coordinates": [ 121.544157789546531, 25.163461293733867 ] } }
+,
+{ "type": "Feature", "properties": { "WELLNO": "TB-MW-11", "HAS_NO": null, "X": 303883.13349, "Y": 2786007.81022, "Z": 787.0, "DEPTH": 150, "LOCATION": "小油坑遊客服務站西北陽金公路七星山站牌旁", "YEAR": null, "W_Q_FILE": null, "WELL_PIC": null }, "geometry": { "type": "Point", "coordinates": [ 121.542811905883212, 25.179869978804096 ] } }
+,
+{ "type": "Feature", "properties": { "WELLNO": "TB-MW-12", "HAS_NO": null, "X": 301213.62889, "Y": 2781086.3056, "Z": 33.0, "DEPTH": 100, "LOCATION": "唭哩岸山西側崇仰路福壽橋西側", "YEAR": null, "W_Q_FILE": null, "WELL_PIC": null }, "geometry": { "type": "Point", "coordinates": [ 121.51274836377668, 25.12703722714247 ] } }
+,
+{ "type": "Feature", "properties": { "WELLNO": "TB-MW-13", "HAS_NO": null, "X": 302264.22997, "Y": 2780561.61509, "Z": 112.0, "DEPTH": 200, "LOCATION": "鳥尖連山東南行義路櫻花崗西側", "YEAR": null, "W_Q_FILE": null, "WELL_PIC": null }, "geometry": { "type": "Point", "coordinates": [ 121.526538797370776, 25.130762497938328 ] } }
+,
+{ "type": "Feature", "properties": { "WELLNO": "TB-MW-14", "HAS_NO": null, "X": 301981.68277, "Y": 2781433.83239, "Z": 250.0, "DEPTH": 300, "LOCATION": "磺溪山西側陽明山第一公墓內", "YEAR": null, "W_Q_FILE": null, "WELL_PIC": null }, "geometry": { "type": "Point", "coordinates": [ 121.523587635763121, 25.138708621821777 ] } }
+,
+{ "type": "Feature", "properties": { "WELLNO": "TB-MW-15", "HAS_NO": null, "X": 303053.81971, "Y": 2781454.69448, "Z": 160.0, "DEPTH": 100, "LOCATION": "北投猴洞產業到路西側", "YEAR": null, "W_Q_FILE": null, "WELL_PIC": null }, "geometry": { "type": "Point", "coordinates": [ 121.534398418425795, 25.138796425155363 ] } }
+,
+{ "type": "Feature", "properties": { "WELLNO": "TB-MW-16", "HAS_NO": null, "X": 303493.03606, "Y": 2781992.31829, "Z": 315.0, "DEPTH": 200, "LOCATION": "紗帽路上半嶺苗圃", "YEAR": null, "W_Q_FILE": null, "WELL_PIC": null }, "geometry": { "type": "Point", "coordinates": [ 121.538783486454676, 25.143637529211844 ] } }
+,
+{ "type": "Feature", "properties": { "WELLNO": "TB-MW-17", "HAS_NO": null, "X": 304562.85521, "Y": 2782254.66455, "Z": 370.0, "DEPTH": 200, "LOCATION": "陽明路福壽橋西側路邊", "YEAR": null, "W_Q_FILE": null, "WELL_PIC": null }, "geometry": { "type": "Point", "coordinates": [ 121.549396352051502, 25.14596392555605 ] } }
+,
+{ "type": "Feature", "properties": { "WELLNO": "TB-MW-18", "HAS_NO": null, "X": 303091.43218, "Y": 2782720.05113, "Z": 415.0, "DEPTH": 150, "LOCATION": "紗帽路西側七窟溫泉旁", "YEAR": null, "W_Q_FILE": null, "WELL_PIC": null }, "geometry": { "type": "Point", "coordinates": [ 121.534825092867294, 25.15022425133618 ] } }
+,
+{ "type": "Feature", "properties": { "WELLNO": "TB-MW-19", "HAS_NO": null, "X": 304701.80437, "Y": 2782712.31625, "Z": 555.0, "DEPTH": 300, "LOCATION": "菁山露營區附近", "YEAR": null, "W_Q_FILE": null, "WELL_PIC": null }, "geometry": { "type": "Point", "coordinates": [ 121.558369264591931, 25.153983278773122 ] } }
+,
+{ "type": "Feature", "properties": { "WELLNO": "TB-MW-20", "HAS_NO": null, "X": 303420.46708, "Y": 2783165.40571, "Z": 415.0, "DEPTH": 100, "LOCATION": "六窟溫泉北方停車場附近", "YEAR": null, "W_Q_FILE": null, "WELL_PIC": null }, "geometry": { "type": "Point", "coordinates": [ 121.538105848855849, 25.154229754410345 ] } }
+,
+{ "type": "Feature", "properties": { "WELLNO": "TB-MW-21", "HAS_NO": null, "X": 304070.80818, "Y": 2783173.2965, "Z": 510.0, "DEPTH": 250, "LOCATION": "陽明山第二停車場附近", "YEAR": null, "W_Q_FILE": null, "WELL_PIC": null }, "geometry": { "type": "Point", "coordinates": [ 121.54455345310285, 25.15427841591368 ] } }
+,
+{ "type": "Feature", "properties": { "WELLNO": "TB-MW-22", "HAS_NO": null, "X": 306123.20369, "Y": 2784062.24548, "Z": 720.0, "DEPTH": 300, "LOCATION": "冷水坑服務站南側", "YEAR": null, "W_Q_FILE": null, "WELL_PIC": null }, "geometry": { "type": "Point", "coordinates": [ 121.564953759720098, 25.162227798345935 ] } }
+,
+{ "type": "Feature", "properties": { "WELLNO": "TB-MW-23", "HAS_NO": null, "X": 305870.95148, "Y": 2785059.04755, "Z": 750.0, "DEPTH": 300, "LOCATION": "擎天崗草原區旁", "YEAR": null, "W_Q_FILE": null, "WELL_PIC": null }, "geometry": { "type": "Point", "coordinates": [ 121.573733863803511, 25.166726039999617 ] } }
+,
+{ "type": "Feature", "properties": { "WELLNO": "TB-MW-24", "HAS_NO": null, "X": 305959.12752, "Y": 2784663.48566, "Z": 750.0, "DEPTH": 150, "LOCATION": "冷水坑服務站西北側或公共浴室東南", "YEAR": null, "W_Q_FILE": null, "WELL_PIC": null }, "geometry": { "type": "Point", "coordinates": [ 121.563351958157526, 25.167659675083922 ] } }
+,
+{ "type": "Feature", "properties": { "WELLNO": "TB-MW-25", "HAS_NO": null, "X": 303546.0482, "Y": 2784785.90791, "Z": 659.0, "DEPTH": 300, "LOCATION": "湖田國小操場附近", "YEAR": null, "W_Q_FILE": null, "WELL_PIC": null }, "geometry": { "type": "Point", "coordinates": [ 121.539419968867193, 25.168850245367281 ] } }
+,
+{ "type": "Feature", "properties": { "WELLNO": "TB-MW-26", "HAS_NO": null, "X": 305908.10323, "Y": 2785940.23345, "Z": 685.0, "DEPTH": 100, "LOCATION": "馬槽橋左側橋下方", "YEAR": null, "W_Q_FILE": null, "WELL_PIC": null }, "geometry": { "type": "Point", "coordinates": [ 121.562898908655868, 25.17919009296067 ] } }
+,
+{ "type": "Feature", "properties": { "WELLNO": "TB-MW-27", "HAS_NO": null, "X": 306146.27634, "Y": 2785805.08665, "Z": 415.0, "DEPTH": 200, "LOCATION": "下七股支流陽金公路南側谷地", "YEAR": null, "W_Q_FILE": null, "WELL_PIC": null }, "geometry": { "type": "Point", "coordinates": [ 121.578746305818896, 25.177837937430219 ] } }
+,
+{ "type": "Feature", "properties": { "WELLNO": "TB-MW-28", "HAS_NO": null, "X": 303475.84653, "Y": 2785365.91759, "Z": 655.0, "DEPTH": 250, "LOCATION": "鹿角坑第三加壓站旁", "YEAR": null, "W_Q_FILE": null, "WELL_PIC": null }, "geometry": { "type": "Point", "coordinates": [ 121.556162521884318, 25.183539906662478 ] } }
+,
+{ "type": "Feature", "properties": { "WELLNO": "TB-MW-29", "HAS_NO": null, "X": 306467.34956, "Y": 2786563.0857899999246, "Z": 425.0, "DEPTH": 200, "LOCATION": "馬槽溪下游翠林橋附近", "YEAR": null, "W_Q_FILE": null, "WELL_PIC": null }, "geometry": { "type": "Point", "coordinates": [ 121.568470819224046, 25.184793093674202 ] } }
+,
+{ "type": "Feature", "properties": { "WELLNO": "TB-MW-30", "HAS_NO": null, "X": 307123.26655, "Y": 2787554.34501, "Z": 225.0, "DEPTH": 200, "LOCATION": "清水溪與北磺溪交會處附近", "YEAR": null, "W_Q_FILE": null, "WELL_PIC": null }, "geometry": { "type": "Point", "coordinates": [ 121.575021171491031, 25.193714478515279 ] } }
+
+]
+}

@@ -1,0 +1,30 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "fax": "2572-0045", "tel": "2592-0055", "addr": "臺北市大龍街51號", "gglon": "121.5161459", "ggstat": "OK", "zipcode": "10361", "url": "http:\/\/www.taipeidt.com.tw", "gglat": "25.0647693", "name": "大同運動中心" }, "geometry": { "type": "Point", "coordinates": [ 121.5161459, 25.0647693 ] } }
+,
+{ "type": "Feature", "properties": { "fax": "2880-5966", "tel": "2880-6066", "addr": "臺北市士林區士商路一號", "gglon": "121.521411", "ggstat": "OK", "zipcode": "11168", "url": "http:\/\/www.slsc-taipei.org\/big5\/", "gglat": "25.089668", "name": "士林運動中心" }, "geometry": { "type": "Point", "coordinates": [ 121.521411, 25.089668 ] } }
+,
+{ "type": "Feature", "properties": { "fax": "2820-6070", "tel": "2820-2880", "addr": "臺北市北投區石牌路1段39巷100號", "gglon": "121.509768", "ggstat": "OK", "zipcode": "11271", "url": "http:\/\/btsc.org", "gglat": "25.1164729", "name": "北投運動中心" }, "geometry": { "type": "Point", "coordinates": [ 121.509768, 25.1164729 ] } }
+,
+{ "type": "Feature", "properties": { "fax": "2560-4894", "tel": "2581-1060", "addr": "臺北市中山區中山北路2段44巷2號", "gglon": "121.5213932", "ggstat": "OK", "zipcode": "10412", "url": "http:\/\/cssc.cyc.org.tw", "gglat": "25.0548895", "name": "中山運動中心" }, "geometry": { "type": "Point", "coordinates": [ 121.5213932, 25.0548895 ] } }
+,
+{ "type": "Feature", "properties": { "fax": "2653-8311", "tel": "2653-2279", "addr": "臺北市南港區玉成街69號", "gglon": "121.5818399", "ggstat": "OK", "zipcode": "11577", "url": "http:\/\/ngsc.cyc.org.tw", "gglat": "25.048938", "name": "南港運動中心" }, "geometry": { "type": "Point", "coordinates": [ 121.5818399, 25.048938 ] } }
+,
+{ "type": "Feature", "properties": { "fax": "87861911", "tel": "8786-1911", "addr": "臺北市信義區松勤街100號", "gglon": "121.5666793", "ggstat": "OK", "zipcode": "11047", "url": "http:\/\/xysc.cyc.org.tw", "gglat": "25.0318684", "name": "信義運動中心" }, "geometry": { "type": "Point", "coordinates": [ 121.5666793, 25.0318684 ] } }
+,
+{ "type": "Feature", "properties": { "fax": "22308676", "tel": "2230-8268", "addr": "臺北市文山區興隆路3段222號", "gglon": "121.559673", "ggstat": "OK", "zipcode": "11698", "url": "http:\/\/wssc.cyc.org.tw", "gglat": "24.9970166", "name": "文山運動中心" }, "geometry": { "type": "Point", "coordinates": [ 121.559673, 24.9970166 ] } }
+,
+{ "type": "Feature", "properties": { "fax": "3322-5019", "tel": "3322-5016", "addr": "臺北市中正區信義路1段1號", "gglon": "121.518896", "ggstat": "OK", "zipcode": "10048", "url": "http:\/\/www.jjsports.com.tw", "gglat": "25.038569", "name": "中正運動中心" }, "geometry": { "type": "Point", "coordinates": [ 121.518896, 25.038569 ] } }
+,
+{ "type": "Feature", "properties": { "fax": "2657-9782", "tel": "2627-7776", "addr": "臺北市內湖區洲子街12號", "gglon": "121.5751539", "ggstat": "OK", "zipcode": "11493", "url": "http:\/\/www.nhsports.com.tw\/", "gglat": "25.0782334", "name": "內湖運動中心" }, "geometry": { "type": "Point", "coordinates": [ 121.5751539, 25.0782334 ] } }
+,
+{ "type": "Feature", "properties": { "fax": "2381-8667", "tel": "2381-8878", "addr": "臺北市萬華區西寧南路6之1號", "gglon": "121.5067531", "ggstat": "OK", "zipcode": "10841", "url": "http:\/\/whsc.cyc.org.tw", "gglat": "25.0474081", "name": "萬華運動中心" }, "geometry": { "type": "Point", "coordinates": [ 121.5067531, 25.0474081 ] } }
+,
+{ "type": "Feature", "properties": { "fax": "2377-0331", "tel": "2377-0300", "addr": "臺北市辛亥路3段55號", "gglon": "121.545636", "ggstat": "OK", "zipcode": "10671", "url": "http:\/\/dasc.cyc.org.tw", "gglat": "25.0207769", "name": "大安運動中心" }, "geometry": { "type": "Point", "coordinates": [ 121.545636, 25.0207769 ] } }
+,
+{ "type": "Feature", "properties": { "fax": "25798203", "tel": "6617-6789", "addr": "臺北市敦化北路1號", "gglon": "121.550231", "ggstat": "OK", "zipcode": "10549", "url": "http:\/\/www.sssc.com.tw", "gglat": "25.048607", "name": "松山運動中心" }, "geometry": { "type": "Point", "coordinates": [ 121.550231, 25.048607 ] } }
+
+]
+}
